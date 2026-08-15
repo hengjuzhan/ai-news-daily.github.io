@@ -1,9 +1,191 @@
 {
-  "crawledAt": "2026-08-15T12:52:19.590Z",
+  "crawledAt": "2026-08-15T16:34:41.360Z",
   "totalSources": 70,
-  "totalArticles": 29,
+  "totalArticles": 38,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-15T15:46:05.000Z",
+      "metaDescription": "\"Flamingo missiles were used. A good achievement.\"",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.850452526311705,
+      "crawledAt": "2026-08-15T16:33:15.853Z",
+      "id": "30703q",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998029470443726,
+          "index": 1,
+          "word": "Ukraine",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.999692440032959,
+          "index": 4,
+          "word": "Russian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-15T16:34:52.054Z"
+    },
+    {
+      "title": "Chatgpt acting weird",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vp64q7/chatgpt_acting_weird/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-15T15:45:01.000Z",
+      "metaDescription": "Calculating gravitational potential fraction??\n    submitted by    /u/Longjumping-Soft6311  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.7047314896201221,
+      "crawledAt": "2026-08-15T16:34:05.183Z",
+      "id": "wb6zr0",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-08-15T16:34:52.160Z"
+    },
+    {
+      "title": "Mathematical Experiments Are Becoming Abundant Through Human-Machine Teaming",
+      "url": "https://towardsdatascience.com/mathematical-experiments-are-becoming-abundant-through-human-machine-teaming/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-08-15T15:00:00.000Z",
+      "metaDescription": "Two open problems, exact-arithmetic checking and a proof assistant, over a single weekend.\nThe post Mathematical Experiments Are Becoming Abundant Through Human-Machine Teaming appeared first on Towar",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.8983030677423243,
+      "crawledAt": "2026-08-15T16:33:24.401Z",
+      "id": "8u8gkf",
+      "entities": [],
+      "summary": " The post Mathematical Experiments Are Becoming Becoming Abundant Through Human-Machine Teaming appeared first on Towar.",
+      "language": "en",
+      "processed_at": "2026-08-15T16:35:02.653Z"
+    },
+    {
+      "title": "Is there a Ai chatbot without restrictions",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vp4kai/is_there_a_ai_chatbot_without_restrictions/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-15T14:40:14.000Z",
+      "metaDescription": "I want to ask it dirty questions and plan stuff that is deemed deceptive and manipulative (really isn’t but it thinks it is). Grok used to be good but now it has restrictions\n    submitted by    /u/Wh",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3182545538711153,
+      "crawledAt": "2026-08-15T16:34:05.467Z",
+      "id": "gyeozb",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9611210227012634,
+          "index": 4,
+          "word": "Ai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Grok used to be good but now it has restrictions    submitted by    /u/Wh. I want to ask it dirty questions and plan stuff that is deemed deceptive and manipulative.",
+      "language": "en",
+      "processed_at": "2026-08-15T16:35:28.320Z"
+    },
+    {
+      "title": "AGENTCODI: Bringing the Codex workflow directly to Android",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vp4har/agentcodi_bringing_the_codex_workflow_directly_to/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-15T14:36:33.000Z",
+      "metaDescription": "Hello everyone 👋,\n I’d like to introduce a project I’ve been working on over the past few weeks, and also share some of the problems I ran into while trying to make this kind of workflow work properl",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7974731966916989,
+      "crawledAt": "2026-08-15T16:34:04.995Z",
+      "id": "phzqve",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9073624610900879,
+          "index": 10,
+          "word": "Codex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9931207895278931,
+          "index": 15,
+          "word": "Android",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I’d like to introduce a project I‘ve been working on over the past few weeks, and share some of the problems I ran into.",
+      "language": "en",
+      "processed_at": "2026-08-15T16:35:40.108Z"
+    },
+    {
+      "title": "How to Shine as a Data Scientist in the Vibe Coding Era",
+      "url": "https://towardsdatascience.com/how-to-shine-in-the-vibe-coding-era-as-a-data-scientist/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-08-15T13:00:00.000Z",
+      "metaDescription": "Here's how to be the Data Scientist who thrives in a world where coding is a commodity. \nThe post How to Shine as a Data Scientist in the Vibe Coding Era appeared first on Towards Data Science.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4117054165763737,
+      "crawledAt": "2026-08-15T16:33:24.652Z",
+      "id": "uni8qj",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9542289972305298,
+          "index": 10,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9736207723617554,
+          "index": 12,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9645722508430481,
+          "index": 14,
+          "word": "Era",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The post How to Shine as a Data Scientist in the Vibe Coding Era appeared first on Towards Data Science.",
+      "language": "en",
+      "processed_at": "2026-08-15T16:35:50.730Z"
+    },
     {
       "title": "Bridging the Probabilistic Deterministic Divide: Architecting Asynchronous Multi-Threaded Agentic…",
       "url": "https://pub.towardsai.net/bridging-the-probabilistic-deterministic-divide-architecting-asynchronous-multi-threaded-agentic-77abdd5cede8?source=rss----98111c9905da---4",
@@ -67,6 +249,34 @@
       "summary": "Codex can work with your repository, where it can work for your repository. It brings the same AI assistance directly into your local development environment.",
       "language": "en",
       "processed_at": "2026-08-15T12:52:50.990Z"
+    },
+    {
+      "title": "3 AI Agent Patterns Explained Know which pattern owns which job.",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1voz4jd/3_ai_agent_patterns_explained_know_which_pattern/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-15T10:15:09.000Z",
+      "metaDescription": "Three patterns. Most teams know zero.\n Harness. Loop. Graph.\n Each one owns a different job in your AI agent stack 🧠\n Collapse them together and it breaks at scale ⚡\n Know which pattern to reach for ",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9875259525618345,
+      "crawledAt": "2026-08-15T16:34:05.635Z",
+      "id": "tkg0jz",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.906212329864502,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Each one owns a different job in your AI agent stack. Collapse them together and it breaks at scale. It breaks atScale.",
+      "language": "en",
+      "processed_at": "2026-08-15T16:36:00.648Z"
     },
     {
       "title": "Stop Building AI Chatbots — Build These AI Applications Instead",
@@ -584,6 +794,34 @@
       "processed_at": "2026-08-15T04:40:47.750Z"
     },
     {
+      "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vomjgf/chinese_doctor_stuns_maths_world_by_cracking/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-14T23:10:52.000Z",
+      "metaDescription": "submitted by    /u/ThereWas  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.27913215125158447,
+      "crawledAt": "2026-08-15T16:34:04.507Z",
+      "id": "uhk3ik",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.999768078327179,
+          "index": 1,
+          "word": "Chinese",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-08-15T16:36:00.940Z"
+    },
+    {
       "title": "Claude Code MCP Server Configuration: Add Servers, Pick a Stack, Stay Small",
       "url": "https://pub.towardsai.net/claude-code-mcp-server-configuration-add-servers-pick-a-stack-stay-small-41300081dbc7?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -860,6 +1098,25 @@
       "processed_at": "2026-08-15T04:41:44.591Z"
     },
     {
+      "title": "Anthropic gave 3 Claude agents the same task, but secretly gave them conflicting goals. They escalated into turf wars where agents used \"increasingly aggressive self-replicating malware\" as weapons, used disguises, and attempted to kill each other's accounts.",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1voam3u/anthropic_gave_3_claude_agents_the_same_task_but/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-14T15:36:29.000Z",
+      "metaDescription": "Source: https://www.anthropic.com/research/multiagent-systems\n    submitted by    /u/KeanuRave100  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.4009721295130048,
+      "crawledAt": "2026-08-15T16:34:05.977Z",
+      "id": "x9qx1u",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-08-15T16:36:01.264Z"
+    },
+    {
       "title": "\"Vision\" is the current bottleneck imo",
       "url": "https://www.reddit.com/r/singularity/comments/1vo76vn/vision_is_the_current_bottleneck_imo/",
       "source": "r/singularity",
@@ -934,19 +1191,19 @@
       "processed_at": "2026-08-15T04:42:16.478Z"
     }
   ],
-  "processedAt": "2026-08-15T12:53:23.887Z",
+  "processedAt": "2026-08-15T16:36:13.278Z",
   "categories": [
-    "infrastructure",
-    "creative-ai",
     "product-launch",
-    "safety-ethics",
+    "creative-ai",
+    "infrastructure",
     "ai-agents",
+    "safety-ethics",
     "model-release",
     "industry-news",
     "developer-tool"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 5,
-  "dailyArticlesCount": 29,
+  "newArticlesProcessed": 9,
+  "dailyArticlesCount": 38,
   "filterDate": "2026-08-15"
 }
