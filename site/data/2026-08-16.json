@@ -1,9 +1,103 @@
 {
-  "crawledAt": "2026-08-16T16:35:06.155Z",
+  "crawledAt": "2026-08-16T20:31:54.828Z",
   "totalSources": 70,
-  "totalArticles": 42,
+  "totalArticles": 46,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "The Flight Recorder: An End-to-End Guide to Tracing and Observability for AI Agents",
+      "url": "https://pub.towardsai.net/the-flight-recorder-an-end-to-end-guide-to-tracing-and-observability-for-ai-agents-1906c4212826?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-16T20:01:01.000Z",
+      "metaDescription": "You can’t fix what you can’t see. How to instrument, trace, evaluate, and actually improve LLM apps and agents — from your first span to…\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9876905991821581,
+      "crawledAt": "2026-08-16T20:31:00.492Z",
+      "id": "2sqvu8",
+      "entities": [],
+      "summary": " You can’t fix what you can”t see. You can't fix what we can‘t see. You can also improve LLM apps and agents.",
+      "language": "en",
+      "processed_at": "2026-08-16T20:32:11.596Z"
+    },
+    {
+      "title": "Discretion Engineering: Deciding What Your AI Agent Is Allowed to Decide",
+      "url": "https://pub.towardsai.net/discretion-engineering-deciding-what-your-ai-agent-is-allowed-to-decide-7d082e150137?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-16T18:01:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9904515742381117,
+      "crawledAt": "2026-08-16T20:31:00.651Z",
+      "id": "uf7qjp",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-16T20:32:52.667Z"
+    },
+    {
+      "title": "Qwen 3.8 distillations",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq3gig/qwen_38_distillations/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-16T17:44:28.000Z",
+      "metaDescription": "https://x.com/i/status/2088993948983246906\n Not tested by me in any way :)\n    submitted by    /u/jacek2023  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.3260024146257757,
+      "crawledAt": "2026-08-16T20:31:13.858Z",
+      "id": "je75z",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8125600218772888,
+          "index": 1,
+          "word": "Q",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-16T20:32:53.068Z"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-16T16:53:51.000Z",
+      "metaDescription": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.5080595903859759,
+      "crawledAt": "2026-08-16T20:30:23.610Z",
+      "id": "50m9es",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9791535139083862,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "language": "en",
+      "processed_at": "2026-08-16T20:33:34.257Z"
+    },
     {
       "title": "AI Agents Explained in 5 Minutes",
       "url": "https://pub.towardsai.net/ai-agents-explained-in-5-minutes-f1a8ba56def2?source=rss----98111c9905da---4",
@@ -1262,18 +1356,18 @@
       "processed_at": "2026-08-16T08:39:39.162Z"
     }
   ],
-  "processedAt": "2026-08-16T16:38:25.641Z",
+  "processedAt": "2026-08-16T20:33:34.407Z",
   "categories": [
     "ai-agents",
-    "model-release",
     "creative-ai",
+    "model-release",
     "infrastructure",
     "product-launch",
     "research-paper",
     "safety-ethics"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 16,
-  "dailyArticlesCount": 42,
+  "newArticlesProcessed": 4,
+  "dailyArticlesCount": 46,
   "filterDate": "2026-08-16"
 }
