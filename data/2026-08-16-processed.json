@@ -1,9 +1,116 @@
 {
-  "crawledAt": "2026-08-16T08:39:01.710Z",
+  "crawledAt": "2026-08-16T12:53:52.295Z",
   "totalSources": 70,
-  "totalArticles": 23,
+  "totalArticles": 26,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Your KV Cache Is Bigger Than Your Model",
+      "url": "https://pub.towardsai.net/your-kv-cache-is-bigger-than-your-model-59cdf28c1e6b?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-16T12:31:01.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2803032689358929,
+      "crawledAt": "2026-08-16T12:52:56.876Z",
+      "id": "kfd7cn",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-16T12:53:54.303Z"
+    },
+    {
+      "title": "ICDM 2026 Results Waiting Place",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vpv9ct/icdm_2026_results_waiting_place_d/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-16T12:02:18.000Z",
+      "metaDescription": "The results should be out soon.\n Let’s share them, guys.\n From my batch (Applied Track)\n Total 13 submissions:\n - 2 full papers\n - 1 short paper accepted\n Cheers!\n    submitted by    /u/d_edge_sword  ",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.29389989138869516,
+      "crawledAt": "2026-08-16T12:53:14.562Z",
+      "id": "oxx6ss",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.995795488357544,
+          "index": 1,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8783729076385498,
+          "index": 2,
+          "word": "##CD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8669971227645874,
+          "index": 3,
+          "word": "##M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The results should be out soon. The results will be out in the next few weeks. The results are expected to be released soon.",
+      "language": "en",
+      "processed_at": "2026-08-16T12:54:02.989Z"
+    },
+    {
+      "title": "Revisiting the Efficient Channel Attention paper - the central hypothesis isn't quite right",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vptaw9/revisiting_the_efficient_channel_attention_paper/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-16T10:13:44.000Z",
+      "metaDescription": "ECA was positioned as a successor to SE.\n The idea behind ECA is quite simple. Unlike SE which reduces the channel means into a smaller hidden layer, it directly uses a 1d convolution kernel on the ch",
+      "category": "research-paper",
+      "difficulty": 7,
+      "confidence": 0.5592851645442343,
+      "crawledAt": "2026-08-16T12:53:14.191Z",
+      "id": "xfrm8d",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.95090651512146,
+          "index": 5,
+          "word": "E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8993215560913086,
+          "index": 8,
+          "word": "Channel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9041088223457336,
+          "index": 9,
+          "word": "At",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " ECA was positioned as a successor to SE which reduces the channel into a smaller hidden layer. ECA uses a 1d convolution kernel on the ch. ch.",
+      "language": "en",
+      "processed_at": "2026-08-16T12:54:26.576Z"
+    },
     {
       "title": "If you are at the lowest budget, which you can think of.Which hardware would you recommend to run? qwen 3.8 27b oWith like 50 tokens per second. I currently have a RTX 5070 Ti.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vprm64/if_you_are_at_the_lowest_budget_which_you_can/",
@@ -651,17 +758,18 @@
       "processed_at": "2026-08-16T08:39:39.162Z"
     }
   ],
-  "processedAt": "2026-08-16T08:39:39.349Z",
+  "processedAt": "2026-08-16T12:55:21.558Z",
   "categories": [
     "infrastructure",
+    "model-release",
+    "research-paper",
     "creative-ai",
     "product-launch",
     "safety-ethics",
-    "model-release",
     "ai-agents"
   ],
   "processingMethod": "ai-powered",
   "newArticlesProcessed": 3,
-  "dailyArticlesCount": 23,
+  "dailyArticlesCount": 26,
   "filterDate": "2026-08-16"
 }
