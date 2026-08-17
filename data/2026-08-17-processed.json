@@ -1,9 +1,770 @@
 {
-  "crawledAt": "2026-08-17T12:58:59.984Z",
+  "crawledAt": "2026-08-17T16:37:26.508Z",
   "totalSources": 70,
-  "totalArticles": 93,
+  "totalArticles": 119,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Webwright: Why AI Web Agents Should Write Code, Not Click",
+      "url": "https://towardsdatascience.com/webwright-why-ai-web-agents-should-write-code-not-click/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T16:30:00.000Z",
+      "metaDescription": "For years, web agents have worked one click at a time—and often fallen apart on long tasks. Microsoft Research’s Webwright makes a different bet: give the model a terminal and let it write the program",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9658464572392794,
+      "crawledAt": "2026-08-17T16:35:56.395Z",
+      "id": "2dn7qn",
+      "entities": [],
+      "summary": " Microsoft Research's Webwright makes a different bet on the model. Give the model a terminal and let it write the program.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:37:36.618Z"
+    },
+    {
+      "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T16:19:56.000Z",
+      "metaDescription": "Give an autonomous agent a wallet and spending guardrails so it can pay for paywalled APIs, MCP servers, and web content. This post connects OpenClaw to Amazon Bedrock AgentCore payments and the x402 ",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.3405435375660391,
+      "crawledAt": "2026-08-17T16:36:07.034Z",
+      "id": "jh4ukr",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8920192122459412,
+          "index": 3,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9631603956222534,
+          "index": 12,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9768005609512329,
+          "index": 13,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This post connects OpenClaw to Amazon Bedrock AgentCore payments and the x402 x402. This post also connects Open Claw to OpenClow to Amazon's BedrockAgentCore payments.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:37:49.033Z"
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T16:15:12.000Z",
+      "metaDescription": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3610202182070478,
+      "crawledAt": "2026-08-17T16:35:45.454Z",
+      "id": "faz4mv",
+      "entities": [],
+      "summary": " Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:38:00.630Z"
+    },
+    {
+      "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
+      "url": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T16:11:44.000Z",
+      "metaDescription": "A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likely to report the fail",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9856950271321481,
+      "crawledAt": "2026-08-17T16:35:55.084Z",
+      "id": "lylq0",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9772548675537109,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likely to report the fail.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:38:14.432Z"
+    },
+    {
+      "title": "Where Does AI Get the Missing Detail in a Low-Resolution Image?",
+      "url": "https://pub.towardsai.net/where-does-ai-get-the-missing-detail-in-a-low-resolution-image-dc70d4c2a164?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T16:01:02.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.29973537823587965,
+      "crawledAt": "2026-08-17T16:36:24.383Z",
+      "id": "8s55ga",
+      "entities": [],
+      "summary": "Discussion about AI-powered creative content generation and tools.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:38:14.543Z"
+    },
+    {
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T16:00:00.000Z",
+      "metaDescription": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.\nThe post How canvases make agentic ",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.6897664593421989,
+      "crawledAt": "2026-08-17T16:35:43.638Z",
+      "id": "45hbxs",
+      "entities": [],
+      "summary": "The post How canvases make agentic workflows. Here is how to use canvases with your workflows.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:38:23.009Z"
+    },
+    {
+      "title": "Building a Society of One Billion Agents on Four GPUs",
+      "url": "https://levelup.gitconnected.com/building-a-society-of-one-billion-agents-on-four-gpus-ad39928fc449?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T15:30:55.000Z",
+      "metaDescription": "Open Qwen weights, a distilled surrogate, and a runtime that makes zero model calls\nContinue reading on Level Up Coding »",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.28059106970003056,
+      "crawledAt": "2026-08-17T16:36:27.722Z",
+      "id": "1loj1y",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9838672876358032,
+          "index": 4,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9646134972572327,
+          "index": 5,
+          "word": "One",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9517515301704407,
+          "index": 6,
+          "word": "Bill",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8768218159675598,
+          "index": 8,
+          "word": "Agents",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Open Qwen weights, a distilled surrogate, and a runtime that makes zero model calls. Open Qwen weight is a distilled substitute.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:38:44.226Z"
+    },
+    {
+      "title": "Quantization-Aware Training Actually Ruins AI Safety",
+      "url": "https://levelup.gitconnected.com/quantization-aware-training-actually-ruins-ai-safety-89f20042ba1c?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T15:30:36.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.42632917173763374,
+      "crawledAt": "2026-08-17T16:36:27.783Z",
+      "id": "5yedou",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:38:44.324Z"
+    },
+    {
+      "title": "Building RenAIssance: An End-to-End OCR Pipeline for Historical Documents-Part II",
+      "url": "https://levelup.gitconnected.com/building-renaissance-an-end-to-end-ocr-pipeline-for-historical-documents-part-ii-41970456bac2?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T15:30:07.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.35367969242658504,
+      "crawledAt": "2026-08-17T16:36:27.983Z",
+      "id": "y2errm",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.891129195690155,
+          "index": 13,
+          "word": "End",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9159488081932068,
+          "index": 14,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8387153148651123,
+          "index": 15,
+          "word": "##CR",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:38:55.011Z"
+    },
+    {
+      "title": "How I Turned My Inbox Into a Job Tracker",
+      "url": "https://levelup.gitconnected.com/how-i-turned-my-inbox-into-a-job-tracker-9ae42ae703a4?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T15:29:35.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3583924386485462,
+      "crawledAt": "2026-08-17T16:36:28.201Z",
+      "id": "ij4qc7",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:39:04.751Z"
+    },
+    {
+      "title": "Python Iteration Protocol: Iterables vs Iterators",
+      "url": "https://levelup.gitconnected.com/python-iteration-protocol-iterables-vs-iterators-9c19c5ea4e95?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T15:29:01.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.6149119139050772,
+      "crawledAt": "2026-08-17T16:36:28.437Z",
+      "id": "x1ukhl",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9658488035202026,
+          "index": 1,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8684629797935486,
+          "index": 2,
+          "word": "It",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9274130463600159,
+          "index": 3,
+          "word": "##eration",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9482043981552124,
+          "index": 4,
+          "word": "Protocol",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:39:19.970Z"
+    },
+    {
+      "title": "How Base44 Uses GPT-5.6 to Build Apps With 20% Fewer Tokens",
+      "url": "https://www.youtube.com/watch?v=Cxp2aZQqkYM",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T15:22:51.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.28243078868000937,
+      "crawledAt": "2026-08-17T16:36:43.779Z",
+      "id": "931x5q",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:39:32.449Z"
+    },
+    {
+      "title": "This sub-$7,000 sportscar might be just what the future needs",
+      "url": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T15:01:25.000Z",
+      "metaDescription": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.8922965139968371,
+      "crawledAt": "2026-08-17T16:35:48.360Z",
+      "id": "8zphpi",
+      "entities": [],
+      "summary": " The Gasolini AR1 uses a 2-cylinder Honda bike engine, and an EV is underway, too.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:39:54.624Z"
+    },
+    {
+      "title": "Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them",
+      "url": "https://towardsdatascience.com/three-generations-of-autoscaling-and-why-agentic-traffic-breaks-all-of-them/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T15:00:00.000Z",
+      "metaDescription": "How autonomous agents broke two decades of capacity planning — and what to build instead\nThe post Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them appeared first on Toward",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2542214600637433,
+      "crawledAt": "2026-08-17T16:35:56.560Z",
+      "id": "2deo7",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8304056525230408,
+          "index": 6,
+          "word": "##sca",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The post Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them appeared first on Toward.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:40:19.070Z"
+    },
+    {
+      "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer",
+      "url": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T14:37:08.000Z",
+      "metaDescription": "Enterprise AI has a new infrastructure problem: companies are accumulating agents faster than they are developing systems to govern them.\nGartner estimates that the average global Fortune 500 company ",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9461634654447398,
+      "crawledAt": "2026-08-17T16:35:55.256Z",
+      "id": "tps9x8",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.896863579750061,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Enterprise AI has a new problem: Companies are accumulating agents faster than they are developing systems to govern them. The problem is a problem for companies that are developing their own systems.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:40:30.427Z"
+    },
+    {
+      "title": "From Llama to World Models: 15 AI Models You Can Download in 2026",
+      "url": "https://pub.towardsai.net/from-llama-to-world-models-15-ai-models-you-can-download-in-2026-d88aba951dec?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T14:31:01.000Z",
+      "metaDescription": "",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.2942392876710808,
+      "crawledAt": "2026-08-17T16:36:24.737Z",
+      "id": "mly59",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.800754189491272,
+          "index": 6,
+          "word": "World",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9540178179740906,
+          "index": 7,
+          "word": "Models",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:40:30.542Z"
+    },
+    {
+      "title": "How Heidi built production-ready AI for healthcare at global scale",
+      "url": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T14:30:00.000Z",
+      "metaDescription": "Presented by MongoDB\n\nBuilding AI that is accurate, secure, and reliable is a major engineering feat for organizations subject to the compliance obligations that govern healthcare, financial services,",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.932493950171954,
+      "crawledAt": "2026-08-17T16:35:55.422Z",
+      "id": "u1i1d6",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9953197836875916,
+          "index": 2,
+          "word": "Heidi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Building AI that is accurate, secure, and reliable is a major engineering feat for organizations subject to compliance obligations that govern healthcare, financial services, and financial services.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:40:42.528Z"
+    },
+    {
+      "title": "Harness Is the Bait. The Model Is the Business.",
+      "url": "https://ai.plainenglish.io/harness-is-the-bait-the-model-is-the-business-f1d19ffe716d?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T14:12:10.000Z",
+      "metaDescription": "An open harness, open weights, and a metered API in the middle.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.5570174299813334,
+      "crawledAt": "2026-08-17T16:36:26.647Z",
+      "id": "1epzn3",
+      "entities": [],
+      "summary": "An open harness, open weights, and a metered API in the middle. An open harness and open weights.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:41:00.496Z"
+    },
+    {
+      "title": "AI Agents are Now Recommending Their Own Malware",
+      "url": "https://pub.towardsai.net/ai-agents-are-now-recommending-their-own-malware-601efa5a310f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T14:01:04.000Z",
+      "metaDescription": "Attackers planted 7,600 malicious GitHub repositories. The disturbing part is that agents could find them without anyone sending a link.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9938096002262191,
+      "crawledAt": "2026-08-17T16:36:24.898Z",
+      "id": "fl2gw8",
+      "entities": [],
+      "summary": " Attackers planted 7,600 malicious GitHub repositories. The disturbing part is that agents could find them without anyone sending a link.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:41:10.568Z"
+    },
+    {
+      "title": "What Can I Actually Do with a Small Language Model?",
+      "url": "https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T14:00:36.000Z",
+      "metaDescription": "But by keeping these limits in mind, and planning for them, we can effectively use these small, local models for the following broad operations scenarios.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3287056905252007,
+      "crawledAt": "2026-08-17T16:37:20.112Z",
+      "id": "px5mk0",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9711230397224426,
+          "index": 9,
+          "word": "Language",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.817061722278595,
+          "index": 10,
+          "word": "Model",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "By keeping limits in mind, and planning for them, we can effectively use these small, local models for the following broad operations scenarios.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:41:21.102Z"
+    },
+    {
+      "title": "How to Debug Python Code With an AI Agent",
+      "url": "https://realpython.com/ai-debugging/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T14:00:00.000Z",
+      "metaDescription": "AI debugging is fixing broken code by pairing with an AI coding agent instead of hunting down bugs on your own. In this tutorial, you’ll debug Python code with an AI agent by reproducing a bug with a ",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9833849677150431,
+      "crawledAt": "2026-08-17T16:37:23.129Z",
+      "id": "hv9vxy",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9374345541000366,
+          "index": 6,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AI. In this tutorial, you’ll debug Python code with an AI agent to fix a bug with a bug.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:41:34.430Z"
+    },
+    {
+      "title": "AI Fundamentals: Understanding Activation Functions",
+      "url": "https://pub.towardsai.net/ai-fundamentals-understanding-activation-functions-part-2-ac15aa63b15b?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T13:31:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.8697870074175956,
+      "crawledAt": "2026-08-17T16:36:24.951Z",
+      "id": "nu2cqu",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8107608556747437,
+          "index": 7,
+          "word": "Act",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8023048043251038,
+          "index": 8,
+          "word": "##ivation",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:41:43.796Z"
+    },
+    {
+      "title": "Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism",
+      "url": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
+      "source": "Import AI",
+      "source_domain": "jack-clark.net",
+      "source_category": "newsletter",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T13:05:36.000Z",
+      "metaDescription": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows th",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4346199488927442,
+      "crawledAt": "2026-08-17T16:36:51.437Z",
+      "id": "8i2h29",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.958389163017273,
+          "index": 11,
+          "word": "RS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9477313756942749,
+          "index": 12,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9989578127861023,
+          "index": 18,
+          "word": "Z",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Import AI runs on arXiv, cappuccinos, and cappccinos. Import AI is an advanced form of AI research.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:42:08.403Z"
+    },
+    {
+      "title": "Nemotron 3.5: NVIDIA is Open-Sourcing AI to Protect its GPU Monopoly",
+      "url": "https://pub.towardsai.net/nemotron-3-5-nvidia-is-open-sourcing-ai-to-protect-its-gpu-monopoly-fb9f66e65056?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T13:01:03.000Z",
+      "metaDescription": "NVIDIA gave away a capable AI model for free. The reason has nothing to do with generosity and everything to do with GPUs.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.8350804273352425,
+      "crawledAt": "2026-08-17T16:36:25.122Z",
+      "id": "eqvacv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9379177093505859,
+          "index": 9,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9875295162200928,
+          "index": 25,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9833658337593079,
+          "index": 26,
+          "word": "##U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9938526749610901,
+          "index": 27,
+          "word": "Mon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9912160038948059,
+          "index": 28,
+          "word": "##op",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9812114834785461,
+          "index": 29,
+          "word": "##oly",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " NVIDIA gave away a capable AI model for free. The reason has nothing to do with generosity and everything to do.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:42:17.537Z"
+    },
+    {
+      "title": "Stop Asking Which Coding Agent Is Best",
+      "url": "https://www.youtube.com/watch?v=yyJpwHBKRCg",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T13:00:34.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.2815881274643209,
+      "crawledAt": "2026-08-17T16:36:48.988Z",
+      "id": "fq4bln",
+      "entities": [],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:42:17.617Z"
+    },
     {
       "title": "Securing the Infrastructure of Intelligence",
       "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
@@ -433,6 +1194,42 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-08-17T08:55:03.448Z"
+    },
+    {
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T05:30:00.000Z",
+      "metaDescription": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3291085498234292,
+      "crawledAt": "2026-08-17T16:35:39.794Z",
+      "id": "tz2d19",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8378432989120483,
+          "index": 5,
+          "word": "s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8100727200508118,
+          "index": 6,
+          "word": "Window",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "language": "en",
+      "processed_at": "2026-08-17T16:42:26.786Z"
     },
     {
       "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
@@ -3227,20 +4024,20 @@
       "processed_at": "2026-08-17T08:58:46.992Z"
     }
   ],
-  "processedAt": "2026-08-17T13:01:27.986Z",
+  "processedAt": "2026-08-17T16:42:38.466Z",
   "categories": [
+    "ai-agents",
     "infrastructure",
     "creative-ai",
-    "industry-news",
-    "ai-agents",
     "safety-ethics",
+    "model-release",
+    "industry-news",
     "research-paper",
     "developer-tool",
-    "model-release",
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 13,
-  "dailyArticlesCount": 93,
+  "newArticlesProcessed": 26,
+  "dailyArticlesCount": 119,
   "filterDate": "2026-08-17"
 }
