@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "title": "CausalVLBench: Benchmarking Visual Causal Reasoning in Large VLMs.",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vdd7ty/r_causalvlbench_benchmarking_visual_causal/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-02T09:07:49.000Z",
-      "metaDescription": "submitted by    /u/moschles  \n [link]   [comments]",
-      "category": null,
-      "difficulty": null,
-      "confidence": 0.2282540476982792,
-      "crawledAt": "2026-08-02T10:02:17.639Z",
-      "id": "qlztix",
-      "rejectedReason": "low_confidence",
-      "confidenceThreshold": 0.25,
-      "rejected_at": "2026-08-02T10:02:53.634Z"
-    },
-    {
-      "title": "Discussion About Meta-Review Issue Report in ARR Cycle",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vdb3ct/discussion_about_metareview_issue_report_in_arr/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-02T07:03:11.000Z",
-      "metaDescription": "So guys, this is one of the discussions that I wanted to engage in for sometime now.\n Based on your personal experience in the ARR cycles, I want you guys to share your experience on your meta reviews",
-      "category": null,
-      "difficulty": null,
-      "confidence": 0.19389635587123513,
-      "crawledAt": "2026-08-02T10:02:17.729Z",
-      "id": "iedwuk",
-      "rejectedReason": "low_confidence",
-      "confidenceThreshold": 0.25,
-      "rejected_at": "2026-08-02T10:03:04.917Z"
-    },
-    {
       "title": "Understanding PyTorch DistributedDataParallel From Scratch: Why Every GPU Trains the Entire…",
       "url": "https://pub.towardsai.net/understanding-pytorch-distributeddataparallel-ddp-from-scratch-why-every-gpu-trains-the-entire-2b80f89bed3d?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -23561,11 +23525,47 @@
       "rejectedReason": "low_confidence",
       "confidenceThreshold": 0.25,
       "rejected_at": "2026-08-17T08:58:17.865Z"
+    },
+    {
+      "title": "Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline",
+      "url": "https://towardsdatascience.com/loop-engineering-for-rag-the-small-loops-inside-each-step-the-big-loops-across-the-pipeline/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T12:00:00.000Z",
+      "metaDescription": "Enterprise Document Intelligence [Vol.1 #13bis] - The four bricks return useful results most of the time. Loop engineering is what the system does the rest of the time: when retrieval misses, when gen",
+      "category": null,
+      "difficulty": null,
+      "confidence": 0.19446923365435537,
+      "crawledAt": "2026-08-17T12:57:24.504Z",
+      "id": "m20dp9",
+      "rejectedReason": "low_confidence",
+      "confidenceThreshold": 0.25,
+      "rejected_at": "2026-08-17T13:00:28.687Z"
+    },
+    {
+      "title": "How much hydrogen awaits us underground?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T09:00:00.000Z",
+      "metaDescription": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemist",
+      "category": null,
+      "difficulty": null,
+      "confidence": 0.1894406952233843,
+      "crawledAt": "2026-08-17T12:57:21.100Z",
+      "id": "i88ygw",
+      "rejectedReason": "low_confidence",
+      "confidenceThreshold": 0.25,
+      "rejected_at": "2026-08-17T13:01:07.828Z"
     }
   ],
-  "updatedAt": "2026-08-17T08:58:47.015Z",
+  "updatedAt": "2026-08-17T13:01:28.041Z",
   "totalRejected": 1309,
-  "newlyRejected": 16,
+  "newlyRejected": 2,
   "cleanupThresholdDays": 15,
-  "cleanedUpCount": 1
+  "cleanedUpCount": 2
 }
