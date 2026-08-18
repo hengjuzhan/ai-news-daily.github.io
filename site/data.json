@@ -1,9 +1,290 @@
 {
-  "crawledAt": "2026-08-17T20:36:19.534Z",
+  "crawledAt": "2026-08-18T01:41:43.178Z",
   "totalSources": 70,
-  "totalArticles": 1808,
+  "totalArticles": 1814,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
+      "url": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-18T00:06:53.000Z",
+      "metaDescription": "The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google.\nIt was a 27-billion",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.300799989242888,
+      "crawledAt": "2026-08-18T01:40:13.922Z",
+      "id": "cawt6l",
+      "entities": [],
+      "summary": " The biggest AI model release of the past few days wasn't a frontier cloud model from OpenAI, Anthropic or Google.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:42:08.196Z"
+    },
+    {
+      "title": "Waiting for Qwen 3.8 35B A3B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr7wz5/waiting_for_qwen_38_35b_a3b/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T23:06:05.000Z",
+      "metaDescription": "submitted by    /u/puffyarizona  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3202638412289287,
+      "crawledAt": "2026-08-18T01:40:49.131Z",
+      "id": "caaozg",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9764657020568848,
+          "index": 3,
+          "word": "Q",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:42:17.549Z"
+    },
+    {
+      "title": "How Does Anthropic Watermark AI-Generated Content?",
+      "url": "https://pub.towardsai.net/how-anthropic-watermarks-ai-content-47265b651657?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T22:01:01.000Z",
+      "metaDescription": "Learn how AI watermarks are hidden in text and files, how they can be detected, and what happens when you try to remove them\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.36079009545199464,
+      "crawledAt": "2026-08-18T01:40:37.166Z",
+      "id": "4vg5ph",
+      "entities": [],
+      "summary": " Learn how AI watermarks are hidden in text and files, how they can be detected, and what happens when you try to remove them.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:42:47.504Z"
+    },
+    {
+      "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
+      "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T22:00:00.000Z",
+      "metaDescription": "Cursor began rolling out Origin, its own code hosting platform, to paid users on Monday morning. Roughly three and a half hours later, GitHub's status page lit up with what became a six-hour-and-forty",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.9934639859732229,
+      "crawledAt": "2026-08-18T01:40:14.132Z",
+      "id": "5h29ao",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9721057415008545,
+          "index": 5,
+          "word": "Origin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8355070948600769,
+          "index": 13,
+          "word": "##ub",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.997984766960144,
+          "index": 20,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Cursor began rolling out Origin, its own code hosting platform, to paid users on Monday morning. Roughly three and a half hours later, GitHub's status page lit up with what became a six-hour-and-forty-hour page.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:43:03.016Z"
+    },
+    {
+      "title": "we benchmark models nobody actually runs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr643w/we_benchmark_models_nobody_actually_runs/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T21:53:54.000Z",
+      "metaDescription": "qwen3.8 27B has seriously impressive benchmarks on its model card, but that's for the unquantised version. Almost everyone here will run one quant or another.\n Are there good benchmarks for how those ",
+      "category": "industry-news",
+      "difficulty": 4,
+      "confidence": 0.3547062843291505,
+      "crawledAt": "2026-08-18T01:40:50.696Z",
+      "id": "drcg0t",
+      "entities": [],
+      "summary": " qwen3.8 27B has seriously impressive benchmarks on its model card. But that's for the unquantised version.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:43:12.668Z"
+    },
+    {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T21:27:05.000Z",
+      "metaDescription": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.25021228761417175,
+      "crawledAt": "2026-08-18T01:39:59.066Z",
+      "id": "5h4h9l",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9852761626243591,
+          "index": 5,
+          "word": "Re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9664122462272644,
+          "index": 6,
+          "word": "##lay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9989712834358215,
+          "index": 13,
+          "word": "Google",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"We have some really ambitious plans to help you work with AI in Chrome to get things done,\" says Jacob Bank, Relay founder and CEO.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:43:25.856Z"
+    },
+    {
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T21:18:49.000Z",
+      "metaDescription": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3371758776447659,
+      "crawledAt": "2026-08-18T01:40:01.919Z",
+      "id": "jurz43",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9986679553985596,
+          "index": 2,
+          "word": "Space",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9977993965148926,
+          "index": 3,
+          "word": "##X",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " ‘We're not necessarily building in a dogmatic fashion towards full autonomy’ ‘‘We’re not necessarilyBuilding in a Dogmatic fashion,’ says a spokesman.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:43:41.087Z"
+    },
+    {
+      "title": "Multimodal Pet Adoption Speed Prediction with an Agentic AI Layer",
+      "url": "https://pub.towardsai.net/multimodal-pet-adoption-speed-prediction-with-an-agentic-ai-layer-1a5b932012b7?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T21:01:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9708133049770972,
+      "crawledAt": "2026-08-18T01:40:37.253Z",
+      "id": "jep3y",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9758033156394958,
+          "index": 13,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:43:41.203Z"
+    },
+    {
+      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-17T20:14:23.000Z",
+      "metaDescription": "\"Network effect\" can run in reverse.",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.3142338485465244,
+      "crawledAt": "2026-08-18T01:40:02.144Z",
+      "id": "yj6pf7",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997177124023438,
+          "index": 2,
+          "word": "Wisconsin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9196929335594177,
+          "index": 5,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9036775231361389,
+          "index": 6,
+          "word": "##lock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:43:56.850Z"
+    },
     {
       "title": "Why Do AI Agents Love Building Web Browsers?",
       "url": "https://ai.plainenglish.io/why-do-ai-agents-love-building-web-browsers-674251d48780?source=rss----78d064101951---4",
@@ -77,6 +358,66 @@
       "processed_at": "2026-08-17T20:36:21.650Z"
     },
     {
+      "title": "\"Opus 4.8 thinks too much\", \"Muse Glimmer sits between Gemma and Qwen, that's boring\", \"Gemma 4 is too lazy\"",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr2oq8/opus_48_thinks_too_much_muse_glimmer_sits_between/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T19:45:37.000Z",
+      "metaDescription": "I'm starting to think there's no way to make a reasoning model that won't draw persistent vocal complaints on here.\n EDIT: Qwen 3.8 not Opus 4.8*, freudian slip lol\n    submitted by    /u/MerePotato  ",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.8538469679023386,
+      "crawledAt": "2026-08-18T01:40:50.173Z",
+      "id": "ssz19i",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9915699362754822,
+          "index": 12,
+          "word": "Muse",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9927003383636475,
+          "index": 13,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8713884353637695,
+          "index": 15,
+          "word": "##mer",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9827754497528076,
+          "index": 18,
+          "word": "Gemma",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9563457369804382,
+          "index": 20,
+          "word": "Q",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I'm starting to think there's no way to make a reasoning model that won't draw vocal complaints on here.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:44:19.755Z"
+    },
+    {
       "title": "I Tried Meta AI, ChatGPT, and Claude for My Writing Work. Here’s What Each One Is Actually Good For",
       "url": "https://pub.towardsai.net/i-tried-meta-ai-chatgpt-and-claude-for-my-writing-work-heres-what-each-one-is-actually-good-for-19405a44a906?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -130,6 +471,25 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-08-17T20:36:59.091Z"
+    },
+    {
+      "title": "Qwen 3.8 35bA3b wen?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr0aps/qwen_38_35ba3b_wen/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T18:21:02.000Z",
+      "metaDescription": "Artificial analysis index scores\n  \nQwen 3.5 27b: 35\n Qwen 3.6 27b: 38\n Qwen 3.8 27b: 52\n  \nWhat the hell kind of a jump was that? Even if it is benchmaxxed, the jump is insane.\n  \nQwen3.6 35b A3b: 32",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3102428771006811,
+      "crawledAt": "2026-08-18T01:40:50.402Z",
+      "id": "qi5bl6",
+      "entities": [],
+      "summary": "Qwen3.6.6 35b A3b: 32.6b: 35.3b. A3B: 32b: 38.8b: 52.8 b: 52b:    What the hell kind of a jump was that? Even",
+      "language": "en",
+      "processed_at": "2026-08-18T01:44:37.238Z"
     },
     {
       "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
@@ -242,6 +602,25 @@
       "summary": " NVIDIA Nemotron 3.5 Lightning is an open model built for high-volume agentic workloads. The 30B Mixture-of-Experts model is now available in Amazon's JumpStart.",
       "language": "en",
       "processed_at": "2026-08-17T20:37:25.639Z"
+    },
+    {
+      "title": "llama.cpp adaptive MTP PR#27210",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqzud4/llamacpp_adaptive_mtp_pr27210/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T18:05:12.000Z",
+      "metaDescription": "Just wanted to raise some attention to this PR I filed if anyone would like to try it out.\n This adds an adaptive MTP mode to llama.cpp which employs a fairly simple counting-style state machine to de",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.4309217249721543,
+      "crawledAt": "2026-08-18T01:40:49.723Z",
+      "id": "7zhnz4",
+      "entities": [],
+      "summary": " This adds an adaptive MTP mode to llama.cpp which employs a fairly simple counting-style state machine.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:44:45.658Z"
     },
     {
       "title": "Your Script Isn’t Slow. It’s Just Waiting",
@@ -519,6 +898,34 @@
       "summary": "The post How canvases make agentic workflows. Here is how to use canvases with your workflows.",
       "language": "en",
       "processed_at": "2026-08-17T16:38:23.009Z"
+    },
+    {
+      "title": "Qwen 3.8 27B Overthinking, It has to be done, it has to be overthinking to punch Opus 4.6",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqvrh0/qwen_38_27b_overthinking_it_has_to_be_done_it_has/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T15:36:49.000Z",
+      "metaDescription": "Yes, it sucks to waste time waiting on 16K+ reasoning tokens alone. But here's the thing, this is only a 27B model trying to perform on par with 1T+ parameter models. Something has to be sacrificed, a",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.28422947689002803,
+      "crawledAt": "2026-08-18T01:40:51.286Z",
+      "id": "1aky5l",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9184762835502625,
+          "index": 1,
+          "word": "Q",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The model is only a 27B model trying to perform on par with 1T+ models. It sucks to waste time waiting on 16K+ reasoning tokens alone.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:45:15.677Z"
     },
     {
       "title": "Building a Society of One Billion Agents on Four GPUs",
@@ -1047,6 +1454,25 @@
       "processed_at": "2026-08-17T16:42:08.403Z"
     },
     {
+      "title": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T13:05:26.000Z",
+      "metaDescription": "Following up on my previous post about my budget server setup (Intel N100 + RTX 5060 Ti 16GB), a few of you asked for a deeper dive into my actual inference config and real-world agentic performance.\n",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.2574533831272136,
+      "crawledAt": "2026-08-18T01:40:49.026Z",
+      "id": "4edywj",
+      "entities": [],
+      "summary": "Intel N100 + RTX 5060 Ti 16GB is Intel's new version of the Intel N100.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:45:38.204Z"
+    },
+    {
       "title": "Nemotron 3.5: NVIDIA is Open-Sourcing AI to Protect its GPU Monopoly",
       "url": "https://pub.towardsai.net/nemotron-3-5-nvidia-is-open-sourcing-ai-to-protect-its-gpu-monopoly-fb9f66e65056?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -1412,6 +1838,42 @@
       "summary": " Moxie taught Xander that when he was anxious, he could calm down by exhaling. They practiced breathing like dragons to manage feel like dragons.",
       "language": "en",
       "processed_at": "2026-08-17T13:01:19.983Z"
+    },
+    {
+      "title": "Long Review: Qwen 3.8 27B is VERY good at tapping into it's real-world knowledge. It's \"overthinking\" brings it to Sonnet level performance with the potential for Opus level results.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqm51f/long_review_qwen_38_27b_is_very_good_at_tapping/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-17T08:09:40.000Z",
+      "metaDescription": "Hi all! I finally just got around to testing out Qwen 3.8 27b. I'm using Unsloth's UD-Q8_K_XL quant as a sit-in replacement to Qwen 3.6 27b, same quant size. Wow -- this thing isn't messing around.\n I",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2812660191325017,
+      "crawledAt": "2026-08-18T01:40:51.820Z",
+      "id": "tb64f3",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9900911450386047,
+          "index": 38,
+          "word": "Son",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9651737213134766,
+          "index": 39,
+          "word": "##net",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Unsloth's UD-Q8_K_XL quant as a sit-in replacement to Qwen 3.6 27b, same quant size.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:46:18.363Z"
     },
     {
       "title": "Beyond AGI: Google DeepMind’s Blueprint for the Next Era of Intelligence",
@@ -16631,6 +17093,42 @@
       "summary": " Most agent frameworks make you learn their vocabulary before you write a line of logic. register a tool, hand it a tool and hand it an API, wire a…",
       "language": "en",
       "processed_at": "2026-08-12T20:53:52.067Z"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Write your first prompt",
+      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-08-12T19:00:00.000Z",
+      "metaDescription": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nThe post GitHub Copilot app for Beginners: Write your fir",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.28012599645050346,
+      "crawledAt": "2026-08-18T01:40:05.080Z",
+      "id": "6rvijh",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9793774485588074,
+          "index": 3,
+          "word": "##H",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8197867274284363,
+          "index": 5,
+          "word": "Co",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " GitHub Copilot app for Beginners: Write your fir fir. Write your first prompt in the GitHub Cop Pilot app.",
+      "language": "en",
+      "processed_at": "2026-08-18T01:46:28.342Z"
     },
     {
       "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
@@ -58827,275 +59325,25 @@
       "summary": "An ancient celestial temple floating above an endless ocean of clouds during a breathtaking sunset, surrounded by co. I have used both Nano banana 2 and OpenAI image generation.",
       "language": "en",
       "processed_at": "2026-08-03T15:01:00.199Z"
-    },
-    {
-      "title": "Twin: A Possible Solution to AI Context Rebuilding",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vdz02j/twin_a_possible_solution_to_ai_context_rebuilding/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-03T01:00:41.000Z",
-      "metaDescription": "Over the last few months I've realized that I spend an absurd amount of time (and money) teaching the same things to AI over and over again.\n Information about my projects is already there. Slack cont",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.31631624538533404,
-      "crawledAt": "2026-08-03T03:31:17.699Z",
-      "id": "ytgafa",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.925052285194397,
-          "index": 10,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Over the last few months, I've realized that I spend an absurd amount of time teaching the same things to AI over and over again.",
-      "language": "en",
-      "processed_at": "2026-08-03T03:32:33.533Z"
-    },
-    {
-      "title": "Why Kubernetes Exists: From a Python Script to Production Orchestration",
-      "url": "https://pub.towardsai.net/why-kubernetes-exists-from-a-python-script-to-production-orchestration-5d825035f34b?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-03T00:01:01.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.6783718115963141,
-      "crawledAt": "2026-08-03T03:31:07.938Z",
-      "id": "dd715u",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-03T03:32:33.799Z"
-    },
-    {
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "url": "https://openai.com/index/circles",
-      "source": "OpenAI Blog",
-      "source_domain": "openai.com",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-08-03T00:00:00.000Z",
-      "metaDescription": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.34462342096058096,
-      "crawledAt": "2026-08-04T03:13:14.811Z",
-      "id": "ny7dwr",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8676030039787292,
-          "index": 11,
-          "word": "##A",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Circles uses the OpenAI API and Codex to power AI-native telco experiences. Increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-      "language": "en",
-      "processed_at": "2026-08-04T03:18:18.947Z"
-    },
-    {
-      "title": "OpenClaw vs Hermes Agent: the Honest Comparison Nobody’s Given You Yet",
-      "url": "https://pub.towardsai.net/openclaw-vs-hermes-agent-the-honest-comparison-nobodys-given-you-yet-6c3ef10d518b?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-02T23:01:02.000Z",
-      "metaDescription": "Peter Steinberger built the first version of what became OpenClaw in about an hour.\nContinue reading on Towards AI »",
-      "category": "safety-ethics",
-      "difficulty": 4,
-      "confidence": 0.5160618100653402,
-      "crawledAt": "2026-08-03T03:31:08.167Z",
-      "id": "8w0jch",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8790618181228638,
-          "index": 2,
-          "word": "##C",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Peter Steinberger built the first version of what became OpenClaw in about an hour. The first version was built in the early hours of the day.",
-      "language": "en",
-      "processed_at": "2026-08-03T03:32:43.958Z"
-    },
-    {
-      "title": "built a lightweight",
-      "url": "https://www.reddit.com/r/AutoGPT/comments/1vdw3dk/built_a_lightweight/",
-      "source": "r/AutoGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-02T22:50:52.000Z",
-      "metaDescription": "Hey everyone! I built a lightweight, zero-cost Python proxy middleware using FastAPI that acts as an input firewall for LLMs. It catches prompt injections and redacts sensitive API keys locally before",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.32565333241918715,
-      "crawledAt": "2026-08-07T00:55:14.996Z",
-      "id": "8sunhv",
-      "entities": [],
-      "summary": "A lightweight, zero-cost, no-cost Python proxy middleware. It catches injections and redacts sensitive API keys.",
-      "language": "en",
-      "processed_at": "2026-08-07T01:20:20.682Z"
-    },
-    {
-      "title": "Neurips 2026: does every metareview recommend accept/reject?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vdvkp5/neurips_2026_does_every_metareview_recommend/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-02T22:28:25.000Z",
-      "metaDescription": "I see some people say their metareview already contains a decision/recommendation (all of them were rejections). Ours doesn’t. Even though our avg score is 3, the metareview seems optimistic and finis",
-      "category": "safety-ethics",
-      "difficulty": 3,
-      "confidence": 0.2616099120051254,
-      "crawledAt": "2026-08-03T03:31:17.087Z",
-      "id": "qv6697",
-      "entities": [],
-      "summary": " The average score is 3, but the average score of 3 is 3. Some people say their metareview already contains a decision/recommendation.",
-      "language": "en",
-      "processed_at": "2026-08-03T03:33:08.486Z"
-    },
-    {
-      "title": "Becoming a Top 1% Hermes Agent User: The Complete Playbook No One Else Is Sharing",
-      "url": "https://pub.towardsai.net/becoming-a-top-1-hermes-agent-user-the-complete-playbook-no-one-else-is-sharing-901c7757ed1c?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-02T22:01:01.000Z",
-      "metaDescription": "Three weeks into running Hermes Agent on a $5 VPS, I opened my terminal and it told me something I hadn’t asked for. It had noticed I kept…\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.42815935708840225,
-      "crawledAt": "2026-08-03T03:31:08.579Z",
-      "id": "6wqx0t",
-      "entities": [],
-      "summary": "Three weeks into running Hermes Agent on a $5 VPS, I opened my terminal and it told me something I hadn't asked for. It had been a surprise that the terminal had opened up.",
-      "language": "en",
-      "processed_at": "2026-08-03T03:33:23.074Z"
-    },
-    {
-      "title": "It started with a test of a frontier model and ended up as a multiplayer game",
-      "url": "https://www.reddit.com/r/artificial/comments/1vdu2g8/it_started_with_a_test_of_a_frontier_model_and/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-02T21:25:36.000Z",
-      "metaDescription": "The last 1,5 week has been quite an eyeopener for me - I must say that Claude Code and the current frontier models are amazing.\n A test of Fable (and later Opus 5) turned into a larger game. It’s very",
-      "category": "model-release",
-      "difficulty": 4,
-      "confidence": 0.3187971650567335,
-      "crawledAt": "2026-08-03T14:51:47.995Z",
-      "id": "3yu341",
-      "entities": [],
-      "summary": " The last 1,5 week has been quite an eyeopener for me - I must say that Claude Code and the current frontier models are amazing.",
-      "language": "en",
-      "processed_at": "2026-08-03T15:01:43.455Z"
-    },
-    {
-      "title": "Building Reliable AI Agents with Tool Calling and Structured Output in 2026",
-      "url": "https://pub.towardsai.net/building-reliable-ai-agents-with-tool-calling-and-structured-output-in-2026-b0d2f0753e3b?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-02T21:01:01.000Z",
-      "metaDescription": "Tool calling has become one of the most important capabilities for building production-grade AI agents. While early agents relied heavily…\nContinue reading on Towards AI »",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.8787340027629903,
-      "crawledAt": "2026-08-03T03:31:08.792Z",
-      "id": "fdiqfi",
-      "entities": [],
-      "summary": " Tool calling has become one of the most important tools for building AI agents. While early agents relied heavily on the technology, it has become more important for the future.",
-      "language": "en",
-      "processed_at": "2026-08-03T03:33:47.267Z"
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-08-02T20:54:22.000Z",
-      "metaDescription": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.33919882459712775,
-      "crawledAt": "2026-08-02T21:00:51.892Z",
-      "id": "nvwep8",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9995975494384766,
-          "index": 1,
-          "word": "Sam",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9995176792144775,
-          "index": 2,
-          "word": "Alt",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9783870577812195,
-          "index": 3,
-          "word": "##man",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9688107967376709,
-          "index": 5,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Sam Altman has called on the industry to \"pace the rate of AI development\" on the latest episode of Equity.",
-      "language": "en",
-      "processed_at": "2026-08-02T21:02:33.203Z"
     }
   ],
-  "processedAt": "2026-08-17T20:38:41.589Z",
+  "processedAt": "2026-08-18T01:46:28.346Z",
   "categories": [
-    "ai-agents",
-    "creative-ai",
-    "model-release",
     "infrastructure",
-    "safety-ethics",
+    "creative-ai",
+    "ai-agents",
+    "product-launch",
     "industry-news",
+    "model-release",
+    "safety-ethics",
     "research-paper",
     "developer-tool",
-    "product-launch",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 11,
-  "existingArticlesKept": 1811,
+  "newArticlesProcessed": 16,
+  "existingArticlesKept": 1808,
   "cleanupApplied": true,
-  "cleanedUpCount": 14,
+  "cleanedUpCount": 10,
   "rollingWindowDays": 15
 }
