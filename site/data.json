@@ -1,9 +1,64 @@
 {
-  "crawledAt": "2026-08-19T04:45:32.587Z",
+  "crawledAt": "2026-08-19T08:48:38.427Z",
   "totalSources": 70,
-  "totalArticles": 1810,
+  "totalArticles": 1813,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "how can I learn Machine Learning for Astronomical use?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vsfif8/how_can_i_learn_machine_learning_for_astronomical/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-19T07:32:45.000Z",
+      "metaDescription": "Im new to Astronomy and Juypter Notebooks and Ai machine learning for sure I have little skill in python but quick learner especially visual learning.\n Are there any free tutorials I can use and free ",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3297341125495174,
+      "crawledAt": "2026-08-19T08:47:45.724Z",
+      "id": "jjpopa",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9759706854820251,
+          "index": 5,
+          "word": "Machine",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9786624312400818,
+          "index": 6,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Free tutorials are free and free to use for free. Are there any free tutorials you can use for a free tutorial?",
+      "language": "en",
+      "processed_at": "2026-08-19T08:49:00.383Z"
+    },
+    {
+      "title": "5 Ways People Are Using AI Wrong",
+      "url": "https://ai.plainenglish.io/5-ways-people-are-using-ai-wrong-f691abba3565?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-19T04:50:07.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.3885947015181597,
+      "crawledAt": "2026-08-19T08:47:39.964Z",
+      "id": "1s1yrk",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-19T08:49:09.792Z"
+    },
     {
       "title": "Microsoft's Agent Framework Fingerprints 63 Features You Use, Including Claude",
       "url": "https://pub.towardsai.net/microsofts-agent-framework-fingerprints-63-features-you-use-including-claude-a0234229af53?source=rss----98111c9905da---4",
@@ -1443,6 +1498,91 @@
       "processed_at": "2026-08-19T04:59:17.666Z"
     },
     {
+      "title": "Proactive Road Safety Intervention in Australia: Predicting Risky Driving Hotspots from Connected Vehicle Data",
+      "url": "https://arxiv.org/abs/2608.16913",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-08-19T04:00:00.000Z",
+      "metaDescription": "arXiv:2608.16913v1 Announce Type: new \nAbstract: Road safety monitoring has historically been reactive, relying on crash-record analysis after fatalities and injuries have already occurred. Proactive ",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.9286916191034077,
+      "crawledAt": "2026-08-19T08:48:16.946Z",
+      "id": "smls1",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999444305896759,
+          "index": 8,
+          "word": "Australia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Road safety monitoring has historically been reactive, relying on crash-record analysis after fatalities and injuries have already occurred. Proactive. Proactive.",
+      "language": "en",
+      "processed_at": "2026-08-19T08:49:19.363Z"
+    },
+    {
+      "title": "Hierarchical Data Selection via Manifold Coverage and Sparse Feature Coverage in LLM Post-training",
+      "url": "https://arxiv.org/abs/2608.16927",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-08-19T04:00:00.000Z",
+      "metaDescription": "arXiv:2608.16927v1 Announce Type: new \nAbstract: As supervised fine-tuning data continues to scale, selecting high-value subsets from large candidate pools is crucial for reducing training cost and im",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.44807358799686475,
+      "crawledAt": "2026-08-19T08:48:17.558Z",
+      "id": "vz69qz",
+      "entities": [],
+      "summary": "The new training pool. arXiv:2608. arxiv: 260.8.16927v1. arXv1: 260,000-plus pools. ar Xv1.1:260,000 pools.",
+      "language": "en",
+      "processed_at": "2026-08-19T08:49:55.100Z"
+    },
+    {
+      "title": "Mr.Dec: Daily-Scale Longitudinal Multimodal Modeling for 30-Day Readmission Prediction",
+      "url": "https://arxiv.org/abs/2608.16929",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-08-19T04:00:00.000Z",
+      "metaDescription": "arXiv:2608.16929v1 Announce Type: new \nAbstract: Predicting 30-day hospital readmission is essential for assessing patient stability and optimizing healthcare resources. As clinical risk evolves with ",
+      "category": "research-paper",
+      "difficulty": 4,
+      "confidence": 0.548035115376104,
+      "crawledAt": "2026-08-19T08:48:17.914Z",
+      "id": "xuoff0",
+      "entities": [],
+      "summary": " The 30-day hospital readmission is essential for assessing patient stability and optimizing healthcare resources. As clinical risk evolves with clinical risk, it is essential to assess patient stability.",
+      "language": "en",
+      "processed_at": "2026-08-19T08:50:15.906Z"
+    },
+    {
+      "title": "MultiSigBERT: Beyond Survival Analysis through Multimodal and Sequential Modeling in Oncology",
+      "url": "https://arxiv.org/abs/2608.16972",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-08-19T04:00:00.000Z",
+      "metaDescription": "arXiv:2608.16972v1 Announce Type: new \nAbstract: Machine learning has become an essential component of modern healthcare, where the integration of heterogeneous data sources offers unprecedented oppor",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.4293814194993074,
+      "crawledAt": "2026-08-19T08:48:19.060Z",
+      "id": "ry07m1",
+      "entities": [],
+      "summary": "Machine learning has become an essential part of the modern healthcare industry. Machine learning is a key part of modern healthcare.",
+      "language": "en",
+      "processed_at": "2026-08-19T08:51:21.559Z"
+    },
+    {
       "title": "What If an AI Agent Was Just a Python Class?",
       "url": "https://pub.towardsai.net/what-if-an-ai-agent-was-just-a-python-class-68524d09e797?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -1515,6 +1655,25 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-08-19T05:00:19.396Z"
+    },
+    {
+      "title": "Embedded spaces inspired on gravity",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vsb2xl/embedded_spaces_inspired_on_gravity_pd/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-19T03:34:59.000Z",
+      "metaDescription": "https://preview.redd.it/x164c3ol59kh1.png?width=895&format=png&auto=webp&s=96fe040f824799f2175e526a0512e81367e04b0f\n tl;dr: I have a project that I think is really cool and as a non-researcher, I don'",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3158632318809011,
+      "crawledAt": "2026-08-19T08:47:46.215Z",
+      "id": "u0opnn",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-19T08:51:50.507Z"
     },
     {
       "title": "How I Turned a Research Paper Into a Diagram, a Summary, and a Slide Deck With AI",
@@ -58856,173 +59015,14 @@
       "summary": " Having used LLMs to assist with reviews, I have noticed two recurring problems. The endless search for uncontrol. The endlesssearch for un control.",
       "language": "en",
       "processed_at": "2026-08-04T10:47:23.176Z"
-    },
-    {
-      "title": "Apple sued OpenAI for stealing hardware secrets, OpenAI has now published messages suggesting Apple itself kept using a former engineer after he left. Dramaaa!!",
-      "url": "https://www.reddit.com/r/artificial/comments/1vf3ow5/apple_sued_openai_for_stealing_hardware_secrets/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-04T07:46:31.000Z",
-      "metaDescription": "The messages appear to show Apple employees asking Chang Liu to locate internal files, explain product decisions and help with technical questions weeks after his departure. \n One Apple employee wrote",
-      "category": "developer-tool",
-      "difficulty": 7,
-      "confidence": 0.25718302146662975,
-      "crawledAt": "2026-08-04T21:17:47.647Z",
-      "id": "69w1rt",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9988805055618286,
-          "index": 1,
-          "word": "Apple",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.998989999294281,
-          "index": 3,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9962005019187927,
-          "index": 4,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9956886768341064,
-          "index": 5,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.998752772808075,
-          "index": 11,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9922187924385071,
-          "index": 12,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9836130142211914,
-          "index": 13,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9989646077156067,
-          "index": 19,
-          "word": "Apple",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Messages appear to show Apple employees asking Chang Liu to locate internal files, explain product decisions and help with technical questions.",
-      "language": "en",
-      "processed_at": "2026-08-04T21:26:10.524Z"
-    },
-    {
-      "title": "Why I Sometimes Move Tkinter Apps to Django",
-      "url": "https://python.plainenglish.io/why-i-sometimes-move-tkinter-apps-to-django-and-how-i-do-it-98b125a1a039?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-08-04T07:31:45.000Z",
-      "metaDescription": "Stop rewriting your Python logic. Here is how I migrate stable desktop tools into centralized web systems.\nContinue reading on Python in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.25225392109659794,
-      "crawledAt": "2026-08-04T10:45:21.609Z",
-      "id": "gfohxa",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.8853229880332947,
-          "index": 11,
-          "word": "D",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Read on Python in Plain English. Read on how to migrate desktop tools into centralized web systems. Read on what you can do with your Python logic.",
-      "language": "en",
-      "processed_at": "2026-08-04T10:47:53.889Z"
-    },
-    {
-      "title": "The Prompt Injection Problem: Why Enterprise AI Chatbots Are One Sentence Away From Disaster",
-      "url": "https://generativeai.pub/the-prompt-injection-problem-why-enterprise-ai-chatbots-are-one-sentence-away-from-disaster-3492a16460a8?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-04T06:06:47.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.8021242041189078,
-      "crawledAt": "2026-08-04T06:32:22.868Z",
-      "id": "n33spd",
-      "entities": [],
-      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
-      "language": "en",
-      "processed_at": "2026-08-04T06:33:16.170Z"
-    },
-    {
-      "title": "A zero-latency kernel sandbox for local AI agents so they can't access ~/.ssh or run destructive shell code",
-      "url": "https://www.reddit.com/r/AutoGPT/comments/1vf15i2/a_zerolatency_kernel_sandbox_for_local_ai_agents/",
-      "source": "r/AutoGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-04T05:24:16.000Z",
-      "metaDescription": "Hey everyone,\n Like a lot of people here, I've been running AI coding agents (Claude Code, AutoGen, custom LLM CLI loops) locally on my machine.\n The biggest issue I kept hitting was security and late",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.9893032938516417,
-      "crawledAt": "2026-08-07T00:55:14.335Z",
-      "id": "mrbgxc",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9735708236694336,
-          "index": 11,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The biggest issue I kept hitting was security and late late. The biggest problem I kept hit was security. I've been running AI coding agents on my machine.",
-      "language": "en",
-      "processed_at": "2026-08-07T01:19:06.133Z"
     }
   ],
-  "processedAt": "2026-08-19T05:01:19.567Z",
+  "processedAt": "2026-08-19T08:52:12.243Z",
   "categories": [
-    "developer-tool",
-    "ai-agents",
-    "creative-ai",
     "infrastructure",
+    "ai-agents",
+    "developer-tool",
+    "creative-ai",
     "safety-ethics",
     "research-paper",
     "model-release",
@@ -59031,9 +59031,9 @@
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 56,
-  "existingArticlesKept": 1798,
+  "newArticlesProcessed": 7,
+  "existingArticlesKept": 1810,
   "cleanupApplied": true,
-  "cleanedUpCount": 44,
+  "cleanedUpCount": 4,
   "rollingWindowDays": 15
 }
