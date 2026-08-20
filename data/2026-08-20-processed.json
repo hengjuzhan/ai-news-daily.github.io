@@ -1,9 +1,537 @@
 {
-  "crawledAt": "2026-08-20T16:43:05.766Z",
+  "crawledAt": "2026-08-20T20:38:42.385Z",
   "totalSources": 70,
-  "totalArticles": 116,
+  "totalArticles": 134,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
+      "url": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-20T19:57:01.000Z",
+      "metaDescription": "Enterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once — not by accident, but because none of them fully trusts a single vendor to ru",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.940500776421734,
+      "crawledAt": "2026-08-20T20:37:14.915Z",
+      "id": "78mk7h",
+      "entities": [],
+      "summary": " The median enterprise now runs three at once, not one at a single time. The company has stopped using a single orchestration platform.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:38:53.898Z"
+    },
+    {
+      "title": "Every Exponential Ends — Silicon Valley Forgot — Adam Becker",
+      "url": "https://www.youtube.com/watch?v=fgsmq8f3sWQ",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-08-20T19:30:59.000Z",
+      "metaDescription": "",
+      "category": "industry-news",
+      "difficulty": 5,
+      "confidence": 0.29506933869872487,
+      "crawledAt": "2026-08-20T20:37:56.487Z",
+      "id": "j8gnhw",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9936465620994568,
+          "index": 8,
+          "word": "Silicon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9961060881614685,
+          "index": 9,
+          "word": "Valley",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9996906518936157,
+          "index": 13,
+          "word": "Adam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994968771934509,
+          "index": 14,
+          "word": "Becker",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:38:54.005Z"
+    },
+    {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T19:18:21.000Z",
+      "metaDescription": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4245613829508522,
+      "crawledAt": "2026-08-20T20:37:01.059Z",
+      "id": "1iu9ni",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9765326380729675,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9980963468551636,
+          "index": 9,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News. The button could potentially boost their traffic as AI search sends fewer clicks to.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:39:07.691Z"
+    },
+    {
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T19:15:05.000Z",
+      "metaDescription": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.31309145422066953,
+      "crawledAt": "2026-08-20T20:37:01.217Z",
+      "id": "hi5jx9",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.955962061882019,
+          "index": 4,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9467158317565918,
+          "index": 5,
+          "word": "##ip",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippled celebrated by releasing a competing product.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:39:16.253Z"
+    },
+    {
+      "title": "Silicon Valley Doesn't Get Why You Hate AI",
+      "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T18:49:07.000Z",
+      "metaDescription": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3270341284872883,
+      "crawledAt": "2026-08-20T20:37:09.854Z",
+      "id": "6uxhzq",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9967168569564819,
+          "index": 1,
+          "word": "Silicon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9985207319259644,
+          "index": 2,
+          "word": "Valley",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Technology leaders don't seem to understand society's gripes about AI, says CNN's John Sutter. Sutter: Technology leaders should be more aware of the problem.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:39:40.005Z"
+    },
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-08-20T18:36:11.000Z",
+      "metaDescription": "An update on the August 17 outage and the steps we're taking to improve reliability.\nThe post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.26421784424650363,
+      "crawledAt": "2026-08-20T20:36:59.070Z",
+      "id": "sf7jx7",
+      "entities": [],
+      "summary": " The August 17 outage is an update on the August 17 issue. The post is an updated version of the outage.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:39:48.265Z"
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T18:20:35.000Z",
+      "metaDescription": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.9686070344444659,
+      "crawledAt": "2026-08-20T20:37:01.386Z",
+      "id": "sr3jty",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9931862354278564,
+          "index": 1,
+          "word": "Link",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9944508075714111,
+          "index": 2,
+          "word": "##da",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9774429798126221,
+          "index": 3,
+          "word": "##ze",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Linkdaze's smart calendar has an AI-powered meal planner tool. The smart calendar is a popular app for the company.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:39:59.314Z"
+    },
+    {
+      "title": "Is KV Cache in a high dimensional vector space?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vtrdem/is_kv_cache_in_a_high_dimensional_vector_space_d/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T18:18:10.000Z",
+      "metaDescription": "I've been doing some research on this question:\n At inference time a large part of a model's working memory lives in the KV cache, plus whatever external memory the harness bolts on. I've been poking ",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.3082502965208618,
+      "crawledAt": "2026-08-20T20:37:49.844Z",
+      "id": "bl1bjr",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9858208298683167,
+          "index": 2,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9869600534439087,
+          "index": 3,
+          "word": "##V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9949741363525391,
+          "index": 4,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9614282846450806,
+          "index": 5,
+          "word": "##ache",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A large part of a model's working memory lives in the KV cache, plus whatever external memory the harness bolts on.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:40:10.640Z"
+    },
+    {
+      "title": "Machine Learning for Beginners: The Whole Field in 20 mins",
+      "url": "https://pub.towardsai.net/machine-learning-for-beginners-the-whole-field-in-20-mins-1ae911366f67?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T18:01:01.000Z",
+      "metaDescription": "A beginner’s overview of the entire field of machine learning from your first model to LLMs and agents in one 18-minute read with no math.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4445513387022294,
+      "crawledAt": "2026-08-20T20:37:37.756Z",
+      "id": "7eo9mp",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9751729965209961,
+          "index": 10,
+          "word": "Field",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A beginner’s overview of the entire field of machine learning from your first model to LLMs and agents in one 18-minute read with no math.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:40:22.818Z"
+    },
+    {
+      "title": "How to Effectively Align Your Intent with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-effectively-align-your-intents-with-claude-code/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T18:00:00.000Z",
+      "metaDescription": "Improve your proficiency with Claude Code.\nThe post How to Effectively Align Your Intent with Claude Code appeared first on Towards Data Science.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3545828800895226,
+      "crawledAt": "2026-08-20T20:37:11.464Z",
+      "id": "b3dxkp",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9985436797142029,
+          "index": 12,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.997776448726654,
+          "index": 13,
+          "word": "Code",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The post How to Effectively Align Your Intent with Claude Code appeared first on Towards Data Science. Improve your proficiency with Claude code.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:40:31.707Z"
+    },
+    {
+      "title": "Retrieval Is a Pipeline: Sentence-Aware Chunking, Hybrid Search, and Reranking",
+      "url": "https://ai.plainenglish.io/retrieval-is-a-pipeline-sentence-aware-chunking-hybrid-search-and-reranking-43a289c9c41f?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T17:29:14.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.5157418960666108,
+      "crawledAt": "2026-08-20T20:37:43.724Z",
+      "id": "40b59x",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:40:41.593Z"
+    },
+    {
+      "title": "AI for Absolute Beginners — Day 3: Building A Model From Scratch",
+      "url": "https://ai.plainenglish.io/ai-for-absolute-beginners-day-3-building-a-model-from-scratch-part-1-2adaecfcf4ae?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T17:28:45.000Z",
+      "metaDescription": "Building a Comment-Reply model from scratch- No GPU, no cost, zero prior experience needed\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6653284019329367,
+      "crawledAt": "2026-08-20T20:37:44.126Z",
+      "id": "5dzbvs",
+      "entities": [],
+      "summary": " Building a Comment-Reply model from scratch- No. GPU, no cost, no price, no time, zero prior experience needed.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:41:01.395Z"
+    },
+    {
+      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-20T17:25:44.000Z",
+      "metaDescription": "Adding an AI agent to Slack sounds appealing to many enterprises — but, as VentureBeat has experienced ourselves first hand — the reality is often far more complex and clunkier than it first seems.\nNo",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.928577688281655,
+      "crawledAt": "2026-08-20T20:37:15.143Z",
+      "id": "liv2a8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.977442741394043,
+          "index": 1,
+          "word": "Nan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9268086552619934,
+          "index": 3,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9375099539756775,
+          "index": 7,
+          "word": "S",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The reality is often more complex and clunkier than it first seems. Adding an AI agent to Slack sounds appealing to many enterprises.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:41:11.883Z"
+    },
+    {
+      "title": "What Is OpenClaw? The 350,000+Star AI Agent",
+      "url": "https://pub.towardsai.net/what-is-openclaw-the-350-000-star-ai-agent-785134a0706f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T17:01:03.000Z",
+      "metaDescription": "Continue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9134917973908658,
+      "crawledAt": "2026-08-20T20:37:37.847Z",
+      "id": "9933ka",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8016332983970642,
+          "index": 3,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9801549315452576,
+          "index": 4,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8811107277870178,
+          "index": 5,
+          "word": "##law",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:41:34.566Z"
+    },
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T16:46:00.000Z",
+      "metaDescription": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.8180225494063145,
+      "crawledAt": "2026-08-20T20:37:01.815Z",
+      "id": "a4cp42",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.955459713935852,
+          "index": 1,
+          "word": "Ram",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9653624296188354,
+          "index": 2,
+          "word": "##p",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9695689678192139,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Ramp has launched its own AI model routing service, called Router. The service lets users and companies switch between language models via an API.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:41:43.862Z"
+    },
     {
       "title": "The LLM Judge That Kept Agreeing With Itself",
       "url": "https://towardsdatascience.com/the-llm-judge-that-kept-agreeing-with-itself/",
@@ -740,6 +1268,69 @@
       "processed_at": "2026-08-20T13:06:32.244Z"
     },
     {
+      "title": "AI-generated code detection in CI/CD — looking for approaches and real-world experience",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vtgw1g/aigenerated_code_detection_in_cicd_looking_for/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T11:31:12.000Z",
+      "metaDescription": "​\n I'm working on a system to estimate whether code committed to a repository was generated with AI coding tools.\n My current approach is based on Git/commit-level signals such as AI-related commit tr",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.2763346138357051,
+      "crawledAt": "2026-08-20T20:37:48.868Z",
+      "id": "mzb3v5",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9729077816009521,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9612959623336792,
+          "index": 7,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8707288503646851,
+          "index": 10,
+          "word": "CD",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The current approach is based on Git/commit-level signals such as AI-related commit tr. The current system is based upon the use of AI coding tools.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:42:21.304Z"
+    },
+    {
+      "title": "The spectral neuron - an ML primitive for scalable and interpretable models",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T10:20:47.000Z",
+      "metaDescription": "Worked some time ago on one of the ad teams at Yahoo, and this grew out of a question I kept returning to while there are there \"simple\" models that are both simple, scalable, interpretable, and contr",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2514294880010423,
+      "crawledAt": "2026-08-20T20:37:48.673Z",
+      "id": "hujmgu",
+      "entities": [],
+      "summary": " Yahoo ad teams are \"simple\" models that are both simple, scalable, interpretable, and contr. This grew out of a question I kept returning to while there are \" simple\" models.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:42:35.322Z"
+    },
+    {
       "title": "TinySearch v0.6.1 - still a lightweight web research tool for local LLMs, now with bring-your-own-browser support",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtf7mi/tinysearch_v061_still_a_lightweight_web_research/",
       "source": "r/LocalLLaMA",
@@ -1044,6 +1635,34 @@
       "summary": " HoneyBook is trying to bring that same capability to independent businesses. Autonomous artificial intelligence agents have already penetrated offices of large, global enterprises.",
       "language": "en",
       "processed_at": "2026-08-20T08:51:56.508Z"
+    },
+    {
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T07:00:00.000Z",
+      "metaDescription": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.2618033027426677,
+      "crawledAt": "2026-08-20T20:36:54.934Z",
+      "id": "k0zr3c",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8965865969657898,
+          "index": 5,
+          "word": "Future",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " New OpenAI blog explores how transformative AI could reshape power, governance, the economy, and individual freedom. The new blog is called AI Futures.",
+      "language": "en",
+      "processed_at": "2026-08-20T20:43:05.334Z"
     },
     {
       "title": "Spider-man: Brand New Day, does Peter self host his AI?",
@@ -3659,20 +4278,20 @@
       "processed_at": "2026-08-20T08:53:43.256Z"
     }
   ],
-  "processedAt": "2026-08-20T16:47:18.705Z",
+  "processedAt": "2026-08-20T20:43:05.340Z",
   "categories": [
-    "creative-ai",
     "ai-agents",
-    "developer-tool",
+    "industry-news",
+    "creative-ai",
     "infrastructure",
-    "model-release",
     "product-launch",
+    "developer-tool",
+    "model-release",
     "research-paper",
-    "safety-ethics",
-    "industry-news"
+    "safety-ethics"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 17,
-  "dailyArticlesCount": 116,
+  "newArticlesProcessed": 18,
+  "dailyArticlesCount": 134,
   "filterDate": "2026-08-20"
 }
