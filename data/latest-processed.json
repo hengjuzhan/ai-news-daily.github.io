@@ -1,7 +1,7 @@
 {
-  "crawledAt": "2026-08-21T04:47:57.803Z",
+  "crawledAt": "2026-08-21T08:50:36.605Z",
   "totalSources": 70,
-  "totalArticles": 1744,
+  "totalArticles": 1735,
   "aiFilterUsed": true,
   "articles": [
     {
@@ -1984,6 +1984,42 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-08-20T20:38:54.005Z"
+    },
+    {
+      "title": "An Astrophysicist Debunks the Singularity — Adam Becker",
+      "url": "https://www.youtube.com/watch?v=fgsmq8f3sWQ",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-08-20T19:30:59.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.47864694980236755,
+      "crawledAt": "2026-08-21T08:50:16.326Z",
+      "id": "io3jzj",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.99965900182724,
+          "index": 15,
+          "word": "Adam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994710087776184,
+          "index": 16,
+          "word": "Becker",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-21T08:51:18.024Z"
     },
     {
       "title": "Google gives publishers a new way to fight AI-driven traffic losses",
@@ -55552,291 +55588,9 @@
       "summary": "Recent research showed AI agents would blackmail engineers to avoid shutdown in honeypot scenarios. After recent research showed that AI agents will blackmail engineers.",
       "language": "en",
       "processed_at": "2026-08-06T10:46:46.343Z"
-    },
-    {
-      "title": "Explanation of attention mechanism in transformers",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1vgya33/explanation_of_attention_mechanism_in_transformers/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-08-06T08:24:12.000Z",
-      "metaDescription": "I have seen few questions on the lines of https://www.reddit.com/r/learnmachinelearning/comments/1vgr7yv/can\\_someone\\_teach\\_me\\_attention/. So I thought of writing an article on this topic. There're",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.2815849920170257,
-      "crawledAt": "2026-08-07T00:55:06.254Z",
-      "id": "ypardq",
-      "entities": [],
-      "summary": " I have seen few questions on the lines of https.com/r/learnmachinelearning. So I thought of writing an article on this topic.",
-      "language": "en",
-      "processed_at": "2026-08-07T01:13:25.293Z"
-    },
-    {
-      "title": "Developers Keep Blaming AI for Problems It Didn’t Create",
-      "url": "https://ai.plainenglish.io/developers-keep-blaming-ai-for-problems-it-didnt-create-f16b24403362?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-06T07:53:40.000Z",
-      "metaDescription": "The postmortem doc called it “the AI-generated migration script.” That was the summary line at the top, the one everyone in the incident…\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.5444392188554342,
-      "crawledAt": "2026-08-06T10:45:22.118Z",
-      "id": "8n2g0f",
-      "entities": [],
-      "summary": " The postmortem doc called it “the AI-generated migration script’s’. That was the one that caused the incident.",
-      "language": "en",
-      "processed_at": "2026-08-06T10:46:56.331Z"
-    },
-    {
-      "title": "From Two Agents to Four: A Test-Writer, a Verifier, and a Registry over A2A",
-      "url": "https://generativeai.pub/from-two-agents-to-four-a-test-writer-a-verifier-and-a-registry-over-a2a-b6d714d3835d?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-06T07:42:51.000Z",
-      "metaDescription": "Structured JSON data Parts, a subprocess pytest verifier, deterministic overrides in reviewer_graph.py, and the runtime discovery loop.\nContinue reading on Generative AI »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.2830591946467067,
-      "crawledAt": "2026-08-06T10:45:25.013Z",
-      "id": "pi4y3x",
-      "entities": [],
-      "summary": "A subprocess pytest verifier, deterministic overrides in reviewer_graph.py, and the runtime discovery loop.",
-      "language": "en",
-      "processed_at": "2026-08-06T10:47:06.526Z"
-    },
-    {
-      "title": "Why my simple neural net not learning perfectly?",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1vgxg0z/why_my_simple_neural_net_not_learning_perfectly/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-08-06T07:34:36.000Z",
-      "metaDescription": "1000 10000 epoch.\n LeakyReLU.\n Layer nodes 1-100-100-1.\n function y(x) = sin(x)+0.3x\n MSE error loss\n adam optimiser\n python.pytorch\n    submitted by    /u/Complex_Cat_Public  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.27306877985007594,
-      "crawledAt": "2026-08-07T00:55:08.390Z",
-      "id": "4uxxlc",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-07T01:13:25.380Z"
-    },
-    {
-      "title": "Minimax H3 Turbo Lora",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vgxf4x/minimax_h3_turbo_lora/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-08-06T07:33:10.000Z",
-      "metaDescription": "MiniMax H3 Turbo LoRA ComfyUI\n ComfyUI-compatible versions of the MiniMax H3 Turbo LoRA are available here:\n https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora\n https://huggingface.co/drbaph/MiniMa",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3795734938637601,
-      "crawledAt": "2026-08-07T00:55:03.079Z",
-      "id": "6ud9hw",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8245665431022644,
-          "index": 6,
-          "word": "Lo",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "ComfyUI-compatible versions of the MiniMax H3 Turbo LoRA are available. ComfyUI versions of MiniMax-H3 Turbo are available here.",
-      "language": "en",
-      "processed_at": "2026-08-07T01:13:36.356Z"
-    },
-    {
-      "title": "Qwen3.8-2.4T-A95B open release time: next wednesday",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-06T07:23:10.000Z",
-      "metaDescription": "https://preview.redd.it/9zwlpcushphh1.png?width=972&format=png&auto=webp&s=18cb49c738caba9799d22d4916337c772baa830f\n https://modelscope.cn/models/Qwen/Qwen3.8-2.4T-A95B\n    submitted by    /u/HugeCons",
-      "category": "model-release",
-      "difficulty": 3,
-      "confidence": 0.8880036571147797,
-      "crawledAt": "2026-08-06T14:25:45.827Z",
-      "id": "alfn7m",
-      "entities": [],
-      "summary": "Announcement or discussion about new AI model releases and updates.",
-      "language": "en",
-      "processed_at": "2026-08-06T14:32:38.310Z"
-    },
-    {
-      "title": "ByteDance is leaning heavily into AI education with Gauth — helpful tutoring or just another shortcut machine?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vgwza5/bytedance_is_leaning_heavily_into_ai_education/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-06T07:07:44.000Z",
-      "metaDescription": "Saw an article about ByteDance scaling up Gauth using AI-generated animations to walk students through problem-solving.\n On paper, personalized visual explanations sound great for democratizing tutori",
-      "category": "tutorial-guide",
-      "difficulty": 6,
-      "confidence": 0.44872325006545305,
-      "crawledAt": "2026-08-06T10:45:28.598Z",
-      "id": "kr1zzc",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9950666427612305,
-          "index": 1,
-          "word": "By",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9925416707992554,
-          "index": 3,
-          "word": "##D",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.914264976978302,
-          "index": 4,
-          "word": "##ance",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9902541637420654,
-          "index": 9,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.995101273059845,
-          "index": 12,
-          "word": "G",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " AI-generated animations to walk students through problem-solving problems. On paper, personalized visual explanations sound great for democratizing tutori.",
-      "language": "en",
-      "processed_at": "2026-08-06T10:47:30.571Z"
-    },
-    {
-      "title": "The browser is where attacks land. Why is security still focused on the endpoint?",
-      "url": "https://venturebeat.com/security/the-browser-is-where-attacks-land-why-is-security-still-focused-on-the-endpoint",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-08-06T07:00:00.000Z",
-      "metaDescription": "Presented by CloudMosa \n\nEnterprise work now happens increasingly inside the browser, and that shift has made the browser a primary point of entry for cyberattacks as well. Browser-based attacks have ",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.2989298737186715,
-      "crawledAt": "2026-08-06T14:25:10.678Z",
-      "id": "2ahmiv",
-      "entities": [],
-      "summary": " Browser-based attacks have made the browser a primary point of entry for cyberattacks. CloudMosa work now happens increasingly inside the browser.",
-      "language": "en",
-      "processed_at": "2026-08-06T14:32:50.139Z"
-    },
-    {
-      "title": "How I Design Prompts Using Google’s Agent Platform",
-      "url": "https://generativeai.pub/how-i-design-prompts-using-googles-agent-platform-d7136a9b41d6?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-06T06:30:47.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.7344061661560991,
-      "crawledAt": "2026-08-06T10:45:25.076Z",
-      "id": "ubdkmr",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9832689166069031,
-          "index": 8,
-          "word": "Google",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9426143765449524,
-          "index": 12,
-          "word": "Platform",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-06T10:47:45.271Z"
-    },
-    {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "source": "OpenAI Blog",
-      "source_domain": "openai.com",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-08-06T06:00:00.000Z",
-      "metaDescription": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.3794038940670834,
-      "crawledAt": "2026-08-07T00:53:52.129Z",
-      "id": "ndgwhz",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9977807402610779,
-          "index": 4,
-          "word": "American",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9989790916442871,
-          "index": 5,
-          "word": "Psychological",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9989698529243469,
-          "index": 6,
-          "word": "Association",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "language": "en",
-      "processed_at": "2026-08-07T01:14:03.005Z"
     }
   ],
-  "processedAt": "2026-08-21T05:06:23.169Z",
+  "processedAt": "2026-08-21T08:51:18.031Z",
   "categories": [
     "ai-agents",
     "creative-ai",
@@ -55850,9 +55604,9 @@
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 56,
-  "existingArticlesKept": 1745,
+  "newArticlesProcessed": 1,
+  "existingArticlesKept": 1744,
   "cleanupApplied": true,
-  "cleanedUpCount": 57,
+  "cleanedUpCount": 10,
   "rollingWindowDays": 15
 }

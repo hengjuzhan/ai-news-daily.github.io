@@ -1,7 +1,7 @@
 {
-  "crawledAt": "2026-08-21T04:47:57.803Z",
+  "crawledAt": "2026-08-21T08:50:36.605Z",
   "totalSources": 70,
-  "totalArticles": 64,
+  "totalArticles": 65,
   "aiFilterUsed": true,
   "articles": [
     {
@@ -1915,6 +1915,42 @@
       "processed_at": "2026-08-21T01:50:39.040Z"
     },
     {
+      "title": "An Astrophysicist Debunks the Singularity — Adam Becker",
+      "url": "https://www.youtube.com/watch?v=fgsmq8f3sWQ",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-08-20T19:30:59.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.47864694980236755,
+      "crawledAt": "2026-08-21T08:50:16.326Z",
+      "id": "io3jzj",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.99965900182724,
+          "index": 15,
+          "word": "Adam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994710087776184,
+          "index": 16,
+          "word": "Becker",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-21T08:51:18.024Z"
+    },
+    {
       "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "url": "https://openai.com/index/stampli",
       "source": "OpenAI Blog",
@@ -1959,7 +1995,7 @@
       "processed_at": "2026-08-21T01:50:51.674Z"
     }
   ],
-  "processedAt": "2026-08-21T05:06:23.172Z",
+  "processedAt": "2026-08-21T08:51:18.032Z",
   "categories": [
     "ai-agents",
     "creative-ai",
@@ -1972,7 +2008,7 @@
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 56,
-  "dailyArticlesCount": 64,
+  "newArticlesProcessed": 1,
+  "dailyArticlesCount": 65,
   "filterDate": "2026-08-21"
 }
