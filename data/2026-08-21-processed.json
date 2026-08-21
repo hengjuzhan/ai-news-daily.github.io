@@ -1,9 +1,622 @@
 {
-  "crawledAt": "2026-08-21T13:03:00.785Z",
+  "crawledAt": "2026-08-21T16:43:54.793Z",
   "totalSources": 70,
-  "totalArticles": 92,
+  "totalArticles": 111,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
+      "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T16:33:56.000Z",
+      "metaDescription": "When an agentic AI system hands a task from a small model to a larger one — or back down again — it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, driving",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.45699698270138267,
+      "crawledAt": "2026-08-21T16:42:22.826Z",
+      "id": "dfa6tm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9895467162132263,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9696747064590454,
+          "index": 2,
+          "word": "##vid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9920634031295776,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " When an agentic AI system hands a task from a small model to a larger one, it pays a steep tax. The receiving model has to recompute the entire conversation from scratch.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:44:06.405Z"
+    },
+    {
+      "title": "My AI Agent Used Far More Tokens Than I Expected",
+      "url": "https://levelup.gitconnected.com/my-ai-agent-used-far-more-tokens-than-i-expected-86dce2cba52b?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T16:22:26.000Z",
+      "metaDescription": "The problem wasn’t the model. I simply never told the agent what “done” meant.\nContinue reading on Level Up Coding »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9749367665283531,
+      "crawledAt": "2026-08-21T16:42:56.494Z",
+      "id": "hpytu1",
+      "entities": [],
+      "summary": " The problem wasn’t the model, I simply told the agent what “done’s’d meant.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:44:33.551Z"
+    },
+    {
+      "title": "The Difference Between a Cache and a Lie",
+      "url": "https://levelup.gitconnected.com/the-difference-between-a-cache-and-a-lie-0579ef4789f5?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T16:22:09.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.25963865730202823,
+      "crawledAt": "2026-08-21T16:42:56.551Z",
+      "id": "51l32z",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:44:33.646Z"
+    },
+    {
+      "title": "When AI Loves Your Idea, That Is Your Warning Sign",
+      "url": "https://levelup.gitconnected.com/when-ai-loves-your-idea-that-is-your-warning-sign-c3e114c703d4?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T16:21:53.000Z",
+      "metaDescription": "The problem is not that AI lies to you, it is that AI agrees with you, and your brain has been waiting its whole life for someone to do…\nContinue reading on Level Up Coding »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.7895338824077657,
+      "crawledAt": "2026-08-21T16:42:56.711Z",
+      "id": "nr5m7y",
+      "entities": [],
+      "summary": " The problem is not that AI lies to you, it is that AI agrees with you, and your brain has been waiting its whole life for someone to do.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:44:45.010Z"
+    },
+    {
+      "title": "There’s a 20% AI Tax Coming. Nobody’s Told Your CFO Yet.",
+      "url": "https://levelup.gitconnected.com/theres-a-20-ai-tax-coming-nobody-s-told-your-cfo-yet-dc6db257abef?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T16:21:04.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.25344688128624415,
+      "crawledAt": "2026-08-21T16:42:57.074Z",
+      "id": "d750s4",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:45:04.964Z"
+    },
+    {
+      "title": "Why Everyone Else’s AI Output Looks Better Than Yours",
+      "url": "https://levelup.gitconnected.com/why-everyone-elses-ai-output-looks-better-than-yours-it-s-not-the-model-f8f493418f9c?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T16:20:15.000Z",
+      "metaDescription": "The secret isn’t a smarter model or a magic prompt template, it’s letting the AI interview you before it writes a single line.\nContinue reading on Level Up Coding »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9076935226318985,
+      "crawledAt": "2026-08-21T16:42:57.495Z",
+      "id": "8dta5n",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9743257761001587,
+          "index": 3,
+          "word": "El",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The secret isn't a smarter model or a magic prompt template, it's letting the AI interview you before it writes a single line.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:45:40.863Z"
+    },
+    {
+      "title": "What’s the best local AI harness for coding + general use?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukppf/whats_the_best_local_ai_harness_for_coding/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-21T16:11:56.000Z",
+      "metaDescription": "So what’s actually the best local AI harness rn?\n I’ve read a TON about this already and somehow ended up more confused than when I started so I figured screw it, let the community decide.\n Right now ",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.39231402874034976,
+      "crawledAt": "2026-08-21T16:43:06.548Z",
+      "id": "wr2zon",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9927539229393005,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The best local AI harness is the best in the world, according to the company's website. The company is based in New York City, New York.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:46:02.813Z"
+    },
+    {
+      "title": "FireRedAudio & FireRedTTS3 by FireRedTeam - Huggingface",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukj3m/fireredaudio_fireredtts3_by_fireredteam/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-21T16:05:05.000Z",
+      "metaDescription": "FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation\n  \nHuggingFace : https://huggingface.co/FireRedTeam/FireRedAudio\n GitHub",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.38577274773460357,
+      "crawledAt": "2026-08-21T16:43:06.128Z",
+      "id": "t0obd6",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9152564406394958,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8184003829956055,
+          "index": 6,
+          "word": "##o",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9345284700393677,
+          "index": 15,
+          "word": "Fire",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9289364218711853,
+          "index": 16,
+          "word": "##R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9444936513900757,
+          "index": 18,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation. The \"HuggingFace\" is a popular language model.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:46:12.610Z"
+    },
+    {
+      "title": "Your AI Agent Doesn’t Need More Memory. It Needs to Forget",
+      "url": "https://pub.towardsai.net/your-ai-agent-doesnt-need-more-memory-it-needs-to-forget-443314880578?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-21T16:01:01.000Z",
+      "metaDescription": "Most agent memory systems store too much, retrieve the wrong information, and quietly become less reliable over time.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9904740884906565,
+      "crawledAt": "2026-08-21T16:42:50.193Z",
+      "id": "dpsfxs",
+      "entities": [],
+      "summary": " Most agent memory systems store too much, retrieve too much and retrieve the wrong information, and quietly become less reliable over time.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:46:23.961Z"
+    },
+    {
+      "title": "Inside DeepWiki: How Cognition Builds Wikis for Devin at Scale",
+      "url": "https://www.youtube.com/watch?v=u8Im0l_vwqM",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-08-21T16:00:14.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.44102977347520617,
+      "crawledAt": "2026-08-21T16:43:15.976Z",
+      "id": "80g9q5",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:46:32.074Z"
+    },
+    {
+      "title": "Docstrings in Python — All You Need To Know",
+      "url": "https://python.plainenglish.io/docstrings-in-python-all-you-need-to-know-04da3261e51e?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T15:28:08.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.44307513560161244,
+      "crawledAt": "2026-08-21T16:42:59.247Z",
+      "id": "uwlhqg",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:46:32.213Z"
+    },
+    {
+      "title": "JSON in Python — All You Need To Know",
+      "url": "https://python.plainenglish.io/json-in-python-all-you-need-to-know-8e547d280fec?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T15:27:12.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.30455147381690945,
+      "crawledAt": "2026-08-21T16:42:59.308Z",
+      "id": "wopqdk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.893137514591217,
+          "index": 1,
+          "word": "J",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:46:32.345Z"
+    },
+    {
+      "title": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi",
+      "url": "https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T14:00:58.000Z",
+      "metaDescription": "Run Muse Glimmer locally on an RTX 3090 GPU using llama.cpp, DFlash speculative decoding, and Pi for fast, private, agentic AI coding.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5490848921415377,
+      "crawledAt": "2026-08-21T16:43:47.957Z",
+      "id": "kt9eve",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9328547716140747,
+          "index": 19,
+          "word": "D",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Run Muse Glimmer locally on an RTX 3090 GPU using llama.cpp, DFlash speculative decoding, and Pi for fast, private, private and agentic AI coding.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:47:11.423Z"
+    },
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-21T14:00:00.000Z",
+      "metaDescription": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.2608632804199374,
+      "crawledAt": "2026-08-21T16:42:12.900Z",
+      "id": "of8sv2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990320205688477,
+          "index": 2,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9932875633239746,
+          "index": 3,
+          "word": "##O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9774237871170044,
+          "index": 4,
+          "word": "##J",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Ben Horowitz and Martin Casado are partners at Fivetran. The two companies have been working together for years.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:47:19.588Z"
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-21T14:00:00.000Z",
+      "metaDescription": "There's about to be a big fight to secure access to space.",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.44076309685092474,
+      "crawledAt": "2026-08-21T16:42:13.018Z",
+      "id": "1wa9ya",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9971408247947693,
+          "index": 1,
+          "word": "Star",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9976749420166016,
+          "index": 2,
+          "word": "##c",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9957291483879089,
+          "index": 3,
+          "word": "##lou",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9903206825256348,
+          "index": 4,
+          "word": "##d",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " There's about to be a big fight to secure access to space. There's a big battle to secure space.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:47:26.192Z"
+    },
+    {
+      "title": "DeepSeek Harness v0.1.1 released",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugyfe/deepseek_harness_v011_released/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-21T13:51:00.000Z",
+      "metaDescription": "https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.1-rc.1\n The DeepSeek adapter adds the multimodal visual understanding model DeepSeek-V4-Flash-Vision-Exp. It also supports configu",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.7174067917876482,
+      "crawledAt": "2026-08-21T16:43:03.800Z",
+      "id": "7izyr5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9704529047012329,
+          "index": 1,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9901801943778992,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9867534637451172,
+          "index": 3,
+          "word": "##eek",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9922892451286316,
+          "index": 4,
+          "word": "Ha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9591649174690247,
+          "index": 5,
+          "word": "##rne",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8931293487548828,
+          "index": 6,
+          "word": "##ss",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:47:26.295Z"
+    },
+    {
+      "title": "Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions",
+      "url": "https://towardsdatascience.com/bayesian-guardrails-for-ai-decisions-measuring-uncertainty-before-automating-decisions/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-08-21T13:30:00.000Z",
+      "metaDescription": "AI systems should not automate a decision simply because they can provide a prediction. A decision system should consider how uncertain the prediction is and defer if a mistake would be costly.\nThe po",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.4177354463503993,
+      "crawledAt": "2026-08-21T16:42:26.250Z",
+      "id": "tysr4h",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9139729738235474,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "The po. A decision system should consider how uncertain the prediction is and defer if a mistake would be costly. The po.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:47:46.616Z"
+    },
+    {
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T13:11:35.000Z",
+      "metaDescription": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.4329260688137486,
+      "crawledAt": "2026-08-21T16:42:15.870Z",
+      "id": "e0zpcm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9834861159324646,
+          "index": 13,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9065862894058228,
+          "index": 14,
+          "word": "##ber",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Alphabet-owned company is trying to persuade US regulators to clear path for fully autonomous taxi services. The company is seeking to persuade the US regulators.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:47:55.285Z"
+    },
+    {
+      "title": "OpenAI Assistants API Migration: Move to Responses Without Breaking Your Product",
+      "url": "https://pub.towardsai.net/openai-assistants-api-migration-move-to-responses-without-breaking-your-product-9dc60d06bca6?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-21T13:01:02.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.41388168065187014,
+      "crawledAt": "2026-08-21T16:42:50.627Z",
+      "id": "hix1dm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9411987066268921,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9117425680160522,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-21T16:47:55.394Z"
+    },
     {
       "title": "Zero Data Retention is getting cross-interaction safety signals. What should customers be able to audit?",
       "url": "https://www.reddit.com/r/OpenAI/comments/1vufo02/zero_data_retention_is_getting_crossinteraction/",
@@ -2898,20 +3511,20 @@
       "processed_at": "2026-08-21T01:50:51.674Z"
     }
   ],
-  "processedAt": "2026-08-21T13:10:04.086Z",
+  "processedAt": "2026-08-21T16:48:12.724Z",
   "categories": [
+    "creative-ai",
+    "ai-agents",
     "safety-ethics",
     "infrastructure",
-    "research-paper",
-    "product-launch",
-    "ai-agents",
-    "creative-ai",
-    "model-release",
     "developer-tool",
+    "product-launch",
+    "model-release",
+    "research-paper",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 27,
-  "dailyArticlesCount": 92,
+  "newArticlesProcessed": 19,
+  "dailyArticlesCount": 111,
   "filterDate": "2026-08-21"
 }
