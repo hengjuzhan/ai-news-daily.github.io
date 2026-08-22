@@ -1,9 +1,56 @@
 {
-  "crawledAt": "2026-08-22T04:42:11.820Z",
+  "crawledAt": "2026-08-22T08:40:07.919Z",
   "totalSources": 70,
-  "totalArticles": 26,
+  "totalArticles": 29,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "How Can AI Improve Itself? A Simple Distribution View of Recursive Self-Improvement",
+      "url": "https://generativeai.pub/how-can-ai-improve-itself-a-simple-distribution-view-of-recursive-self-improvement-ac856fda40c3?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T07:45:45.000Z",
+      "metaDescription": "Recursive self-improvement sounds mysterious. Thinking of an LLM as a probability distribution over possible research ideas makes the…\nContinue reading on Generative AI »",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.29803925869209696,
+      "crawledAt": "2026-08-22T08:39:26.175Z",
+      "id": "mcqljr",
+      "entities": [],
+      "summary": " Thinking of an LLM as a probability distribution over possible research ideas makes the idea more interesting. Recursive self-improvement sounds mysterious.",
+      "language": "en",
+      "processed_at": "2026-08-22T08:40:19.224Z"
+    },
+    {
+      "title": "The Smarter the AI Model Gets, the Easier It Is to Break",
+      "url": "https://generativeai.pub/the-smarter-the-ai-model-gets-the-easier-it-is-to-break-51c34b99611d?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T06:53:55.000Z",
+      "metaDescription": "Researchers used logically inconsistent prompts to amplify response length by up to 26 times, exposing a potential resource-exhaustion…\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.32435714374364844,
+      "crawledAt": "2026-08-22T08:39:26.323Z",
+      "id": "5p46i4",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9169817566871643,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Researchers used logically inconsistent prompts to amplify response length by up to 26 times, exposing a potential resource-exhaustion. Researchers used logic inconsistent prompts. Researchers used logical inconsistent prompts for amplify response lengths by upto 26 times.",
+      "language": "en",
+      "processed_at": "2026-08-22T08:40:33.585Z"
+    },
     {
       "title": "I Stopped Using “Cinematic” as My Entire AI Video Prompt",
       "url": "https://generativeai.pub/i-stopped-using-cinematic-as-my-entire-ai-video-prompt-222544f24847?source=rss----440100e76000---4",
@@ -817,20 +864,39 @@
       "summary": " The 3rd Workshop on Epistemic Intelligence in Machine Learning is held at Neurips.com. The 3th Workshop is on the topic of Machine Learning.",
       "language": "en",
       "processed_at": "2026-08-22T01:44:13.447Z"
+    },
+    {
+      "title": "GLM-5.3 vs. GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing",
+      "url": "https://www.together.ai/blog/glm-5-3-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing",
+      "source": "Together AI Blog",
+      "source_domain": "together.ai",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T00:00:00.000Z",
+      "metaDescription": "We ran 904 DeepSWE rollouts on GLM-5.3 and GPT-5.6 Sol. Sol leads pass@1 by 3.7 points; GLM-5.3 wins pass@4 at half the cost, and a GLM-first cascade hits 85.9%.",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.32152901862076405,
+      "crawledAt": "2026-08-22T08:39:10.524Z",
+      "id": "s3e1gx",
+      "entities": [],
+      "summary": " We ran 904 DeepSWE rollouts on GLM-5.3 and GPT-5.-5.6 Sol. Sol leads pass@1 by 3.7 points; GLM.3 wins pass@4 at half the cost, and a GLM first cascade hits",
+      "language": "en",
+      "processed_at": "2026-08-22T08:41:05.681Z"
     }
   ],
-  "processedAt": "2026-08-22T04:44:28.780Z",
+  "processedAt": "2026-08-22T08:41:22.042Z",
   "categories": [
+    "safety-ethics",
     "creative-ai",
     "infrastructure",
     "ai-agents",
-    "safety-ethics",
     "developer-tool",
     "research-paper",
     "model-release"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 11,
-  "dailyArticlesCount": 26,
+  "newArticlesProcessed": 3,
+  "dailyArticlesCount": 29,
   "filterDate": "2026-08-22"
 }

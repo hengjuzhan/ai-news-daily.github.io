@@ -1,9 +1,56 @@
 {
-  "crawledAt": "2026-08-22T04:42:11.820Z",
+  "crawledAt": "2026-08-22T08:40:07.919Z",
   "totalSources": 70,
-  "totalArticles": 1678,
+  "totalArticles": 1673,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "How Can AI Improve Itself? A Simple Distribution View of Recursive Self-Improvement",
+      "url": "https://generativeai.pub/how-can-ai-improve-itself-a-simple-distribution-view-of-recursive-self-improvement-ac856fda40c3?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T07:45:45.000Z",
+      "metaDescription": "Recursive self-improvement sounds mysterious. Thinking of an LLM as a probability distribution over possible research ideas makes the…\nContinue reading on Generative AI »",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.29803925869209696,
+      "crawledAt": "2026-08-22T08:39:26.175Z",
+      "id": "mcqljr",
+      "entities": [],
+      "summary": " Thinking of an LLM as a probability distribution over possible research ideas makes the idea more interesting. Recursive self-improvement sounds mysterious.",
+      "language": "en",
+      "processed_at": "2026-08-22T08:40:19.224Z"
+    },
+    {
+      "title": "The Smarter the AI Model Gets, the Easier It Is to Break",
+      "url": "https://generativeai.pub/the-smarter-the-ai-model-gets-the-easier-it-is-to-break-51c34b99611d?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T06:53:55.000Z",
+      "metaDescription": "Researchers used logically inconsistent prompts to amplify response length by up to 26 times, exposing a potential resource-exhaustion…\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.32435714374364844,
+      "crawledAt": "2026-08-22T08:39:26.323Z",
+      "id": "5p46i4",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9169817566871643,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Researchers used logically inconsistent prompts to amplify response length by up to 26 times, exposing a potential resource-exhaustion. Researchers used logic inconsistent prompts. Researchers used logical inconsistent prompts for amplify response lengths by upto 26 times.",
+      "language": "en",
+      "processed_at": "2026-08-22T08:40:33.585Z"
+    },
     {
       "title": "I Stopped Using “Cinematic” as My Entire AI Video Prompt",
       "url": "https://generativeai.pub/i-stopped-using-cinematic-as-my-entire-ai-video-prompt-222544f24847?source=rss----440100e76000---4",
@@ -4638,6 +4685,25 @@
       "summary": " Slack Code embeds AI coding agents — including An An An AI coding agent. Slack wants to drag AI coding out of the terminal and into the group chat.",
       "language": "en",
       "processed_at": "2026-08-21T01:48:40.403Z"
+    },
+    {
+      "title": "GLM-5.3 vs. GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing",
+      "url": "https://www.together.ai/blog/glm-5-3-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing",
+      "source": "Together AI Blog",
+      "source_domain": "together.ai",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-08-21T00:00:00.000Z",
+      "metaDescription": "We ran 904 DeepSWE rollouts on GLM-5.3 and GPT-5.6 Sol. Sol leads pass@1 by 3.7 points; GLM-5.3 wins pass@4 at half the cost, and a GLM-first cascade hits 85.9%.",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.32152901862076405,
+      "crawledAt": "2026-08-22T08:39:10.524Z",
+      "id": "s3e1gx",
+      "entities": [],
+      "summary": " We ran 904 DeepSWE rollouts on GLM-5.3 and GPT-5.-5.6 Sol. Sol leads pass@1 by 3.7 points; GLM.3 wins pass@4 at half the cost, and a GLM first cascade hits",
+      "language": "en",
+      "processed_at": "2026-08-22T08:41:05.681Z"
     },
     {
       "title": "What I Learned Shipping AI Into a Real Clinical Workflow",
@@ -53576,283 +53642,14 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-08-07T09:09:42.551Z"
-    },
-    {
-      "title": "DeepMind's AI Trick Everyone Should Copy",
-      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
-      "source": "Two Minute Papers",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T08:22:00.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.9647621547471875,
-      "crawledAt": "2026-08-07T09:06:09.866Z",
-      "id": "15nycy",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9962772727012634,
-          "index": 1,
-          "word": "Deep",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9974815845489502,
-          "index": 2,
-          "word": "##M",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9939945936203003,
-          "index": 3,
-          "word": "##ind",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-07T09:09:42.693Z"
-    },
-    {
-      "title": "DeepMind Just Changed How AI Sees The World",
-      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
-      "source": "Two Minute Papers",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T08:22:00.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.8766427134330174,
-      "crawledAt": "2026-08-07T13:16:16.893Z",
-      "id": "wa2u01",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8404594659805298,
-          "index": 12,
-          "word": "World",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-07T13:20:59.208Z"
-    },
-    {
-      "title": "10 Years of Engineering. 11 Days of AI. Everything Changed.",
-      "url": "https://generativeai.pub/10-years-of-engineering-11-days-of-ai-everything-changed-a0c311ab5475?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T08:15:46.000Z",
-      "metaDescription": "",
-      "category": "industry-news",
-      "difficulty": 3,
-      "confidence": 0.2916752354759413,
-      "crawledAt": "2026-08-07T09:05:53.920Z",
-      "id": "xl9c83",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-07T09:09:42.861Z"
-    },
-    {
-      "title": "what will be the future of LocalLLaMA?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhugh3/what_will_be_the_future_of_localllama/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T08:06:52.000Z",
-      "metaDescription": "For a long time now, the most popular posts on LocalLLaMA have been either about using LLM in the cloud or about politics. \n I suspect that people using local models are about 10% now.\n You can say th",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.3964698747781232,
-      "crawledAt": "2026-08-07T16:59:07.369Z",
-      "id": "i9n11w",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9888299703598022,
-          "index": 7,
-          "word": "Local",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9710181355476379,
-          "index": 8,
-          "word": "##LL",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8762811422348022,
-          "index": 9,
-          "word": "##a",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9420463442802429,
-          "index": 10,
-          "word": "##MA",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The most popular posts on LocalLLaMA have been about using LLM in the cloud or about politics. I suspect that people using local models are about 10% now.",
-      "language": "en",
-      "processed_at": "2026-08-07T17:06:49.275Z"
-    },
-    {
-      "title": "The Billion-Dollar AI Frontier Just Broke Open: Inside Qwen 3.8 Max",
-      "url": "https://ai.plainenglish.io/the-billion-dollar-ai-frontier-just-broke-open-inside-qwen-3-8-max-16366f376d01?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T07:44:20.000Z",
-      "metaDescription": "Unpacking the 16-day agentic endurance of Qwen 3.8 Max and why local, open-source AI is the new standard for engineering.\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "product-launch",
-      "difficulty": 6,
-      "confidence": 0.4301274494804731,
-      "crawledAt": "2026-08-07T09:05:51.031Z",
-      "id": "4988nh",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9959375262260437,
-          "index": 2,
-          "word": "Bill",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8400886058807373,
-          "index": 3,
-          "word": "##ion",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9721266627311707,
-          "index": 5,
-          "word": "Dollar",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8093017339706421,
-          "index": 6,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9938076138496399,
-          "index": 7,
-          "word": "Frontier",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Open-source AI is the new standard for engineering, says CNN's John Sutter. The open-source technology is the latest in the field of open- source technology.",
-      "language": "en",
-      "processed_at": "2026-08-07T09:10:11.521Z"
-    },
-    {
-      "title": "I Treated AI Like a Junior Developer for 30 Days",
-      "url": "https://ai.plainenglish.io/i-treated-ai-like-a-junior-developer-for-30-days-09b7636db54e?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T06:32:28.000Z",
-      "metaDescription": "The results surprised me — and so did the mistakes.\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.2939051499127179,
-      "crawledAt": "2026-08-07T09:05:51.150Z",
-      "id": "14kqpd",
-      "entities": [],
-      "summary": " The results surprised me, and so did the mistakes. The results were surprising, and the results were not surprising.",
-      "language": "en",
-      "processed_at": "2026-08-07T09:10:21.317Z"
-    },
-    {
-      "title": "5 Niche Python Skills That Command Premium Freelance Rates",
-      "url": "https://python.plainenglish.io/5-niche-python-skills-that-command-premium-freelance-rates-e4743e6962e4?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-08-07T06:32:16.000Z",
-      "metaDescription": "Continue reading on Python in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.4358050984303259,
-      "crawledAt": "2026-08-07T09:05:52.302Z",
-      "id": "um1v7o",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-07T09:10:21.420Z"
-    },
-    {
-      "title": "Human Creativity Is Having Its Worst Year Yet",
-      "url": "https://ai.plainenglish.io/human-creativity-is-having-its-worst-year-yet-aad1b6a93dbd?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T05:43:26.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.6736314648169716,
-      "crawledAt": "2026-08-07T09:05:51.211Z",
-      "id": "3qomco",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.8241021037101746,
-          "index": 5,
-          "word": "##vity",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-07T09:10:21.746Z"
     }
   ],
-  "processedAt": "2026-08-22T04:44:28.778Z",
+  "processedAt": "2026-08-22T08:41:22.040Z",
   "categories": [
+    "safety-ethics",
     "creative-ai",
     "infrastructure",
     "ai-agents",
-    "safety-ethics",
     "product-launch",
     "developer-tool",
     "research-paper",
@@ -53861,9 +53658,9 @@
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 11,
-  "existingArticlesKept": 1718,
+  "newArticlesProcessed": 3,
+  "existingArticlesKept": 1678,
   "cleanupApplied": true,
-  "cleanedUpCount": 51,
+  "cleanedUpCount": 8,
   "rollingWindowDays": 15
 }
