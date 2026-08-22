@@ -1,9 +1,99 @@
 {
-  "crawledAt": "2026-08-22T08:40:07.919Z",
+  "crawledAt": "2026-08-22T12:54:08.961Z",
   "totalSources": 70,
-  "totalArticles": 29,
+  "totalArticles": 32,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Your Fabric Capacity Isn’t Slow — It’s Throttled",
+      "url": "https://pub.towardsai.net/your-fabric-capacity-isnt-slow-it-s-throttled-8621162ca775?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T12:01:02.000Z",
+      "metaDescription": "Bursting, smoothing, carryforward and burndown — plus the Capacity Metrics chart that tells you whether you can wait it out or have to…\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.2828758475289792,
+      "crawledAt": "2026-08-22T12:53:13.388Z",
+      "id": "q3r31i",
+      "entities": [],
+      "summary": " Bursting, smoothing, carryforward and burndown — plus the Capacity Metrics chart that tells you whether you can wait it out or have to…",
+      "language": "en",
+      "processed_at": "2026-08-22T12:54:21.013Z"
+    },
+    {
+      "title": "Top 5 Agentic AI Research Papers of 2026",
+      "url": "https://www.analyticsvidhya.com/blog/2026/08/top-agentic-ai-research-papers/",
+      "source": "Analytics Vidhya",
+      "source_domain": "analyticsvidhya.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-08-22T11:11:08.000Z",
+      "metaDescription": "Agentic AI research in 2026 has moved past the basic question of whether a model can be called a tool. The harder questions are whether an agent can finish long workflows, survive live websites, verif",
+      "category": "research-paper",
+      "difficulty": 9,
+      "confidence": 0.8498439660079593,
+      "crawledAt": "2026-08-22T12:54:03.256Z",
+      "id": "akc02p",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8120414018630981,
+          "index": 4,
+          "word": "##ic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8231576085090637,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8014397025108337,
+          "index": 6,
+          "word": "Research",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9754285216331482,
+          "index": 7,
+          "word": "Papers",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Agentic AI research in 2026 has moved past the basic question of whether a model can be called a tool. The harder questions are whether an agent can finish long workflows, survive live websites, verif.",
+      "language": "en",
+      "processed_at": "2026-08-22T12:54:42.795Z"
+    },
+    {
+      "title": "Why does lightgbm not fit my toy example but catboost does?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T09:37:05.000Z",
+      "metaDescription": "I am trying understand how tree-based regression model handle the dependencies of the target variables on the interaction of explanatory variables.\n However my experiment revealed that my understandin",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2837018520659089,
+      "crawledAt": "2026-08-22T12:53:28.220Z",
+      "id": "aoig3",
+      "entities": [],
+      "summary": " The study of the effects of a tree-based regression model is based on the influence of the user's behaviour. The results of the study show that the effect of the regression model on a user's behavior is more likely to be true.",
+      "language": "en",
+      "processed_at": "2026-08-22T12:55:06.073Z"
+    },
     {
       "title": "How Can AI Improve Itself? A Simple Distribution View of Recursive Self-Improvement",
       "url": "https://generativeai.pub/how-can-ai-improve-itself-a-simple-distribution-view-of-recursive-self-improvement-ac856fda40c3?source=rss----440100e76000---4",
@@ -885,18 +975,18 @@
       "processed_at": "2026-08-22T08:41:05.681Z"
     }
   ],
-  "processedAt": "2026-08-22T08:41:22.042Z",
+  "processedAt": "2026-08-22T12:55:06.200Z",
   "categories": [
-    "safety-ethics",
-    "creative-ai",
     "infrastructure",
+    "research-paper",
+    "creative-ai",
+    "safety-ethics",
     "ai-agents",
     "developer-tool",
-    "research-paper",
     "model-release"
   ],
   "processingMethod": "ai-powered",
   "newArticlesProcessed": 3,
-  "dailyArticlesCount": 29,
+  "dailyArticlesCount": 32,
   "filterDate": "2026-08-22"
 }
