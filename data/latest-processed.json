@@ -1,9 +1,558 @@
 {
-  "crawledAt": "2026-08-22T16:34:12.974Z",
+  "crawledAt": "2026-08-23T01:50:38.965Z",
   "totalSources": 70,
-  "totalArticles": 1629,
+  "totalArticles": 1639,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "I fine tuned Gemma 4 12B for a 2.7x improvement on tool calling because I can't fit anything else comfortably into my 16 GBs of Vram",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-23T01:30:21.000Z",
+      "metaDescription": "Gemma 12B is obviously a very well trained model, I always thought the fine tuning they did on it wasn't really cut out for agentic coding. From my own experiences it struggles to use the tools it's g",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.31895097193539906,
+      "crawledAt": "2026-08-23T01:49:57.133Z",
+      "id": "c40mfw",
+      "entities": [],
+      "summary": " Gemma 12B is obviously a very well trained model, says Gemma. Gemma's own experiences it struggles to use the tools it's g g g.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:50:52.085Z"
+    },
+    {
+      "title": "What exactly does one need to prepare for a role at Anthropic and OpenAi?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vvt856/what_exactly_does_one_need_to_prepare_for_a_role/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-23T01:00:20.000Z",
+      "metaDescription": "I keep seeing claims on Blind about how the hiring bar is ridiculous and there's a need to be pretty familiar with some difficult level leetcode questions -- but what exactly does one need to prepare ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.296997861867477,
+      "crawledAt": "2026-08-23T01:50:02.544Z",
+      "id": "2xv8ex",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9739920496940613,
+          "index": 13,
+          "word": "##throp",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8128807544708252,
+          "index": 17,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Blind's hiring bar is ridiculous and there's a need to be familiar with some difficult level leetcode questions. What exactly does one need to prepare?",
+      "language": "en",
+      "processed_at": "2026-08-23T01:51:02.887Z"
+    },
+    {
+      "title": "Closed AI has been real quiet since Qwen 3.8 27B dropped.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvt7lo/closed_ai_has_been_real_quiet_since_qwen_38_27b/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-23T00:59:42.000Z",
+      "metaDescription": "This is something I've noticed. Back when GLM 5.2 and Kimi K3 launched, there was a media push on pushing how dangerous open source models are. \n We know why they were doing this; these open models ar",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.3137831035731057,
+      "crawledAt": "2026-08-23T01:49:55.727Z",
+      "id": "w4ih8r",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.94549161195755,
+          "index": 9,
+          "word": "Q",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " GLM 5.2 and Kimi K3 have been pushing open source models. This is something I've noticed. This is a media push on pushing how dangerous open source model models are.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:51:17.041Z"
+    },
+    {
+      "title": "OpenAI remembered Linux exists: ChatGPT desktop",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vvp2jc/openai_remembered_linux_exists_chatgpt_desktop/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T21:53:30.000Z",
+      "metaDescription": "I just saw that OpenAI has finally put ChatGPT desktop for Linux into public preview.\n I am a developer who uses Linux for basically everything and have been for decades. I've seen a lot of developer ",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.3658841618554162,
+      "crawledAt": "2026-08-23T01:50:02.080Z",
+      "id": "2gad06",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.997626781463623,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9955039620399475,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9757768511772156,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9022178053855896,
+          "index": 5,
+          "word": "Linux",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " OpenAI has finally put ChatGPT desktop for Linux into public preview. I am a developer who uses Linux for basically everything and have been for decades.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:52:17.877Z"
+    },
+    {
+      "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
+      "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-22T21:30:00.000Z",
+      "metaDescription": "For much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and ",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.974336604386794,
+      "crawledAt": "2026-08-23T01:49:25.764Z",
+      "id": "mw14zb",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9477165937423706,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and acts across multi step workflows.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:52:40.906Z"
+    },
+    {
+      "title": "Authenticator App issue...",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vvnpg7/authenticator_app_issue/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T20:55:52.000Z",
+      "metaDescription": "Anyone else seem to have had their settings switched to authenticator but there is none...and the other option of send prompt to phone app doesnt even work? I am completely locked out of MFA and I Nev",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.7934178527029728,
+      "crawledAt": "2026-08-23T01:50:02.737Z",
+      "id": "7405cu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9554352164268494,
+          "index": 1,
+          "word": "Au",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8602180480957031,
+          "index": 2,
+          "word": "##the",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9505444765090942,
+          "index": 4,
+          "word": "##cat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8527756929397583,
+          "index": 5,
+          "word": "##or",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9124775528907776,
+          "index": 6,
+          "word": "A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The other option of sending prompt to phone app does not work. I am completely locked out of MFA and I Nev Nev. Anyone else seem to have had their settings switched to authenticator but there is none.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:52:53.825Z"
+    },
+    {
+      "title": "Create tts voice from actual animal sound recording",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvnfy4/create_tts_voice_from_actual_animal_sound/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T20:45:00.000Z",
+      "metaDescription": "In short, I want to create voices for my real chickens that I'm creating generated videos of. Ultimately I would like to create voices to be used in a tts application that are based on their real \"voi",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.40830094413426843,
+      "crawledAt": "2026-08-23T01:49:59.095Z",
+      "id": "utsdrq",
+      "entities": [],
+      "summary": "In short, I want to create voices for my real chickens that I'm creating generated videos of. Ultimately, I would like to create Voices to be used in a tts application that are based on their real \"voi\"",
+      "language": "en",
+      "processed_at": "2026-08-23T01:53:07.905Z"
+    },
+    {
+      "title": "New 100B Liquid AI model coming soon",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvmxls/new_100b_liquid_ai_model_coming_soon/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T20:24:18.000Z",
+      "metaDescription": "Liquid AI currently possesses among the fastest LLM architectures around, and some of the best SLMs (in terms of utility IMO) around, so I'm very excited to see what a potential 100B LFM (3?) model wo",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.36218292758966963,
+      "crawledAt": "2026-08-23T01:49:55.532Z",
+      "id": "l8gomg",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.968341588973999,
+          "index": 4,
+          "word": "Li",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8976202011108398,
+          "index": 5,
+          "word": "##quid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8677597641944885,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Liquid AI currently possesses among the fastest LLM architectures around, and some of the best SLMs (in terms of utility IMO) around.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:53:38.584Z"
+    },
+    {
+      "title": "Are humans and AI just modeling each other’s models of reality?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vvme86/are_humans_and_ai_just_modeling_each_others/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T20:02:59.000Z",
+      "metaDescription": "I started thinking about how humans don’t experience reality directly we experience our nervous system’s interpretation of it, and somehow ended up realizing how weird talking to AI actually is. I mea",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3652630320655015,
+      "crawledAt": "2026-08-23T01:50:03.673Z",
+      "id": "z5jzmi",
+      "entities": [],
+      "summary": "I. I started thinking about how humans experience our nervous system's interpretation of our nervous systems. I was surprised to find out how weird talking to AI is actually a real thing.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:53:53.770Z"
+    },
+    {
+      "title": "Unlocking Rotational Dynamics via data-RoPE",
+      "url": "https://pub.towardsai.net/unlocking-rotational-dynamics-via-data-rope-cef343249d0c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T20:01:01.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.29391564340849863,
+      "crawledAt": "2026-08-23T01:49:45.642Z",
+      "id": "e23x7s",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9190394282341003,
+          "index": 5,
+          "word": "##ota",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9820705056190491,
+          "index": 6,
+          "word": "##tional",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9792379140853882,
+          "index": 7,
+          "word": "Dynamics",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:53:53.866Z"
+    },
+    {
+      "title": "How Deep Research Agents Turn Complex Questions Into Trusted Answers",
+      "url": "https://pub.towardsai.net/how-deep-research-agents-turn-complex-questions-into-trusted-answers-03a331803e36?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T19:01:01.000Z",
+      "metaDescription": "AI Engineer Interview Preparation\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.2621393512989785,
+      "crawledAt": "2026-08-23T01:49:45.727Z",
+      "id": "r8cpo9",
+      "entities": [],
+      "summary": " AI Engineer Interview Preparation is part of Towards AI. The AI Engineer is a member of the team of engineers at the University of Cambridge.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:54:19.408Z"
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T19:00:00.000Z",
+      "metaDescription": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "category": "ai-agents",
+      "difficulty": 8,
+      "confidence": 0.5871432551527851,
+      "crawledAt": "2026-08-23T01:49:08.553Z",
+      "id": "h4199h",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9491151571273804,
+          "index": 7,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9871164560317993,
+          "index": 8,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9766212105751038,
+          "index": 9,
+          "word": "##ind",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9574838876724243,
+          "index": 14,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9867299199104309,
+          "index": 26,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.847883939743042,
+          "index": 27,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Faraday is an AI agent that can replicate scientific papers. Faraday is the latest in a growing number of AI agents to be developed.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:54:30.496Z"
+    },
+    {
+      "title": "Watching that wattage, in your terminal.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvkgs6/watching_that_wattage_in_your_terminal/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T18:47:37.000Z",
+      "metaDescription": "Released today: version 1.3 of energygraph\n Zero build dependencies, lightweight tool for live views of the power-consumption.\n Version 1.3 adds support for dGPUs from nvidia, intel, amd.\n Depending o",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.771514713352645,
+      "crawledAt": "2026-08-23T01:49:58.482Z",
+      "id": "1bp2t8",
+      "entities": [],
+      "summary": " Version 1.3 of energygraph Zero build dependencies, lightweight tool for live views of the power-consumption. Version 1,3 adds support for dGPUs from n Nvidia, intel, amd.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:54:44.438Z"
+    },
+    {
+      "title": "How Misconfigured Admin System Prompts Can Invert Every Single LLM Safety Layer",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vvjcjb/how_misconfigured_admin_system_prompts_can_invert/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T18:04:43.000Z",
+      "metaDescription": "I’m a cybersecurity researcher at a lab and ran an experiment, which led to a genuinely catastrophic outcome that I fully wasn’t expecting. There’s around 25 images in my report that show how Claude g",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.9513173162199738,
+      "crawledAt": "2026-08-23T01:50:03.334Z",
+      "id": "i7n5e",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9294349551200867,
+          "index": 17,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The result of the experiment was a result of an experiment that led to a catastrophic outcome. Claude g. g.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:55:07.780Z"
+    },
+    {
+      "title": "I just wanted a workout guide for my wall",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vvi428/i_just_wanted_a_workout_guide_for_my_wall/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T17:17:18.000Z",
+      "metaDescription": "Wasn't expecting this! Must be a new kind of exercise for the truly gifted.\n    submitted by    /u/user2776632  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2895421635429537,
+      "crawledAt": "2026-08-23T01:50:01.630Z",
+      "id": "t5w373",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:55:30.035Z"
+    },
+    {
+      "title": "Building a Proper Backend for My LangGraph AI Agent",
+      "url": "https://towardsdatascience.com/building-a-proper-backend-for-my-langgraph-ai-agent/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T17:00:00.000Z",
+      "metaDescription": "Turning a demo agent into something that can keep real booking data\nThe post Building a Proper Backend for My LangGraph AI Agent appeared first on Towards Data Science.",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9248378381473256,
+      "crawledAt": "2026-08-23T01:49:19.890Z",
+      "id": "vrcsqc",
+      "entities": [],
+      "summary": " The post is part of a series of posts on Towards Data Science. The post includes a series on how to build a demo agent.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:55:40.430Z"
+    },
+    {
+      "title": "Frontier Coding Agents Have a Communication Problem",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vvh07t/frontier_coding_agents_have_a_communication/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T16:33:48.000Z",
+      "metaDescription": "submitted by    /u/SupPandaHugger  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5603213654100934,
+      "crawledAt": "2026-08-23T01:50:03.943Z",
+      "id": "urnjvl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8797315955162048,
+          "index": 1,
+          "word": "Frontier",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:55:40.512Z"
+    },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
       "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
@@ -103,6 +652,61 @@
       "processed_at": "2026-08-22T16:34:47.543Z"
     },
     {
+      "title": "Fixed the MTP head on Ornith1.5 35B A3B. +3% TPS -33% wall clock",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvft7b/fixed_the_mtp_head_on_ornith15_35b_a3b_3_tps_33/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T15:46:27.000Z",
+      "metaDescription": "I love the Ornith 35B local models, 1.0 has been running my HAM radio rig for me. I have a hackRF receiver and a 5 watt quansheng portable the both run headless through the PC. I tried out the new Orn",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.27720434762069024,
+      "crawledAt": "2026-08-23T01:49:58.926Z",
+      "id": "duc485",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9977467060089111,
+          "index": 4,
+          "word": "M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8866624236106873,
+          "index": 5,
+          "word": "##TP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "The new Ornith 35B local models, 1.0 has been running my HAM radio rig for me. I love the Ornith local models. I have a hackRF receiver and a 5 watt quansheng portable.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:55:55.905Z"
+    },
+    {
+      "title": "How to remove trendy speech from llms?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvfbde/how_to_remove_trendy_speech_from_llms/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T15:26:22.000Z",
+      "metaDescription": "For example:\n Instead of saying: \"I created this new ID\"\n It says: \"I minted this new ID\"\n Instead of: \"This alternative path is available\"\n It says: \"this escape hatch is available\"\n This speech is s",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.3660408254106149,
+      "crawledAt": "2026-08-23T01:49:56.602Z",
+      "id": "4i5wsk",
+      "entities": [],
+      "summary": " For example: \"I created this new ID\" Instead of: \"This alternative path is available\" It says: \"this escape hatch is available. This speech is s s s. Instead of saying: \" I created thisnew ID\"",
+      "language": "en",
+      "processed_at": "2026-08-23T01:56:12.622Z"
+    },
+    {
       "title": "Multi-Document RAG: A Folder of Unrelated PDFs Is One Long Document with a Nested Outline",
       "url": "https://towardsdatascience.com/multi-document-rag-a-folder-of-unrelated-pdfs-is-one-long-document-with-a-nested-outline/",
       "source": "Towards Data Science",
@@ -120,6 +724,61 @@
       "summary": " No shared fields means no index to build. One summary line per file plus each file's own table of contents.",
       "language": "en",
       "processed_at": "2026-08-22T16:35:17.129Z"
+    },
+    {
+      "title": "This is a great sub, regardless of what complaints people have about it.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vveabg/this_is_a_great_sub_regardless_of_what_complaints/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T14:44:56.000Z",
+      "metaDescription": "This is a genuine community of real generally respectful adult human beings. Despite the enthusiasm all of you have for local AI, you can recognize that there are times when local LLMs are flawed, and",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.3350576800321347,
+      "crawledAt": "2026-08-23T01:49:55.897Z",
+      "id": "iin1t2",
+      "entities": [],
+      "summary": "This is a genuine community of real human beings. This is a real community of human beings. Despite the enthusiasm for local AI, there are times when local LLMs are flawed.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:56:24.193Z"
+    },
+    {
+      "title": "Working on a accessible creative production suite featuring a OpenAI voice-first multi-agent assistant. All core tools are completely free for hands-on use, while AI-powered automated generation runs on a flexible credit system with no subs.",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vvd1yi/working_on_a_accessible_creative_production_suite/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T13:53:28.000Z",
+      "metaDescription": "So what started out as a text based chatbot project 8 months ago as my first ever project as a self taught coder is developing into something different. I've created an agent within my chat bot to hel",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7659882354241255,
+      "crawledAt": "2026-08-23T01:50:04.311Z",
+      "id": "g7k147",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9163693785667419,
+          "index": 11,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9937769174575806,
+          "index": 34,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A self-taught coder has created a chatbot to help people in the chat bot. The chatbot is a text-based chatbot. The chat bot is a chat bot that is a bot that can be used to help a person in the bot.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:56:41.295Z"
     },
     {
       "title": "Why We Fine-Tuned SigLip",
@@ -210,6 +869,69 @@
       "summary": " Agentic AI research in 2026 has moved past the basic question of whether a model can be called a tool. The harder questions are whether an agent can finish long workflows, survive live websites, verif.",
       "language": "en",
       "processed_at": "2026-08-22T12:54:42.795Z"
+    },
+    {
+      "title": "Feral Flame 狼子-rowshi-",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vv8hi1/feral_flame_狼子rowshi/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T10:09:53.000Z",
+      "metaDescription": "submitted by    /u/Thin_Ad_8068  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.532643400539747,
+      "crawledAt": "2026-08-23T01:50:04.043Z",
+      "id": "z0d1h8",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:57:04.938Z"
+    },
+    {
+      "title": "Artificial Analysis \"Intelligence\": A meaningless benchmark",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv80xa/artificial_analysis_intelligence_a_meaningless/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T09:43:38.000Z",
+      "metaDescription": "https://preview.redd.it/84zi5nsdawkh1.png?width=2368&format=png&auto=webp&s=1109e69db807b153064b1f5b61d22cf1e9fbca05\n Another user posted the benchmarks for Qwen 3.8 27B today, and while I think Qwen ",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.301266546101898,
+      "crawledAt": "2026-08-23T01:49:58.305Z",
+      "id": "6fdo74",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.884653627872467,
+          "index": 2,
+          "word": "##ific",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9818283319473267,
+          "index": 3,
+          "word": "##ial",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.995481014251709,
+          "index": 4,
+          "word": "Analysis",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion of AI research findings and academic papers.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:57:05.321Z"
     },
     {
       "title": "Why does lightgbm not fit my toy example but catboost does?",
@@ -488,6 +1210,25 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-08-22T04:43:12.424Z"
+    },
+    {
+      "title": "gpt-reserve what is this?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1vuzuuh/gptreserve_what_is_this/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-22T02:18:36.000Z",
+      "metaDescription": "I just noticed this in my usage, though I haven't come across anything new in my model picker. What is this?\n    submitted by    /u/20240412  \n [link]   [comments]",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.34431789500313326,
+      "crawledAt": "2026-08-23T01:50:02.897Z",
+      "id": "t5kv3g",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-08-23T01:57:17.453Z"
     },
     {
       "title": "Qwen 3.8 27b - PI AGENT vs OPENCODE - another smaple",
@@ -51577,486 +52318,25 @@
       "summary": "Discussion of AI research findings and academic papers.",
       "language": "en",
       "processed_at": "2026-08-08T05:04:38.981Z"
-    },
-    {
-      "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
-      "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-08-07T21:45:39.000Z",
-      "metaDescription": "As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.9721762288618336,
-      "crawledAt": "2026-08-08T01:59:07.187Z",
-      "id": "y7zkc1",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8996845483779907,
-          "index": 2,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9932153820991516,
-          "index": 11,
-          "word": "Claude",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.8829029202461243,
-          "index": 12,
-          "word": "Opus",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " AI agents are buckling under the weight of long-term tasks that require multiple interactions. Dividing the work among a team is a key part of the process.",
-      "language": "en",
-      "processed_at": "2026-08-08T02:01:49.196Z"
-    },
-    {
-      "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
-      "url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-08-07T21:09:00.000Z",
-      "metaDescription": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.25341785312488363,
-      "crawledAt": "2026-08-08T01:58:57.258Z",
-      "id": "du5zvr",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.9997361302375793,
-          "index": 12,
-          "word": "Mexico",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Six deaths reported among screwworm cases attributed to flies. One directly attributed to the flies. Six deaths were reported among the cases.",
-      "language": "en",
-      "processed_at": "2026-08-08T02:02:06.743Z"
-    },
-    {
-      "title": "DeepSeek V4 Flash 0731 - ARC-AGI Results",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi9zls/deepseek_v4_flash_0731_arcagi_results/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T19:17:49.000Z",
-      "metaDescription": "submitted by    /u/johnnyApplePRNG  \n [link]   [comments]",
-      "category": "product-launch",
-      "difficulty": 4,
-      "confidence": 0.3627975891573806,
-      "crawledAt": "2026-08-07T20:48:52.662Z",
-      "id": "q6dg2e",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.9210760593414307,
-          "index": 2,
-          "word": "##S",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-07T20:49:51.215Z"
-    },
-    {
-      "title": "Power of Learning: An Introduction to Federated Learning and LLMs",
-      "url": "https://ai.plainenglish.io/power-of-learning-an-introduction-to-federated-learning-and-llms-0e5e3b14b70f?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T19:10:32.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.3539765540753578,
-      "crawledAt": "2026-08-07T20:48:47.557Z",
-      "id": "yxkik",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8217304348945618,
-          "index": 3,
-          "word": "Learning",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9841461777687073,
-          "index": 9,
-          "word": "##erated",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9070708155632019,
-          "index": 10,
-          "word": "Learning",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.8562436103820801,
-          "index": 12,
-          "word": "LL",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-07T20:49:51.384Z"
-    },
-    {
-      "title": "Got job as Director of AI and Systems development self-taught",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi8jlr/got_job_as_director_of_ai_and_systems_development/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T18:24:25.000Z",
-      "metaDescription": "Hey everyone, I just wanted to share my journey here for some motivation.\n Three years ago, I saw the sudden spike in AI and realized it was the future of tech. My goal at the time was to be an indie ",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.2956517785112112,
-      "crawledAt": "2026-08-07T20:48:51.669Z",
-      "id": "1fiauv",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9977899789810181,
-          "index": 6,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9961071014404297,
-          "index": 7,
-          "word": "and",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9978270530700684,
-          "index": 8,
-          "word": "Systems",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Three years ago, I saw the sudden spike in AI and realized it was the future of tech. My goal at the time was to be an indie. I just wanted to share my journey here for some motivation.",
-      "language": "en",
-      "processed_at": "2026-08-07T20:50:38.088Z"
-    },
-    {
-      "title": "Small GPT Transformer-decoder from Scratch",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1vi80ee/small_gpt_transformerdecoder_from_scratch/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-08-07T18:04:54.000Z",
-      "metaDescription": "200M model trained on 4B tokens from fineweb-edu, achieves a final mean loss of ~3.3\n and perplexity 28.\n The model is made almost entirely from scratch and includes\n  \nMulti-head self-attention\n Rota",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.5170981896385611,
-      "crawledAt": "2026-08-09T05:11:06.456Z",
-      "id": "vh6hi6",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8395888805389404,
-          "index": 2,
-          "word": "GP",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " 200M model trained on 4B tokens from fineweb-edu, achieves a final mean loss of ~3.3. 3.3.",
-      "language": "en",
-      "processed_at": "2026-08-09T05:12:16.332Z"
-    },
-    {
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
-      "source": "Hugging Face Blog",
-      "source_domain": "huggingface.co",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T17:53:32.000Z",
-      "metaDescription": "",
-      "category": "tutorial-guide",
-      "difficulty": 4,
-      "confidence": 0.9561922162121516,
-      "crawledAt": "2026-08-07T20:47:50.394Z",
-      "id": "m10wbu",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9499660730361938,
-          "index": 8,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
-      "language": "en",
-      "processed_at": "2026-08-07T20:50:46.290Z"
-    },
-    {
-      "title": "Good OCR strategy for detecting doctor handwritting",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vi7br1/good_ocr_strategy_for_detecting_doctor/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T17:40:14.000Z",
-      "metaDescription": "I gotta develop a tool which get the text from doctor handwritting, do you guys know any good strategy for that?\n https://preview.redd.it/jisxcc2aozhh1.png?width=1103&format=png&auto=webp&s=333b14a782",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.31190422597224216,
-      "crawledAt": "2026-08-08T01:59:42.339Z",
-      "id": "uv0dcg",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9900311827659607,
-          "index": 2,
-          "word": "O",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-08T02:02:26.427Z"
-    },
-    {
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-08-07T17:36:22.000Z",
-      "metaDescription": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.4277134424421222,
-      "crawledAt": "2026-08-07T20:48:05.093Z",
-      "id": "gt8916",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.997056782245636,
-          "index": 1,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9959758520126343,
-          "index": 2,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9814227819442749,
-          "index": 3,
-          "word": "##I",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff. Gurman says it is not a ripoff.",
-      "language": "en",
-      "processed_at": "2026-08-07T20:51:04.926Z"
-    },
-    {
-      "title": "How snails engineer their slime",
-      "url": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-08-07T17:25:20.000Z",
-      "metaDescription": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus.",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.253913080630336,
-      "crawledAt": "2026-08-07T20:48:05.199Z",
-      "id": "9vdpco",
-      "entities": [],
-      "summary": " Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus. Collagen, calcium work to achieve different mechanical properties.",
-      "language": "en",
-      "processed_at": "2026-08-07T20:51:32.176Z"
-    },
-    {
-      "title": "OpenAI RAG Guide for Developers",
-      "url": "https://ai.plainenglish.io/openai-rag-guide-for-developers-181f01812957?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T17:23:31.000Z",
-      "metaDescription": "",
-      "category": "developer-tool",
-      "difficulty": 4,
-      "confidence": 0.8094530132596551,
-      "crawledAt": "2026-08-07T20:48:47.874Z",
-      "id": "5mriqw",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8468425273895264,
-          "index": 1,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8539894819259644,
-          "index": 2,
-          "word": "##A",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-07T20:51:32.259Z"
-    },
-    {
-      "title": "On-Device AI Development: Privacy First App Architecture",
-      "url": "https://ai.plainenglish.io/on-device-ai-development-privacy-first-app-architecture-d04cef0b3cc3?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T17:23:19.000Z",
-      "metaDescription": "Artificial intelligence is becoming a practical part of mobile and web applications. From voice assistants and smart search to document…\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "developer-tool",
-      "difficulty": 3,
-      "confidence": 0.9619175563977604,
-      "crawledAt": "2026-08-07T20:48:48.022Z",
-      "id": "unzkch",
-      "entities": [],
-      "summary": " Artificial intelligence is becoming a practical part of mobile and web applications. From voice assistants and smart search to document, the world is changing.",
-      "language": "en",
-      "processed_at": "2026-08-07T20:51:42.652Z"
-    },
-    {
-      "title": "When Claude Fable Built 1f916.ai",
-      "url": "https://ai.plainenglish.io/when-claude-fable-built-1f916-ai-unicode-folks-would-know-eda759a47165?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T17:11:01.000Z",
-      "metaDescription": "What is this site nobody asked for, but everybody’s agent wants to join.\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.5134520431600244,
-      "crawledAt": "2026-08-07T20:48:48.155Z",
-      "id": "8y263h",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.994330883026123,
-          "index": 2,
-          "word": "Claude",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9676312804222107,
-          "index": 3,
-          "word": "F",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9152246713638306,
-          "index": 4,
-          "word": "##able",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " What is this site nobody asked for, but everybody’s agent wants to join. What is a site nobody asks for, is this website nobody asked to join.",
-      "language": "en",
-      "processed_at": "2026-08-07T20:52:06.466Z"
-    },
-    {
-      "title": "2026 NeurIPS: Where are you going?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vi5xz7/2026_neurips_where_are_you_going_d/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-07T16:48:43.000Z",
-      "metaDescription": "To all those in the US: Are you planning to go Sydney or Atlanta this year for NeurIPS? \n    submitted by    /u/rsesrsfh  \n [link]   [comments]",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.30158399819248016,
-      "crawledAt": "2026-08-08T01:59:41.552Z",
-      "id": "iklmkb",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-08T02:02:41.514Z"
     }
   ],
-  "processedAt": "2026-08-22T16:35:40.317Z",
+  "processedAt": "2026-08-23T01:57:17.458Z",
   "categories": [
-    "safety-ethics",
-    "ai-agents",
-    "research-paper",
-    "creative-ai",
     "infrastructure",
+    "creative-ai",
+    "ai-agents",
+    "model-release",
+    "safety-ethics",
+    "industry-news",
+    "research-paper",
     "product-launch",
     "developer-tool",
-    "tutorial-guide",
-    "model-release",
-    "industry-news"
+    "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 5,
-  "existingArticlesKept": 1656,
+  "newArticlesProcessed": 24,
+  "existingArticlesKept": 1629,
   "cleanupApplied": true,
-  "cleanedUpCount": 32,
+  "cleanedUpCount": 14,
   "rollingWindowDays": 15
 }
