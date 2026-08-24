@@ -1,9 +1,178 @@
 {
-  "crawledAt": "2026-08-24T04:55:46.694Z",
+  "crawledAt": "2026-08-24T08:57:30.563Z",
   "totalSources": 70,
-  "totalArticles": 45,
+  "totalArticles": 58,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "From Beginner Python to Professional Python: What Actually Changes?",
+      "url": "https://python.plainenglish.io/from-beginner-python-to-professional-python-what-actually-changes-c11a0d73ae1a?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-24T07:58:07.000Z",
+      "metaDescription": "You can write Python for years and still write beginner-level Python.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.25088637522268403,
+      "crawledAt": "2026-08-24T08:57:02.797Z",
+      "id": "vuebth",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9943758845329285,
+          "index": 2,
+          "word": "Be",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8344929218292236,
+          "index": 3,
+          "word": "##gin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9122026562690735,
+          "index": 4,
+          "word": "##ner",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9734269976615906,
+          "index": 5,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9879013895988464,
+          "index": 7,
+          "word": "Professional",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9891440868377686,
+          "index": 8,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8531336784362793,
+          "index": 12,
+          "word": "Changes",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " You can write Python for years and still write beginner-level Python. You can also write Python in Plain English.",
+      "language": "en",
+      "processed_at": "2026-08-24T08:57:38.887Z"
+    },
+    {
+      "title": "Qwen 3.8 27B Aider score",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwwc31/qwen_38_27b_aider_score/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T07:56:50.000Z",
+      "metaDescription": "I ran the Aider benchmark on Qwen 3.8 27B FP8 with FP8 KV cache 256K context vLLM.\n The score: 72.9\n This matches Gemini 2.5 Pro from 2025-04-12 which also scored 72.9.\n Beats Claude Opus 4 from 2025-",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6079035794363286,
+      "crawledAt": "2026-08-24T08:57:06.237Z",
+      "id": "ftv17d",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9884694814682007,
+          "index": 1,
+          "word": "Q",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9033461809158325,
+          "index": 2,
+          "word": "##wen",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I ran the Aider benchmark on Qwen 3.8 27B FP8 with FP8 KV cache 256K context vLLM. The score: 72.9.9 matches Gemini 2.5 Pro from 2025-04-12 which also scored 72. 9.9.",
+      "language": "en",
+      "processed_at": "2026-08-24T08:57:53.922Z"
+    },
+    {
+      "title": "Best model for 16gb ram Mac",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwwa62/best_model_for_16gb_ram_mac/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T07:53:34.000Z",
+      "metaDescription": "Hi everybody! Every now and then these days, we’re seeing really huge open-weight models popping up.\n But since not everybody has a DGX Station at home, I’m interested in really small models. It’s inc",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.3318451618041808,
+      "crawledAt": "2026-08-24T08:57:06.751Z",
+      "id": "n4n0v0",
+      "entities": [],
+      "summary": "Every now and then, we’re seeing really huge open-weight models popping up. But since not everybody has a DGX Station at home, I’m interested in really small models.",
+      "language": "en",
+      "processed_at": "2026-08-24T08:58:06.555Z"
+    },
+    {
+      "title": "Hugging Face for sales? 👀",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwv6j1/hugging_face_for_sales/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T06:48:38.000Z",
+      "metaDescription": "wonder what would happen to open models, if the sales went through, and hf got acquired by a big tech shop? 👀 \n https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8\n $13 b",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.30282242752901334,
+      "crawledAt": "2026-08-24T08:57:06.128Z",
+      "id": "uykuvl",
+      "entities": [],
+      "summary": " The $13.8 billion-plus-a-year-old company is a tech giant. The company is based in San Francisco, California.",
+      "language": "en",
+      "processed_at": "2026-08-24T08:58:25.320Z"
+    },
+    {
+      "title": "Best AI Voice Cloning in 2026: How to Clone Your Voice With AI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwus60/best_ai_voice_cloning_in_2026_how_to_clone_your/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T06:24:57.000Z",
+      "metaDescription": "submitted by    /u/NextgenAITrading  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.885774896267023,
+      "crawledAt": "2026-08-24T08:57:06.164Z",
+      "id": "8wbv22",
+      "entities": [],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-08-24T08:58:25.369Z"
+    },
     {
       "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
       "url": "https://arxiv.org/abs/2608.20341",
@@ -1323,6 +1492,213 @@
       "processed_at": "2026-08-24T05:10:12.561Z"
     },
     {
+      "title": "From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing",
+      "url": "https://arxiv.org/abs/2608.20423",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T04:00:00.000Z",
+      "metaDescription": "arXiv:2608.20423v1 Announce Type: new \nAbstract: Personalised thermal comfort is essential for occupant wellbeing and for the development of more responsive building-control strategies, yet convention",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.3462176094932404,
+      "crawledAt": "2026-08-24T08:57:25.664Z",
+      "id": "7s7d0h",
+      "entities": [],
+      "summary": " Personalised thermal comfort is essential for occupant wellbeing, yet convention convention. arXiv:2608.20423v1 Announce Type: new thermal comfort.",
+      "language": "en",
+      "processed_at": "2026-08-24T08:59:15.712Z"
+    },
+    {
+      "title": "BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers",
+      "url": "https://arxiv.org/abs/2608.20427",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T04:00:00.000Z",
+      "metaDescription": "arXiv:2608.20427v1 Announce Type: new \nAbstract: Dense causal attention remains expensive at long context even when implemented with highly optimized exact kernels. We study BF1, a deterministic block",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3272856619284338,
+      "crawledAt": "2026-08-24T08:57:25.726Z",
+      "id": "3vkgwl",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9432277083396912,
+          "index": 6,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9446713924407959,
+          "index": 10,
+          "word": "##ya",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Dense causal attention remains expensive at long context even when implemented with highly optimized kernels. We study BF1, a deterministic block, a Deterministic block.",
+      "language": "en",
+      "processed_at": "2026-08-24T08:59:25.304Z"
+    },
+    {
+      "title": "Shared Physics Responses Recover Hidden Rankings in Neural Operator Libraries",
+      "url": "https://arxiv.org/abs/2608.20441",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T04:00:00.000Z",
+      "metaDescription": "arXiv:2608.20441v1 Announce Type: new \nAbstract: Selecting the optimal neural-operator prediction during deployment is challenging when high-fidelity reference solutions are unavailable. We demonstrat",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.33336780626391,
+      "crawledAt": "2026-08-24T08:57:25.950Z",
+      "id": "jljs8g",
+      "entities": [],
+      "summary": " arXiv:2608.20441v1 Announcement: Selecting the optimal neural-operator prediction during deployment is challenging when high-fidelity reference solutions are unavailable.",
+      "language": "en",
+      "processed_at": "2026-08-24T09:00:05.466Z"
+    },
+    {
+      "title": "Mutual information and sensitivity analysis for feature selection in customer targeting: a comparative study",
+      "url": "https://arxiv.org/abs/2608.20447",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T04:00:00.000Z",
+      "metaDescription": "arXiv:2608.20447v1 Announce Type: new \nAbstract: Feature selection is a highly relevant task in a data-driven knowledge discovery project. Several techniques have been developed aiming at finding the ",
+      "category": "research-paper",
+      "difficulty": 7,
+      "confidence": 0.2852218814213818,
+      "crawledAt": "2026-08-24T08:57:26.119Z",
+      "id": "gx6tyi",
+      "entities": [],
+      "summary": " Feature selection is a highly relevant task in a data-driven knowledge discovery project. Several techniques have been developed aiming at finding the best information.",
+      "language": "en",
+      "processed_at": "2026-08-24T09:00:33.575Z"
+    },
+    {
+      "title": "When Clean Data Hurts: Learning with Monotone Corruptions Beyond Binary Classification",
+      "url": "https://arxiv.org/abs/2608.20480",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T04:00:00.000Z",
+      "metaDescription": "arXiv:2608.20480v1 Announce Type: new \nAbstract: Optimal learners are tailored to exploit the i.i.d.\\ data assumption underlying the classic PAC model. What if an i.i.d.\\ training sample were corrupte",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.321485353873247,
+      "crawledAt": "2026-08-24T08:57:26.182Z",
+      "id": "tddwv9",
+      "entities": [],
+      "summary": "ArXiv:2608. arXiv.20480v1 Announce Type: new type: Optimal learners are tailored to exploit the i.i.d.d., data assumption underlying the classic PAC model.",
+      "language": "en",
+      "processed_at": "2026-08-24T09:00:47.003Z"
+    },
+    {
+      "title": "Metag: A dataset to build agentic meta-reviewing capabilities",
+      "url": "https://arxiv.org/abs/2608.20488",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T04:00:00.000Z",
+      "metaDescription": "arXiv:2608.20488v1 Announce Type: new \nAbstract: AI tools increasingly support tasks across the scientific research cycle, from experiment design and manuscript preparation to peer review. At the same",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.6559434792820927,
+      "crawledAt": "2026-08-24T08:57:26.239Z",
+      "id": "q2ou5s",
+      "entities": [],
+      "summary": " AI tools increasingly support tasks across the scientific research cycle, from experiment design to peer review. At the same time, AI tools are used to help with research projects.",
+      "language": "en",
+      "processed_at": "2026-08-24T09:00:56.413Z"
+    },
+    {
+      "title": "Bern2Edge: A Neurosymbolic Compiler for Edge Deployment via Bernstein Polynomial Networks",
+      "url": "https://arxiv.org/abs/2608.20497",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T04:00:00.000Z",
+      "metaDescription": "arXiv:2608.20497v1 Announce Type: new \nAbstract: Deploying high-accuracy neural networks on resource-constrained edge devices remains challenging, as existing approaches treat training, compression, a",
+      "category": "developer-tool",
+      "difficulty": 7,
+      "confidence": 0.4568263742762535,
+      "crawledAt": "2026-08-24T08:57:26.298Z",
+      "id": "x24cqk",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9174066781997681,
+          "index": 9,
+          "word": "##osy",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9978999495506287,
+          "index": 22,
+          "word": "Bernstein",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.997913658618927,
+          "index": 23,
+          "word": "Pol",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.998476505279541,
+          "index": 24,
+          "word": "##yn",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980738759040833,
+          "index": 25,
+          "word": "##omi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9964455962181091,
+          "index": 26,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9974827766418457,
+          "index": 27,
+          "word": "Networks",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "ArXiv:2608.20497v1 Announcement: Deploying high-accuracy neural networks on resource-constrained devices.",
+      "language": "en",
+      "processed_at": "2026-08-24T09:01:05.461Z"
+    },
+    {
       "title": "Loop Engineering + Graph Engineering: Building a Compounding Second Brain with OKF-based LLM Wiki",
       "url": "https://pub.towardsai.net/loop-engineering-graph-engineering-building-a-compounding-second-brain-with-okf-based-llm-wiki-c2ca3bbc46df?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -1502,6 +1878,42 @@
       "processed_at": "2026-08-24T05:11:22.710Z"
     },
     {
+      "title": "Qwen 27B 3.8 quants: How low can you go?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwpi9z/qwen_27b_38_quants_how_low_can_you_go/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T01:51:00.000Z",
+      "metaDescription": "For the GPU poor among us: I'm curious what results you're getting with low quants of Qwen 27B 3.8. My main inference hardware is limited (Mac mini M4 24 GB), but I'm getting great results with Unslot",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.4252364172182992,
+      "crawledAt": "2026-08-24T08:57:06.873Z",
+      "id": "xab4a0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9922115802764893,
+          "index": 1,
+          "word": "Q",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8911332488059998,
+          "index": 2,
+          "word": "##wen",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Qwen 27B 3.8.8: I'm getting great results with Unslot. My main inference hardware is limited (Mac mini M4 M4 24 GB), but I'm get great results.",
+      "language": "en",
+      "processed_at": "2026-08-24T09:01:43.001Z"
+    },
+    {
       "title": "ConvRot Quant method now in llama-cpp-turboquant",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwoseh/convrot_quant_method_now_in_llamacppturboquant/",
       "source": "r/LocalLLaMA",
@@ -1559,10 +1971,11 @@
       "processed_at": "2026-08-24T01:52:42.770Z"
     }
   ],
-  "processedAt": "2026-08-24T05:12:01.573Z",
+  "processedAt": "2026-08-24T09:01:43.005Z",
   "categories": [
-    "ai-agents",
     "creative-ai",
+    "model-release",
+    "ai-agents",
     "safety-ethics",
     "research-paper",
     "infrastructure",
@@ -1570,7 +1983,7 @@
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 42,
-  "dailyArticlesCount": 45,
+  "newArticlesProcessed": 13,
+  "dailyArticlesCount": 58,
   "filterDate": "2026-08-24"
 }
