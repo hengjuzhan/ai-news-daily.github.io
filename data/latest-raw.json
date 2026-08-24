@@ -1,9 +1,114 @@
 {
-  "crawledAt": "2026-08-23T20:31:53.108Z",
+  "crawledAt": "2026-08-24T01:48:42.877Z",
   "totalSources": 70,
-  "totalArticles": 305,
+  "totalArticles": 288,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "What Codex Unlocks for NTT Data",
+      "url": "https://www.youtube.com/watch?v=VDI4MiD6eh4",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T01:27:29.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-08-24T01:48:15.906Z",
+      "id": "6j296n"
+    },
+    {
+      "title": "Qwen 3.8 27B, just wanted to say thanks to you guys",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwowbu/qwen_38_27b_just_wanted_to_say_thanks_to_you_guys/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T01:22:02.000Z",
+      "metaDescription": "I commented on another Qwen 3.8 27B post that I was frustrated getting anything to work. You all gave some great comments.\n I nuked openwebui and straightened out my llama.cpp docker config.\n 1 hour o",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-08-24T01:48:05.933Z",
+      "id": "u41j7k"
+    },
+    {
+      "title": "ConvRot Quant method now in llama-cpp-turboquant",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwoseh/convrot_quant_method_now_in_llamacppturboquant/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T01:16:57.000Z",
+      "metaDescription": "It started here , and now https://github.com/TheTom/llama-cpp-turboquant/ has it.\n Imagine a Q6 quant with nearly Q8 KLD/PPL.\n Q6_CR and Q5_CR have a slight improvement over their base counterparts.\n ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-08-24T01:48:06.550Z",
+      "id": "lodfwd"
+    },
+    {
+      "title": "clean your dust bunnies",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwon35/clean_your_dust_bunnies/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-24T01:10:04.000Z",
+      "metaDescription": "Qwen 3.5 opus 4.6 distilled said I need to give him some maintenance.\n Featuring the wolfbox \n    submitted by    /u/TinFoilHat_69  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-08-24T01:48:06.869Z",
+      "id": "joer1f"
+    },
+    {
+      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-23T23:00:00.000Z",
+      "metaDescription": "Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-08-24T01:47:24.541Z",
+      "id": "vky7q"
+    },
+    {
+      "title": "Any upcoming models to be excited about?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwkicx/any_upcoming_models_to_be_excited_about/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-23T22:07:42.000Z",
+      "metaDescription": "I'm kind of new to the community and this sub is my only source of information, so I'd thought of asking if there are any upcoming models you guys are looking forward to. \n    submitted by    /u/zippy",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-08-24T01:48:04.912Z",
+      "id": "ojuxnn"
+    },
+    {
+      "title": "Best general purpose uncensored or censored coding model with 6GB VRAM and 64GB of RAM?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwidnm/best_general_purpose_uncensored_or_censored/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-23T20:41:30.000Z",
+      "metaDescription": "I haven't had a lot of luck in the reliability of the output of any models so far for local coding use, and find myself relying on Claude's limited free sessions to assist with coding. My coding appli",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-08-24T01:48:07.073Z",
+      "id": "lvrz44"
+    },
     {
       "title": "you can now use MTP in GLM-Air",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhj0l/you_can_now_use_mtp_in_glmair/",
@@ -16,7 +121,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.415Z",
+      "crawledAt": "2026-08-24T01:48:03.851Z",
       "id": "c9mn1u"
     },
     {
@@ -31,7 +136,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.491Z",
+      "crawledAt": "2026-08-24T01:47:12.497Z",
       "id": "z2s96x"
     },
     {
@@ -46,23 +151,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.576Z",
+      "crawledAt": "2026-08-24T01:48:04.421Z",
       "id": "bdm086"
-    },
-    {
-      "title": "Data Engineering for RAG: Building Reliable AI with Better Data Pipelines",
-      "url": "https://pub.towardsai.net/data-engineering-for-rag-building-reliable-ai-with-better-data-pipelines-b9a0d14339ef?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T20:01:02.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:26.401Z",
-      "id": "3jzpr1"
     },
     {
       "title": "We quantized Qwen 3.8 27B and compared the quants on an RTX 6000",
@@ -76,7 +166,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:33.920Z",
+      "crawledAt": "2026-08-24T01:48:03.654Z",
       "id": "gu5ny6"
     },
     {
@@ -91,38 +181,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.541Z",
+      "crawledAt": "2026-08-24T01:47:12.775Z",
       "id": "g1asil"
-    },
-    {
-      "title": "DeepSeek Didn’t Cut Prices. It Raised Them and Called it a Discount.",
-      "url": "https://pub.towardsai.net/deepseek-didnt-cut-prices-it-raised-them-and-called-it-a-discount-e0101fc1822e?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T19:01:01.000Z",
-      "metaDescription": "DeepSeek’s ‘discount’ will cost you 4x more. Here’s how to fight back.\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:26.463Z",
-      "id": "sxkfrw"
-    },
-    {
-      "title": "Tuning vLLM: What Every Setting Does to the Arithmetic",
-      "url": "https://pub.towardsai.net/tuning-vllm-what-every-setting-does-to-the-arithmetic-28d5f65e231b?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T18:01:01.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:26.495Z",
-      "id": "fit35h"
     },
     {
       "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
@@ -136,7 +196,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.268Z",
+      "crawledAt": "2026-08-24T01:48:04.720Z",
       "id": "llp2ie"
     },
     {
@@ -151,23 +211,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:33.683Z",
+      "crawledAt": "2026-08-24T01:48:03.444Z",
       "id": "tpc7nr"
-    },
-    {
-      "title": "OpenAI’s $40B Run Rate Proves Free ChatGPT Is Dead",
-      "url": "https://pub.towardsai.net/openais-40b-run-rate-proves-free-chatgpt-is-dead-6e558c0a433d?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T17:01:03.000Z",
-      "metaDescription": "Forget the 1B users. The 40% enterprise revenue split shows where the real money is.\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:26.552Z",
-      "id": "o7hfrs"
     },
     {
       "title": "Stop Your App From Hammering A Dying Service",
@@ -181,7 +226,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.412Z",
+      "crawledAt": "2026-08-24T01:47:58.710Z",
       "id": "u10vgm"
     },
     {
@@ -196,7 +241,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.171Z",
+      "crawledAt": "2026-08-24T01:47:25.835Z",
       "id": "8po62p"
     },
     {
@@ -211,38 +256,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.467Z",
+      "crawledAt": "2026-08-24T01:47:58.873Z",
       "id": "wxrqui"
-    },
-    {
-      "title": "I Tested 8 Best ChatGPT Alternatives So You Don’t Have To",
-      "url": "https://pub.towardsai.net/i-tested-8-best-chatgpt-alternatives-so-you-dont-have-to-fddceb73ac40?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T16:01:01.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:26.587Z",
-      "id": "dydwr7"
-    },
-    {
-      "title": "Has anyone tried agent-lightning?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwazhv/has_anyone_tried_agentlightning/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T16:00:31.000Z",
-      "metaDescription": "submitted by    /u/MrMrsPotts  \n [link]   [comments]",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.934Z",
-      "id": "ks49ul"
     },
     {
       "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
@@ -256,7 +271,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.577Z",
+      "crawledAt": "2026-08-24T01:47:12.983Z",
       "id": "1u7vl8"
     },
     {
@@ -271,23 +286,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.046Z",
+      "crawledAt": "2026-08-24T01:48:05.698Z",
       "id": "gm13w8"
-    },
-    {
-      "title": "Why Won’t AI Just Say “I Don’t Know”?",
-      "url": "https://pub.towardsai.net/why-wont-ai-just-say-i-don-t-know-3dcf18d20d80?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T15:01:02.000Z",
-      "metaDescription": "The answer isn’t that it can’t tell. It’s that we spent three years training it not to.\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:26.650Z",
-      "id": "3dzsrf"
     },
     {
       "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
@@ -301,7 +301,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.631Z",
+      "crawledAt": "2026-08-24T01:47:13.288Z",
       "id": "y2bzqa"
     },
     {
@@ -316,7 +316,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.232Z",
+      "crawledAt": "2026-08-24T01:47:26.020Z",
       "id": "9drfct"
     },
     {
@@ -331,7 +331,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.048Z",
+      "crawledAt": "2026-08-24T01:47:56.188Z",
       "id": "z5zv0e"
     },
     {
@@ -346,7 +346,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.216Z",
+      "crawledAt": "2026-08-24T01:48:05.083Z",
       "id": "j6a98i"
     },
     {
@@ -361,38 +361,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:10.519Z",
+      "crawledAt": "2026-08-24T01:47:17.794Z",
       "id": "rfxh30"
-    },
-    {
-      "title": "Durable Execution: Agents That Survive Crashes, Restarts, and Weekends",
-      "url": "https://pub.towardsai.net/durable-execution-agents-that-survive-crashes-restarts-and-weekends-4ffbeaef4ec1?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T14:01:02.000Z",
-      "metaDescription": "Your agent will die mid-task. The only question is whether the work dies with it. Part ten of a series on production agentic AI.\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:26.715Z",
-      "id": "v3sf14"
-    },
-    {
-      "title": "I trained a game music generator",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw6zsq/i_trained_a_game_music_generator/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T13:18:15.000Z",
-      "metaDescription": "I trained a instrumental game music generator. The 1.2B DiT was trained on 1 cloud H100 from scratch in 8 days; I used the VAE from Stable Audio 3.\n https://huggingface.co/Localsong/Localsong\n https:/",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.750Z",
-      "id": "5fs3fu"
     },
     {
       "title": "Stripe Bought the Off-Ramp",
@@ -406,7 +376,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.470Z",
+      "crawledAt": "2026-08-24T01:48:00.348Z",
       "id": "totmzo"
     },
     {
@@ -421,7 +391,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:52.593Z",
+      "crawledAt": "2026-08-24T01:48:35.905Z",
       "id": "r0psre"
     },
     {
@@ -436,23 +406,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.632Z",
+      "crawledAt": "2026-08-24T01:48:06.720Z",
       "id": "fertkr"
-    },
-    {
-      "title": "How Do You Know What Your Agent Is Actually Doing?",
-      "url": "https://pub.towardsai.net/how-do-you-know-what-your-agent-is-actually-doing-5795b68a96db?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T13:01:01.000Z",
-      "metaDescription": "How to trace what your agent sees, decides, and does.\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:26.764Z",
-      "id": "pkwlxk"
     },
     {
       "title": "Bug Detection Blind Spots in AI Coding Harnesses",
@@ -466,38 +421,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.286Z",
+      "crawledAt": "2026-08-24T01:47:26.176Z",
       "id": "s50uc5"
-    },
-    {
-      "title": "Qwen3.8-27B NVFP4 with vision + 451K token KV-cache on one RTX 5090 at 120 tokens/s average",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw5q47/qwen3827b_nvfp4_with_vision_451k_token_kvcache_on/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T12:19:05.000Z",
-      "metaDescription": "Hello,\n So I've been trying lots of combinations in that never-ending landscape of options and settings.\n I wanted a proper quant of 3.8 27B running as fast as possible on my 5090 at 400W, with vision",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.827Z",
-      "id": "jnx66p"
-    },
-    {
-      "title": "Give Your Voice Agent Hands: Tool Calling on Twilio ConversationRelay with Python",
-      "url": "https://pub.towardsai.net/give-your-voice-agent-hands-tool-calling-on-twilio-conversationrelay-with-python-327d068e26f9?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T12:01:04.000Z",
-      "metaDescription": "Give Your Voice Agent Hands: tool calling on Twilio ConversationRelay with Python\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:26.821Z",
-      "id": "is62hb"
     },
     {
       "title": "Volcanoes that made history",
@@ -511,7 +436,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:10.555Z",
+      "crawledAt": "2026-08-24T01:47:17.875Z",
       "id": "cfcwcb"
     },
     {
@@ -526,7 +451,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:33.775Z",
+      "crawledAt": "2026-08-24T01:48:04.099Z",
       "id": "os5u3x"
     },
     {
@@ -541,7 +466,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.149Z",
+      "crawledAt": "2026-08-24T01:48:05.568Z",
       "id": "3a3wvu"
     },
     {
@@ -556,7 +481,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.477Z",
+      "crawledAt": "2026-08-24T01:48:06.307Z",
       "id": "2rl490"
     },
     {
@@ -571,23 +496,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.342Z",
+      "crawledAt": "2026-08-24T01:48:06.131Z",
       "id": "4xrazo"
-    },
-    {
-      "title": "Nvidia Poolside deal to compete with Chinese Open Weights",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw0mcd/nvidia_poolside_deal_to_compete_with_chinese_open/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T07:31:55.000Z",
-      "metaDescription": "Nvidia is investing $1 billion in Poolside and paying $6 billion to license its technology and hire most of its engineers.\n Over 100 Poolside staff will move to Nvidia to work on Nemotron.\n Good news ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.691Z",
-      "id": "l0bh85"
     },
     {
       "title": "Qwen 3.8 27B is a game changer.",
@@ -601,23 +511,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:33.844Z",
+      "crawledAt": "2026-08-24T01:48:04.607Z",
       "id": "mmvido"
-    },
-    {
-      "title": "Gemma Refuses Your System Prompt. Mistral Moves It. Llama Rewrites It.",
-      "url": "https://pub.towardsai.net/gemma-refuses-your-system-prompt-mistral-moves-it-llama-rewrites-it-56675719d168?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T05:11:26.000Z",
-      "metaDescription": "I rendered the same chat — one system message, one user message, then again at three and five turns — through twelve production chat…\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:26.887Z",
-      "id": "pjl6zd"
     },
     {
       "title": "“The All Spark” Cluster: Upgrading from 16 - 36 DGX Sparks",
@@ -631,23 +526,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:33.995Z",
+      "crawledAt": "2026-08-24T01:48:05.286Z",
       "id": "c089ri"
-    },
-    {
-      "title": "I fine tuned Gemma 4 12B for a 2.7x improvement on tool calling because I can't fit anything else comfortably into my 16 GBs of Vram",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-23T01:30:21.000Z",
-      "metaDescription": "Gemma 12B is obviously a very well trained model, I always thought the fine tuning they did on it wasn't really cut out for agentic coding. From my own experiences it struggles to use the tools it's g",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:34.901Z",
-      "id": "c40mfw"
     },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -661,7 +541,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.670Z",
+      "crawledAt": "2026-08-24T01:47:13.502Z",
       "id": "ycm4ku"
     },
     {
@@ -676,7 +556,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.383Z",
+      "crawledAt": "2026-08-24T01:47:24.716Z",
       "id": "mw14zb"
     },
     {
@@ -691,7 +571,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:37.476Z",
+      "crawledAt": "2026-08-24T01:48:10.952Z",
       "id": "1cwdsq"
     },
     {
@@ -706,7 +586,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.729Z",
+      "crawledAt": "2026-08-24T01:47:13.686Z",
       "id": "h4199h"
     },
     {
@@ -721,7 +601,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.337Z",
+      "crawledAt": "2026-08-24T01:47:26.320Z",
       "id": "vrcsqc"
     },
     {
@@ -736,7 +616,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.764Z",
+      "crawledAt": "2026-08-24T01:47:13.797Z",
       "id": "tauqow"
     },
     {
@@ -751,7 +631,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.813Z",
+      "crawledAt": "2026-08-24T01:47:13.946Z",
       "id": "s7yyur"
     },
     {
@@ -766,7 +646,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.526Z",
+      "crawledAt": "2026-08-24T01:47:59.044Z",
       "id": "hppgi6"
     },
     {
@@ -781,7 +661,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.401Z",
+      "crawledAt": "2026-08-24T01:47:26.518Z",
       "id": "my55c0"
     },
     {
@@ -796,7 +676,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.072Z",
+      "crawledAt": "2026-08-24T01:47:56.245Z",
       "id": "pb1dov"
     },
     {
@@ -811,7 +691,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.461Z",
+      "crawledAt": "2026-08-24T01:47:26.691Z",
       "id": "s3n0xf"
     },
     {
@@ -826,7 +706,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:10.607Z",
+      "crawledAt": "2026-08-24T01:47:17.988Z",
       "id": "bj20ww"
     },
     {
@@ -841,7 +721,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:52.648Z",
+      "crawledAt": "2026-08-24T01:48:36.074Z",
       "id": "akc02p"
     },
     {
@@ -856,7 +736,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:10.658Z",
+      "crawledAt": "2026-08-24T01:47:18.102Z",
       "id": "jidrth"
     },
     {
@@ -871,7 +751,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.495Z",
+      "crawledAt": "2026-08-24T01:48:00.417Z",
       "id": "6uf51c"
     },
     {
@@ -886,7 +766,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.546Z",
+      "crawledAt": "2026-08-24T01:48:00.574Z",
       "id": "mcqljr"
     },
     {
@@ -901,7 +781,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.594Z",
+      "crawledAt": "2026-08-24T01:48:00.723Z",
       "id": "5p46i4"
     },
     {
@@ -916,7 +796,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.619Z",
+      "crawledAt": "2026-08-24T01:48:00.789Z",
       "id": "eofpb3"
     },
     {
@@ -931,7 +811,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.649Z",
+      "crawledAt": "2026-08-24T01:48:00.876Z",
       "id": "m2idku"
     },
     {
@@ -946,7 +826,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:10.709Z",
+      "crawledAt": "2026-08-24T01:47:18.218Z",
       "id": "cmlm41"
     },
     {
@@ -961,7 +841,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.579Z",
+      "crawledAt": "2026-08-24T01:47:59.198Z",
       "id": "qjzwmy"
     },
     {
@@ -976,7 +856,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:13.793Z",
+      "crawledAt": "2026-08-24T01:47:21.234Z",
       "id": "i7u4ya"
     },
     {
@@ -991,7 +871,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.870Z",
+      "crawledAt": "2026-08-24T01:47:14.119Z",
       "id": "wt8swe"
     },
     {
@@ -1006,7 +886,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.909Z",
+      "crawledAt": "2026-08-24T01:47:14.242Z",
       "id": "i60jxb"
     },
     {
@@ -1021,7 +901,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:10.756Z",
+      "crawledAt": "2026-08-24T01:47:18.330Z",
       "id": "rmwmo8"
     },
     {
@@ -1036,7 +916,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:10.808Z",
+      "crawledAt": "2026-08-24T01:47:18.450Z",
       "id": "forip5"
     },
     {
@@ -1051,7 +931,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.966Z",
+      "crawledAt": "2026-08-24T01:47:14.421Z",
       "id": "5sb8un"
     },
     {
@@ -1066,7 +946,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:10.856Z",
+      "crawledAt": "2026-08-24T01:47:18.557Z",
       "id": "6dgmym"
     },
     {
@@ -1081,7 +961,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:10.902Z",
+      "crawledAt": "2026-08-24T01:47:18.653Z",
       "id": "ickwrv"
     },
     {
@@ -1096,7 +976,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:29.979Z",
+      "crawledAt": "2026-08-24T01:47:57.479Z",
       "id": "t8ns5h"
     },
     {
@@ -1111,7 +991,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.005Z",
+      "crawledAt": "2026-08-24T01:47:57.557Z",
       "id": "tkbr6w"
     },
     {
@@ -1126,7 +1006,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.058Z",
+      "crawledAt": "2026-08-24T01:47:57.710Z",
       "id": "nvcnaq"
     },
     {
@@ -1141,7 +1021,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.111Z",
+      "crawledAt": "2026-08-24T01:47:57.865Z",
       "id": "7bi47o"
     },
     {
@@ -1156,7 +1036,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.159Z",
+      "crawledAt": "2026-08-24T01:47:57.998Z",
       "id": "5ev0p0"
     },
     {
@@ -1171,7 +1051,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.188Z",
+      "crawledAt": "2026-08-24T01:47:58.076Z",
       "id": "kudtwt"
     },
     {
@@ -1186,7 +1066,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.216Z",
+      "crawledAt": "2026-08-24T01:47:58.152Z",
       "id": "o4mhqj"
     },
     {
@@ -1201,7 +1081,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.263Z",
+      "crawledAt": "2026-08-24T01:47:58.287Z",
       "id": "l92d0t"
     },
     {
@@ -1216,7 +1096,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.313Z",
+      "crawledAt": "2026-08-24T01:47:58.434Z",
       "id": "gqw6tn"
     },
     {
@@ -1231,7 +1111,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.367Z",
+      "crawledAt": "2026-08-24T01:47:58.585Z",
       "id": "q52y4q"
     },
     {
@@ -1246,7 +1126,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:10.949Z",
+      "crawledAt": "2026-08-24T01:47:18.754Z",
       "id": "w7bt3s"
     },
     {
@@ -1261,7 +1141,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.503Z",
+      "crawledAt": "2026-08-24T01:47:26.812Z",
       "id": "85x0ap"
     },
     {
@@ -1276,7 +1156,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.563Z",
+      "crawledAt": "2026-08-24T01:47:26.988Z",
       "id": "ml3mt2"
     },
     {
@@ -1291,7 +1171,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.019Z",
+      "crawledAt": "2026-08-24T01:47:40.400Z",
       "id": "1q7naa"
     },
     {
@@ -1306,7 +1186,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.071Z",
+      "crawledAt": "2026-08-24T01:47:40.565Z",
       "id": "tfrrv9"
     },
     {
@@ -1321,7 +1201,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.625Z",
+      "crawledAt": "2026-08-24T01:47:59.327Z",
       "id": "tol078"
     },
     {
@@ -1336,7 +1216,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.129Z",
+      "crawledAt": "2026-08-24T01:47:56.417Z",
       "id": "tkz621"
     },
     {
@@ -1351,7 +1231,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.122Z",
+      "crawledAt": "2026-08-24T01:47:40.721Z",
       "id": "uexo6i"
     },
     {
@@ -1366,7 +1246,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.180Z",
+      "crawledAt": "2026-08-24T01:47:40.904Z",
       "id": "b7jz6k"
     },
     {
@@ -1381,7 +1261,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:10.995Z",
+      "crawledAt": "2026-08-24T01:47:18.854Z",
       "id": "giwigi"
     },
     {
@@ -1396,7 +1276,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.187Z",
+      "crawledAt": "2026-08-24T01:48:15.275Z",
       "id": "mu26dl"
     },
     {
@@ -1411,7 +1291,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.047Z",
+      "crawledAt": "2026-08-24T01:47:18.978Z",
       "id": "6ssbi4"
     },
     {
@@ -1426,7 +1306,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.441Z",
+      "crawledAt": "2026-08-24T01:47:24.900Z",
       "id": "dfa6tm"
     },
     {
@@ -1441,7 +1321,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.676Z",
+      "crawledAt": "2026-08-24T01:47:59.475Z",
       "id": "857toq"
     },
     {
@@ -1456,7 +1336,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.639Z",
+      "crawledAt": "2026-08-24T01:47:27.189Z",
       "id": "p69wsd"
     },
     {
@@ -1471,7 +1351,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.682Z",
+      "crawledAt": "2026-08-24T01:48:00.974Z",
       "id": "g6kj0i"
     },
     {
@@ -1486,7 +1366,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.213Z",
+      "crawledAt": "2026-08-24T01:48:15.346Z",
       "id": "80g9q5"
     },
     {
@@ -1501,7 +1381,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.703Z",
+      "crawledAt": "2026-08-24T01:47:59.542Z",
       "id": "uwlhqg"
     },
     {
@@ -1516,7 +1396,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.727Z",
+      "crawledAt": "2026-08-24T01:47:59.603Z",
       "id": "wopqdk"
     },
     {
@@ -1531,7 +1411,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.699Z",
+      "crawledAt": "2026-08-24T01:47:27.366Z",
       "id": "jdhrhu"
     },
     {
@@ -1546,23 +1426,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:50.366Z",
+      "crawledAt": "2026-08-24T01:48:37.724Z",
       "id": "kt9eve"
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-08-21T14:00:00.000Z",
-      "metaDescription": "There's about to be a big fight to secure access to space.",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:12.003Z",
-      "id": "1wa9ya"
     },
     {
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
@@ -1576,8 +1441,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:12.065Z",
+      "crawledAt": "2026-08-24T01:47:14.618Z",
       "id": "of8sv2"
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-21T14:00:00.000Z",
+      "metaDescription": "There's about to be a big fight to secure access to space.",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-08-24T01:47:14.739Z",
+      "id": "1wa9ya"
     },
     {
       "title": "Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions",
@@ -1591,7 +1471,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.755Z",
+      "crawledAt": "2026-08-24T01:47:27.534Z",
       "id": "tysr4h"
     },
     {
@@ -1606,7 +1486,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.097Z",
+      "crawledAt": "2026-08-24T01:47:19.094Z",
       "id": "e0zpcm"
     },
     {
@@ -1621,7 +1501,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.474Z",
+      "crawledAt": "2026-08-24T01:47:22.740Z",
       "id": "j33t9y"
     },
     {
@@ -1636,7 +1516,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:50.402Z",
+      "crawledAt": "2026-08-24T01:48:37.841Z",
       "id": "a3bf4y"
     },
     {
@@ -1651,7 +1531,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.808Z",
+      "crawledAt": "2026-08-24T01:47:27.700Z",
       "id": "vuegcr"
     },
     {
@@ -1666,7 +1546,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:50.959Z",
+      "crawledAt": "2026-08-24T01:48:39.152Z",
       "id": "mfsvww"
     },
     {
@@ -1681,7 +1561,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.025Z",
+      "crawledAt": "2026-08-24T01:48:39.328Z",
       "id": "gjeqpm"
     },
     {
@@ -1696,7 +1576,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:19.537Z",
+      "crawledAt": "2026-08-24T01:47:36.442Z",
       "id": "fex4qw"
     },
     {
@@ -1711,7 +1591,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.186Z",
+      "crawledAt": "2026-08-24T01:47:56.580Z",
       "id": "9odtb5"
     },
     {
@@ -1726,7 +1606,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.147Z",
+      "crawledAt": "2026-08-24T01:47:19.215Z",
       "id": "rkjh0i"
     },
     {
@@ -1741,7 +1621,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.196Z",
+      "crawledAt": "2026-08-24T01:47:19.337Z",
       "id": "ftq1tw"
     },
     {
@@ -1756,7 +1636,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:52.709Z",
+      "crawledAt": "2026-08-24T01:48:36.266Z",
       "id": "n3awzd"
     },
     {
@@ -1771,7 +1651,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.768Z",
+      "crawledAt": "2026-08-24T01:47:59.727Z",
       "id": "njnry6"
     },
     {
@@ -1786,7 +1666,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.555Z",
+      "crawledAt": "2026-08-24T01:47:22.931Z",
       "id": "rhfbdc"
     },
     {
@@ -1801,7 +1681,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.614Z",
+      "crawledAt": "2026-08-24T01:47:23.087Z",
       "id": "jdzhvw"
     },
     {
@@ -1816,7 +1696,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.677Z",
+      "crawledAt": "2026-08-24T01:47:23.278Z",
       "id": "pblsdq"
     },
     {
@@ -1831,7 +1711,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:17.273Z",
+      "crawledAt": "2026-08-24T01:47:30.182Z",
       "id": "43f516"
     },
     {
@@ -1846,7 +1726,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:13.853Z",
+      "crawledAt": "2026-08-24T01:47:21.374Z",
       "id": "yelp0f"
     },
     {
@@ -1861,7 +1741,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.730Z",
+      "crawledAt": "2026-08-24T01:48:01.120Z",
       "id": "ns552i"
     },
     {
@@ -1876,7 +1756,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.768Z",
+      "crawledAt": "2026-08-24T01:48:01.241Z",
       "id": "4uj8eu"
     },
     {
@@ -1891,23 +1771,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:12.103Z",
+      "crawledAt": "2026-08-24T01:47:14.881Z",
       "id": "2puyne"
-    },
-    {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "Hugging Face Blog",
-      "source_domain": "huggingface.co",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-08-21T00:00:00.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:04.454Z",
-      "id": "qxdt88"
     },
     {
       "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
@@ -1921,7 +1786,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.502Z",
+      "crawledAt": "2026-08-24T01:47:25.110Z",
       "id": "elf0a8"
     },
     {
@@ -1936,7 +1801,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:24.125Z",
+      "crawledAt": "2026-08-24T01:47:45.108Z",
       "id": "s3e1gx"
     },
     {
@@ -1951,7 +1816,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:24.231Z",
+      "crawledAt": "2026-08-24T01:47:45.357Z",
       "id": "898rmt"
     },
     {
@@ -1966,7 +1831,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:12.156Z",
+      "crawledAt": "2026-08-24T01:47:15.047Z",
       "id": "12yx8m"
     },
     {
@@ -1981,7 +1846,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:12.206Z",
+      "crawledAt": "2026-08-24T01:47:15.202Z",
       "id": "gvt73o"
     },
     {
@@ -1996,7 +1861,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.245Z",
+      "crawledAt": "2026-08-24T01:47:19.455Z",
       "id": "gxi79h"
     },
     {
@@ -2011,7 +1876,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.240Z",
+      "crawledAt": "2026-08-24T01:47:41.093Z",
       "id": "hid1be"
     },
     {
@@ -2026,7 +1891,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.291Z",
+      "crawledAt": "2026-08-24T01:47:19.557Z",
       "id": "fo57yz"
     },
     {
@@ -2041,7 +1906,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.341Z",
+      "crawledAt": "2026-08-24T01:47:19.676Z",
       "id": "5lnqs6"
     },
     {
@@ -2056,7 +1921,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.311Z",
+      "crawledAt": "2026-08-24T01:47:41.314Z",
       "id": "b5h0"
     },
     {
@@ -2071,7 +1936,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:12.252Z",
+      "crawledAt": "2026-08-24T01:47:15.344Z",
       "id": "zfc2tq"
     },
     {
@@ -2086,7 +1951,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.560Z",
+      "crawledAt": "2026-08-24T01:47:25.288Z",
       "id": "78mk7h"
     },
     {
@@ -2101,7 +1966,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:37.506Z",
+      "crawledAt": "2026-08-24T01:48:11.026Z",
       "id": "io3jzj"
     },
     {
@@ -2116,7 +1981,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:12.303Z",
+      "crawledAt": "2026-08-24T01:47:15.499Z",
       "id": "1iu9ni"
     },
     {
@@ -2131,7 +1996,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:12.351Z",
+      "crawledAt": "2026-08-24T01:47:15.647Z",
       "id": "hi5jx9"
     },
     {
@@ -2146,7 +2011,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:13.905Z",
+      "crawledAt": "2026-08-24T01:47:21.496Z",
       "id": "6uxhzq"
     },
     {
@@ -2161,7 +2026,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:09.718Z",
+      "crawledAt": "2026-08-24T01:47:15.951Z",
       "id": "sf7jx7"
     },
     {
@@ -2176,7 +2041,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.846Z",
+      "crawledAt": "2026-08-24T01:47:27.819Z",
       "id": "b3dxkp"
     },
     {
@@ -2191,7 +2056,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:12.390Z",
+      "crawledAt": "2026-08-24T01:47:15.767Z",
       "id": "a438ug"
     },
     {
@@ -2206,7 +2071,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.215Z",
+      "crawledAt": "2026-08-24T01:47:56.684Z",
       "id": "40b59x"
     },
     {
@@ -2221,7 +2086,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.240Z",
+      "crawledAt": "2026-08-24T01:47:56.759Z",
       "id": "vba01y"
     },
     {
@@ -2236,7 +2101,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.287Z",
+      "crawledAt": "2026-08-24T01:47:56.901Z",
       "id": "o9r4xg"
     },
     {
@@ -2251,7 +2116,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.336Z",
+      "crawledAt": "2026-08-24T01:47:57.042Z",
       "id": "5dzbvs"
     },
     {
@@ -2266,7 +2131,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.621Z",
+      "crawledAt": "2026-08-24T01:47:25.473Z",
       "id": "liv2a8"
     },
     {
@@ -2281,23 +2146,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.389Z",
+      "crawledAt": "2026-08-24T01:47:19.791Z",
       "id": "q9x3rj"
-    },
-    {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face Blog",
-      "source_domain": "huggingface.co",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T16:52:57.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:04.484Z",
-      "id": "6szswx"
     },
     {
       "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore",
@@ -2311,7 +2161,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.510Z",
+      "crawledAt": "2026-08-24T01:47:41.968Z",
       "id": "vo8cr3"
     },
     {
@@ -2326,7 +2176,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.893Z",
+      "crawledAt": "2026-08-24T01:47:27.963Z",
       "id": "bxk213"
     },
     {
@@ -2341,7 +2191,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.561Z",
+      "crawledAt": "2026-08-24T01:47:42.126Z",
       "id": "g5hx51"
     },
     {
@@ -2356,7 +2206,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.619Z",
+      "crawledAt": "2026-08-24T01:47:42.292Z",
       "id": "h4p79z"
     },
     {
@@ -2371,7 +2221,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.671Z",
+      "crawledAt": "2026-08-24T01:47:42.445Z",
       "id": "5g4a9p"
     },
     {
@@ -2386,7 +2236,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.237Z",
+      "crawledAt": "2026-08-24T01:48:15.414Z",
       "id": "lh0vv0"
     },
     {
@@ -2401,7 +2251,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.729Z",
+      "crawledAt": "2026-08-24T01:47:23.436Z",
       "id": "l9snir"
     },
     {
@@ -2416,7 +2266,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.726Z",
+      "crawledAt": "2026-08-24T01:47:42.598Z",
       "id": "8soor2"
     },
     {
@@ -2431,7 +2281,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.950Z",
+      "crawledAt": "2026-08-24T01:47:28.138Z",
       "id": "8q1why"
     },
     {
@@ -2446,7 +2296,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.682Z",
+      "crawledAt": "2026-08-24T01:47:25.656Z",
       "id": "ijopfy"
     },
     {
@@ -2461,7 +2311,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:11.438Z",
+      "crawledAt": "2026-08-24T01:47:19.909Z",
       "id": "y4quc4"
     },
     {
@@ -2476,7 +2326,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:17.328Z",
+      "crawledAt": "2026-08-24T01:47:30.407Z",
       "id": "c3vzam"
     },
     {
@@ -2491,7 +2341,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:50.438Z",
+      "crawledAt": "2026-08-24T01:48:37.957Z",
       "id": "2tsrz7"
     },
     {
@@ -2506,7 +2356,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.499Z",
+      "crawledAt": "2026-08-24T01:48:18.237Z",
       "id": "kgq9q4"
     },
     {
@@ -2521,7 +2371,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.006Z",
+      "crawledAt": "2026-08-24T01:47:28.320Z",
       "id": "o1p08t"
     },
     {
@@ -2536,7 +2386,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:06.037Z",
+      "crawledAt": "2026-08-24T01:47:01.611Z",
       "id": "swjqdk"
     },
     {
@@ -2551,7 +2401,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.790Z",
+      "crawledAt": "2026-08-24T01:47:23.623Z",
       "id": "m1jqsb"
     },
     {
@@ -2566,7 +2416,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:50.493Z",
+      "crawledAt": "2026-08-24T01:48:38.118Z",
       "id": "a8hd4h"
     },
     {
@@ -2581,7 +2431,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:19.114Z",
+      "crawledAt": "2026-08-24T01:47:33.280Z",
       "id": "k77z0h"
     },
     {
@@ -2596,7 +2446,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.062Z",
+      "crawledAt": "2026-08-24T01:47:28.490Z",
       "id": "9l58tq"
     },
     {
@@ -2611,7 +2461,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.093Z",
+      "crawledAt": "2026-08-24T01:48:39.511Z",
       "id": "4gcrhn"
     },
     {
@@ -2626,7 +2476,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.846Z",
+      "crawledAt": "2026-08-24T01:47:23.791Z",
       "id": "m9ii77"
     },
     {
@@ -2641,7 +2491,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:17.380Z",
+      "crawledAt": "2026-08-24T01:47:30.563Z",
       "id": "bay6u7"
     },
     {
@@ -2656,7 +2506,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:30.829Z",
+      "crawledAt": "2026-08-24T01:47:59.906Z",
       "id": "pow7vi"
     },
     {
@@ -2671,7 +2521,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.896Z",
+      "crawledAt": "2026-08-24T01:47:23.934Z",
       "id": "mbpvr6"
     },
     {
@@ -2686,7 +2536,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.387Z",
+      "crawledAt": "2026-08-24T01:47:57.198Z",
       "id": "8pmq2w"
     },
     {
@@ -2701,7 +2551,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.954Z",
+      "crawledAt": "2026-08-24T01:47:24.113Z",
       "id": "49a46k"
     },
     {
@@ -2716,7 +2566,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:17.440Z",
+      "crawledAt": "2026-08-24T01:47:30.736Z",
       "id": "nfvfnq"
     },
     {
@@ -2731,7 +2581,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.413Z",
+      "crawledAt": "2026-08-24T01:47:57.270Z",
       "id": "t4el1y"
     },
     {
@@ -2746,7 +2596,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:17.499Z",
+      "crawledAt": "2026-08-24T01:47:30.906Z",
       "id": "lx2v3s"
     },
     {
@@ -2761,7 +2611,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:17.555Z",
+      "crawledAt": "2026-08-24T01:47:31.071Z",
       "id": "50tlgv"
     },
     {
@@ -2776,7 +2626,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:17.607Z",
+      "crawledAt": "2026-08-24T01:47:31.230Z",
       "id": "nemxn8"
     },
     {
@@ -2791,7 +2641,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:07.408Z",
+      "crawledAt": "2026-08-24T01:47:04.941Z",
       "id": "k0zr3c"
     },
     {
@@ -2806,7 +2656,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:07.467Z",
+      "crawledAt": "2026-08-24T01:47:05.083Z",
       "id": "tj2aav"
     },
     {
@@ -2821,23 +2671,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:46.774Z",
+      "crawledAt": "2026-08-24T01:48:29.960Z",
       "id": "c5jdx0"
-    },
-    {
-      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
-      "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-08-19T23:50:00.000Z",
-      "metaDescription": "Another day, another new AI agent harness is released.\nOnly this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents a",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.747Z",
-      "id": "29dvi8"
     },
     {
       "title": "Domain and publish date filters for Web Search on AgentCore",
@@ -2851,7 +2686,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.780Z",
+      "crawledAt": "2026-08-24T01:47:42.751Z",
       "id": "cyqhbl"
     },
     {
@@ -2866,7 +2701,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.837Z",
+      "crawledAt": "2026-08-24T01:47:42.924Z",
       "id": "ry5h07"
     },
     {
@@ -2881,7 +2716,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.897Z",
+      "crawledAt": "2026-08-24T01:47:43.110Z",
       "id": "8sreak"
     },
     {
@@ -2896,7 +2731,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:21.951Z",
+      "crawledAt": "2026-08-24T01:47:43.275Z",
       "id": "cpu664"
     },
     {
@@ -2911,7 +2746,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:22.003Z",
+      "crawledAt": "2026-08-24T01:47:43.436Z",
       "id": "b5t0jb"
     },
     {
@@ -2926,7 +2761,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:13.962Z",
+      "crawledAt": "2026-08-24T01:47:21.630Z",
       "id": "hd25lu"
     },
     {
@@ -2941,7 +2776,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.265Z",
+      "crawledAt": "2026-08-24T01:48:15.495Z",
       "id": "u51p98"
     },
     {
@@ -2956,7 +2791,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:07.521Z",
+      "crawledAt": "2026-08-24T01:47:05.209Z",
       "id": "743fdq"
     },
     {
@@ -2971,7 +2806,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:05.100Z",
+      "crawledAt": "2026-08-24T01:47:07.862Z",
       "id": "lkx9l8"
     },
     {
@@ -2986,7 +2821,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:37.197Z",
+      "crawledAt": "2026-08-24T01:48:10.302Z",
       "id": "60q1bq"
     },
     {
@@ -3001,7 +2836,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.111Z",
+      "crawledAt": "2026-08-24T01:47:28.643Z",
       "id": "4gb3le"
     },
     {
@@ -3016,7 +2851,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:09.813Z",
+      "crawledAt": "2026-08-24T01:47:16.212Z",
       "id": "s2uib3"
     },
     {
@@ -3031,7 +2866,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.286Z",
+      "crawledAt": "2026-08-24T01:48:15.544Z",
       "id": "ru3fg0"
     },
     {
@@ -3046,7 +2881,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.307Z",
+      "crawledAt": "2026-08-24T01:48:15.597Z",
       "id": "80mikq"
     },
     {
@@ -3061,7 +2896,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.330Z",
+      "crawledAt": "2026-08-24T01:48:15.654Z",
       "id": "qyqq2m"
     },
     {
@@ -3076,7 +2911,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.352Z",
+      "crawledAt": "2026-08-24T01:48:15.740Z",
       "id": "woqx5n"
     },
     {
@@ -3091,7 +2926,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.374Z",
+      "crawledAt": "2026-08-24T01:48:15.792Z",
       "id": "f7r7fd"
     },
     {
@@ -3106,7 +2941,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.395Z",
+      "crawledAt": "2026-08-24T01:48:15.842Z",
       "id": "ax72f5"
     },
     {
@@ -3121,7 +2956,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.032Z",
+      "crawledAt": "2026-08-24T01:47:21.796Z",
       "id": "sfy7py"
     },
     {
@@ -3136,7 +2971,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.174Z",
+      "crawledAt": "2026-08-24T01:47:28.842Z",
       "id": "2k613n"
     },
     {
@@ -3151,7 +2986,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:16.219Z",
+      "crawledAt": "2026-08-24T01:47:28.980Z",
       "id": "asyr59"
     },
     {
@@ -3166,7 +3001,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:50.526Z",
+      "crawledAt": "2026-08-24T01:48:38.217Z",
       "id": "d2riq3"
     },
     {
@@ -3181,7 +3016,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.156Z",
+      "crawledAt": "2026-08-24T01:48:39.680Z",
       "id": "oijpu4"
     },
     {
@@ -3196,7 +3031,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.249Z",
+      "crawledAt": "2026-08-24T01:48:18.850Z",
       "id": "sxhn9n"
     },
     {
@@ -3211,7 +3046,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:20.428Z",
+      "crawledAt": "2026-08-24T01:47:38.637Z",
       "id": "gjta1q"
     },
     {
@@ -3226,7 +3061,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:15.018Z",
+      "crawledAt": "2026-08-24T01:47:24.306Z",
       "id": "t1ukdr"
     },
     {
@@ -3241,7 +3076,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:50.570Z",
+      "crawledAt": "2026-08-24T01:48:38.352Z",
       "id": "cy6r6h"
     },
     {
@@ -3256,7 +3091,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.225Z",
+      "crawledAt": "2026-08-24T01:48:39.870Z",
       "id": "e3tqyb"
     },
     {
@@ -3271,7 +3106,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.291Z",
+      "crawledAt": "2026-08-24T01:48:40.043Z",
       "id": "5nc5ek"
     },
     {
@@ -3286,7 +3121,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.096Z",
+      "crawledAt": "2026-08-24T01:47:21.954Z",
       "id": "yfkgwn"
     },
     {
@@ -3301,7 +3136,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:07.583Z",
+      "crawledAt": "2026-08-24T01:47:05.357Z",
       "id": "my2t3f"
     },
     {
@@ -3316,7 +3151,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:52.763Z",
+      "crawledAt": "2026-08-24T01:48:36.437Z",
       "id": "ynxrrx"
     },
     {
@@ -3331,7 +3166,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:31.797Z",
+      "crawledAt": "2026-08-24T01:48:01.331Z",
       "id": "ctowst"
     },
     {
@@ -3346,7 +3181,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:07.638Z",
+      "crawledAt": "2026-08-24T01:47:05.488Z",
       "id": "s4bz64"
     },
     {
@@ -3361,7 +3196,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.425Z",
+      "crawledAt": "2026-08-24T01:48:15.987Z",
       "id": "rkc9sn"
     },
     {
@@ -3376,7 +3211,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.452Z",
+      "crawledAt": "2026-08-24T01:48:16.060Z",
       "id": "sdi9kb"
     },
     {
@@ -3391,7 +3226,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:07.686Z",
+      "crawledAt": "2026-08-24T01:47:05.604Z",
       "id": "olbeit"
     },
     {
@@ -3406,7 +3241,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.478Z",
+      "crawledAt": "2026-08-24T01:48:16.132Z",
       "id": "rlvsbf"
     },
     {
@@ -3421,7 +3256,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:22.062Z",
+      "crawledAt": "2026-08-24T01:47:43.625Z",
       "id": "511v9w"
     },
     {
@@ -3436,23 +3271,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.161Z",
+      "crawledAt": "2026-08-24T01:47:22.112Z",
       "id": "o18inf"
-    },
-    {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
-      "source_domain": "huggingface.co",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-08-18T18:09:38.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:04.509Z",
-      "id": "7rh7lu"
     },
     {
       "title": "Customize Amazon Quick embedded chat into your application",
@@ -3466,7 +3286,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:22.110Z",
+      "crawledAt": "2026-08-24T01:47:43.770Z",
       "id": "4dmch5"
     },
     {
@@ -3481,7 +3301,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.008Z",
+      "crawledAt": "2026-08-24T01:48:17.650Z",
       "id": "9inalo"
     },
     {
@@ -3496,7 +3316,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:17.660Z",
+      "crawledAt": "2026-08-24T01:47:31.390Z",
       "id": "us3us8"
     },
     {
@@ -3511,7 +3331,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:38.077Z",
+      "crawledAt": "2026-08-24T01:48:11.643Z",
       "id": "bvw4jg"
     },
     {
@@ -3526,7 +3346,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:50.620Z",
+      "crawledAt": "2026-08-24T01:48:38.505Z",
       "id": "qzj9w6"
     },
     {
@@ -3541,7 +3361,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.350Z",
+      "crawledAt": "2026-08-24T01:48:40.201Z",
       "id": "yh1sfb"
     },
     {
@@ -3556,7 +3376,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:19.159Z",
+      "crawledAt": "2026-08-24T01:47:33.406Z",
       "id": "a7ardu"
     },
     {
@@ -3571,7 +3391,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:50.665Z",
+      "crawledAt": "2026-08-24T01:48:38.637Z",
       "id": "pyqkrv"
     },
     {
@@ -3586,7 +3406,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:17.711Z",
+      "crawledAt": "2026-08-24T01:47:31.551Z",
       "id": "8nvm0q"
     },
     {
@@ -3601,7 +3421,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.421Z",
+      "crawledAt": "2026-08-24T01:48:40.391Z",
       "id": "8gc5zq"
     },
     {
@@ -3616,7 +3436,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.491Z",
+      "crawledAt": "2026-08-24T01:48:40.581Z",
       "id": "2hug87"
     },
     {
@@ -3631,7 +3451,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:07.746Z",
+      "crawledAt": "2026-08-24T01:47:05.746Z",
       "id": "t8amrt"
     },
     {
@@ -3646,7 +3466,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:07.805Z",
+      "crawledAt": "2026-08-24T01:47:05.880Z",
       "id": "tukocv"
     },
     {
@@ -3661,7 +3481,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:07.872Z",
+      "crawledAt": "2026-08-24T01:47:06.040Z",
       "id": "wfqkxg"
     },
     {
@@ -3676,7 +3496,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:17.773Z",
+      "crawledAt": "2026-08-24T01:47:31.747Z",
       "id": "jp3n5a"
     },
     {
@@ -3691,7 +3511,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:52.821Z",
+      "crawledAt": "2026-08-24T01:48:36.618Z",
       "id": "vub0tz"
     },
     {
@@ -3706,7 +3526,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:14.219Z",
+      "crawledAt": "2026-08-24T01:47:22.238Z",
       "id": "64ahm6"
     },
     {
@@ -3721,7 +3541,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:07.987Z",
+      "crawledAt": "2026-08-24T01:47:06.314Z",
       "id": "m90t7p"
     },
     {
@@ -3736,23 +3556,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:07.929Z",
+      "crawledAt": "2026-08-24T01:47:06.173Z",
       "id": "gl9rvy"
-    },
-    {
-      "title": "Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face Blog",
-      "source_domain": "huggingface.co",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-08-18T00:00:00.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:04.534Z",
-      "id": "8gonr0"
     },
     {
       "title": "DeepSeek V4 Pro 0813 vs GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing",
@@ -3766,23 +3571,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:24.336Z",
+      "crawledAt": "2026-08-24T01:47:45.607Z",
       "id": "yxykj1"
-    },
-    {
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face Blog",
-      "source_domain": "huggingface.co",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-08-17T19:46:21.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:04.562Z",
-      "id": "cooaut"
     },
     {
       "title": "You can just keep the work moving",
@@ -3796,7 +3586,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.500Z",
+      "crawledAt": "2026-08-24T01:48:16.186Z",
       "id": "utcemq"
     },
     {
@@ -3811,7 +3601,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:52.875Z",
+      "crawledAt": "2026-08-24T01:48:36.786Z",
       "id": "g8p9ez"
     },
     {
@@ -3826,7 +3616,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:09.896Z",
+      "crawledAt": "2026-08-24T01:47:16.415Z",
       "id": "45hbxs"
     },
     {
@@ -3841,7 +3631,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.529Z",
+      "crawledAt": "2026-08-24T01:48:16.268Z",
       "id": "931x5q"
     },
     {
@@ -3856,7 +3646,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.520Z",
+      "crawledAt": "2026-08-24T01:48:18.290Z",
       "id": "bnieui"
     },
     {
@@ -3871,7 +3661,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:50.713Z",
+      "crawledAt": "2026-08-24T01:48:38.770Z",
       "id": "px5mk0"
     },
     {
@@ -3886,7 +3676,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:49.609Z",
+      "crawledAt": "2026-08-24T01:48:33.753Z",
       "id": "uybmh8"
     },
     {
@@ -3901,7 +3691,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.559Z",
+      "crawledAt": "2026-08-24T01:48:40.766Z",
       "id": "hv9vxy"
     },
     {
@@ -3916,7 +3706,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:44.343Z",
+      "crawledAt": "2026-08-24T01:48:22.524Z",
       "id": "8i2h29"
     },
     {
@@ -3931,7 +3721,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.273Z",
+      "crawledAt": "2026-08-24T01:48:18.912Z",
       "id": "adum1o"
     },
     {
@@ -3946,7 +3736,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:06.095Z",
+      "crawledAt": "2026-08-24T01:47:01.753Z",
       "id": "r8wui5"
     },
     {
@@ -3961,7 +3751,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:50.755Z",
+      "crawledAt": "2026-08-24T01:48:38.874Z",
       "id": "lqra8u"
     },
     {
@@ -3976,7 +3766,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:19.209Z",
+      "crawledAt": "2026-08-24T01:47:33.553Z",
       "id": "ai05ul"
     },
     {
@@ -3991,7 +3781,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.631Z",
+      "crawledAt": "2026-08-24T01:48:40.963Z",
       "id": "e9l5mb"
     },
     {
@@ -4006,7 +3796,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:05.138Z",
+      "crawledAt": "2026-08-24T01:47:07.983Z",
       "id": "qvukkw"
     },
     {
@@ -4021,7 +3811,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:08.040Z",
+      "crawledAt": "2026-08-24T01:47:06.442Z",
       "id": "tz2d19"
     },
     {
@@ -4036,7 +3826,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:08.086Z",
+      "crawledAt": "2026-08-24T01:47:06.540Z",
       "id": "una4r7"
     },
     {
@@ -4051,38 +3841,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:08.135Z",
+      "crawledAt": "2026-08-24T01:47:06.658Z",
       "id": "hhrrma"
-    },
-    {
-      "title": "DeepSeek V4 Pro 0813 vs Claude Fable 5 on DeepSWE: Cost, Coding, and Routing",
-      "url": "https://www.together.ai/blog/deepseek-v4-pro-0813-vs-claude-fable-5-on-deepswe-cost-coding-and-routing",
-      "source": "Together AI Blog",
-      "source_domain": "together.ai",
-      "source_category": "company",
-      "source_priority": "medium",
-      "pubDate": "2026-08-17T00:00:00.000Z",
-      "metaDescription": "We ran 904 DeepSWE rollouts on DeepSeek V4 Pro 0813 and Claude Fable 5. Fable leads pass@1 at 90x the cost; Pro wins pass@4, and a Pro-first cascade hits 82.7%.",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:24.429Z",
-      "id": "yaampd"
-    },
-    {
-      "title": "A/B test models in production",
-      "url": "https://www.together.ai/blog/a-b-test-models-in-production",
-      "source": "Together AI Blog",
-      "source_domain": "together.ai",
-      "source_category": "company",
-      "source_priority": "medium",
-      "pubDate": "2026-08-17T00:00:00.000Z",
-      "metaDescription": "Shadow traffic proves a candidate is operationally sound. It can't tell you if users like it better. Run the split at the endpoint instead of in your app code.",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:24.490Z",
-      "id": "mhqr0y"
     },
     {
       "title": "How to Install Codex CLI: A Step-by-Step Guide",
@@ -4096,7 +3856,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:52.930Z",
+      "crawledAt": "2026-08-24T01:48:36.954Z",
       "id": "sm8sw1"
     },
     {
@@ -4111,7 +3871,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.556Z",
+      "crawledAt": "2026-08-24T01:48:16.353Z",
       "id": "gulyg9"
     },
     {
@@ -4126,7 +3886,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:45.214Z",
+      "crawledAt": "2026-08-24T01:48:25.156Z",
       "id": "2kho5h"
     },
     {
@@ -4141,7 +3901,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.298Z",
+      "crawledAt": "2026-08-24T01:48:18.978Z",
       "id": "clsa1a"
     },
     {
@@ -4156,7 +3916,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:19.256Z",
+      "crawledAt": "2026-08-24T01:47:33.698Z",
       "id": "fsu3mp"
     },
     {
@@ -4171,7 +3931,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.703Z",
+      "crawledAt": "2026-08-24T01:48:41.156Z",
       "id": "mdddpm"
     },
     {
@@ -4186,7 +3946,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.781Z",
+      "crawledAt": "2026-08-24T01:48:41.364Z",
       "id": "24nw3x"
     },
     {
@@ -4201,7 +3961,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:52.987Z",
+      "crawledAt": "2026-08-24T01:48:37.128Z",
       "id": "f6l2ft"
     },
     {
@@ -4216,7 +3976,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:37.223Z",
+      "crawledAt": "2026-08-24T01:48:10.367Z",
       "id": "kxmxyl"
     },
     {
@@ -4231,7 +3991,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.585Z",
+      "crawledAt": "2026-08-24T01:48:16.436Z",
       "id": "3catqm"
     },
     {
@@ -4246,7 +4006,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.607Z",
+      "crawledAt": "2026-08-24T01:48:16.489Z",
       "id": "o6bcr5"
     },
     {
@@ -4261,7 +4021,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.322Z",
+      "crawledAt": "2026-08-24T01:48:19.039Z",
       "id": "81otde"
     },
     {
@@ -4276,7 +4036,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.543Z",
+      "crawledAt": "2026-08-24T01:48:18.346Z",
       "id": "u0piug"
     },
     {
@@ -4291,23 +4051,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.631Z",
+      "crawledAt": "2026-08-24T01:48:16.553Z",
       "id": "x46080"
-    },
-    {
-      "title": "Build custom financial forecasting apps with ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=94Td-y5z5rk",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-08-13T13:05:30.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-08-23T20:31:40.656Z",
-      "id": "llc9j9"
     },
     {
       "title": "How Baidu Unlimited-OCR Works: Solving Long-Document Transcription",
@@ -4321,7 +4066,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:53.047Z",
+      "crawledAt": "2026-08-24T01:48:37.324Z",
       "id": "6ql3hc"
     },
     {
@@ -4336,7 +4081,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.758Z",
+      "crawledAt": "2026-08-24T01:48:19.566Z",
       "id": "7qh6sg"
     },
     {
@@ -4351,7 +4096,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:45.274Z",
+      "crawledAt": "2026-08-24T01:48:25.347Z",
       "id": "6rvijh"
     },
     {
@@ -4366,7 +4111,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.851Z",
+      "crawledAt": "2026-08-24T01:48:41.551Z",
       "id": "gdab09"
     },
     {
@@ -4381,7 +4126,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.347Z",
+      "crawledAt": "2026-08-24T01:48:19.098Z",
       "id": "zezycq"
     },
     {
@@ -4396,7 +4141,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:37.766Z",
+      "crawledAt": "2026-08-24T01:48:09.358Z",
       "id": "jm0r4s"
     },
     {
@@ -4411,7 +4156,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:19.301Z",
+      "crawledAt": "2026-08-24T01:47:33.833Z",
       "id": "e2mu9y"
     },
     {
@@ -4426,7 +4171,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.923Z",
+      "crawledAt": "2026-08-24T01:48:41.747Z",
       "id": "yexsu6"
     },
     {
@@ -4441,7 +4186,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:53.104Z",
+      "crawledAt": "2026-08-24T01:48:37.505Z",
       "id": "py51i7"
     },
     {
@@ -4456,7 +4201,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:37.249Z",
+      "crawledAt": "2026-08-24T01:48:10.429Z",
       "id": "2n0d69"
     },
     {
@@ -4471,7 +4216,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:51.988Z",
+      "crawledAt": "2026-08-24T01:48:41.911Z",
       "id": "1fwc4v"
     },
     {
@@ -4486,7 +4231,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.371Z",
+      "crawledAt": "2026-08-24T01:48:19.160Z",
       "id": "99ex2k"
     },
     {
@@ -4501,7 +4246,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:19.349Z",
+      "crawledAt": "2026-08-24T01:47:33.981Z",
       "id": "y9rhfw"
     },
     {
@@ -4516,7 +4261,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:52.057Z",
+      "crawledAt": "2026-08-24T01:48:42.088Z",
       "id": "g5o7tn"
     },
     {
@@ -4531,7 +4276,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:37.536Z",
+      "crawledAt": "2026-08-24T01:48:11.102Z",
       "id": "q191vc"
     },
     {
@@ -4546,7 +4291,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:42.566Z",
+      "crawledAt": "2026-08-24T01:48:18.404Z",
       "id": "wh8vsy"
     },
     {
@@ -4561,7 +4306,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:52.123Z",
+      "crawledAt": "2026-08-24T01:48:42.264Z",
       "id": "301a1b"
     },
     {
@@ -4576,7 +4321,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-08-23T20:31:19.401Z",
+      "crawledAt": "2026-08-24T01:47:34.142Z",
       "id": "svnu7f"
     }
   ]
