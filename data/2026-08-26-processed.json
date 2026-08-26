@@ -1,9 +1,995 @@
 {
-  "crawledAt": "2026-08-26T13:08:00.532Z",
+  "crawledAt": "2026-08-26T16:53:28.206Z",
   "totalSources": 70,
-  "totalArticles": 100,
+  "totalArticles": 134,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T16:36:35.000Z",
+      "metaDescription": "Learn how Natera built an automated voice agent on Amazon Bedrock AgentCore that lets patients book mobile phlebotomy appointments through natural conversation. The post covers the dual-WebSocket brid",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.6555080072047803,
+      "crawledAt": "2026-08-26T16:52:50.064Z",
+      "id": "hjff5a",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9640958309173584,
+          "index": 9,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9864000082015991,
+          "index": 10,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9483943581581116,
+          "index": 11,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9606741666793823,
+          "index": 12,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9799007177352905,
+          "index": 13,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.839026927947998,
+          "index": 14,
+          "word": "##ore",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The post covers the dual-WebSocket brid. Natera built an automated voice agent on Amazon's Bedrock AgentCore.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:53:45.767Z"
+    },
+    {
+      "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T16:31:32.000Z",
+      "metaDescription": "The SageMaker Python SDK v3 redesigns script mode with unified ModelTrainer and ModelBuilder classes. This post walks through two end-to-end examples, a scikit-learn Random Forest and a multi-GPU Stab",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.8385063390847208,
+      "crawledAt": "2026-08-26T16:52:50.122Z",
+      "id": "fjxbvq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9551230669021606,
+          "index": 6,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9863564968109131,
+          "index": 7,
+          "word": "Sage",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.972283661365509,
+          "index": 8,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9899585843086243,
+          "index": 9,
+          "word": "##aker",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8322698473930359,
+          "index": 17,
+          "word": "SD",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The SageMaker Python SDK redesigns script mode with unified ModelTrainer and ModelBuilder classes. This post walks through two end-to-end examples.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:53:56.575Z"
+    },
+    {
+      "title": "Gate Your DigitalOcean Gradient Agent in CI with the Evaluations API",
+      "url": "https://levelup.gitconnected.com/gate-your-digitalocean-gradient-agent-in-ci-with-the-evaluations-api-59c48333574e?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T16:18:44.000Z",
+      "metaDescription": "Regression-test your Gradient agent in CI with the Evaluations API.\nContinue reading on Level Up Coding »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.366430592667663,
+      "crawledAt": "2026-08-26T16:52:59.224Z",
+      "id": "kagv4q",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.807677149772644,
+          "index": 3,
+          "word": "Digital",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9092063903808594,
+          "index": 4,
+          "word": "##O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9283178448677063,
+          "index": 16,
+          "word": "Evaluation",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8670428991317749,
+          "index": 17,
+          "word": "##s",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Regression-test your Gradient agent in CI with the Evaluations API. Regression test your Gradients agent inCI with the Evaluation API.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:54:50.854Z"
+    },
+    {
+      "title": "Google Goes AI-First: Tracking Mentions and Visibility in This New AI Search Era",
+      "url": "https://levelup.gitconnected.com/google-goes-ai-first-tracking-mentions-and-visibility-in-this-new-ai-search-era-5e3f084c324c?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T16:18:24.000Z",
+      "metaDescription": "",
+      "category": "research-paper",
+      "difficulty": 6,
+      "confidence": 0.5590867830776441,
+      "crawledAt": "2026-08-26T16:52:59.251Z",
+      "id": "fijuq5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.987112283706665,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9754810929298401,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9393573999404907,
+          "index": 17,
+          "word": "New",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9018698334693909,
+          "index": 18,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9881240725517273,
+          "index": 19,
+          "word": "Search",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9808127284049988,
+          "index": 20,
+          "word": "Era",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:54:50.903Z"
+    },
+    {
+      "title": "AI Agents Don’t Just Need Traces. They Need Semantic Telemetry.",
+      "url": "https://levelup.gitconnected.com/ai-agents-dont-just-need-traces-they-need-semantic-telemetry-bc3a894093cc?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T16:17:52.000Z",
+      "metaDescription": "A controlled simulation of a five-agent pipeline: 63 wrong SQL queries were approved by the critic and would have shipped as successful…\nContinue reading on Level Up Coding »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9919549011155246,
+      "crawledAt": "2026-08-26T16:52:59.346Z",
+      "id": "lppbj",
+      "entities": [],
+      "summary": " A controlled simulation of a five-agent pipeline: 63 wrong queries were approved by the critic and would have shipped as successful.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:55:11.807Z"
+    },
+    {
+      "title": "Vue’s Reactivity Is Better Than I Realized",
+      "url": "https://levelup.gitconnected.com/vues-reactivity-is-better-than-i-realized-af71a4c90293?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T16:17:16.000Z",
+      "metaDescription": "Sometimes you understand a technology best when you stop using it and start asking why it works.\nContinue reading on Level Up Coding »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.539204751322356,
+      "crawledAt": "2026-08-26T16:52:59.435Z",
+      "id": "bh1m3u",
+      "entities": [],
+      "summary": " Sometimes you understand a technology best when you stop using it and start asking why it works. Sometimes you don't know why you're using it.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:55:32.639Z"
+    },
+    {
+      "title": "Your AI agent can issue refunds. Time to put a gateway in front of it.",
+      "url": "https://levelup.gitconnected.com/your-ai-agent-can-issue-refunds-time-to-put-a-gateway-in-front-of-it-fcb32930492b?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T16:17:00.000Z",
+      "metaDescription": "Per-agent rate limits, a Go token-guard plugin, and an audit trail you can query. All on the free, open-source Tyk gateway.\nContinue reading on Level Up Coding »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9856051953861054,
+      "crawledAt": "2026-08-26T16:52:59.487Z",
+      "id": "2giz5u",
+      "entities": [],
+      "summary": " Tyk is free, open-source Tyk gateway. All on the free, free Tyk site are free.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:55:40.922Z"
+    },
+    {
+      "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
+      "url": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T16:13:50.000Z",
+      "metaDescription": "A security agent read a Cloudflare log, found an attacker’s prompt-injection payload sitting inside it, and rewrote the company’s DNS. The firewall had already blocked that payload, and blocking it is",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9869960354249527,
+      "crawledAt": "2026-08-26T16:52:46.773Z",
+      "id": "hm7hm7",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9794266223907471,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A security agent read a Cloudflare log and found an attacker’s prompt-injection payload sitting inside it. The firewall had already blocked that payload, and blocking it is blocking it.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:55:51.642Z"
+    },
+    {
+      "title": "10 Python AI Projects That Are Actually Worth Building",
+      "url": "https://python.plainenglish.io/10-python-ai-projects-that-are-actually-worth-building-1295ffbd971a?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T16:05:26.000Z",
+      "metaDescription": "Skip another chatbot — build tools that solve problems you’d genuinely keep using.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6303544901324948,
+      "crawledAt": "2026-08-26T16:53:00.113Z",
+      "id": "oddve3",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9903042316436768,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Python is a language that can be used to solve problems in the world. The language is a popular language in the U.S.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:56:00.486Z"
+    },
+    {
+      "title": "The Index Is Not the World",
+      "url": "https://pub.towardsai.net/the-index-is-not-the-world-de26b0e0a7d3?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T16:01:04.000Z",
+      "metaDescription": "",
+      "category": "industry-news",
+      "difficulty": 6,
+      "confidence": 0.3241081766426197,
+      "crawledAt": "2026-08-26T16:52:56.838Z",
+      "id": "qmknem",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9926276803016663,
+          "index": 2,
+          "word": "Index",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9985356330871582,
+          "index": 3,
+          "word": "Is",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9986864328384399,
+          "index": 4,
+          "word": "Not",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.998917818069458,
+          "index": 5,
+          "word": "the",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9987173676490784,
+          "index": 6,
+          "word": "World",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:56:00.524Z"
+    },
+    {
+      "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
+      "url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T15:48:10.000Z",
+      "metaDescription": "Learn how Amazon Bedrock AgentCore agents in one account can generate answers from an Amazon Bedrock knowledge base backed by Amazon Redshift Serverless in another account, without copying source data",
+      "category": "developer-tool",
+      "difficulty": 6,
+      "confidence": 0.4267321546846419,
+      "crawledAt": "2026-08-26T16:52:50.277Z",
+      "id": "u14hin",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9632083177566528,
+          "index": 3,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9791986346244812,
+          "index": 4,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.956074595451355,
+          "index": 5,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9536148905754089,
+          "index": 6,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9875553250312805,
+          "index": 7,
+          "word": "##C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Agents in one account can generate answers from an Amazon Bedrock knowledge base backed by Amazon Redshift Serverless in another account without copying source data.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:56:10.944Z"
+    },
+    {
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T15:47:28.000Z",
+      "metaDescription": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9786135822919432,
+      "crawledAt": "2026-08-26T16:52:42.473Z",
+      "id": "sfz6k",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9569166898727417,
+          "index": 11,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts. The platform is accessible to AI agents through an API and an API.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:56:21.648Z"
+    },
+    {
+      "title": "How Do You Actually Evaluate an AI Agent?",
+      "url": "https://www.youtube.com/shorts/wiJk8b_vjt0",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T15:30:14.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9762544984892934,
+      "crawledAt": "2026-08-26T16:53:09.520Z",
+      "id": "kgpc0",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:56:27.957Z"
+    },
+    {
+      "title": "GLM-5.3-Flash - former ox-alpha",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyzzxu/megathread_glm53flash_former_oxalpha/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T15:17:48.000Z",
+      "metaDescription": "Megathread for discussing the release of GLM-5.3-Flash.\n  \nQuants\n Fine-Tunes & Abliterations\n Chat Templates\n Inference Server Support & Configuration\n Experiences, Benchmarks & Model Comparisons\n  \n",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3357251139124824,
+      "crawledAt": "2026-08-26T16:53:02.544Z",
+      "id": "2qgr97",
+      "entities": [],
+      "summary": " The release of GLM-5.3-Flash is the latest in a long line of releases to be released.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:56:37.758Z"
+    },
+    {
+      "title": "9 Dead Giveaways That AI Wrote This Code",
+      "url": "https://python.plainenglish.io/9-dead-giveaways-that-ai-wrote-this-code-c48e3d9ef0d7?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T15:10:58.000Z",
+      "metaDescription": "Nine tells that show up in texture, not correctness.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5696903822525313,
+      "crawledAt": "2026-08-26T16:53:00.146Z",
+      "id": "53trb7",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8105016350746155,
+          "index": 10,
+          "word": "This",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9922803044319153,
+          "index": 11,
+          "word": "Code",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Nine tells that show up in texture, not correctness, not in correctness. Nine tells you that show that showup in texture.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:56:45.780Z"
+    },
+    {
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T15:00:00.000Z",
+      "metaDescription": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5899026949243626,
+      "crawledAt": "2026-08-26T16:52:42.514Z",
+      "id": "kc7vu8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9920589327812195,
+          "index": 3,
+          "word": "Met",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Perceptron offers an AI model that can help machines navigate the world. It says it can also provide in-depth visual intelligence.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:57:09.821Z"
+    },
+    {
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T14:30:00.000Z",
+      "metaDescription": "Presented by Tata Communications \n\nEnterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.7880866932996117,
+      "crawledAt": "2026-08-26T16:52:46.819Z",
+      "id": "otdqte",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8031346201896667,
+          "index": 8,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8212594389915466,
+          "index": 14,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tata Communications are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:57:46.420Z"
+    },
+    {
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T14:19:29.000Z",
+      "metaDescription": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.6226825277483671,
+      "crawledAt": "2026-08-26T16:52:42.611Z",
+      "id": "yo0m7a",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9039680361747742,
+          "index": 15,
+          "word": "O",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Zai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards. Its weights are set to be released soon.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:57:54.004Z"
+    },
+    {
+      "title": "GLM-5.3-Flash: Frontier Intelligence, Flash Cost",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyy3k6/glm53flash_frontier_intelligence_flash_cost/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T14:06:30.000Z",
+      "metaDescription": "submitted by    /u/BriguePalhaco  \n [link]   [comments]",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.542100151958686,
+      "crawledAt": "2026-08-26T16:53:02.627Z",
+      "id": "3qbg0c",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9841414093971252,
+          "index": 10,
+          "word": "Frontier",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.95754474401474,
+          "index": 11,
+          "word": "Intelligence",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8185557126998901,
+          "index": 13,
+          "word": "Flash",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:58:03.142Z"
+    },
+    {
+      "title": "Python 3.15 Preview: Sampling Profiler",
+      "url": "https://realpython.com/python315-sampling-profiler/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T14:00:00.000Z",
+      "metaDescription": "Python 3.15 ships with a brand-new profiling package defined in PEP 799. It finally retires the ancient profile module, gives cProfile a new home under profiling.tracing, and adds profiling.sampling, ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.29673952389906955,
+      "crawledAt": "2026-08-26T16:53:27.166Z",
+      "id": "qxjp1o",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9784865975379944,
+          "index": 8,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Python 3.15 ships with a brand-new profiling package defined in PEP 799. It finally retires the ancient profile module, gives cProfile a new home under profiling.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:58:30.883Z"
+    },
+    {
+      "title": "Psychiatry’s diagnostic bible is finally getting a biological upgrade",
+      "url": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T13:53:32.000Z",
+      "metaDescription": "Biology is coming to psychiatry’s diagnostic manual, even as reliable biomarkers remain rare.",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.6245130949547087,
+      "crawledAt": "2026-08-26T16:52:41.861Z",
+      "id": "c9itpx",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9672051072120667,
+          "index": 1,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9131492376327515,
+          "index": 4,
+          "word": "##try",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Even as reliable biomarkers remain rare, reliable biomarker remain rare. Biology is coming to psychiatry's diagnostic manual, even as reliable diagnostic manual is coming.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:58:39.061Z"
+    },
+    {
+      "title": "Why NVIDIA’s Open Weight Nemotron 3.5 Lighning Shows Their Strategy To Remain The AI King",
+      "url": "https://pub.towardsai.net/why-nvidias-open-weight-nemotron-3-5-lighning-shows-their-strategy-to-remain-the-ai-king-0eb4b1c39f79?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T13:31:01.000Z",
+      "metaDescription": "NVIDIA reported $75.2 billion in Data Center revenue in its latest completed quarter, out of $81.6 billion in total revenue. That means a…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.7531827550708948,
+      "crawledAt": "2026-08-26T16:52:57.012Z",
+      "id": "ulfsg7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.974621593952179,
+          "index": 2,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9800787568092346,
+          "index": 4,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8956201076507568,
+          "index": 5,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " NVIDIA reported $75.2 billion in Data Center revenue in its latest completed quarter, out of $81.6 billion in total revenue. That means a…Continue reading on Towards AI.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:58:47.993Z"
+    },
+    {
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T13:30:00.000Z",
+      "metaDescription": "Robot bodies are waiting for their AI brains to catch up.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.6925646849244993,
+      "crawledAt": "2026-08-26T16:52:42.643Z",
+      "id": "abvxqb",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.997039258480072,
+          "index": 9,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9490600824356079,
+          "index": 10,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.968924880027771,
+          "index": 12,
+          "word": "2",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " robot bodies are waiting for their AI brains to catch up. Robot bodies are awaiting for their brains to caught up.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:58:54.453Z"
+    },
+    {
+      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
+      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+      "source": "Two Minute Papers",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T13:10:13.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3024052894917355,
+      "crawledAt": "2026-08-26T16:53:05.973Z",
+      "id": "3smtny",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9962145090103149,
+          "index": 1,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.996953010559082,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9931411743164062,
+          "index": 3,
+          "word": "##eek",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:58:54.498Z"
+    },
+    {
+      "title": "How Artificial Intelligence Detects Supply Chain Risks Before They Become Problems",
+      "url": "https://pub.towardsai.net/how-artificial-intelligence-detects-supply-chain-risks-before-they-become-problems-d738d99d259c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T13:01:03.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.4116361202421724,
+      "crawledAt": "2026-08-26T16:52:57.038Z",
+      "id": "u54nwd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9865671992301941,
+          "index": 2,
+          "word": "Art",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9840036034584045,
+          "index": 3,
+          "word": "##ific",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9894277453422546,
+          "index": 4,
+          "word": "##ial",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9535646438598633,
+          "index": 5,
+          "word": "Intelligence",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:58:54.545Z"
+    },
+    {
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T13:00:00.000Z",
+      "metaDescription": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4485060436775133,
+      "crawledAt": "2026-08-26T16:52:42.689Z",
+      "id": "2ruc03",
+      "entities": [],
+      "summary": " The startup came out of stealth with $6 million in seed funding. It plans to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:59:02.521Z"
+    },
     {
       "title": "Arga is building a better way to train enterprise AI agents",
       "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
@@ -31,6 +1017,86 @@
       "summary": " Arga has raised $10 million in a seed funding round. The round was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
       "language": "en",
       "processed_at": "2026-08-26T13:08:14.034Z"
+    },
+    {
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T12:55:28.000Z",
+      "metaDescription": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.7424875484254075,
+      "crawledAt": "2026-08-26T16:52:42.733Z",
+      "id": "dgfxg4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9978565573692322,
+          "index": 1,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8187935948371887,
+          "index": 2,
+          "word": "##rga",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9986851811408997,
+          "index": 3,
+          "word": "Labs",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8921042084693909,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Arga has raised $10 million in a seed funding round that was led by General Catalyst. General Catalyst, Emergence, Gradient and SV Angel also participated.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:59:11.770Z"
+    },
+    {
+      "title": "Forget the Pelican, it's Weevil-Time! / Benchmaxxing-Proof SVG and Vision Benchmark",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyw1wo/forget_the_pelican_its_weeviltime/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T12:44:22.000Z",
+      "metaDescription": "The Artist: Qwen3.8-27B-UD-Q3\\K_XL, q8_0 caches, xhigh, temp 1.0, image-min-tokens 1024, froggeric template)\n I was screwing around with different Qwen3.8-27B quants and thought of this very simplisti",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.30754343964168324,
+      "crawledAt": "2026-08-26T16:53:03.075Z",
+      "id": "gu6j62",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.88336580991745,
+          "index": 5,
+          "word": "##can",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Artist: Qwen3.8-27B-UD-Q3\\K_XL, q8_0 caches, xhigh, temp 1.0, image-min-tokens 1024, froggeric template.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:59:35.614Z"
     },
     {
       "title": "Mastering the AI Project Cycle: From Concept to Production",
@@ -67,6 +1133,50 @@
       "summary": " A successful AI system goes through multiple stages, starting with identifying the right problem and end. In fact, AI projects are not built by choosing a model and feeding it data.",
       "language": "en",
       "processed_at": "2026-08-26T13:08:26.086Z"
+    },
+    {
+      "title": "V-JEPA 2 Is a World Model. Just Not the Part Everyone Means.",
+      "url": "https://pub.towardsai.net/v-jepa-2-is-a-world-model-just-not-the-part-everyone-means-9d389baf7bf6?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T12:31:01.000Z",
+      "metaDescription": "This August a humanoid robot ran the 100 meters in 9.39 seconds at a competition in Beijing, a little faster than Usain Bolt’s world…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.3583957410187246,
+      "crawledAt": "2026-08-26T16:52:57.087Z",
+      "id": "9hwec4",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9620261192321777,
+          "index": 4,
+          "word": "##EP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9008364677429199,
+          "index": 5,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9686176776885986,
+          "index": 10,
+          "word": "Model",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This August a humanoid robot ran the 100 meters in 9.39 seconds at a competition in Beijing. The robot is a little faster than Usain Bolt.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:59:44.422Z"
     },
     {
       "title": "Learn These 5 AI Terms and You’ll Understand More Than Most People Who Use AI Every Day",
@@ -158,6 +1268,42 @@
       "summary": " ThePython 3.15 quiz is a test of your knowledge of Python's knowledge of the language. The quiz is designed to test your knowledge.",
       "language": "en",
       "processed_at": "2026-08-26T13:09:29.856Z"
+    },
+    {
+      "title": "On Psychotic Machines And Dead Creativity",
+      "url": "https://generativeai.pub/on-psychotic-machines-and-dead-creativity-1791753c35f1?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T11:30:32.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6096885101630334,
+      "crawledAt": "2026-08-26T16:53:00.623Z",
+      "id": "9x51cr",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8857154846191406,
+          "index": 6,
+          "word": "Machine",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8962792754173279,
+          "index": 10,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T16:59:44.461Z"
     },
     {
       "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
@@ -480,6 +1626,25 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-08-26T08:54:33.437Z"
+    },
+    {
+      "title": "Qwen3.8-Flash-Next - Release Day",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyq2v4/megathread_qwen38flashnext_release_day/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T07:26:50.000Z",
+      "metaDescription": "Megathread for discussing the release of Qwen 3.8 Flash Next.\n  \nQuants\n Fine-Tunes & Abliterations\n Chat Templates\n Inference Server Support & Configuration\n Experiences, Benchmarks & Model Compariso",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.9319550355284452,
+      "crawledAt": "2026-08-26T16:53:02.594Z",
+      "id": "7mn0fq",
+      "entities": [],
+      "summary": "Quants Fine-Tunes & Abliterations Chat Templates Inference Server Support & Configuration. The Qwen 3.8 Flash Next.",
+      "language": "en",
+      "processed_at": "2026-08-26T17:00:10.874Z"
     },
     {
       "title": "PeopleSoft to AI | Part 15A: Depth-First Search , Explained Simply",
@@ -934,6 +2099,25 @@
       "summary": " The AI can help people learn new skills and learn new knowledge. It can help you learn more about your own skills.",
       "language": "en",
       "processed_at": "2026-08-26T04:50:30.066Z"
+    },
+    {
+      "title": "Underrated Muse Glimmer",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyn07o/underrated_muse_glimmer/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T04:38:32.000Z",
+      "metaDescription": "Benchmarked qwen3.8 xhigh, medium and muse glimmer.\n Xhigh effort mode with qwen3.8 took almost 30hrs. (And still failed on 16 cases because of the 32K output token limit)\n Medium effort mode and muse",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9441804765964285,
+      "crawledAt": "2026-08-26T16:53:03.451Z",
+      "id": "te486b",
+      "entities": [],
+      "summary": " Benchmarked qwen3.8 xhigh, medium and muse glimmer. Xhigh effort mode with qwen2.8 took almost 30hrs. (and still failed on 16 cases because of the 32K output token limit) Medium effort mode and muse mode and Muse mode and",
+      "language": "en",
+      "processed_at": "2026-08-26T17:00:26.419Z"
     },
     {
       "title": "AI Basics: LLM, RAG, MCP and Agentic AI Explained in simple words",
@@ -2230,6 +3414,90 @@
       "processed_at": "2026-08-26T05:04:38.041Z"
     },
     {
+      "title": "Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyl6yj/thomson_reuters_releases_thomson10small_a_law_and/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T03:10:55.000Z",
+      "metaDescription": "submitted by    /u/RedditUsr2  \n [link]   [comments]",
+      "category": "model-release",
+      "difficulty": 8,
+      "confidence": 0.7526663765498174,
+      "crawledAt": "2026-08-26T16:53:03.186Z",
+      "id": "umrsmn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9992541670799255,
+          "index": 1,
+          "word": "Thomson",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9993143677711487,
+          "index": 2,
+          "word": "Re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9989937543869019,
+          "index": 3,
+          "word": "##uters",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.994986891746521,
+          "index": 5,
+          "word": "Thomson",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9697596430778503,
+          "index": 6,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9972745776176453,
+          "index": 7,
+          "word": "1",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9978613257408142,
+          "index": 9,
+          "word": "0",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9753609299659729,
+          "index": 11,
+          "word": "Small",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T17:00:26.472Z"
+    },
+    {
       "title": "Asset Assistant: Building an AI Search Tool That Finds Files Even When You Cannot Remember Their…",
       "url": "https://generativeai.pub/asset-assistant-building-an-ai-search-tool-that-finds-files-even-when-you-cannot-remember-their-5385349631fa?source=rss----440100e76000---4",
       "source": "Generative AI",
@@ -2402,6 +3670,25 @@
       "summary": "OpenAI uses OpenAI Codex to make software development accessible across the business. The tool helps teams turn ideas into products faster.",
       "language": "en",
       "processed_at": "2026-08-26T13:11:50.130Z"
+    },
+    {
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face Blog",
+      "source_domain": "huggingface.co",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 9,
+      "confidence": 0.3137494518541629,
+      "crawledAt": "2026-08-26T16:52:35.287Z",
+      "id": "qbieql",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T17:00:26.524Z"
     },
     {
       "title": "Your Coding Agent Shouldn’t Work Alone",
@@ -3090,19 +4377,21 @@
       "processed_at": "2026-08-26T01:54:09.417Z"
     }
   ],
-  "processedAt": "2026-08-26T13:11:50.136Z",
+  "processedAt": "2026-08-26T17:00:26.528Z",
   "categories": [
-    "ai-agents",
     "creative-ai",
-    "infrastructure",
-    "safety-ethics",
-    "model-release",
-    "tutorial-guide",
+    "research-paper",
+    "ai-agents",
+    "industry-news",
     "developer-tool",
-    "product-launch"
+    "safety-ethics",
+    "product-launch",
+    "infrastructure",
+    "model-release",
+    "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 14,
-  "dailyArticlesCount": 100,
+  "newArticlesProcessed": 34,
+  "dailyArticlesCount": 134,
   "filterDate": "2026-08-26"
 }
