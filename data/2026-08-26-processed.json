@@ -1,9 +1,1000 @@
 {
-  "crawledAt": "2026-08-26T16:53:28.206Z",
+  "crawledAt": "2026-08-26T23:16:11.195Z",
   "totalSources": 70,
-  "totalArticles": 134,
+  "totalArticles": 161,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "source": "Lex Fridman",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T21:44:41.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 7,
+      "confidence": 0.5424155403827094,
+      "crawledAt": "2026-08-26T23:15:49.703Z",
+      "id": "uzlo3f",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8436231017112732,
+          "index": 5,
+          "word": "Future",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9040402770042419,
+          "index": 9,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9887717366218567,
+          "index": 11,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9329412579536438,
+          "index": 12,
+          "word": "##ic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9591874480247498,
+          "index": 13,
+          "word": "Engineering",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.950343906879425,
+          "index": 15,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9128484725952148,
+          "index": 22,
+          "word": "Lex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9740854501724243,
+          "index": 23,
+          "word": "Fr",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:16:40.872Z"
+    },
+    {
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T21:37:39.000Z",
+      "metaDescription": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "category": "research-paper",
+      "difficulty": 4,
+      "confidence": 0.9360223877939952,
+      "crawledAt": "2026-08-26T23:15:22.678Z",
+      "id": "78ed3e",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9622501730918884,
+          "index": 17,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9489917755126953,
+          "index": 18,
+          "word": "##sca",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new deal with infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:16:50.598Z"
+    },
+    {
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T21:25:27.000Z",
+      "metaDescription": "Reuters report shows Meta's challenges replacing people with AI agents.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9944060023928505,
+      "crawledAt": "2026-08-26T23:15:24.055Z",
+      "id": "xccbnd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982302188873291,
+          "index": 6,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9790011644363403,
+          "index": 7,
+          "word": "##a",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Reuters report shows Meta's challenges to replacing people with AI agents. Meta's challenge is to replace people with an AI agent.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:16:57.831Z"
+    },
+    {
+      "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T21:05:30.000Z",
+      "metaDescription": "The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.6066725219778889,
+      "crawledAt": "2026-08-26T23:15:19.521Z",
+      "id": "mx93oa",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9440749287605286,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8373088836669922,
+          "index": 2,
+          "word": "##VI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9068170189857483,
+          "index": 3,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8944900035858154,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.876937210559845,
+          "index": 5,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9048784375190735,
+          "index": 7,
+          "word": "##L",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends on AI.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:17:07.569Z"
+    },
+    {
+      "title": "Qwen 27b ud IQ3XXS potential- 3D Zen Room demo - pi harness - build deploy and share link on discord",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz9say/qwen_27b_ud_iq3xxs_potential_3d_zen_room_demo_pi/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T21:05:10.000Z",
+      "metaDescription": "submitted by    /u/dreamai87  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.30129810686691777,
+      "crawledAt": "2026-08-26T23:15:46.714Z",
+      "id": "ukegm4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8048739433288574,
+          "index": 1,
+          "word": "Q",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8575788736343384,
+          "index": 17,
+          "word": "Room",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:17:07.634Z"
+    },
+    {
+      "title": "New Twitter launches, says Musk's X gave up the name",
+      "url": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T20:49:04.000Z",
+      "metaDescription": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.8912947665373988,
+      "crawledAt": "2026-08-26T23:15:24.111Z",
+      "id": "x10yw3",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8320143818855286,
+          "index": 6,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8322668075561523,
+          "index": 10,
+          "word": "X",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Judge hasn't ruled on preliminary injunction, but Operation Bluebird plows ahead. Judge hasn’t ruled on X Corp’s preliminary injunction.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:17:38.573Z"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T20:12:53.000Z",
+      "metaDescription": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task.\nThe post GitHub Copilot app for Beginners: Automate Dependabot pull request ",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2704987903047133,
+      "crawledAt": "2026-08-26T23:15:21.820Z",
+      "id": "s92swb",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8002105355262756,
+          "index": 3,
+          "word": "##H",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "The GitHub Copilot app can handle this type of repetitive tasks. Learn how the GitHub Cop Pilot app can manage library updates.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:17:45.980Z"
+    },
+    {
+      "title": "A Practical Guide to Choosing the Right Spark Join Strategy, Avoiding Unnecessary Shuffles…",
+      "url": "https://pub.towardsai.net/a-practical-guide-to-choosing-the-right-spark-join-strategy-avoiding-unnecessary-shuffles-582f41320147?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T20:01:01.000Z",
+      "metaDescription": "While working with Apache Spark, everyone has written below join, which looks simple but involves a complex execution behind it.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2625104487464319,
+      "crawledAt": "2026-08-26T23:15:40.468Z",
+      "id": "m6okzt",
+      "entities": [],
+      "summary": " Apache Spark has been working with the company to develop an AI-powered system. The company has been in the process of developing the system for years.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:17:56.275Z"
+    },
+    {
+      "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T19:50:52.000Z",
+      "metaDescription": "Meta to impose daily limit on child social media use in deal with nearly every state.",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.26491626347307,
+      "crawledAt": "2026-08-26T23:15:24.172Z",
+      "id": "hbe6a2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.999052107334137,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9925706386566162,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996729493141174,
+          "index": 16,
+          "word": "Florida",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Meta to impose daily limit on child social media use in the future. Nearly every state has a limit on the use of social media.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:18:14.929Z"
+    },
+    {
+      "title": "TAI #219: AI, Cancer and the Future of Personalized Medicine",
+      "url": "https://pub.towardsai.net/tai-219-ai-cancer-and-the-future-of-personalized-medicine-27763deaa56e?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T19:47:28.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.6044405297746253,
+      "crawledAt": "2026-08-26T23:15:40.497Z",
+      "id": "l726bu",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9317085146903992,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9063632488250732,
+          "index": 9,
+          "word": "Cancer",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9237387776374817,
+          "index": 12,
+          "word": "Future",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9934040904045105,
+          "index": 13,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9925034046173096,
+          "index": 14,
+          "word": "Personal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9971286058425903,
+          "index": 15,
+          "word": "##ized",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9875866770744324,
+          "index": 16,
+          "word": "Medicine",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:18:14.981Z"
+    },
+    {
+      "title": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident",
+      "url": "https://www.alignmentforum.org/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T19:40:21.000Z",
+      "metaDescription": "We recently published the report from our brief independent investigation into this incident. You can read the full report here.\nHere is our tweet thread summarizing what we found:\nMETR & Redwood Rese",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.27777036786725706,
+      "crawledAt": "2026-08-26T23:15:33.940Z",
+      "id": "tvz3ce",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9565644860267639,
+          "index": 15,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9898897409439087,
+          "index": 16,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9696550369262695,
+          "index": 21,
+          "word": "Face",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The report was published from our brief investigation into the incident. The report is based on the report from our independent investigation.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:18:24.213Z"
+    },
+    {
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T19:34:04.000Z",
+      "metaDescription": "Was Greg Brockman the right executive all along?",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.26452944676417234,
+      "crawledAt": "2026-08-26T23:15:22.782Z",
+      "id": "fouiji",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9988723993301392,
+          "index": 5,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9971283078193665,
+          "index": 6,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.995324969291687,
+          "index": 7,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:18:40.244Z"
+    },
+    {
+      "title": "Lemonade end-of-summer project update, now serving 15 engines!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz7095/lemonade_endofsummer_project_update_now_serving/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T19:25:21.000Z",
+      "metaDescription": "Hi everyone, it's been a while since I posted so here's an update on what the Lemonade community has been up to this summer. Our overall mission is to enable local AI builders with everything they nee",
+      "category": "model-release",
+      "difficulty": 3,
+      "confidence": 0.9142962173537879,
+      "crawledAt": "2026-08-26T23:15:46.094Z",
+      "id": "yx0wby",
+      "entities": [],
+      "summary": " The Lemonade community has been up to this summer. The community's overall mission is to enable local AI builders with everything they nee.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:18:48.277Z"
+    },
+    {
+      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+      "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T19:16:42.000Z",
+      "metaDescription": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2567658484820575,
+      "crawledAt": "2026-08-26T23:15:26.293Z",
+      "id": "lxmxm8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9491090774536133,
+          "index": 9,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9005706906318665,
+          "index": 10,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The AI giant acknowledges that it could have done more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:19:09.053Z"
+    },
+    {
+      "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T19:13:35.000Z",
+      "metaDescription": "Amazon Bedrock AgentCore Evaluations decouples agent evaluation from the framework you build on. As long as your agent emits OpenTelemetry telemetry, the service can score it, whether you use LangGrap",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.6777819575448708,
+      "crawledAt": "2026-08-26T23:15:32.721Z",
+      "id": "eltxc6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.866116464138031,
+          "index": 8,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9904565811157227,
+          "index": 9,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9825699925422668,
+          "index": 10,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "As long as your agent emits OpenTelemetry telemetry, the service can score. The service can also score if you use LangGrap.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:19:18.033Z"
+    },
+    {
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T19:00:00.000Z",
+      "metaDescription": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.33886226379698614,
+      "crawledAt": "2026-08-26T23:15:26.884Z",
+      "id": "pdnfab",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998159646987915,
+          "index": 6,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9954017400741577,
+          "index": 7,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9875640869140625,
+          "index": 8,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The models responsible for last month’s agent hack had been inadvertently trained to cheat and to communicate with each other.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:19:47.994Z"
+    },
+    {
+      "title": "Why vLLM and SGLang Are Replacing Ollama for Agentic Workflows",
+      "url": "https://pub.towardsai.net/why-vllm-and-sglang-are-replacing-ollama-for-agentic-workflows-4cf46cc020a7?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T18:01:01.000Z",
+      "metaDescription": "Agent loops re-send almost the same prompt hundreds of times. vLLM and SGLang keep it cached between steps, Ollama drops it after five…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.27439974010777235,
+      "crawledAt": "2026-08-26T23:15:40.607Z",
+      "id": "azdgde",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9677825570106506,
+          "index": 3,
+          "word": "##LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8499186038970947,
+          "index": 4,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9772979021072388,
+          "index": 6,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9627469778060913,
+          "index": 8,
+          "word": "##L",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Agent loops. Agent loops re-send almost the same prompt hundreds of times. SGLang keeps it cached between steps.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:20:18.817Z"
+    },
+    {
+      "title": "Can we reconsider the megathreads?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz40zv/can_we_reconsider_the_megathreads/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T17:40:57.000Z",
+      "metaDescription": "In the past during model releases there used to be tons of interesting discussions happening on this subreddit. However, the new rules of forcing everything into a single megathread almost completely ",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3296891003999711,
+      "crawledAt": "2026-08-26T23:15:45.701Z",
+      "id": "c243wb",
+      "entities": [],
+      "summary": " In the past during model releases there used to be tons of interesting discussions on this subreddit. However, the new rules of forcing everything into a single megathread almost completely.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:20:39.784Z"
+    },
+    {
+      "title": "The Porsche 911 GT3 Touring punches above its weight class",
+      "url": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T17:25:53.000Z",
+      "metaDescription": "The \"everyday\" GT3 delivers, despite looming regulations and an ever-inflating price tag.",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.340344480371445,
+      "crawledAt": "2026-08-26T23:15:24.342Z",
+      "id": "fzknug",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9988255500793457,
+          "index": 2,
+          "word": "Porsche",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9984880685806274,
+          "index": 3,
+          "word": "911",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9975149631500244,
+          "index": 4,
+          "word": "GT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9990438222885132,
+          "index": 5,
+          "word": "##3",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8892872333526611,
+          "index": 6,
+          "word": "Touring",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The \"everyday\" GT3 delivers, despite looming regulations and an ever-inflating price tag. The \"Everyday\"",
+      "language": "en",
+      "processed_at": "2026-08-26T23:20:51.263Z"
+    },
+    {
+      "title": "little tool for offline wikipedia RAG",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz3a1a/little_tool_for_offline_wikipedia_rag/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T17:14:24.000Z",
+      "metaDescription": "I was bored and handwrote a tiny 100-line bash script to let an agent search for and read articles from an offline wikipedia archive during a regular chat. It's not particularly useful, but it's defin",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.29843366141539956,
+      "crawledAt": "2026-08-26T23:15:46.775Z",
+      "id": "g8ol2x",
+      "entities": [],
+      "summary": " The 100-line bash script was written to let an agent search for and read articles. It's not particularly useful, but it's not very useful.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:21:16.956Z"
+    },
+    {
+      "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+      "url": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T17:13:37.000Z",
+      "metaDescription": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.3130039811267907,
+      "crawledAt": "2026-08-26T23:15:26.417Z",
+      "id": "c98jei",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8641475439071655,
+          "index": 18,
+          "word": "Safety",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " More than 15 politicians have signed up to the AI Pact. They say they want to regulate data centers and AI.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:21:25.054Z"
+    },
+    {
+      "title": "How Aiden Agents Survive Running Out of Context Mid-Task: A Technical Deep Dive",
+      "url": "https://pub.towardsai.net/how-aiden-agents-survive-running-out-of-context-mid-task-a-technical-deep-dive-2720e50cb0b1?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T17:01:03.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.45745654797799473,
+      "crawledAt": "2026-08-26T23:15:40.637Z",
+      "id": "po5t35",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:21:25.107Z"
+    },
+    {
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "source": "DeepMind",
+      "source_domain": "deepmind.google",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T17:01:00.000Z",
+      "metaDescription": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5500644149539268,
+      "crawledAt": "2026-08-26T23:15:31.883Z",
+      "id": "8ixrw1",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9425504803657532,
+          "index": 5,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Gemini 3.5 Transcribe. Now you can get more intelligent speech-to-text transcription with Gemini 3%.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:21:32.815Z"
+    },
+    {
+      "title": "Xbox’s new disc-to-digital program gives physical games a digital future",
+      "url": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-26T16:59:41.000Z",
+      "metaDescription": "\"Most\" Xbox One and Series X games are compatible; discs will still work after being claimed.",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.7798767891000647,
+      "crawledAt": "2026-08-26T23:15:24.399Z",
+      "id": "f5vr37",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9957958459854126,
+          "index": 1,
+          "word": "Xbox",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"Most\" Xbox One and Series X games are compatible, but discs will still work after being claimed. \"Most,\" Xbox One, Series X and other games are still compatible.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:21:45.034Z"
+    },
+    {
+      "title": "Accelerate agent improvement with LangSmith Engine",
+      "url": "https://www.youtube.com/watch?v=hYhTke2m0X8",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T16:58:50.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.5099591100158247,
+      "crawledAt": "2026-08-26T23:15:51.948Z",
+      "id": "6bdoaf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9726276397705078,
+          "index": 8,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9589621424674988,
+          "index": 9,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9694408774375916,
+          "index": 10,
+          "word": "##mith",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:21:45.077Z"
+    },
     {
       "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
       "url": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/",
@@ -1431,6 +2422,34 @@
       "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America.",
       "language": "en",
       "processed_at": "2026-08-26T13:10:50.201Z"
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-08-26T10:00:00.000Z",
+      "metaDescription": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4367693371102155,
+      "crawledAt": "2026-08-26T23:15:18.597Z",
+      "id": "h6x8i2",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8910703659057617,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous. The report also explores how educators use chatGPT.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:22:05.714Z"
     },
     {
       "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
@@ -4375,23 +5394,42 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-08-26T01:54:09.417Z"
+    },
+    {
+      "title": "Introducing Intelligence Age",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-08-20T07:00:00.000Z",
+      "metaDescription": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.34710911208368583,
+      "crawledAt": "2026-08-26T23:15:18.972Z",
+      "id": "pc7p3i",
+      "entities": [],
+      "summary": " New OpenAI blog explores how transformative AI could reshape power, governance, the economy, and individual freedom. The blog is called Intelligence Age.",
+      "language": "en",
+      "processed_at": "2026-08-26T23:22:22.837Z"
     }
   ],
-  "processedAt": "2026-08-26T17:00:26.528Z",
+  "processedAt": "2026-08-26T23:22:22.842Z",
   "categories": [
-    "creative-ai",
-    "research-paper",
     "ai-agents",
-    "industry-news",
-    "developer-tool",
-    "safety-ethics",
+    "research-paper",
     "product-launch",
+    "creative-ai",
     "infrastructure",
+    "safety-ethics",
     "model-release",
+    "developer-tool",
+    "industry-news",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 34,
-  "dailyArticlesCount": 134,
+  "newArticlesProcessed": 27,
+  "dailyArticlesCount": 161,
   "filterDate": "2026-08-26"
 }
