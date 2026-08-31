@@ -1,9 +1,840 @@
 {
-  "crawledAt": "2026-08-31T05:08:58.879Z",
+  "crawledAt": "2026-08-31T16:06:35.899Z",
   "totalSources": 70,
-  "totalArticles": 60,
+  "totalArticles": 86,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Your LLM Can Return Perfect JSON and Still Be Wrong",
+      "url": "https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T15:30:01.000Z",
+      "metaDescription": "What I learned after thinking more carefully about Structured Outputs on messy, incomplete data\nThe post Your LLM Can Return Perfect JSON and Still Be Wrong appeared first on Towards Data Science.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3012398107243065,
+      "crawledAt": "2026-08-31T16:05:06.102Z",
+      "id": "osdux7",
+      "entities": [],
+      "summary": " The post Your LLM Can Return Perfect JSON and Still Be Wrong. What I learned after thinking more carefully about Structured Outputs on messy, incomplete data.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:06:49.230Z"
+    },
+    {
+      "title": "Your AI Agent Loads Two Memory Files Every Turn. Keep Both Thin.",
+      "url": "https://levelup.gitconnected.com/your-ai-agent-loads-two-memory-files-every-turn-keep-both-thin-ec71c28f1bb0?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T15:29:03.000Z",
+      "metaDescription": "Claude Code, Codex CLI, Gemini CLI, Grok CLI, and Cursor each prepend a differently named markdown file to every turn, but the tax is the…\nContinue reading on Level Up Coding »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9763888033473642,
+      "crawledAt": "2026-08-31T16:05:34.546Z",
+      "id": "xcppbi",
+      "entities": [],
+      "summary": " Claude Code, Codex Code, Gemini CLI, Grok CLI, and Grok. Cursor each prepend a differently named markdown file to every turn, but the tax is the…",
+      "language": "en",
+      "processed_at": "2026-08-31T16:07:11.687Z"
+    },
+    {
+      "title": "AI Can Prove Einstein Was Right. It Could Never Have Been Einstein.",
+      "url": "https://levelup.gitconnected.com/ai-can-prove-einstein-was-right-it-could-never-have-been-einstein-8c7bd9825a7e?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T15:28:48.000Z",
+      "metaDescription": "A Google DeepMind researcher just explained why, and the answer is more specific than you’d expect.\nContinue reading on Level Up Coding »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.43529514231431005,
+      "crawledAt": "2026-08-31T16:05:34.694Z",
+      "id": "d3jbtb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9411635398864746,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A Google DeepMind researcher explains why, and the answer is more specific than you'd expect. The answers are more specific.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:07:21.375Z"
+    },
+    {
+      "title": "How Does Your Smartwatch Know You’re Stressed? The Science of PPG and EDA",
+      "url": "https://levelup.gitconnected.com/how-smartwatches-detect-stress-with-ppg-and-eda-a62e58249f90?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T15:21:10.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.5766771086519922,
+      "crawledAt": "2026-08-31T16:05:35.093Z",
+      "id": "talepm",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.800934374332428,
+          "index": 5,
+          "word": "##watch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8347710371017456,
+          "index": 16,
+          "word": "PP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8768429756164551,
+          "index": 17,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9875966310501099,
+          "index": 19,
+          "word": "E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8767200708389282,
+          "index": 20,
+          "word": "##DA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:07:43.308Z"
+    },
+    {
+      "title": "Getting Started with Cilium Service Mesh on kubernetes",
+      "url": "https://levelup.gitconnected.com/getting-started-with-cilium-service-mesh-on-kubernetes-a74295ca6331?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T15:20:55.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.2909599639978147,
+      "crawledAt": "2026-08-31T16:05:35.162Z",
+      "id": "cn2ve3",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8025856614112854,
+          "index": 6,
+          "word": "##ili",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8628849387168884,
+          "index": 8,
+          "word": "Service",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.917382538318634,
+          "index": 9,
+          "word": "Me",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8175194263458252,
+          "index": 12,
+          "word": "k",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:07:43.479Z"
+    },
+    {
+      "title": "Hands-On Guide to Building a Bedrock Knowledge Base — S3 Data Source and OpenSearch Serverless…",
+      "url": "https://levelup.gitconnected.com/hands-on-guide-to-building-a-bedrock-knowledge-base-s3-data-source-and-opensearch-serverless-ccce0537b8b1?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T15:20:41.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.3582256853399614,
+      "crawledAt": "2026-08-31T16:05:35.281Z",
+      "id": "wn6bwu",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8987305760383606,
+          "index": 19,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9266841411590576,
+          "index": 20,
+          "word": "##ear",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8978879451751709,
+          "index": 21,
+          "word": "##ch",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:07:43.687Z"
+    },
+    {
+      "title": "Why Your Transactional Emails Are a Time Bomb",
+      "url": "https://levelup.gitconnected.com/why-your-transactional-emails-are-a-time-bomb-and-how-to-disarm-it-before-it-explodes-c0ce2a605dd0?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T15:20:25.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.3265098743301018,
+      "crawledAt": "2026-08-31T16:05:35.350Z",
+      "id": "rbf8m6",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8121809959411621,
+          "index": 11,
+          "word": "Bomb",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:07:43.817Z"
+    },
+    {
+      "title": "Build a Self-Healing Multi-Agent Team with LangGraph",
+      "url": "https://levelup.gitconnected.com/build-a-self-healing-multi-agent-team-with-langgraph-458c4f0d94a2?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T15:20:09.000Z",
+      "metaDescription": "Learn how to orchestrate specialised AI sub-agents with adaptive thinking levels, isolated tool sandboxes, and autonomous cyclic feedback…\nContinue reading on Level Up Coding »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5461825515260263,
+      "crawledAt": "2026-08-31T16:05:35.506Z",
+      "id": "kxqhz",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9651943445205688,
+          "index": 13,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8927644491195679,
+          "index": 14,
+          "word": "##G",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Learn how to orchestrate specialised AI sub-agents with adaptive thinking levels, isolated tool sandboxes, and autonomous cyclic feedback.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:07:56.513Z"
+    },
+    {
+      "title": "Gemini Omni Flash Video Workflow: Build AI Video Features Developers Can Trust",
+      "url": "https://pub.towardsai.net/gemini-omni-flash-video-workflow-build-ai-video-features-developers-can-trust-7142a2e6cf87?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T14:01:05.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.7487440698146434,
+      "crawledAt": "2026-08-31T16:05:27.339Z",
+      "id": "y644eh",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8541303873062134,
+          "index": 1,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:08:07.354Z"
+    },
+    {
+      "title": "FAQ as RAG: When You Get to Design the Corpus",
+      "url": "https://towardsdatascience.com/faq-as-rag-when-you-get-to-design-the-corpus/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T14:00:02.000Z",
+      "metaDescription": "Enterprise Document Intelligence [Vol.1 #B2] - The FAQ inverts every brick of the standard RAG pipeline. Parsing is trivial, retrieval doubles as a cache, and few-shot prompting becomes a retrieval pr",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.8898861365036822,
+      "crawledAt": "2026-08-31T16:05:06.291Z",
+      "id": "ue7jzp",
+      "entities": [],
+      "summary": " The FAQ inverts every brick of the standard RAG pipeline. The FAQ also includes the FAQ in the RAG.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:08:17.604Z"
+    },
+    {
+      "title": "Identity and permissions aren’t enough to govern AI agent behavior",
+      "url": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T14:00:00.000Z",
+      "metaDescription": "Presented by Box\n\nIdentity and permissions are no longer enough to secure enterprise AI agents. They govern what an agent can reach, not how it behaves once it starts working on its own, and an autono",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.4872353282225628,
+      "crawledAt": "2026-08-31T16:05:09.635Z",
+      "id": "us5pr5",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9454665780067444,
+          "index": 11,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Identity and permissions are no longer enough to secure enterprise AI agents. They govern what an agent can reach, not how it behaves once it starts working on its own.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:08:28.424Z"
+    },
+    {
+      "title": "Speed Up LLM Inference with DSpark Speculative Decoding",
+      "url": "https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T14:00:00.000Z",
+      "metaDescription": "Learn how DSpark speculative decoding can improve local LLM generation speed using the same GPU, with Qwen3-8B, llama.cpp, and CUDA.",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.28085441931206817,
+      "crawledAt": "2026-08-31T16:06:24.306Z",
+      "id": "cj5n6x",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8753774762153625,
+          "index": 3,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9963673949241638,
+          "index": 8,
+          "word": "DS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9953306317329407,
+          "index": 9,
+          "word": "##park",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9833860993385315,
+          "index": 10,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8303429484367371,
+          "index": 11,
+          "word": "##peculative",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9378239512443542,
+          "index": 12,
+          "word": "Dec",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9177637100219727,
+          "index": 13,
+          "word": "##od",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " DSpark can improve local LLM generation speed using the same GPU, with Qwen3-8B, llama.cpp, and CUDA.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:08:40.580Z"
+    },
+    {
+      "title": "Async Programming in Python: From Generators to asyncio",
+      "url": "https://realpython.com/python-async-features/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T14:00:00.000Z",
+      "metaDescription": "Python async programming lets a single-threaded program stay busy while it waits on slow work, such as a network request, a database query, or a file read. Instead of blocking the CPU until the result",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.36876557170960794,
+      "crawledAt": "2026-08-31T16:06:32.257Z",
+      "id": "tknb5i",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8048869967460632,
+          "index": 5,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Python lets a single-threaded program stay busy while it waits on slow work. Instead of blocking the CPU until the result is the result.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:08:52.557Z"
+    },
+    {
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T13:41:40.000Z",
+      "metaDescription": "Explosive growth comes with a new regulatory burden in the European Union.",
+      "category": "safety-ethics",
+      "difficulty": 6,
+      "confidence": 0.4497702907075179,
+      "crawledAt": "2026-08-31T16:04:58.962Z",
+      "id": "3dcasj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9892627000808716,
+          "index": 1,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.97987961769104,
+          "index": 3,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9726154208183289,
+          "index": 4,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9788399338722229,
+          "index": 6,
+          "word": "Red",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9712139368057251,
+          "index": 7,
+          "word": "##dit",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9990929365158081,
+          "index": 10,
+          "word": "EU",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Explosive growth comes with a new regulatory burden in the European Union. The European Union has a new burden on the economy.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:09:01.837Z"
+    },
+    {
+      "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
+      "url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+      "source": "Import AI",
+      "source_domain": "jack-clark.net",
+      "source_category": "newsletter",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T13:31:06.000Z",
+      "metaDescription": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import AI reader g",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.385089126248415,
+      "crawledAt": "2026-08-31T16:06:00.252Z",
+      "id": "nf0izh",
+      "entities": [],
+      "summary": " Import AI runs on arXiv, cappuccinos, and cappucinos. Import AI run on arxiv, cppuccino, and can be used in the future.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:09:17.038Z"
+    },
+    {
+      "title": "Multi-Agent Orchestration Patterns — and When Not to Use Them",
+      "url": "https://pub.towardsai.net/multi-agent-orchestration-patterns-and-when-not-to-use-them-a2174301254d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T12:31:01.000Z",
+      "metaDescription": "Everyone wants an AI team. Most tasks want one strong agent. This is a field guide to the orchestration patterns that actually work, the…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3624747877033865,
+      "crawledAt": "2026-08-31T16:05:27.503Z",
+      "id": "vpafii",
+      "entities": [],
+      "summary": " Everyone wants an AI team. Most tasks want one strong agent. This is a field guide to the orchestration patterns that actually work.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:09:46.108Z"
+    },
+    {
+      "title": "Cold emailing profs about PhD positions? Read this",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T12:09:24.000Z",
+      "metaDescription": "This is the time of year where the cold emails I receive about PhD positions tends to ramp up quite a bit. In many countries, this cold emailing is essentially part of the normal recruitment process, ",
+      "category": "research-paper",
+      "difficulty": 4,
+      "confidence": 0.9089752556902588,
+      "crawledAt": "2026-08-31T16:05:41.400Z",
+      "id": "tl0hf4",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9697219133377075,
+          "index": 7,
+          "word": "PhD",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " In many countries, this is part of the normal recruitment process for PhDs. The cold emailing is common in many countries.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:10:11.771Z"
+    },
+    {
+      "title": "Claude Code Skills vs Slash Commands vs Subagents: Where Should Each One Live?",
+      "url": "https://pub.towardsai.net/claude-code-skills-vs-slash-commands-vs-subagents-where-should-each-one-live-80bf1b846008?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T12:01:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2624480107813054,
+      "crawledAt": "2026-08-31T16:05:27.592Z",
+      "id": "hykre",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8732360601425171,
+          "index": 5,
+          "word": "S",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:10:23.341Z"
+    },
+    {
+      "title": "7 Python Mistakes Beginners Make",
+      "url": "https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T12:00:34.000Z",
+      "metaDescription": "It's about the mistakes that make a running program wrong. Below are seven of them. For each one you get the hidden cause, plus the first thing worth checking.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.32935160817474635,
+      "crawledAt": "2026-08-31T16:06:24.450Z",
+      "id": "hua2xm",
+      "entities": [],
+      "summary": " Below are seven of the mistakes that make a running program wrong. For each one you get the hidden cause, plus the first thing worth checking.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:10:33.092Z"
+    },
+    {
+      "title": "Combining LLM Embeddings with Tabular Features in a Unified Scikit-learn Pipeline",
+      "url": "https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/",
+      "source": "Machine Learning Mastery",
+      "source_domain": "machinelearningmastery.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T12:00:18.000Z",
+      "metaDescription": "In this article, you will learn how to build a unified scikit-learn pipeline that combines text embeddings generated by a lightweight open-source language model with...",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.3016703902433291,
+      "crawledAt": "2026-08-31T16:05:12.254Z",
+      "id": "tlm52s",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9516915678977966,
+          "index": 14,
+          "word": "Features",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9889299869537354,
+          "index": 19,
+          "word": "##iki",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9794971346855164,
+          "index": 20,
+          "word": "##t",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A unified scikit-learn pipeline combines text embeddings generated by a lightweight open-source language model with a lightweight Open-source model.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:10:47.390Z"
+    },
+    {
+      "title": "Why Clay's Finance Team Loves LangSmith",
+      "url": "https://www.youtube.com/shorts/hwkefavUd3Q",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T11:00:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7735964864368459,
+      "crawledAt": "2026-08-31T16:05:51.603Z",
+      "id": "cvdbdy",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9688211679458618,
+          "index": 6,
+          "word": "Team",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:11:10.809Z"
+    },
+    {
+      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T10:30:00.000Z",
+      "metaDescription": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.6628125569175115,
+      "crawledAt": "2026-08-31T16:05:04.507Z",
+      "id": "mg2uu5",
+      "entities": [],
+      "summary": " Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,’ one person tells WIRED. ‘It should never be given the keys.’",
+      "language": "en",
+      "processed_at": "2026-08-31T16:11:35.812Z"
+    },
+    {
+      "title": "Our next designer is an AI made by designers: it has done the work, so we don’t need to hire one",
+      "url": "https://ai.plainenglish.io/our-next-designer-is-an-ai-made-by-designers-it-has-done-the-work-so-we-dont-need-to-hire-one-f364dbbfa0ab?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T10:12:47.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9912297806159864,
+      "crawledAt": "2026-08-31T16:05:35.615Z",
+      "id": "u5yod9",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:11:35.991Z"
+    },
+    {
+      "title": "You Are the Product: The Hidden Economy Behind Your Data",
+      "url": "https://ai.plainenglish.io/you-are-the-product-the-hidden-economy-behind-your-data-98aa3dea0cb5?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T10:12:23.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.31023840985309925,
+      "crawledAt": "2026-08-31T16:05:35.815Z",
+      "id": "qsaedw",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8944448232650757,
+          "index": 11,
+          "word": "Data",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:11:46.927Z"
+    },
+    {
+      "title": "Good Machine Learning Posters",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w39buv/good_machine_learning_posters_d/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-08-31T10:04:08.000Z",
+      "metaDescription": "Hi, I'm making posters for ECCV 2026.\n Does anyone have any ML/CV posters they thought were really well done?\n Would love to see some cool examples.\n Thanks\n    submitted by    /u/National-Resident244",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9229996541704769,
+      "crawledAt": "2026-08-31T16:05:41.750Z",
+      "id": "9ya23l",
+      "entities": [],
+      "summary": " Does anyone have any ML/CV posters they thought were really well done? Would love to see some cool examples?",
+      "language": "en",
+      "processed_at": "2026-08-31T16:12:06.611Z"
+    },
+    {
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T10:00:34.000Z",
+      "metaDescription": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9896272642983871,
+      "crawledAt": "2026-08-31T16:04:59.244Z",
+      "id": "c0e5j9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9944686889648438,
+          "index": 1,
+          "word": "Pocket",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Interactive mobile mobile \"gizmos\" are easy to make, hard to share outside Meta's platform. \"Gizmos,\" are easy-to-make, hard-to share outside the platform.",
+      "language": "en",
+      "processed_at": "2026-08-31T16:12:20.079Z"
+    },
     {
       "title": "Pangram AI Detector — The Most Accurate AI Detector Right Now",
       "url": "https://ai.plainenglish.io/pangram-ai-detector-the-most-accurate-ai-detector-right-now-180348307bbf?source=rss----78d064101951---4",
@@ -1919,19 +2750,20 @@
       "processed_at": "2026-08-31T05:24:54.934Z"
     }
   ],
-  "processedAt": "2026-08-31T05:25:13.996Z",
+  "processedAt": "2026-08-31T16:13:34.882Z",
   "categories": [
     "creative-ai",
     "ai-agents",
     "infrastructure",
+    "product-launch",
+    "developer-tool",
     "safety-ethics",
     "research-paper",
-    "developer-tool",
     "tutorial-guide",
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 60,
-  "dailyArticlesCount": 60,
+  "newArticlesProcessed": 26,
+  "dailyArticlesCount": 86,
   "filterDate": "2026-08-31"
 }
