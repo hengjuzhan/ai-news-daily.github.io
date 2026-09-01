@@ -1,9 +1,686 @@
 {
-  "crawledAt": "2026-09-01T19:22:20.038Z",
+  "crawledAt": "2026-09-01T22:32:37.113Z",
   "totalSources": 70,
-  "totalArticles": 1576,
+  "totalArticles": 1591,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T22:08:24.000Z",
+      "metaDescription": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.2877935912868487,
+      "crawledAt": "2026-09-01T22:31:28.165Z",
+      "id": "8cqugs",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9920983910560608,
+          "index": 7,
+          "word": "Y",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9954090118408203,
+          "index": 8,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9927971363067627,
+          "index": 9,
+          "word": "##mb",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9955949187278748,
+          "index": 10,
+          "word": "##inator",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AfterQuery reportedly raised $3.2 billion from $30 million to $3 million in April. It is the first time the startup has raised a round of $3 billion.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:32:48.811Z"
+    },
+    {
+      "title": "Your Prompt Is a Deployable",
+      "url": "https://pub.towardsai.net/your-prompt-is-a-deployable-b28f657f6847?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T22:01:01.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.9737495065987797,
+      "crawledAt": "2026-09-01T22:31:53.947Z",
+      "id": "cu7fpz",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:32:48.860Z"
+    },
+    {
+      "title": "What AI is Bernardo Kastrup talking about?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w4r81f/what_ai_is_bernardo_kastrup_talking_about/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T21:59:54.000Z",
+      "metaDescription": "Any idea what AI Bernardo Kastrup is talking about. I find it really interesting, but he is extremely vague.\n    submitted by    /u/DesperateReading2333  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3652708962015078,
+      "crawledAt": "2026-09-01T22:32:05.598Z",
+      "id": "dj6p5l",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9993951320648193,
+          "index": 4,
+          "word": "Bernardo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995506405830383,
+          "index": 5,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9902567863464355,
+          "index": 6,
+          "word": "##st",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9767848253250122,
+          "index": 7,
+          "word": "##rup",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:32:48.941Z"
+    },
+    {
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T21:19:20.000Z",
+      "metaDescription": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too.  The NVIDIA f",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.40094681267256443,
+      "crawledAt": "2026-09-01T22:31:23.979Z",
+      "id": "bgeqg6",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9402490854263306,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8168107271194458,
+          "index": 2,
+          "word": "##VI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.943203330039978,
+          "index": 3,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8390417098999023,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8637788891792297,
+          "index": 8,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.864387035369873,
+          "index": 18,
+          "word": "##bers",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " ‘We’re at an inflection point in cybersecurity,’ says Jensen Huang. “We”re at a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:33:02.753Z"
+    },
+    {
+      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T21:06:24.000Z",
+      "metaDescription": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.43173060488820814,
+      "crawledAt": "2026-09-01T22:31:28.278Z",
+      "id": "ng69i2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8640516996383667,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.962954044342041,
+          "index": 5,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9380375146865845,
+          "index": 6,
+          "word": "##tra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest cyber-critical LLM.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:33:11.905Z"
+    },
+    {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T20:53:05.000Z",
+      "metaDescription": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.32801353703921415,
+      "crawledAt": "2026-09-01T22:31:28.365Z",
+      "id": "w9qunp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990270137786865,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9948974251747131,
+          "index": 4,
+          "word": "Android",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Google is playing catch-up to Apple, which already offers similar features for iPhone users. Some of the features see Google playing catch up to Apple. Others specifically leverage Gemini to provide various improvements.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:33:33.704Z"
+    },
+    {
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI Blog",
+      "source_domain": "blog.google",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T20:45:00.000Z",
+      "metaDescription": "Here are Google’s latest AI updates from August 2026",
+      "category": "industry-news",
+      "difficulty": 4,
+      "confidence": 0.6009962063109376,
+      "crawledAt": "2026-09-01T22:31:25.754Z",
+      "id": "ltoc58",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9960280656814575,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Google's latest AI updates from August 2026. Here are Google’s latest AI update from August2026.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:33:55.639Z"
+    },
+    {
+      "title": "New Image Model with Astra release?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w4ov7j/new_image_model_with_astra_release/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T20:43:55.000Z",
+      "metaDescription": "How realistic is it that we could get a NEW gpt image model with the new Astra realse (which will be released probably somewhere in Sept-Oct)?\n    submitted by    /u/mil_mustangus  \n [link]   [comment",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.916075462043206,
+      "crawledAt": "2026-09-01T22:32:05.934Z",
+      "id": "yujf6n",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9495288729667664,
+          "index": 5,
+          "word": "As",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:33:55.687Z"
+    },
+    {
+      "title": "Claude Code Best Practices: A Developer’s Guide to Smarter AI Workflows",
+      "url": "https://ai.plainenglish.io/claude-code-best-practices-a-developers-guide-to-smarter-ai-workflows-1c20479b7353?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T20:32:05.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.9007846819455289,
+      "crawledAt": "2026-09-01T22:31:56.533Z",
+      "id": "2y0lni",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:33:55.783Z"
+    },
+    {
+      "title": "10 Python Automation Projects That Can Save You Hours Every Week",
+      "url": "https://python.plainenglish.io/10-python-automation-projects-that-can-save-you-hours-every-week-e169abb69c58?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-01T20:31:01.000Z",
+      "metaDescription": "There are plenty of tasks that developers repeat without thinking about them.\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.9236703058871449,
+      "crawledAt": "2026-09-01T22:31:57.151Z",
+      "id": "3pektn",
+      "entities": [],
+      "summary": "There are plenty of tasks that developers repeat without thinking about them. There are plenty more tasks to do than just think about.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:34:03.624Z"
+    },
+    {
+      "title": "Fable 5.1 Is Finally Efficient — With a Catch",
+      "url": "https://www.youtube.com/watch?v=_36g9LVM3wA",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T20:11:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4909405835732899,
+      "crawledAt": "2026-09-01T22:32:13.985Z",
+      "id": "ndpxuo",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:34:24.377Z"
+    },
+    {
+      "title": "LangChain Just Made Frontier-Style Deep Agents Open Source",
+      "url": "https://pub.towardsai.net/langchain-just-made-frontier-style-deep-agents-open-source-54dd1b45b99f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T20:01:01.000Z",
+      "metaDescription": "Proprietary Deep research agents just became much more available! No need for perplexity or Claude code anymore, build your own!\nContinue reading on Towards AI »",
+      "category": "developer-tool",
+      "difficulty": 6,
+      "confidence": 0.6859175395815349,
+      "crawledAt": "2026-09-01T22:31:54.077Z",
+      "id": "978l8g",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.936355471611023,
+          "index": 1,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8471831679344177,
+          "index": 2,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.911411464214325,
+          "index": 3,
+          "word": "##hai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9842352867126465,
+          "index": 6,
+          "word": "Made",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9606224894523621,
+          "index": 7,
+          "word": "Frontier",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Proprietary Deep research agents just became much more available. No need for perplexity or Claude code anymore, build your own!",
+      "language": "en",
+      "processed_at": "2026-09-01T22:34:32.393Z"
+    },
+    {
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T20:00:00.000Z",
+      "metaDescription": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.9838277233319497,
+      "crawledAt": "2026-09-01T22:31:34.268Z",
+      "id": "wf2n7x",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9968878030776978,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9916544556617737,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9789386987686157,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The company will give select partners early access to its Astra AI model. It will give them time to shore up their defenses.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:34:41.194Z"
+    },
+    {
+      "title": "Slow interference is great",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4ndne/slow_interference_is_great/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T19:58:15.000Z",
+      "metaDescription": "No seriously, I kinda like it.\n You have something to solve, you put it.\n You know its gonna take like 20 mins to cook.\n Every search adds another 30 minutes.\n Yes I could boot up my debian on my gami",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5182506404331103,
+      "crawledAt": "2026-09-01T22:32:01.612Z",
+      "id": "os707l",
+      "entities": [],
+      "summary": " Every search adds another 30 minutes. Yes, I could boot up my debian on my gami. No seriously, I kinda like it. You know its gonna take like 20 mins to cook, you put it in it.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:34:54.813Z"
+    },
+    {
+      "title": "I Gave Claude Opus 5 a Blank Folder and One Prompt. Here’s What It Built.",
+      "url": "https://ai.plainenglish.io/i-gave-claude-opus-5-a-blank-folder-and-one-prompt-heres-what-it-built-fbb05e23af2d?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T19:58:02.000Z",
+      "metaDescription": "I have broken enough side projects with AI coding tools to be suspicious of any model that promises to “just handle it.” So when I decided…\nContinue reading on Artificial Intelligence in Plain English",
+      "category": "research-paper",
+      "difficulty": 4,
+      "confidence": 0.3281988775688085,
+      "crawledAt": "2026-09-01T22:31:56.631Z",
+      "id": "3g9gsa",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9187971949577332,
+          "index": 6,
+          "word": "5",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AI coding tools can be suspicious of any model that promises to “just handle it’s just handle it.’",
+      "language": "en",
+      "processed_at": "2026-09-01T22:35:03.799Z"
+    },
+    {
+      "title": "Machine Learning Won’t Replace Your Team It’ll Make Them Sharper",
+      "url": "https://ai.plainenglish.io/machine-learning-wont-replace-your-team-it-ll-make-them-sharper-7cf4b7dd4745?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T19:57:44.000Z",
+      "metaDescription": "Machine learning is often discussed as if it will remove people from the workplace. Business leaders hear predictions about automated jobs…\nContinue reading on Artificial Intelligence in Plain English",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3203917187479984,
+      "crawledAt": "2026-09-01T22:31:56.712Z",
+      "id": "cim246",
+      "entities": [],
+      "summary": " Machine learning is often discussed as if it will remove people from the workplace. Business leaders hear predictions about automated jobs.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:35:10.084Z"
+    },
+    {
+      "title": "Docker for AI Engineers: The Boring Technology Quietly Running the AI Revolution",
+      "url": "https://ai.plainenglish.io/docker-for-ai-engineers-the-boring-technology-quietly-running-the-ai-revolution-7977fd1dd25f?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T19:57:26.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.496525921515512,
+      "crawledAt": "2026-09-01T22:31:56.751Z",
+      "id": "n65rcs",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8473214507102966,
+          "index": 9,
+          "word": "##ring",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.943632960319519,
+          "index": 10,
+          "word": "Technology",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9671875834465027,
+          "index": 15,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9949338436126709,
+          "index": 16,
+          "word": "Revolution",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:35:10.144Z"
+    },
+    {
+      "title": "Where do you host Codex so overnight jobs dont die with the laptop",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w4m8sm/where_do_you_host_codex_so_overnight_jobs_dont/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T19:23:45.000Z",
+      "metaDescription": "Using Codex for longer jobs and keep losing progress when the machine sleeps. where to host codex if you dont want a pc on 24/7. looking for boring uptime, not another weekend of headless auth tutoria",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.28930257334411846,
+      "crawledAt": "2026-09-01T22:32:05.061Z",
+      "id": "opkl25",
+      "entities": [],
+      "summary": "Using Codex for longer jobs and keep losing progress when the machine sleeps. Using Codex for the longer jobs, keep losing work when the computer sleeps.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:35:50.420Z"
+    },
+    {
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T19:10:36.000Z",
+      "metaDescription": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.5463262978681127,
+      "crawledAt": "2026-09-01T22:31:33.354Z",
+      "id": "4wtm9n",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9921704530715942,
+          "index": 11,
+          "word": "Alpha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9922573566436768,
+          "index": 12,
+          "word": "Ce",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9649000763893127,
+          "index": 13,
+          "word": "##nta",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.981808602809906,
+          "index": 14,
+          "word": "##uri",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Fermi Explorer Mission will launch a spacecraft to our nearest star system by 2029. It's a hugely ambitious mission.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:35:59.050Z"
+    },
     {
       "title": "Claude Fable 5.1 Is Out. Anthropic’s Own Docs Tell You Not to Use It.",
       "url": "https://ai.plainenglish.io/claude-fable-5-1-is-out-anthropics-own-docs-tell-you-not-to-use-it-509ba56406c8?source=rss----78d064101951---4",
@@ -201,6 +878,25 @@
       "summary": " Anthropic has just released its latest and most powerful language models. It's only the first day of September 2026, but the month and fall season are already off to the races in AI land.",
       "language": "en",
       "processed_at": "2026-09-01T19:23:23.315Z"
+    },
+    {
+      "title": "Fable 5.1 released. Significant benchmark improvements, what do you think?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w4kgg6/fable_51_released_significant_benchmark/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T18:26:48.000Z",
+      "metaDescription": "https://preview.redd.it/dxg7ny5vbymh1.png?width=1966&format=png&auto=webp&s=5e3253cd5776384420cfc402ee0a2b098e02a919\n Same input/output pricing and 75% price reduction for cache.\n    submitted by    /",
+      "category": "model-release",
+      "difficulty": 3,
+      "confidence": 0.40201259101046566,
+      "crawledAt": "2026-09-01T22:32:04.370Z",
+      "id": "3g3iqu",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:35:59.201Z"
     },
     {
       "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
@@ -463,6 +1159,50 @@
       "summary": "Four of the world's best Pythoners can solve a real problem. Four of them solve a problem that can't be solved by Python.",
       "language": "en",
       "processed_at": "2026-09-01T19:25:21.434Z"
+    },
+    {
+      "title": "Has anyone here used Mem0 or Supermemory for actual daily AI work?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w4gfiu/has_anyone_here_used_mem0_or_supermemory_for/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T16:09:33.000Z",
+      "metaDescription": "I've been looking at the cross-AI memory space and something doesn't add up. Mem0 claims 150,000+ developers. Supermemory claims 10,000+ power users. But when you look for real reviews, named testimon",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.6748659620697643,
+      "crawledAt": "2026-09-01T22:32:05.512Z",
+      "id": "sbhawk",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9949390292167664,
+          "index": 5,
+          "word": "Me",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8657377362251282,
+          "index": 6,
+          "word": "##m",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9397323131561279,
+          "index": 10,
+          "word": "##me",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Mem0 claims 150,000+ developers. But when you look for real reviews, named testimon is named testimons.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:36:17.066Z"
     },
     {
       "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
@@ -1225,6 +1965,61 @@
       "processed_at": "2026-09-01T19:31:09.829Z"
     },
     {
+      "title": "Skysight and Privacy Implications",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w4c0nd/skysight_and_privacy_implications/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T13:28:25.000Z",
+      "metaDescription": "I am not sure if this has been documented by anyone else as of late, but in looking through my hidden ~/.codex under memories a saw an interesting folder called \"skysight\". I do have ComputerUse enabl",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.34755483136713267,
+      "crawledAt": "2026-09-01T22:32:05.749Z",
+      "id": "1k7v1l",
+      "entities": [],
+      "summary": " I do have ComputerUse enabl. I do not know if this has been documented by anyone else as of late.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:36:46.914Z"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T13:00:00.000Z",
+      "metaDescription": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.31044540922131264,
+      "crawledAt": "2026-09-01T22:31:21.506Z",
+      "id": "90xd1a",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9641774296760559,
+          "index": 3,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8579432964324951,
+          "index": 4,
+          "word": "##tra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold. Astra has stronger safeguards for release.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:36:55.687Z"
+    },
+    {
       "title": "Learning Agentic AI: Planning & Reflection",
       "url": "https://pub.towardsai.net/learning-agentic-ai-planning-reflection-a885242e3d15?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -1415,6 +2210,58 @@
       "summary": " In this quiz, you’ll test your understanding of how to turn a pandas DataFrame into an interactive data-profiling.",
       "language": "en",
       "processed_at": "2026-09-01T13:27:40.263Z"
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T12:00:00.000Z",
+      "metaDescription": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.29020923165268875,
+      "crawledAt": "2026-09-01T22:31:21.590Z",
+      "id": "d5mfd2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9952025413513184,
+          "index": 6,
+          "word": "E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8479565978050232,
+          "index": 7,
+          "word": "##H",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9384869337081909,
+          "index": 14,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.916543185710907,
+          "index": 16,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:37:04.388Z"
     },
     {
       "title": "Jack Dorsey built a Slack where the coworkers are AI agents. Then he open-sourced it.",
@@ -1763,6 +2610,25 @@
       "processed_at": "2026-09-01T19:32:14.313Z"
     },
     {
+      "title": "Gentle reminder of why we can't have nice things with these kind of thieves around.",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w44eyi/gentle_reminder_of_why_we_cant_have_nice_things/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T07:06:56.000Z",
+      "metaDescription": "submitted by    /u/ElderberryTopp  \n [link]   [comments]",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.6231887846586994,
+      "crawledAt": "2026-09-01T22:32:04.610Z",
+      "id": "toq536",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:37:04.455Z"
+    },
+    {
       "title": "Vercel's New Coding Agent Takes Away Your MCP Tool List. It Sends the Same 15 Schemas.",
       "url": "https://pub.towardsai.net/vercels-new-coding-agent-takes-away-your-mcp-tool-list-it-sends-the-same-15-schemas-edd6f51195c0?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -2006,6 +2872,50 @@
       "summary": " Stop choosing between structured knowledge and semantic search. Stop choosing from structured knowledge to semantic search. Learn when to use Knowledge Graphs for explicit facts and Vector Databases.",
       "language": "en",
       "processed_at": "2026-09-01T13:30:31.032Z"
+    },
+    {
+      "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w4294d/apple_says_openai_is_destroying_evidence_in_trade/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T05:07:20.000Z",
+      "metaDescription": "The filing is here https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.94.1.pdf\n Some really spicy claims in there. Seems like an agent may have found and used pr",
+      "category": "industry-news",
+      "difficulty": 5,
+      "confidence": 0.3097808813317439,
+      "crawledAt": "2026-09-01T22:32:04.796Z",
+      "id": "uu4wf2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981311559677124,
+          "index": 1,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9518296718597412,
+          "index": 4,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9857781529426575,
+          "index": 14,
+          "word": "Secrets",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The filing is here. The filing.com/recap/gov.uscourts.com.com.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:37:13.152Z"
     },
     {
       "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
@@ -3804,6 +4714,25 @@
       "summary": " Most evaluations for coding agents are conducted exclusively in English. Most evaluations are conducted in English, which does not reflect real-world multilingual deployment.",
       "language": "en",
       "processed_at": "2026-09-01T13:32:53.640Z"
+    },
+    {
+      "title": "GPT-6",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w40n1m/gpt6/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T03:45:47.000Z",
+      "metaDescription": "Sam Altman says GPT-6 “Astra” is already approaching human-level performance at using computers.\n And with the recent reports that OpenAI bought tens of thousands of Mac minis / Mac Studios specifical",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.29232961866412915,
+      "crawledAt": "2026-09-01T22:32:04.548Z",
+      "id": "49b6yq",
+      "entities": [],
+      "summary": " GPT-6 is already approaching human-level performance, says Sam Altman. GPT: GPT 6 is already in the middle of a human-like stage.",
+      "language": "en",
+      "processed_at": "2026-09-01T22:37:22.461Z"
     },
     {
       "title": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises",
@@ -49528,438 +50457,25 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-08-18T01:42:17.549Z"
-    },
-    {
-      "title": "We’ve got a workshop on production retrieval-augmented generation with open models, benchmarked end to end, thought it’d be relevant here",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-17T22:02:45.000Z",
-      "metaDescription": "There’s a hands-on workshop on August 29 that builds and benchmarks this properly, end to end, using entirely open models, no API calls involved. Led by Ben Auffarth, AI Consultant and Founder of Chel",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.26866036497027435,
-      "crawledAt": "2026-08-18T04:43:16.698Z",
-      "id": "dd4m5t",
-      "entities": [],
-      "summary": " There's a hands-on workshop on August 29 that builds and benchmarks this properly, end to end. Led by Ben Auffarth, AI Consultant and Founder of Chel.",
-      "language": "en",
-      "processed_at": "2026-08-18T04:58:32.883Z"
-    },
-    {
-      "title": "How Does Anthropic Watermark AI-Generated Content?",
-      "url": "https://pub.towardsai.net/how-anthropic-watermarks-ai-content-47265b651657?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-17T22:01:01.000Z",
-      "metaDescription": "Learn how AI watermarks are hidden in text and files, how they can be detected, and what happens when you try to remove them\nContinue reading on Towards AI »",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.36079009545199464,
-      "crawledAt": "2026-08-18T01:40:37.166Z",
-      "id": "4vg5ph",
-      "entities": [],
-      "summary": " Learn how AI watermarks are hidden in text and files, how they can be detected, and what happens when you try to remove them.",
-      "language": "en",
-      "processed_at": "2026-08-18T01:42:47.504Z"
-    },
-    {
-      "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
-      "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-08-17T22:00:00.000Z",
-      "metaDescription": "Cursor began rolling out Origin, its own code hosting platform, to paid users on Monday morning. Roughly three and a half hours later, GitHub's status page lit up with what became a six-hour-and-forty",
-      "category": "product-launch",
-      "difficulty": 5,
-      "confidence": 0.9934639859732229,
-      "crawledAt": "2026-08-18T01:40:14.132Z",
-      "id": "5h29ao",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9721057415008545,
-          "index": 5,
-          "word": "Origin",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8355070948600769,
-          "index": 13,
-          "word": "##ub",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.997984766960144,
-          "index": 20,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Cursor began rolling out Origin, its own code hosting platform, to paid users on Monday morning. Roughly three and a half hours later, GitHub's status page lit up with what became a six-hour-and-forty-hour page.",
-      "language": "en",
-      "processed_at": "2026-08-18T01:43:03.016Z"
-    },
-    {
-      "title": "ICLR numbered citations possible?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6644/iclr_numbered_citations_possible_r/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-17T21:56:06.000Z",
-      "metaDescription": "The instructions say Author Year format. But I was wondering if do numbered instead (no space lol), will it be straight desk rejection? Has anyone submitted with numbered format before? How did it go?",
-      "category": "research-paper",
-      "difficulty": 4,
-      "confidence": 0.26872499338541167,
-      "crawledAt": "2026-08-18T04:43:17.281Z",
-      "id": "5ypp7k",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8995245695114136,
-          "index": 1,
-          "word": "I",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The instructions say Author Year. The instructions are supposed to be written in the form of a book. But if you want to use the numbers instead of the book's name, you'll have to use it.",
-      "language": "en",
-      "processed_at": "2026-08-18T04:58:45.413Z"
-    },
-    {
-      "title": "we benchmark models nobody actually runs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr643w/we_benchmark_models_nobody_actually_runs/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-17T21:53:54.000Z",
-      "metaDescription": "qwen3.8 27B has seriously impressive benchmarks on its model card, but that's for the unquantised version. Almost everyone here will run one quant or another.\n Are there good benchmarks for how those ",
-      "category": "industry-news",
-      "difficulty": 4,
-      "confidence": 0.3547062843291505,
-      "crawledAt": "2026-08-18T01:40:50.696Z",
-      "id": "drcg0t",
-      "entities": [],
-      "summary": " qwen3.8 27B has seriously impressive benchmarks on its model card. But that's for the unquantised version.",
-      "language": "en",
-      "processed_at": "2026-08-18T01:43:12.668Z"
-    },
-    {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-08-17T21:27:05.000Z",
-      "metaDescription": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.25021228761417175,
-      "crawledAt": "2026-08-18T01:39:59.066Z",
-      "id": "5h4h9l",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9852761626243591,
-          "index": 5,
-          "word": "Re",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9664122462272644,
-          "index": 6,
-          "word": "##lay",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9989712834358215,
-          "index": 13,
-          "word": "Google",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " \"We have some really ambitious plans to help you work with AI in Chrome to get things done,\" says Jacob Bank, Relay founder and CEO.",
-      "language": "en",
-      "processed_at": "2026-08-18T01:43:25.856Z"
-    },
-    {
-      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-08-17T21:18:49.000Z",
-      "metaDescription": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.3371758776447659,
-      "crawledAt": "2026-08-18T01:40:01.919Z",
-      "id": "jurz43",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9986679553985596,
-          "index": 2,
-          "word": "Space",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9977993965148926,
-          "index": 3,
-          "word": "##X",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " ‘We're not necessarily building in a dogmatic fashion towards full autonomy’ ‘‘We’re not necessarilyBuilding in a Dogmatic fashion,’ says a spokesman.",
-      "language": "en",
-      "processed_at": "2026-08-18T01:43:41.087Z"
-    },
-    {
-      "title": "Multimodal Pet Adoption Speed Prediction with an Agentic AI Layer",
-      "url": "https://pub.towardsai.net/multimodal-pet-adoption-speed-prediction-with-an-agentic-ai-layer-1a5b932012b7?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-17T21:01:01.000Z",
-      "metaDescription": "",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.9708133049770972,
-      "crawledAt": "2026-08-18T01:40:37.253Z",
-      "id": "jep3y",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9758033156394958,
-          "index": 13,
-          "word": "Agent",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-18T01:43:41.203Z"
-    },
-    {
-      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-08-17T20:14:23.000Z",
-      "metaDescription": "\"Network effect\" can run in reverse.",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.3142338485465244,
-      "crawledAt": "2026-08-18T01:40:02.144Z",
-      "id": "yj6pf7",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.9997177124023438,
-          "index": 2,
-          "word": "Wisconsin",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9196929335594177,
-          "index": 5,
-          "word": "F",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9036775231361389,
-          "index": 6,
-          "word": "##lock",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-18T01:43:56.850Z"
-    },
-    {
-      "title": "Why Do AI Agents Love Building Web Browsers?",
-      "url": "https://ai.plainenglish.io/why-do-ai-agents-love-building-web-browsers-674251d48780?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-17T20:02:19.000Z",
-      "metaDescription": "",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.6874497673771129,
-      "crawledAt": "2026-08-17T20:35:22.263Z",
-      "id": "jmovbr",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9861134886741638,
-          "index": 8,
-          "word": "B",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-17T20:36:21.528Z"
-    },
-    {
-      "title": "AWS Lambda — All You Need To Know",
-      "url": "https://pub.towardsai.net/aws-lambda-all-you-need-to-know-013011e9c38a?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-17T20:01:01.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.25105111161110744,
-      "crawledAt": "2026-08-17T20:35:17.556Z",
-      "id": "x8pfpf",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9937281012535095,
-          "index": 1,
-          "word": "A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.997029721736908,
-          "index": 3,
-          "word": "Lamb",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9850829243659973,
-          "index": 4,
-          "word": "##da",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-17T20:36:21.650Z"
-    },
-    {
-      "title": "\"Opus 4.8 thinks too much\", \"Muse Glimmer sits between Gemma and Qwen, that's boring\", \"Gemma 4 is too lazy\"",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr2oq8/opus_48_thinks_too_much_muse_glimmer_sits_between/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-17T19:45:37.000Z",
-      "metaDescription": "I'm starting to think there's no way to make a reasoning model that won't draw persistent vocal complaints on here.\n EDIT: Qwen 3.8 not Opus 4.8*, freudian slip lol\n    submitted by    /u/MerePotato  ",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.8538469679023386,
-      "crawledAt": "2026-08-18T01:40:50.173Z",
-      "id": "ssz19i",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9915699362754822,
-          "index": 12,
-          "word": "Muse",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9927003383636475,
-          "index": 13,
-          "word": "G",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.8713884353637695,
-          "index": 15,
-          "word": "##mer",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9827754497528076,
-          "index": 18,
-          "word": "Gemma",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9563457369804382,
-          "index": 20,
-          "word": "Q",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " I'm starting to think there's no way to make a reasoning model that won't draw vocal complaints on here.",
-      "language": "en",
-      "processed_at": "2026-08-18T01:44:19.755Z"
     }
   ],
-  "processedAt": "2026-09-01T19:33:07.205Z",
+  "processedAt": "2026-09-01T22:37:37.312Z",
   "categories": [
     "creative-ai",
-    "ai-agents",
     "product-launch",
-    "infrastructure",
-    "developer-tool",
-    "safety-ethics",
+    "ai-agents",
     "industry-news",
-    "research-paper",
     "model-release",
+    "developer-tool",
+    "infrastructure",
+    "research-paper",
+    "safety-ethics",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 42,
-  "existingArticlesKept": 1569,
+  "newArticlesProcessed": 27,
+  "existingArticlesKept": 1576,
   "cleanupApplied": true,
-  "cleanedUpCount": 35,
+  "cleanedUpCount": 12,
   "rollingWindowDays": 15
 }
