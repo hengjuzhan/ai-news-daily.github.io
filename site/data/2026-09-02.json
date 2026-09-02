@@ -1,9 +1,1139 @@
 {
-  "crawledAt": "2026-09-02T12:43:23.916Z",
+  "crawledAt": "2026-09-02T19:22:02.502Z",
   "totalSources": 70,
-  "totalArticles": 105,
+  "totalArticles": 142,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "What I Learned From Watching Developers Debug",
+      "url": "https://python.plainenglish.io/what-i-learned-from-watching-developers-debug-0e7422d88efa?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T19:14:29.000Z",
+      "metaDescription": "Great debugging is a skill of its own\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3232976353443587,
+      "crawledAt": "2026-09-02T19:21:00.616Z",
+      "id": "gcy304",
+      "entities": [],
+      "summary": " Great debugging is a skill of its own. Great debugging. Great Debug is a skills of its its own own.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:22:13.248Z"
+    },
+    {
+      "title": "Scaffold CoT: A CoT dataset built around the failures of small language models free form thinking. Currently running experiments, but wanted to release it to the community beforehand in case it was of use",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5jw6c/scaffold_cot_a_cot_dataset_built_around_the/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T19:09:34.000Z",
+      "metaDescription": "TL;DR - A ~4M example, ~3B token CoT dataset designed around helping small models think more concisely, accurately and reliably.\n Hi all!\n For the past few months I have been working on a dataset desi",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.47728467721996026,
+      "crawledAt": "2026-09-02T19:21:06.549Z",
+      "id": "p9m2ax",
+      "entities": [],
+      "summary": " A ~4M example, ~3B token CoT dataset designed around helping small models think more concisely and reliably.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:22:22.372Z"
+    },
+    {
+      "title": "You Don’t Need a Server to Run Qwen3.8-Flash Next",
+      "url": "https://pub.towardsai.net/you-dont-need-a-server-to-run-qwen3-8-flash-next-03e91724d196?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T19:01:01.000Z",
+      "metaDescription": "Alibaba’s own instructions start at two datacenter GPUs. People are running the same file on second-hand desktop cards.\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.25929126931719676,
+      "crawledAt": "2026-09-02T19:20:51.792Z",
+      "id": "qawayn",
+      "entities": [],
+      "summary": " Alibaba's own instructions start at two datacenter GPUs. People are running the same file on second-hand desktop cards.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:22:30.685Z"
+    },
+    {
+      "title": "Gemini 3.8 Flash: The model no one expected!",
+      "url": "https://www.youtube.com/watch?v=UvrAYDgobSw",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T18:45:11.000Z",
+      "metaDescription": "",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.41353266381932885,
+      "crawledAt": "2026-09-02T19:21:21.218Z",
+      "id": "i913n5",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9320870041847229,
+          "index": 1,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:22:30.793Z"
+    },
+    {
+      "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T18:18:47.000Z",
+      "metaDescription": "Learn how a global interdealer broker built an automated architecture documentation pipeline on Amazon Bedrock AgentCore that analyzes .NET code bases, generates architecture diagrams, and maintains s",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.8013346502787362,
+      "crawledAt": "2026-09-02T19:20:41.123Z",
+      "id": "9muoxu",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9584165811538696,
+          "index": 7,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8036525845527649,
+          "index": 12,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9556866884231567,
+          "index": 13,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.902675986289978,
+          "index": 14,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A global interdealer broker built an automated documentation pipeline on Amazon BedrockCore that analyzes.NET code bases, generates architecture diagrams, and maintains s s s.Core.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:23:28.284Z"
+    },
+    {
+      "title": "I built an explainable bone-lesion screener for X-rays and ran it for £5 month",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5iaz8/i_built_an_explainable_bonelesion_screener_for/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T18:14:40.000Z",
+      "metaDescription": "I'm a biomedical-to-CS student, and I wanted to see how far a genuinely explainable (Use of heatmapping) medical imaging prototype could get on near-zero infrastructure (the goal was for it to all cos",
+      "category": "research-paper",
+      "difficulty": 3,
+      "confidence": 0.27450182115909905,
+      "crawledAt": "2026-09-02T19:21:06.774Z",
+      "id": "r7bkck",
+      "entities": [],
+      "summary": " The goal was for it to all cos. I wanted to see how far a medical imaging prototype could get on near-zero infrastructure.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:23:39.922Z"
+    },
+    {
+      "title": "Trinity: Agentic AI-powered transition planning for students with disabilities",
+      "url": "https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T18:14:17.000Z",
+      "metaDescription": "Learn how University Startups and its AWS partner g/d/n/a scaled Trinity, a conversational AI solution for students with disabilities, into a serverless multi-agent architecture on Amazon Bedrock that",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.8909740399330035,
+      "crawledAt": "2026-09-02T19:20:41.313Z",
+      "id": "u5k5wo",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9865722060203552,
+          "index": 3,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " University Startups and its AWS partner g/d/n/a scaled Trinity, a conversational AI solution for students with disabilities, into a serverless multi-agent architecture on Amazon Bedrock.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:23:55.693Z"
+    },
+    {
+      "title": "Your Semantic Model Can Now Power a Fabric App. That Is Bigger Than Another Dashboard.",
+      "url": "https://pub.towardsai.net/your-semantic-model-can-now-power-a-fabric-app-that-is-bigger-than-another-dashboard-e298b485fbd6?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T18:01:02.000Z",
+      "metaDescription": "Microsoft introduced Fabric Apps in preview in 2026, with Rayfin providing the SDK and CLI used to build and deploy them. One command…\nContinue reading on Towards AI »",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.2674711540789655,
+      "crawledAt": "2026-09-02T19:20:51.976Z",
+      "id": "9eesij",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9254505038261414,
+          "index": 2,
+          "word": "Se",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Microsoft introduced Fabric Apps in preview in 2026. Rayfin provides the SDK and CLI used to build and deploy them.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:24:05.239Z"
+    },
+    {
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T18:00:00.000Z",
+      "metaDescription": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.\nThe post How we make AI coding more cost efficient without sacrificing task quality appea",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2734995390709929,
+      "crawledAt": "2026-09-02T19:20:18.682Z",
+      "id": "fevb6p",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9673911333084106,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The post explains how we make AI coding more cost efficient without sacrificing task quality. The post also explains how GitHub Copilot reduces wasted work across the complete coding task.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:24:16.252Z"
+    },
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T17:18:13.000Z",
+      "metaDescription": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.32186426721061634,
+      "crawledAt": "2026-09-02T19:20:11.999Z",
+      "id": "6gbgsb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9953120946884155,
+          "index": 1,
+          "word": "Pan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.994888961315155,
+          "index": 2,
+          "word": "##gram",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995748996734619,
+          "index": 5,
+          "word": "Max",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9993159174919128,
+          "index": 6,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9990922212600708,
+          "index": 7,
+          "word": "##per",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8136606812477112,
+          "index": 8,
+          "word": "##o",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AI-generated text and images are now making their way into job applications. It's not just because social media feeds are filling up with AI-slop.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:25:15.030Z"
+    },
+    {
+      "title": "Vector Databases Too Expensive — AWS S3 Vector Might Be Your Answer",
+      "url": "https://levelup.gitconnected.com/vector-databases-too-expensive-aws-s3-vector-might-be-your-answer-ef26e0a1a831?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T16:56:51.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.30384233886649026,
+      "crawledAt": "2026-09-02T19:20:58.192Z",
+      "id": "90kgk8",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:26:08.261Z"
+    },
+    {
+      "title": "5 Reasons Why Your Talent Acquisition Strategy is Failing and How AI Can Fix It",
+      "url": "https://levelup.gitconnected.com/5-reasons-why-your-talent-acquisition-strategy-is-failing-and-how-ai-can-fix-it-17f7f5a02529?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T16:56:21.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5998608027936825,
+      "crawledAt": "2026-09-02T19:20:58.280Z",
+      "id": "bnjv3u",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:26:08.436Z"
+    },
+    {
+      "title": "Reliability at Scale: How Revolut Keeps Payments Running When a Dependency Fails",
+      "url": "https://levelup.gitconnected.com/reliability-at-scale-how-revolut-keeps-payments-running-when-a-dependency-fails-7f98ef9a7eb4?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T16:56:07.000Z",
+      "metaDescription": "Revolut Interview Prep — Day 14 of 16\nContinue reading on Level Up Coding »",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.4621028406506402,
+      "crawledAt": "2026-09-02T19:20:58.412Z",
+      "id": "v5mjw9",
+      "entities": [],
+      "summary": " Revolut Interview Prep is Day 14 of 16. Day 14 is Day 16 of 16. Follow the Daily Discussion on Level Up Coding.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:26:18.675Z"
+    },
+    {
+      "title": "Stop Fearing APIs: A Data Engineer’s Field Guide",
+      "url": "https://levelup.gitconnected.com/stop-fearing-apis-a-data-engineers-field-guide-7fa5689370df?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T16:55:37.000Z",
+      "metaDescription": "Base URLs, endpoints, parameters, and pagination, taught with a real (and fun) API\nContinue reading on Level Up Coding »",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.5698089707723298,
+      "crawledAt": "2026-09-02T19:20:58.655Z",
+      "id": "37vyl3",
+      "entities": [],
+      "summary": " Level Up Coding is taught with a real (and fun) API. Base URLs, endpoints, parameters, and pagination, taught with real ( and fun)API.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:26:30.824Z"
+    },
+    {
+      "title": "From Excel Cells to Real-Time Market Intelligence: The Evolution of the Heatmap",
+      "url": "https://levelup.gitconnected.com/from-excel-cells-to-real-time-market-intelligence-the-evolution-of-the-heatmap-cb68138afca2?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T16:55:22.000Z",
+      "metaDescription": "A heatmap is just colour on a grid. But the journey from conditional formatting in a spreadsheet to real-time financial market…\nContinue reading on Level Up Coding »",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.49421888951914444,
+      "crawledAt": "2026-09-02T19:20:58.841Z",
+      "id": "bpo0ey",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9287837743759155,
+          "index": 2,
+          "word": "Ex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9260569214820862,
+          "index": 3,
+          "word": "##cel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8999143242835999,
+          "index": 4,
+          "word": "Cell",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9073241353034973,
+          "index": 7,
+          "word": "Real",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8012061715126038,
+          "index": 8,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9894952178001404,
+          "index": 9,
+          "word": "Time",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8995013236999512,
+          "index": 15,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9442077875137329,
+          "index": 16,
+          "word": "the",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.826344907283783,
+          "index": 17,
+          "word": "Heat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9593300819396973,
+          "index": 18,
+          "word": "##ma",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A heatmap is just a heatmap, but it's a real-time financial market. The heatmap can be used to help people understand the financial world.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:26:42.673Z"
+    },
+    {
+      "title": "Designing The Perfect Modular Architecture",
+      "url": "https://levelup.gitconnected.com/designing-the-perfect-modular-architecture-fcdea1f4b634?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T16:55:08.000Z",
+      "metaDescription": "Applying everything I’ve learned across 10 years of building\nContinue reading on Level Up Coding »",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.6134503572912593,
+      "crawledAt": "2026-09-02T19:20:58.941Z",
+      "id": "foz0my",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9928388595581055,
+          "index": 4,
+          "word": "Perfect",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9929119944572449,
+          "index": 5,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9745994210243225,
+          "index": 7,
+          "word": "##lar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8892428874969482,
+          "index": 8,
+          "word": "Architecture",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Applying everything I’ve learned across 10 years of building and building on Level Up Coding. ApplyingEverything I�’s learned across ten years of reading on Level up Coding.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:26:58.649Z"
+    },
+    {
+      "title": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T16:49:13.000Z",
+      "metaDescription": "I've spent the last month building a local C++ machine learning library called Deepity to test alternative credit assignment algorithms; specifically Predictive Coding Networks (PCNs). While PCNs are ",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.937987795880943,
+      "crawledAt": "2026-09-02T19:21:05.675Z",
+      "id": "t9nom1",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9989156723022461,
+          "index": 5,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9257314205169678,
+          "index": 6,
+          "word": "+",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8352160453796387,
+          "index": 15,
+          "word": "Networks",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9905440211296082,
+          "index": 18,
+          "word": "Back",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.987097442150116,
+          "index": 19,
+          "word": "##p",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8767495155334473,
+          "index": 20,
+          "word": "##rop",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " C++ machine learning library called Deepity test algorithms to test alternative credit assignment algorithms. PCNs are PCNs, while PCNs were PCNs. While PCNs have PCNs and PCNs aren't PCNs.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:27:25.709Z"
+    },
+    {
+      "title": "8 Python Automation Scripts That Will Save You Hours Every Week",
+      "url": "https://python.plainenglish.io/8-python-automation-scripts-that-will-save-you-hours-every-week-6f0bee821264?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T16:22:47.000Z",
+      "metaDescription": "Stop doing repetitive tasks by hand. Let Python do the boring work while you focus on what actually matters.\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.6211124460763685,
+      "crawledAt": "2026-09-02T19:21:00.762Z",
+      "id": "9ze9cx",
+      "entities": [],
+      "summary": " Stop doing repetitive tasks by hand. Let Python do the boring work while you focus on what actually matters. Read on Python in Plain English.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:27:47.648Z"
+    },
+    {
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T16:01:48.000Z",
+      "metaDescription": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3662288602572555,
+      "crawledAt": "2026-09-02T19:20:13.258Z",
+      "id": "5scjwv",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999722957611084,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9769145846366882,
+          "index": 13,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Jio is betting it can turn an aging computer into an AI-ready PC for $11 for two months.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:28:15.278Z"
+    },
+    {
+      "title": "Mastering the Economics of AI Agents: 4 Cost Optimization Strategies",
+      "url": "https://pub.towardsai.net/mastering-the-economics-of-ai-agents-4-cost-optimization-strategies-4d5e93e939d5?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T16:01:03.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9887860973439359,
+      "crawledAt": "2026-09-02T19:20:52.137Z",
+      "id": "khv4x8",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:28:15.388Z"
+    },
+    {
+      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+      "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T15:51:46.000Z",
+      "metaDescription": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.4753568711974522,
+      "crawledAt": "2026-09-02T19:20:24.084Z",
+      "id": "rjol6v",
+      "entities": [],
+      "summary": " Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:28:39.065Z"
+    },
+    {
+      "title": "Avoiding Entity Key Drift in a Data Lake: Step 2, When Fuzzy Matching Stops Working",
+      "url": "https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-2-when-fuzzy-matching-stops-working/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T15:30:02.000Z",
+      "metaDescription": "I built a matcher meant to finish the cleanup that normalization left behind. Testing it against real data showed that no version of it could be made safe. What follows is the architecture that was le",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.27454437754584704,
+      "crawledAt": "2026-09-02T19:20:25.435Z",
+      "id": "bpve8a",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8130971193313599,
+          "index": 12,
+          "word": "Data",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I built a matcher meant to finish the cleanup that left behind. Testing it against real data showed that no version of it could be made safe.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:28:50.030Z"
+    },
+    {
+      "title": "China Beat Samsung to LPDDR6 Not The OneThat Matters",
+      "url": "https://pub.towardsai.net/china-beat-samsung-to-lpddr6-not-the-onethat-matters-515ab58b21a4?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T15:01:02.000Z",
+      "metaDescription": "First is not the same word as ahead. What the Xiaomi 18 Fold actually proves about the memory war, and what it doesn’t.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.25971671192008017,
+      "crawledAt": "2026-09-02T19:20:52.314Z",
+      "id": "icnpfj",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9813658595085144,
+          "index": 1,
+          "word": "China",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9842720627784729,
+          "index": 3,
+          "word": "Samsung",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Xiaomi 18 Fold is the latest version of the Xiaomi 18 fold. It is not the first time the device has been used in the past.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:29:15.698Z"
+    },
+    {
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T14:56:34.000Z",
+      "metaDescription": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6548608884065776,
+      "crawledAt": "2026-09-02T19:20:13.591Z",
+      "id": "wqbfuz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8793374300003052,
+          "index": 4,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:29:27.135Z"
+    },
+    {
+      "title": "OpenAI, Anthropic, and Google Are Chasing the Same AI Breakthrough. Here’s What They’re Not Saying.",
+      "url": "https://pub.towardsai.net/openai-anthropic-and-google-are-chasing-the-same-ai-breakthrough-heres-what-they-re-not-saying-7a2ae7afdf70?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T14:31:01.000Z",
+      "metaDescription": "They each wrote a safety framework naming it as a critical danger threshold. Then they put it on the roadmap.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4826318003030976,
+      "crawledAt": "2026-09-02T19:20:52.514Z",
+      "id": "wqvr7k",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9957619905471802,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9454002976417542,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9297159314155579,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9942798018455505,
+          "index": 10,
+          "word": "Google",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Each safety framework named it as a critical danger threshold. Then they put it on the roadmap. They each wrote a safety framework naming it as critical danger level.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:30:19.233Z"
+    },
+    {
+      "title": "How to Master Claude Fable 5.1 lmao",
+      "url": "https://ai.plainenglish.io/how-to-master-claude-fable-5-1-lmao-it-released-yesterday-99cb8c940ed2?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T14:26:25.000Z",
+      "metaDescription": "The internet’s fastest certification program: read one release note, make eye contact with a pricing page, become a guru.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9455474765081423,
+      "crawledAt": "2026-09-02T19:20:59.283Z",
+      "id": "2j9t9z",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9976102709770203,
+          "index": 4,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9910102486610413,
+          "index": 5,
+          "word": "F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The internet’s fastest certification program. Read one release note, make eye contact with a pricing page, become a guru.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:30:29.345Z"
+    },
+    {
+      "title": "The Python Automation Script I Built That Turned Repetitive Work Into a Sellable Tool",
+      "url": "https://python.plainenglish.io/the-python-automation-script-i-built-that-turned-repetitive-work-into-a-sellable-tool-2b32c8e43a1b?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T14:07:28.000Z",
+      "metaDescription": "How I combined Python libraries, browser automation, APIs, and a simple dashboard to turn a boring daily task into a product people would…\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.2710864198661549,
+      "crawledAt": "2026-09-02T19:21:01.234Z",
+      "id": "rg5jg9",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.982029914855957,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9888352155685425,
+          "index": 3,
+          "word": "Auto",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9924834370613098,
+          "index": 4,
+          "word": "##mation",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9870356321334839,
+          "index": 5,
+          "word": "Sc",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9593642354011536,
+          "index": 6,
+          "word": "##rip",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A simple dashboard is a simple dashboard to turn a boring daily task into a product people would like to turn into a Product people would want.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:31:04.610Z"
+    },
+    {
+      "title": "Why I’d Swap Claude for Qwen3.8-Max",
+      "url": "https://pub.towardsai.net/why-id-swap-claude-for-qwen3-8-max-efede3bb5a1f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T14:01:03.000Z",
+      "metaDescription": "Claude Fable 5 wins the benchmarks. Qwen3.8-Max costs $0.91 per task to Fable’s $3.14. That’s 3 attempts against 1… let your test suite…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.32776995116362606,
+      "crawledAt": "2026-09-02T19:20:52.735Z",
+      "id": "b5j00y",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9839339852333069,
+          "index": 16,
+          "word": "Max",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Claude Fable 5 wins the benchmarks. Qwen3.8-Max costs $0.91 per task to Fable’s $3.14. That’'s 3 attempts against 1… let your test suite… let you test suite.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:31:32.131Z"
+    },
+    {
+      "title": "This Python Library Can Run Pandas Workloads Up to 20x Faster",
+      "url": "https://www.kdnuggets.com/this-python-library-can-run-pandas-workloads-up-to-20x-faster",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T14:00:11.000Z",
+      "metaDescription": "Discover how FireDucks can speed up pandas workloads with lazy execution, compiler optimization, and multithreaded processing, delivering up to 20x faster DataFrame performance in our benchmark.",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3003134052696758,
+      "crawledAt": "2026-09-02T19:21:57.163Z",
+      "id": "43kt9e",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.991107165813446,
+          "index": 7,
+          "word": "##das",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "FireDucks can speed up pandas workloads with lazy execution, compiler optimization, and multithreaded processing.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:31:42.560Z"
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T14:00:00.000Z",
+      "metaDescription": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3555529625994502,
+      "crawledAt": "2026-09-02T19:20:21.963Z",
+      "id": "itw0s",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9839690923690796,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " As companies scale, technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can become an asset.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:32:11.170Z"
+    },
+    {
+      "title": "Forward-deployed engineering is how enterprise AI learns",
+      "url": "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T14:00:00.000Z",
+      "metaDescription": "Presented by Zeta\n\nEvery forward-deployed engineering (FDE) pitch sounds identical for the first ten minutes: an engineer embedded on-site, a workflow encoded within weeks, a demo that finally works o",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.938541841910501,
+      "crawledAt": "2026-09-02T19:20:29.321Z",
+      "id": "1yfjci",
+      "entities": [],
+      "summary": "Every engineer embedded on-site, a workflow encoded within weeks, a demo that finally works o. Presented by Zeta.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:32:21.494Z"
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "source": "Hugging Face Blog",
+      "source_domain": "huggingface.co",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T13:49:14.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.31733021710223197,
+      "crawledAt": "2026-09-02T19:20:04.085Z",
+      "id": "nkpwe6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9854924082756042,
+          "index": 6,
+          "word": "IBM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9943841099739075,
+          "index": 7,
+          "word": "Time",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9970968961715698,
+          "index": 8,
+          "word": "Series",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9189115166664124,
+          "index": 9,
+          "word": "Models",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:32:30.446Z"
+    },
+    {
+      "title": "Coding Agents Are Starting to Reshape Source Control",
+      "url": "https://pub.towardsai.net/coding-agents-are-starting-to-reshape-source-control-49fc0aae8e01?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T13:01:04.000Z",
+      "metaDescription": "GitLab and Cursor are redesigning the forge for concurrent, short-lived agent workloads operating at machine speed.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.38438197494800935,
+      "crawledAt": "2026-09-02T19:20:52.962Z",
+      "id": "wp4pe6",
+      "entities": [],
+      "summary": " GitLab and Cursor are redesigning the forge for concurrent, short-lived agent workloads operating at machine speed.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:32:49.058Z"
+    },
+    {
+      "title": "How You Can Save 40x On Your AI Costs",
+      "url": "https://ai.plainenglish.io/the-ox-alpha-anomaly-40x-cheaper-than-claude-ce083711799b?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T12:32:25.000Z",
+      "metaDescription": "Actionable system design patterns and infrastructure cost optimisations using the open-weights GLM 5.3 Flash model.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.25036841321907627,
+      "crawledAt": "2026-09-02T19:20:59.437Z",
+      "id": "loxdpf",
+      "entities": [],
+      "summary": " The open-weights GLM 5.3 Flash model. Actionable system design patterns and infrastructure cost optimisations using the open-weight GLM model.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:32:58.908Z"
+    },
     {
       "title": "Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply",
       "url": "https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/",
@@ -109,6 +1239,53 @@
       "summary": " The Daily Download is a daily dose of what's going on in the world of technology. Use this week's Daily Download to help you with reading comprehension and vocabulary.",
       "language": "en",
       "processed_at": "2026-09-02T12:44:19.213Z"
+    },
+    {
+      "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T12:04:39.000Z",
+      "metaDescription": "We needed to know where the open-source AI-detection field actually stands, so we ran every notable open detector through the same protocol.\n Setup:\n - Public data only: Jabarian & Imas 2025 (NBER), L",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.6142000057675969,
+      "crawledAt": "2026-09-02T19:21:07.448Z",
+      "id": "nt7iyq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9735288023948669,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " We ran every notable open detector through the same protocol. Jabarian & Imas 2025 (NBER), L.BER, L.B, LBER, and L.C.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:33:14.323Z"
+    },
+    {
+      "title": "What kinds of ML bottlenecks are a good fit for Triton?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w58dib/what_kinds_of_ml_bottlenecks_are_a_good_fit_for/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T12:02:59.000Z",
+      "metaDescription": "Hi r/MachineLearning,\n Stjepan from Manning here, posting with the mods’ permission.\n We’ve recently released GPU Programming with Triton by Harshwardhan Fartale in early access. It’s a practical guid",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.4139434846515851,
+      "crawledAt": "2026-09-02T19:21:08.287Z",
+      "id": "iws128",
+      "entities": [],
+      "summary": " GPU Programming with Triton by Harshwardhan Fartale in early access. It’s a practical guid. It‘s a real-life version of the software.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:33:28.015Z"
     },
     {
       "title": "5 Real-World Applications of Agentic AI in Enterprise Automation",
@@ -529,6 +1706,42 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-09-02T12:47:08.337Z"
+    },
+    {
+      "title": "MIR with AudioMuse-AI-SAE",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T08:47:36.000Z",
+      "metaDescription": "Hi all,\n I recently read this paper:\n Julien Guinot, Alain Riou, Elio Quinton, Gyorgy Fazekas. Steering dense music retrieval with open-vocabulary concept discovery.https://arxiv.org/abs/2608.08757\n T",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6847848847109438,
+      "crawledAt": "2026-09-02T19:21:07.226Z",
+      "id": "r3iatv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9698631763458252,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9650765657424927,
+          "index": 10,
+          "word": "SA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Julien Guinot, Alain Riou, Elio Quinton, Elia Quinton and Gyorgy Fazekas.",
+      "language": "en",
+      "processed_at": "2026-09-02T19:33:40.390Z"
     },
     {
       "title": "Qwen will be the king?",
@@ -3296,21 +4509,21 @@
       "processed_at": "2026-09-02T12:51:28.453Z"
     }
   ],
-  "processedAt": "2026-09-02T12:51:28.456Z",
+  "processedAt": "2026-09-02T19:33:40.396Z",
   "categories": [
-    "infrastructure",
-    "developer-tool",
     "creative-ai",
+    "model-release",
+    "infrastructure",
+    "research-paper",
     "ai-agents",
+    "safety-ethics",
+    "developer-tool",
     "tutorial-guide",
     "industry-news",
-    "research-paper",
-    "safety-ethics",
-    "model-release",
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 36,
-  "dailyArticlesCount": 105,
+  "newArticlesProcessed": 37,
+  "dailyArticlesCount": 142,
   "filterDate": "2026-09-02"
 }
