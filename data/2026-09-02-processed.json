@@ -1,9 +1,824 @@
 {
-  "crawledAt": "2026-09-02T04:07:25.840Z",
+  "crawledAt": "2026-09-02T12:43:23.916Z",
   "totalSources": 70,
-  "totalArticles": 69,
+  "totalArticles": 105,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply",
+      "url": "https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T12:30:02.000Z",
+      "metaDescription": "A visual guide to how graph neural networks work under the hood\nThe post Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply appeared first on Towards Data Science.",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.31221051345382106,
+      "crawledAt": "2026-09-02T12:42:41.937Z",
+      "id": "gd7pow",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8922207355499268,
+          "index": 1,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9564213156700134,
+          "index": 4,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8617553114891052,
+          "index": 6,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8033527731895447,
+          "index": 7,
+          "word": "Networks",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8197317123413086,
+          "index": 9,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8538805246353149,
+          "index": 13,
+          "word": "MP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply appeared first on Towards Data Science.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:43:53.418Z"
+    },
+    {
+      "title": "\"Be concise\" is the same underspecified trap as \"act as a senior developer,\" just smaller",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w58tbx/be_concise_is_the_same_underspecified_trap_as_act/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T12:22:51.000Z",
+      "metaDescription": "Kept telling a model to \"be concise\" and kept getting output that was short but still somehow missed the point, cutting detail that mattered while keeping filler that didn't. Took three rounds of adju",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.4356641592501132,
+      "crawledAt": "2026-09-02T12:43:02.263Z",
+      "id": "3hwl8n",
+      "entities": [],
+      "summary": " Kept telling a model to \"be concise\" and kept getting output that was short but still missed the point. Took three rounds of adju. Took 3 rounds of adu.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:44:07.288Z"
+    },
+    {
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T12:10:00.000Z",
+      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any bett",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5080826946631921,
+      "crawledAt": "2026-09-02T12:42:40.602Z",
+      "id": "sj8np4",
+      "entities": [],
+      "summary": " The Daily Download is a daily dose of what's going on in the world of technology. Use this week's Daily Download to help you with reading comprehension and vocabulary.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:44:19.213Z"
+    },
+    {
+      "title": "5 Real-World Applications of Agentic AI in Enterprise Automation",
+      "url": "https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T12:00:39.000Z",
+      "metaDescription": "Deploy agentic AI across SRE, finance, legal, migration, and security with deterministic safety constraints.",
+      "category": "ai-agents",
+      "difficulty": 8,
+      "confidence": 0.8524762967872098,
+      "crawledAt": "2026-09-02T12:43:21.884Z",
+      "id": "s0ybly",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8229917883872986,
+          "index": 2,
+          "word": "Real",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.965160608291626,
+          "index": 4,
+          "word": "World",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.958829402923584,
+          "index": 5,
+          "word": "Applications",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9222168922424316,
+          "index": 6,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9631874561309814,
+          "index": 7,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9856370687484741,
+          "index": 8,
+          "word": "##ic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9625219106674194,
+          "index": 9,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9788191318511963,
+          "index": 12,
+          "word": "Auto",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9699863791465759,
+          "index": 13,
+          "word": "##mation",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " deploys agentic AI across SRE, finance, legal, migration, and security with deterministic safety constraints.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:44:50.452Z"
+    },
+    {
+      "title": "Quiz: Python Project Structure: How to Choose the Right Layout",
+      "url": "https://realpython.com/quizzes/python-application-layouts/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T12:00:00.000Z",
+      "metaDescription": "In this quiz, you’ll test your understanding of\nPython Project Structure: How to Choose the Right Layout.\nBy working through this quiz, you’ll revisit how to tell scripts, applications, and\nlibraries ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.39505763877668354,
+      "crawledAt": "2026-09-02T12:43:22.356Z",
+      "id": "f698ld",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8765219449996948,
+          "index": 4,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " In this quiz, you’ll test your understanding of Python Project Structure: How to Choose the Right Layout.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:44:58.201Z"
+    },
+    {
+      "title": "Quiz: Python 3.15 Preview: UTF-8 by Default",
+      "url": "https://realpython.com/quizzes/python315-utf8-default/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T12:00:00.000Z",
+      "metaDescription": "In this quiz, you’ll test your understanding of\nPython 3.15 Preview: UTF-8 by Default.\nBy working through this quiz, you’ll revisit where Python’s old default text encoding came\nfrom, which operations",
+      "category": "tutorial-guide",
+      "difficulty": 4,
+      "confidence": 0.29655806966318526,
+      "crawledAt": "2026-09-02T12:43:22.413Z",
+      "id": "3lp5cr",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9786301851272583,
+          "index": 4,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9745282530784607,
+          "index": 16,
+          "word": "De",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The quiz is a test of your knowledge of Python's knowledge of the language. You will be able to test your knowledge on how to use the language of Python.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:45:06.993Z"
+    },
+    {
+      "title": "LLMs: Intelligence vs. cost | OpenTeams",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w583o7/llms_intelligence_vs_cost_openteams/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T11:50:28.000Z",
+      "metaDescription": "I got fed up with ArtificialAnalysis's intelligence vs. cost plots, so I made my own.\n This is an updated and refined follow-up to a previous post I made. \n    submitted by    /u/crusaderky  \n [link] ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3377187908505854,
+      "crawledAt": "2026-09-02T12:42:59.900Z",
+      "id": "hau9k9",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.930541455745697,
+          "index": 10,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:45:07.037Z"
+    },
+    {
+      "title": "Black Box Hermeneutics",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w583ey/black_box_hermeneutics_studio_master/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T11:50:11.000Z",
+      "metaDescription": "[Intro: 8 bars, 4/4, machine pulse only]\n [Bars 1–4: filtered kick, transformer hum, steel scrape]\n [Bars 5–8: bass enters; guitar answers in 3+3+2 accents]\n Kill the room.\n Leave one light.\n Move it.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.29816948977539015,
+      "crawledAt": "2026-09-02T12:43:02.356Z",
+      "id": "qanrmp",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9353525638580322,
+          "index": 5,
+          "word": "##eu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Bars 5–8: bass enters; guitar answers in 3+3+2 accents. Leave one light. Move it.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:45:13.842Z"
+    },
+    {
+      "title": "AI Agent Memory Design: What Works and What Doesn’t",
+      "url": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
+      "source": "Machine Learning Mastery",
+      "source_domain": "machinelearningmastery.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T11:49:36.000Z",
+      "metaDescription": "In this article, you will learn how to design reliable memory systems for AI agents, covering both the patterns that work and the common architectural...",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.5758419678613751,
+      "crawledAt": "2026-09-02T12:42:44.543Z",
+      "id": "5tx6vp",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8273046016693115,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8463371992111206,
+          "index": 2,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8479501008987427,
+          "index": 3,
+          "word": "Memory",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This article covers both the patterns that work and the common architectural patterns. In this article, you will learn how to design reliable memory systems for AI agents.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:45:23.990Z"
+    },
+    {
+      "title": "Coding Just Became Everyone’s Job. A 5-Year-Old Who Can’t Read Proved It.",
+      "url": "https://generativeai.pub/coding-just-became-everyones-job-a-5-year-old-who-can-t-read-proved-it-83b9ffb97e8e?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T11:37:34.000Z",
+      "metaDescription": "Four production games, dictated through a broken microphone, and why the skill that built them is now required in every profession, not…\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.38963758142042804,
+      "crawledAt": "2026-09-02T12:42:56.687Z",
+      "id": "8ol1m7",
+      "entities": [],
+      "summary": " Four production games, dictated through a broken microphone, dictated by a broken mic. The skill that built them is now required in every profession.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:45:41.926Z"
+    },
+    {
+      "title": "AI Can Write Your Code. The New Developer Skill Is Knowing What to Reject.",
+      "url": "https://ai.plainenglish.io/ai-can-write-your-code-the-new-developer-skill-is-knowing-what-to-reject-9a6c8d4bec27?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T11:31:30.000Z",
+      "metaDescription": "In 2026, writing code is getting cheaper. Understanding, testing, reviewing, and rejecting bad code is becoming more valuable.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4046522515434469,
+      "crawledAt": "2026-09-02T12:42:55.568Z",
+      "id": "u87o9u",
+      "entities": [],
+      "summary": " In 2026, writing code is getting cheaper. Understanding, testing, reviewing and rejecting bad code is becoming more valuable.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:45:50.411Z"
+    },
+    {
+      "title": "Is Russia's rival to Starlink failing? Here's what we know.",
+      "url": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T11:15:23.000Z",
+      "metaDescription": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
+      "category": "industry-news",
+      "difficulty": 5,
+      "confidence": 0.30849157150196593,
+      "crawledAt": "2026-09-02T12:42:38.126Z",
+      "id": "8mfmgr",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998395442962646,
+          "index": 2,
+          "word": "Russia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9975813627243042,
+          "index": 7,
+          "word": "Star",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9976345896720886,
+          "index": 8,
+          "word": "##link",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:46:07.347Z"
+    },
+    {
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+      "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T10:00:00.000Z",
+      "metaDescription": "Meet the AI police who can make or break careers—in publishing and beyond.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.45932646266287586,
+      "crawledAt": "2026-09-02T12:42:41.187Z",
+      "id": "3da795",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9227695465087891,
+          "index": 9,
+          "word": "Gold",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9853684306144714,
+          "index": 10,
+          "word": "Standard",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8137691617012024,
+          "index": 13,
+          "word": "Det",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Meet the AI police who can make or break careers in publishing and beyond. They can make and break careers. Meet the police who you can make, break careers.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:46:48.488Z"
+    },
+    {
+      "title": "Did you notice how it likes to write \"humanity survives another day\" ?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w55clr/did_you_notice_how_it_likes_to_write_humanity/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T09:23:20.000Z",
+      "metaDescription": "Pretty sure it's just meant as \"life goes on\" (it also writes that a lot), like it doesn't matter that much.\n But like... it's such an ominous and specific way of saying it.\n I'm not actually scared b",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2543338320869085,
+      "crawledAt": "2026-09-02T12:43:02.474Z",
+      "id": "jaie53",
+      "entities": [],
+      "summary": " It's such an ominous and specific way of saying it. Pretty sure it's just meant as \"life goes on\"",
+      "language": "en",
+      "processed_at": "2026-09-02T12:47:08.288Z"
+    },
+    {
+      "title": "What Competitive Edge Does Wan 3.0 Have Over Seedance 2.5?",
+      "url": "https://generativeai.pub/what-competitive-edge-does-wan-3-0-have-over-seedance-2-5-e0887b404bf9?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T09:20:33.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2761021784246441,
+      "crawledAt": "2026-09-02T12:42:56.715Z",
+      "id": "fawb7s",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:47:08.337Z"
+    },
+    {
+      "title": "Qwen will be the king?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53ti8/qwen_will_be_the_king/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T07:53:02.000Z",
+      "metaDescription": "Extended reasoning and post-training appear to be the keys used by DeepSeek, Qwen, and GLM to boost performance (leveraging higher token counts). And Qwen 4 hasn't even been released yet. Of course, w",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.35925616008396505,
+      "crawledAt": "2026-09-02T12:42:58.926Z",
+      "id": "5l09bn",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.958816647529602,
+          "index": 1,
+          "word": "Q",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Extended reasoning and post-training appear to be the keys used by DeepSeek, Qwen, and GLM to boost performance. Qwen 4 hasn't even been released yet.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:47:32.299Z"
+    },
+    {
+      "title": "Opencode vs Deepseek harness: my experience with Qwen 3.8 27b",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53mwu/opencode_vs_deepseek_harness_my_experience_with/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T07:42:03.000Z",
+      "metaDescription": "Anybody else struggling with deepseek after the initial prompt? Somehow it is getting mixed up very easily, even button functionality has been PITA when doing stuff. Never had these problems with Open",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2714253325559894,
+      "crawledAt": "2026-09-02T12:42:59.708Z",
+      "id": "u2m0n7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9688078165054321,
+          "index": 12,
+          "word": "Q",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8659079670906067,
+          "index": 13,
+          "word": "##wen",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Open Open has been plagued by problems since it was launched. The problem is getting worse with the new system.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:47:39.824Z"
+    },
+    {
+      "title": "Anyone noticing that the chatgpt.com is little glitchy?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w51d0j/anyone_noticing_that_the_chatgptcom_is_little/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T05:36:25.000Z",
+      "metaDescription": "I am noticing a lot of glitches lately on the https://chatgpt.com/ the AI for some reason starts all the answer with \"yes\", the feedback option where it gives 2 chat response to chose from looks like ",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.285301852188755,
+      "crawledAt": "2026-09-02T12:43:02.206Z",
+      "id": "blnm3y",
+      "entities": [],
+      "summary": " The AI is a new version of the chat chat app. The chat app has been updated to allow users to chat with each other.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:47:58.972Z"
+    },
+    {
+      "title": "Choosing between Business Premium Pro 5x for my teams",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w50zim/choosing_between_business_premium_pro_5x_for_my/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T05:16:33.000Z",
+      "metaDescription": "I am thinking of moving my teams away from Plus/Standard plans to Pro/Premium mainly because of the 5h limit. It’s insufferable!\n  \nWhat are the specific reasons to get Business Premium over 5x Pro? B",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3855595915176671,
+      "crawledAt": "2026-09-02T12:43:02.527Z",
+      "id": "2m00mn",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8351319432258606,
+          "index": 5,
+          "word": "Business",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9045350551605225,
+          "index": 6,
+          "word": "Pre",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9002294540405273,
+          "index": 7,
+          "word": "##mium",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9644036889076233,
+          "index": 8,
+          "word": "Pro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The 5h limit is the biggest reason to get Business Premium over 5x Pro. I am thinking of moving my teams away from Plus/Standard plans to Pro/Premium.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:48:11.612Z"
+    },
+    {
+      "title": "LocalLLaMA is unironically one of the best places to go to get up to date AI news.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T05:09:30.000Z",
+      "metaDescription": "One of the other posts today by user u/Howard_banister confirmed what I've been seeing from the other AI subreddits as well.\n Most of these other subs are 90% trend hopping crypto-bros equivalent peop",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.31359317253408125,
+      "crawledAt": "2026-09-02T12:42:58.875Z",
+      "id": "tnzs3b",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8043184280395508,
+          "index": 1,
+          "word": "Local",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8845083713531494,
+          "index": 4,
+          "word": "##MA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9771784543991089,
+          "index": 22,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Most of the other subs are 90% trend hopping crypto-bros. Most of them are from the AI subreddit.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:48:19.153Z"
+    },
+    {
+      "title": "The AI Agents Were Supposed To Be Isolated — 1200 Found Each Other",
+      "url": "https://generativeai.pub/hugging-face-was-breached-by-1-200-ai-agents-secretly-collaborating-to-cheat-on-a-test-f9c15bcc98b8?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T04:33:06.000Z",
+      "metaDescription": "A shared cache became an unsanctioned message board, helping roughly 700 agents turn a security benchmark into a real-world intrusion.\nContinue reading on Generative AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9810406118167699,
+      "crawledAt": "2026-09-02T12:42:56.794Z",
+      "id": "1qnjas",
+      "entities": [],
+      "summary": " A shared cache became an unsanctioned message board. About 700 agents turned a shared cache into a real-world intrusion.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:48:26.435Z"
+    },
+    {
+      "title": "Is AI Making Us Dumb or Productive?",
+      "url": "https://ai.plainenglish.io/is-ai-making-us-dumb-or-productive-4c1e8ac4ce2b?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T04:16:36.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.2947796284902592,
+      "crawledAt": "2026-09-02T12:42:55.660Z",
+      "id": "35gguh",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:48:26.590Z"
+    },
+    {
+      "title": "How Much AI Does DevOps Actually Need?",
+      "url": "https://pub.towardsai.net/how-much-ai-does-devops-actually-need-bc59d15ccd70?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T04:05:10.000Z",
+      "metaDescription": "A friend and I were discussing how much AI DevOps, Cloud and Platform Engineering actually need.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.7748758476499706,
+      "crawledAt": "2026-09-02T12:42:51.197Z",
+      "id": "p6oeo5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9618566632270813,
+          "index": 5,
+          "word": "Dev",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.994297444820404,
+          "index": 6,
+          "word": "##O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9664632081985474,
+          "index": 7,
+          "word": "##ps",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A friend and a friend were discussing how much AI DevOps, Cloud and Platform Engineering need to be done. A friend was also discussing how many AI Devops, Cloud, and Platform engineering need to do.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:48:39.014Z"
+    },
+    {
+      "title": "ChatGPT vs Claude: Which One Actually Fits Your Task?",
+      "url": "https://pub.towardsai.net/chatgpt-vs-claude-which-one-actually-fits-your-task-6191a8b52d49?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T04:05:03.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5105093803747741,
+      "crawledAt": "2026-09-02T12:42:51.230Z",
+      "id": "w4gpk5",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9340150356292725,
+          "index": 6,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:48:39.062Z"
+    },
     {
       "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
       "url": "https://arxiv.org/abs/2609.00002",
@@ -1418,6 +2233,226 @@
       "processed_at": "2026-09-02T04:21:11.858Z"
     },
     {
+      "title": "trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories",
+      "url": "https://arxiv.org/abs/2609.00038",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.00038v1 Announce Type: new \nAbstract: Outcome-only evaluation is the production default for LLM agents: show a judge the request and the final reply and ask whether it was handled well. The",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.33101165319131465,
+      "crawledAt": "2026-09-02T12:43:19.091Z",
+      "id": "60no9t",
+      "entities": [],
+      "summary": " LLM agents show a judge the request and the final reply and ask whether it was handled well. The request is the production default for LLM Agents.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:48:55.758Z"
+    },
+    {
+      "title": "From Detection to Refusal: Safer LLMs via Circuit-Guided Weight Scaling",
+      "url": "https://arxiv.org/abs/2609.00051",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.00051v1 Announce Type: new \nAbstract: Despite extensive alignment efforts, Large Language Models (LLMs) remain vulnerable to generating unsafe content under adversarial prompting, yet the i",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.9919167437412331,
+      "crawledAt": "2026-09-02T12:43:19.201Z",
+      "id": "by4n10",
+      "entities": [],
+      "summary": " Large Language Models remain vulnerable to generating unsafe content under adversarial prompting. Despite extensive alignment efforts, Large Language models remain vulnerable.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:49:13.823Z"
+    },
+    {
+      "title": "Zero-Shot Respiratory Sound Classification through LLM-Augmented Audio-Text Alignment",
+      "url": "https://arxiv.org/abs/2609.00055",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.00055v1 Announce Type: new \nAbstract: Self-supervised respiratory encoders lack semantic grounding in clinical domain needed for zero-shot inference, limiting their utility without task-spe",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3001115102341896,
+      "crawledAt": "2026-09-02T12:43:19.257Z",
+      "id": "9nkexw",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8137915134429932,
+          "index": 11,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new type of respiratory encoders have no clinical domain needed for zero-shot inference, limiting their utility without task-spe.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:49:22.697Z"
+    },
+    {
+      "title": "RePro: Proof-Verified Benchmark Rewriting for Reliable Evaluation of LLM Mathematical Problem Solving",
+      "url": "https://arxiv.org/abs/2609.00062",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.00062v1 Announce Type: new \nAbstract: Data contamination undermines the reliable evaluation of large language models (LLMs) on mathematical problem solving. While rewriting-based evaluation",
+      "category": "research-paper",
+      "difficulty": 5,
+      "confidence": 0.458732153038465,
+      "crawledAt": "2026-09-02T12:43:19.425Z",
+      "id": "p6qdcj",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8279052376747131,
+          "index": 22,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9344646334648132,
+          "index": 26,
+          "word": "Sol",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8722898364067078,
+          "index": 27,
+          "word": "##ving",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Data contamination undermines the reliable evaluation of large language models (LLMs) on mathematical problem solving. Data contamination undermines reliable evaluation.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:49:46.677Z"
+    },
+    {
+      "title": "Medical Causal Hypothesis Verification with Large Language Models",
+      "url": "https://arxiv.org/abs/2609.00063",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.00063v1 Announce Type: new \nAbstract: The growing use of large language models (LLMs) for search and information retrieval underscores the need to evaluate their reliability in high-stakes ",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.28452054341289157,
+      "crawledAt": "2026-09-02T12:43:19.478Z",
+      "id": "6iak57",
+      "entities": [],
+      "summary": " The growing use of large language models for search and information retrieval underscores the need to evaluate the reliability of these models.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:49:56.333Z"
+    },
+    {
+      "title": "Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents",
+      "url": "https://arxiv.org/abs/2609.00065",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.00065v1 Announce Type: new \nAbstract: A language-model agent asked to analyse an experiment will usually return working code. Whether the analysis is defensible is a different question. A d",
+      "category": "ai-agents",
+      "difficulty": 7,
+      "confidence": 0.3098066020618996,
+      "crawledAt": "2026-09-02T12:43:19.534Z",
+      "id": "o3miin",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9705766439437866,
+          "index": 7,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9849299192428589,
+          "index": 8,
+          "word": "Pro",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.951979398727417,
+          "index": 9,
+          "word": "##cedural",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Language-model agent asked to analyse an experiment will usually return working code. Whether the analysis is defensible is a different question.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:50:03.974Z"
+    },
+    {
+      "title": "OCGQuant: Outlier-Companion Grouping for NVFP4 Quantization",
+      "url": "https://arxiv.org/abs/2609.00066",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.00066v1 Announce Type: new \nAbstract: NVFP4 is an efficient microscaling format for low-bit inference, but activation outliers can still degrade quantization accuracy within NVFP4 blocks. W",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.32317098307927594,
+      "crawledAt": "2026-09-02T12:43:19.604Z",
+      "id": "cbb7dg",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8607072234153748,
+          "index": 1,
+          "word": "O",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " NVFP4 is an efficient microscaling format for low-bit inference, but activation outliers can still degrade quantization accuracy.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:50:12.466Z"
+    },
+    {
+      "title": "Auditing Harness Tampering in Self-Improving Agents",
+      "url": "https://arxiv.org/abs/2609.00069",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-09-02T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.00069v1 Announce Type: new \nAbstract: Self-improving agents iteratively modify their own harness to push the frontier of their performance. However, such modifications can produce illusory ",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2842909036052228,
+      "crawledAt": "2026-09-02T12:43:19.788Z",
+      "id": "dd4cjq",
+      "entities": [],
+      "summary": " Such modifications can produce illusory results, such modifications can also produce illUSory results. Such modifications could be used to push the frontier of their performance.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:50:45.234Z"
+    },
+    {
       "title": "CrewAI X: The Four CrewAI Commands That Turn a Demo Into Something You Can Trust",
       "url": "https://pub.towardsai.net/crewai-x-the-four-crewai-commands-that-turn-a-demo-into-something-you-can-trust-a047f4254603?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -1749,6 +2784,25 @@
       "processed_at": "2026-09-02T04:23:19.621Z"
     },
     {
+      "title": "Everyone is t/s maxing.. 3.8.. but after a week of using it for work I'm tempted to switch back to 3.6",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4wjxd/everyone_is_ts_maxing_38_but_after_a_week_of/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-02T01:41:27.000Z",
+      "metaDescription": "> \"Qwen 3.8 is a damn good coder, but a terrible collaborator\"\n It modifies SO many things in my scripts for what should be a 2 line PR, I get a 100 line linter style mess that looks like a high schoo",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.25777729996084353,
+      "crawledAt": "2026-09-02T12:42:59.162Z",
+      "id": "h1l899",
+      "entities": [],
+      "summary": " \"Qwen 3.8 is a damn good coder, but a terrible collaborator\" It modifies SO many things in my scripts for what should be a 2 line PR, I get a 100 line linter style mess.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:51:08.215Z"
+    },
+    {
       "title": "AI Helps You Never Disappoint Anyone. That’s Exactly Why You’re Alone.",
       "url": "https://generativeai.pub/ai-helps-you-never-disappoint-anyone-thats-exactly-why-youre-alone-f68123dfdafa?source=rss----440100e76000---4",
       "source": "Generative AI",
@@ -1870,6 +2924,42 @@
       "processed_at": "2026-09-02T04:24:08.266Z"
     },
     {
+      "title": "Astra is about to drop 👀",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1w4th8t/astra_is_about_to_drop/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T23:28:02.000Z",
+      "metaDescription": "https://preview.redd.it/7uatdei6tzmh1.png?width=584&format=png&auto=webp&s=2146a391adcd0b34814fb2443448aad1f2463c66\n Astra should be coming pretty soon, possibly this week 👀\n    submitted by    /u/Ch",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3494198334329684,
+      "crawledAt": "2026-09-02T12:43:01.878Z",
+      "id": "2a4cm2",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9852668046951294,
+          "index": 1,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.847663938999176,
+          "index": 2,
+          "word": "##tra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:51:18.260Z"
+    },
+    {
       "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
       "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
       "source": "Ars Technica",
@@ -1956,6 +3046,25 @@
       "summary": " OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest cyber-critical LLM.",
       "language": "en",
       "processed_at": "2026-09-02T04:24:29.874Z"
+    },
+    {
+      "title": "Fable 5.1 — Anthropic Finally Listened?",
+      "url": "https://www.youtube.com/watch?v=_36g9LVM3wA",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-01T20:11:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3461161905842615,
+      "crawledAt": "2026-09-02T12:43:08.102Z",
+      "id": "mlb864",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:51:28.413Z"
     },
     {
       "title": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses",
@@ -2166,22 +3275,42 @@
       "summary": " Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "language": "en",
       "processed_at": "2026-09-02T04:26:51.175Z"
+    },
+    {
+      "title": "THIS changed Segmentation FOREVER!",
+      "url": "https://www.youtube.com/watch?v=xQ1Qs1d10Sc",
+      "source": "Code Emporium",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-08-31T14:00:15.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.7853300598976005,
+      "crawledAt": "2026-09-02T12:43:09.392Z",
+      "id": "g7hbok",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-02T12:51:28.453Z"
     }
   ],
-  "processedAt": "2026-09-02T04:26:51.186Z",
+  "processedAt": "2026-09-02T12:51:28.456Z",
   "categories": [
     "infrastructure",
-    "research-paper",
-    "ai-agents",
-    "creative-ai",
-    "safety-ethics",
-    "tutorial-guide",
     "developer-tool",
+    "creative-ai",
+    "ai-agents",
+    "tutorial-guide",
+    "industry-news",
+    "research-paper",
+    "safety-ethics",
     "model-release",
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 69,
-  "dailyArticlesCount": 69,
+  "newArticlesProcessed": 36,
+  "dailyArticlesCount": 105,
   "filterDate": "2026-09-02"
 }
