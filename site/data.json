@@ -1,9 +1,1234 @@
 {
-  "crawledAt": "2026-09-04T12:42:02.588Z",
+  "crawledAt": "2026-09-04T18:58:56.937Z",
   "totalSources": 70,
-  "totalArticles": 1612,
+  "totalArticles": 1620,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Why \"256 is 256\" is True But \"257 is 257\" is False in Python",
+      "url": "https://python.plainenglish.io/why-256-is-256-is-true-but-257-is-257-is-false-in-python-df2ce9919ee3?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T17:54:31.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.27458120364369637,
+      "crawledAt": "2026-09-04T18:57:57.166Z",
+      "id": "7vqppg",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8654630780220032,
+          "index": 20,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-04T18:59:09.308Z"
+    },
+    {
+      "title": "NVIDIA NOOA for Python: The Future of Simple AI Agent Development",
+      "url": "https://python.plainenglish.io/nvidia-nooa-for-python-the-future-of-simple-ai-agent-development-200ef62a67c9?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T17:48:40.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 7,
+      "confidence": 0.896440693230018,
+      "crawledAt": "2026-09-04T18:57:57.241Z",
+      "id": "bt5pgb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9925245046615601,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9927946925163269,
+          "index": 3,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.978594183921814,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9945632219314575,
+          "index": 5,
+          "word": "NO",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9868918657302856,
+          "index": 6,
+          "word": "##OA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9388149380683899,
+          "index": 12,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9768461585044861,
+          "index": 13,
+          "word": "Simple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8573905229568481,
+          "index": 14,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-04T18:59:09.470Z"
+    },
+    {
+      "title": "The LangSmith Feature Built for Multi-Step Agents",
+      "url": "https://www.youtube.com/shorts/ODh1DRil-PA",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-04T17:45:34.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9190111551159401,
+      "crawledAt": "2026-09-04T18:58:15.233Z",
+      "id": "jc9e49",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-04T18:59:22.663Z"
+    },
+    {
+      "title": "Genome Toolkit. Part 4.1: Building a Scientific Python Package",
+      "url": "https://python.plainenglish.io/genome-toolkit-part-4-1-building-a-scientific-python-package-2c6b8d156f23?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T17:26:42.000Z",
+      "metaDescription": "In Part 4.1, we refactor Genome Toolkit into a scientific Python package, with a cleaner foundation for biology, APIs, MCP, and AI agents.\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.42222765468494494,
+      "crawledAt": "2026-09-04T18:57:57.560Z",
+      "id": "7x68rh",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9903873205184937,
+          "index": 14,
+          "word": "Scientific",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9919936060905457,
+          "index": 15,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " In Part 4.1, we refactor Genome Toolkit into a scientific Python package. We refactor the toolkit with a cleaner foundation for biology, APIs, MCP, and AI agents.",
+      "language": "en",
+      "processed_at": "2026-09-04T18:59:34.954Z"
+    },
+    {
+      "title": "Python Development Outsourcing: All You Need to Know",
+      "url": "https://python.plainenglish.io/python-development-outsourcing-all-you-need-to-know-0517cb6221d2?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T17:25:06.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.6642712120494819,
+      "crawledAt": "2026-09-04T18:57:57.851Z",
+      "id": "qvzqje",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8613035082817078,
+          "index": 1,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-04T18:59:53.774Z"
+    },
+    {
+      "title": "Building Better Machine Learning Models Using Coresets",
+      "url": "https://python.plainenglish.io/building-better-machine-learning-models-using-coresets-667282767a27?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T17:24:24.000Z",
+      "metaDescription": "Continue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3660214308729789,
+      "crawledAt": "2026-09-04T18:57:58.001Z",
+      "id": "q1v8ux",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-04T18:59:54.056Z"
+    },
+    {
+      "title": "The eval is becoming the spec, and Anthropic’s first technical PM shows what that means in practice",
+      "url": "https://python.plainenglish.io/the-eval-is-becoming-the-spec-and-anthropics-first-technical-pm-shows-what-that-means-in-practice-24e47fa49041?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T17:23:56.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4767662571477117,
+      "crawledAt": "2026-09-04T18:57:58.096Z",
+      "id": "fckyym",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-04T18:59:54.269Z"
+    },
+    {
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-04T17:18:00.000Z",
+      "metaDescription": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timin",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3417650905443064,
+      "crawledAt": "2026-09-04T18:57:13.033Z",
+      "id": "j9kxe0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.983455240726471,
+          "index": 3,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9732100367546082,
+          "index": 6,
+          "word": "John",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9940480589866638,
+          "index": 7,
+          "word": "Te",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9144124388694763,
+          "index": 8,
+          "word": "##rn",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Tim Cook stepped down as CEO of Apple this week. He handed the company to former hardware chief John Ternus.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:00:14.470Z"
+    },
+    {
+      "title": "AI Agents Are Getting Better at Coding. Here’s What Developers Should Worry About",
+      "url": "https://ai.plainenglish.io/ai-agents-are-getting-better-at-coding-heres-what-developers-should-worry-about-4f12b3d72352?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-04T17:06:14.000Z",
+      "metaDescription": "The real shift isn’t AI writing code — it’s AI deciding what code needs to be written.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.8975071949781658,
+      "crawledAt": "2026-09-04T18:57:58.253Z",
+      "id": "k5y65z",
+      "entities": [],
+      "summary": " The real shift isn't AI writing code, it's AI deciding what code needs to be written. The real change is a change in the way the code is written.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:00:25.666Z"
+    },
+    {
+      "title": "Why Vector Search Alone Isn’t Enough: Building AI Property Search with Advanced Filtering",
+      "url": "https://pub.towardsai.net/why-vector-search-alone-isnt-enough-building-ai-property-search-with-advanced-filtering-1e60ae82b259?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-04T17:01:03.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3132677399915492,
+      "crawledAt": "2026-09-04T18:57:50.557Z",
+      "id": "oj3l6r",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:00:25.793Z"
+    },
+    {
+      "title": "Second complete map of a fruit fly brain completed",
+      "url": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T16:24:24.000Z",
+      "metaDescription": "Every neuron and connection in the brain of a fly has been mapped—twice.",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.2859364113184469,
+      "crawledAt": "2026-09-04T18:57:16.243Z",
+      "id": "un8ou1",
+      "entities": [],
+      "summary": "Every neuron and connection in the brain of a fly has been mapped. Every neuron and connect in the brains of a flies has been maps.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:00:47.759Z"
+    },
+    {
+      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T16:22:18.000Z",
+      "metaDescription": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.35406291887197555,
+      "crawledAt": "2026-09-04T18:57:16.376Z",
+      "id": "nc7azp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8420830368995667,
+          "index": 1,
+          "word": "An",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Claude maker's unusual attempt to balance profit and purpose is under scrutiny. Public-market scrutiny will intensify pressure on the Claude maker.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:00:57.403Z"
+    },
+    {
+      "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T16:16:00.000Z",
+      "metaDescription": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluatio",
+      "category": "developer-tool",
+      "difficulty": 7,
+      "confidence": 0.6484491899953414,
+      "crawledAt": "2026-09-04T18:57:37.715Z",
+      "id": "bdg5d4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8946052193641663,
+          "index": 9,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8435437083244324,
+          "index": 11,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.901531994342804,
+          "index": 14,
+          "word": "##smos",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8184406161308289,
+          "index": 15,
+          "word": "3",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9054770469665527,
+          "index": 17,
+          "word": "Sage",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9711889028549194,
+          "index": 18,
+          "word": "##M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The post shows how to run a model factory (synthetic data generation, post-training, and closed-loop evaluatio, and a closed- loop evaluio.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:01:18.798Z"
+    },
+    {
+      "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T16:12:17.000Z",
+      "metaDescription": "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through b",
+      "category": "developer-tool",
+      "difficulty": 6,
+      "confidence": 0.6387396118433114,
+      "crawledAt": "2026-09-04T18:57:37.879Z",
+      "id": "g7p375",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9699260592460632,
+          "index": 7,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8508041501045227,
+          "index": 15,
+          "word": "In",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9346767067909241,
+          "index": 16,
+          "word": "##stant",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9795899391174316,
+          "index": 17,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8105666041374207,
+          "index": 18,
+          "word": "##tar",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " HyperPod is an open source control plane for Amazon EKS. It drives the same operations as the company's HyperPod.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:01:28.055Z"
+    },
+    {
+      "title": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
+      "url": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T16:08:10.000Z",
+      "metaDescription": "Learn how to customize an Amazon Bedrock knowledge base for large, complex documents by combining the high-accuracy text extraction of Amazon Textract with the generative AI of Amazon Bedrock. This po",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.7118830952365223,
+      "crawledAt": "2026-09-04T18:57:38.056Z",
+      "id": "tklrke",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9121251106262207,
+          "index": 16,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9416137337684631,
+          "index": 17,
+          "word": "Text",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9193906188011169,
+          "index": 18,
+          "word": "##rac",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The high-accuracy text extraction of Amazon Textract with the generative AI of Amazon Bedrock. This po po po is the new version of Amazon's search engine.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:01:41.404Z"
+    },
+    {
+      "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T16:06:01.000Z",
+      "metaDescription": "Disaster recovery at scale is hard. Learn how Intuit built EWOK Agent, an agentic disaster recovery assistant on Amazon Bedrock that lets on-call engineers run production failovers from a plain-langua",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.4226420006477574,
+      "crawledAt": "2026-09-04T18:57:38.228Z",
+      "id": "ihwkpu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9362480044364929,
+          "index": 2,
+          "word": "In",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9910565614700317,
+          "index": 13,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.989152729511261,
+          "index": 14,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9746915102005005,
+          "index": 15,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The EWOK Agent is an agentic disaster recovery assistant on Amazon's Bedrock. It lets on-call engineers run production failures from a simple phone call.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:01:53.061Z"
+    },
+    {
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T16:04:14.000Z",
+      "metaDescription": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research previe",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.6292551298330771,
+      "crawledAt": "2026-09-04T18:57:18.621Z",
+      "id": "y09ibe",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.924858570098877,
+          "index": 5,
+          "word": "##F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline. In controlled offline evaluations, HydraFusions' workflows exceeded the baseline.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:02:06.318Z"
+    },
+    {
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-04T16:04:08.000Z",
+      "metaDescription": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timin",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.34753778429535137,
+      "crawledAt": "2026-09-04T18:57:13.400Z",
+      "id": "3p0kru",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9979257583618164,
+          "index": 1,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9952900409698486,
+          "index": 4,
+          "word": "Te",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9267612099647522,
+          "index": 5,
+          "word": "##rn",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9888153672218323,
+          "index": 6,
+          "word": "##us",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.902010440826416,
+          "index": 10,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.823577880859375,
+          "index": 11,
+          "word": "##vid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.911931037902832,
+          "index": 18,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Tim Cook stepped down as CEO of Apple this week. He handed the company to former hardware chief John Ternus.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:02:16.507Z"
+    },
+    {
+      "title": "I Cleared All 4 Anthropic Claude Certifications — What You Actually Need to Know (And What You Can…",
+      "url": "https://pub.towardsai.net/i-cleared-all-4-anthropic-claude-certifications-what-you-actually-need-to-know-and-what-you-can-27e3e8d4bb6f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-04T16:01:03.000Z",
+      "metaDescription": "A practitioner-first review of CCAO-F, CCDV-F, CCAR-F, and CCAR-P: exam difficulty, hidden traps, scores, and a realistic study plan.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.27466008124256447,
+      "crawledAt": "2026-09-04T18:57:50.773Z",
+      "id": "44njzg",
+      "entities": [],
+      "summary": " A practitioner-first review of CCAO-F, CCDV-F and CCAR-F. Exam difficulty, hidden traps, scores, and realistic study plan.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:02:27.901Z"
+    },
+    {
+      "title": "Agent Loop Runs One Thing at a Time. A Graph Loop Doesn’t.",
+      "url": "https://levelup.gitconnected.com/agent-loop-runs-one-thing-at-a-time-a-graph-loop-doesnt-bebda1759715?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T15:04:23.000Z",
+      "metaDescription": "Graph engineering without the hype. What actually changes in your code, where to cut, and the 45% rule that says don’t bother.\nContinue reading on Level Up Coding »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.2513443516113557,
+      "crawledAt": "2026-09-04T18:57:56.184Z",
+      "id": "4os21a",
+      "entities": [],
+      "summary": " The 45% rule that says don't bother. Graph engineering without the hype. What actually changes in your code?",
+      "language": "en",
+      "processed_at": "2026-09-04T19:03:10.098Z"
+    },
+    {
+      "title": "The Earth Is Running an Algorithm",
+      "url": "https://levelup.gitconnected.com/the-earth-is-running-an-algorithm-0c75964b8286?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T15:04:12.000Z",
+      "metaDescription": "Rivers don’t draw lines. They search for the cheapest path.\nContinue reading on Level Up Coding »",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.3233062400275333,
+      "crawledAt": "2026-09-04T18:57:56.289Z",
+      "id": "wjnejo",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8053833842277527,
+          "index": 6,
+          "word": "Al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.827464759349823,
+          "index": 8,
+          "word": "##ith",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Rivers don’t draw lines. They search for the cheapest path. Rivers don't draw lines. Rivers search for cheapest path.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:03:19.878Z"
+    },
+    {
+      "title": "Building KodaDB: From a Class Project to a Database Engine",
+      "url": "https://levelup.gitconnected.com/building-kodadb-from-a-class-project-to-a-database-engine-15d0393dc9ca?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T15:03:41.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.522099772583779,
+      "crawledAt": "2026-09-04T18:57:56.417Z",
+      "id": "wcrm8z",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8548772931098938,
+          "index": 2,
+          "word": "Ko",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:03:20.124Z"
+    },
+    {
+      "title": "Peers, Not Rivals: A Two-Way Street Between Claude Code and Codex",
+      "url": "https://levelup.gitconnected.com/peers-not-rivals-a-two-way-street-between-claude-code-and-codex-9efcd04e13e4?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T15:03:29.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.4028149668513504,
+      "crawledAt": "2026-09-04T18:57:56.490Z",
+      "id": "r0mmha",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:03:20.271Z"
+    },
+    {
+      "title": "Using OpenCode with Local Models on an Old Intel Mac",
+      "url": "https://levelup.gitconnected.com/using-opencode-with-local-models-on-an-old-intel-mac-59dabdd1cfb1?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T15:03:18.000Z",
+      "metaDescription": "A practical guide to running an isolated autonomous coding agent with native Ollama inference on an old Intel MacBook Pro.\nContinue reading on Level Up Coding »",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.2730497120791684,
+      "crawledAt": "2026-09-04T18:57:56.630Z",
+      "id": "gdgdqg",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8943307995796204,
+          "index": 2,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.975561797618866,
+          "index": 3,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.94173663854599,
+          "index": 7,
+          "word": "Models",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9927753210067749,
+          "index": 12,
+          "word": "Mac",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A practical guide to running an isolated autonomous coding agent with native Ollama inference on an old Intel MacBook Pro.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:03:30.274Z"
+    },
+    {
+      "title": "Senior Developers Know Every Function Has a Contract",
+      "url": "https://levelup.gitconnected.com/senior-developers-know-every-function-has-a-contract-291bc28fbbd2?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T15:02:54.000Z",
+      "metaDescription": "Understanding the contracts behind functions: what they require, what they guarantee, and what they must preserve.\nContinue reading on Level Up Coding »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3319167311167143,
+      "crawledAt": "2026-09-04T18:57:56.893Z",
+      "id": "o5bb41",
+      "entities": [],
+      "summary": " Understanding the contracts behind functions. What they require, what they guarantee, and what they must preserve. Understanding the contract behind functions is what they require.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:03:50.739Z"
+    },
+    {
+      "title": "Connection Pooling: What Actually Happens Between Your App and Database",
+      "url": "https://levelup.gitconnected.com/connection-pooling-what-actually-happens-between-your-app-and-database-5aef7b543f51?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T15:02:44.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.4613547623643042,
+      "crawledAt": "2026-09-04T18:57:56.959Z",
+      "id": "8huk6m",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:03:50.919Z"
+    },
+    {
+      "title": "How Scikit-learn Pipelines Prevent Data Leakage",
+      "url": "https://levelup.gitconnected.com/how-scikit-learn-pipelines-prevent-data-leakage-e18e8efe1217?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T15:02:31.000Z",
+      "metaDescription": "I got 81% accuracy from completely random data. Here’s why.\nContinue reading on Level Up Coding »",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.36539711839652345,
+      "crawledAt": "2026-09-04T18:57:57.076Z",
+      "id": "9mt3dw",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9397786855697632,
+          "index": 2,
+          "word": "Sc",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I got 81% accuracy from completely random data. Here’s why. I got81% accuracy. I get 81% from completely Random data.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:04:00.640Z"
+    },
+    {
+      "title": "Claude Fable 5.1 Just Shipped. I Made It Scroll a Commodore 64 in Eight Directions at 50 fps.",
+      "url": "https://pub.towardsai.net/claude-fable-5-1-just-shipped-i-made-it-scroll-a-commodore-64-in-eight-directions-at-50-fps-5d2bbf07f8c3?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-04T15:01:03.000Z",
+      "metaDescription": "",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.9094952987697907,
+      "crawledAt": "2026-09-04T18:57:50.869Z",
+      "id": "hgxw5k",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9953174591064453,
+          "index": 1,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9956982135772705,
+          "index": 2,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9900087714195251,
+          "index": 3,
+          "word": "##able",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.982146680355072,
+          "index": 17,
+          "word": "Commodore",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8338842988014221,
+          "index": 18,
+          "word": "64",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8407251238822937,
+          "index": 21,
+          "word": "Direction",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:04:00.805Z"
+    },
+    {
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-04T14:47:11.000Z",
+      "metaDescription": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.561293078336828,
+      "crawledAt": "2026-09-04T18:57:13.543Z",
+      "id": "yvoxpl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9978213310241699,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.904241681098938,
+          "index": 5,
+          "word": "Spa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8801395297050476,
+          "index": 6,
+          "word": "##rk",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9651457071304321,
+          "index": 11,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.920781672000885,
+          "index": 12,
+          "word": "Photo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.85467928647995,
+          "index": 13,
+          "word": "##s",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Gemini Spark can edit and curate photo albums, create photo collections, turn photos into calendar events. It can also handle other Google Photos tasks for users.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:04:18.663Z"
+    },
+    {
+      "title": "Switchyard: NVIDIA’s Open Source Routing Library",
+      "url": "https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T14:00:07.000Z",
+      "metaDescription": "Stop sending every AI request to your most expensive model. See how intelligent routing can cut cost and latency without sacrificing much quality.",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.7207556246655904,
+      "crawledAt": "2026-09-04T18:58:48.421Z",
+      "id": "lwjora",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9632560610771179,
+          "index": 5,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9584433436393738,
+          "index": 7,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8284536004066467,
+          "index": 8,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9788870811462402,
+          "index": 12,
+          "word": "Source",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Stop sending every AI request to your most expensive model. See how intelligent routing can cut cost and latency without sacrificing much quality.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:04:41.505Z"
+    },
+    {
+      "title": "The 1960s Operating System Trick That Makes vLLM 4x Faster",
+      "url": "https://pub.towardsai.net/the-1960s-operating-system-trick-that-makes-vllm-4x-faster-587fcead67f9?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-04T13:31:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.29252163919161195,
+      "crawledAt": "2026-09-04T18:57:51.066Z",
+      "id": "rlevke",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9407983422279358,
+          "index": 4,
+          "word": "System",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8241282105445862,
+          "index": 5,
+          "word": "Trick",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:05:04.243Z"
+    },
+    {
+      "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
+      "url": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T12:48:36.000Z",
+      "metaDescription": "Two of Europe's leading launch startups announced new fundraising this week.",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.9411816556675595,
+      "crawledAt": "2026-09-04T18:57:16.734Z",
+      "id": "l4l8nh",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9233378171920776,
+          "index": 9,
+          "word": "III",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.994312584400177,
+          "index": 17,
+          "word": "L",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Two of Europe's leading launch startups announced new fundraising this week. Two of the world's leading start-ups announced new fundraisers this week.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:05:25.467Z"
+    },
+    {
+      "title": "LLMs Don’t Know What Happened Today. Here’s the Data Layer That Fixes That.",
+      "url": "https://pub.towardsai.net/llms-dont-know-what-happened-today-here-s-the-data-layer-that-fixes-that-8fbea33471b4?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-04T12:31:01.000Z",
+      "metaDescription": "How fresh, grounded, correctly formatted, and timely web data gives AI the context it needs to understand a constantly changing world.\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3475144928925256,
+      "crawledAt": "2026-09-04T18:57:51.486Z",
+      "id": "tc6b1b",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9166682958602905,
+          "index": 1,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " How fresh, grounded, correctly formatted and correctly formatted, and timely web data gives AI the context it needs to understand a constantly changing world.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:05:39.350Z"
+    },
     {
       "title": "The Power BI Developer's Survival Guide to Microsoft Fabric",
       "url": "https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/",
@@ -312,6 +1537,42 @@
       "summary": " Scalar defaults work the way you'd expect, and batch-size: int = 500 is all you need.",
       "language": "en",
       "processed_at": "2026-09-04T12:43:01.231Z"
+    },
+    {
+      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.",
+      "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-04T11:00:05.000Z",
+      "metaDescription": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7545398462682582,
+      "crawledAt": "2026-09-04T18:57:16.864Z",
+      "id": "jh3h2i",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.975167989730835,
+          "index": 5,
+          "word": "Fair",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9718673229217529,
+          "index": 6,
+          "word": "##phone",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone. The company also explains how to build a different type of smartphone.",
+      "language": "en",
+      "processed_at": "2026-09-04T19:05:49.460Z"
     },
     {
       "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
@@ -51421,882 +52682,25 @@
       "summary": " Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippled celebrated by releasing a competing product.",
       "language": "en",
       "processed_at": "2026-08-20T20:39:16.253Z"
-    },
-    {
-      "title": "Silicon Valley Doesn't Get Why You Hate AI",
-      "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-      "source": "Wired AI",
-      "source_domain": "wired.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T18:49:07.000Z",
-      "metaDescription": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3270341284872883,
-      "crawledAt": "2026-08-20T20:37:09.854Z",
-      "id": "6uxhzq",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.9967168569564819,
-          "index": 1,
-          "word": "Silicon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-LOC",
-          "score": 0.9985207319259644,
-          "index": 2,
-          "word": "Valley",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Technology leaders don't seem to understand society's gripes about AI, says CNN's John Sutter. Sutter: Technology leaders should be more aware of the problem.",
-      "language": "en",
-      "processed_at": "2026-08-20T20:39:40.005Z"
-    },
-    {
-      "title": "The August 17 outage, and the work ahead",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "source": "GitHub Blog",
-      "source_domain": "github.blog",
-      "source_category": "company",
-      "source_priority": "medium",
-      "pubDate": "2026-08-20T18:36:11.000Z",
-      "metaDescription": "An update on the August 17 outage and the steps we're taking to improve reliability.\nThe post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.26421784424650363,
-      "crawledAt": "2026-08-20T20:36:59.070Z",
-      "id": "sf7jx7",
-      "entities": [],
-      "summary": " The August 17 outage is an update on the August 17 issue. The post is an updated version of the outage.",
-      "language": "en",
-      "processed_at": "2026-08-20T20:39:48.265Z"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T18:20:35.000Z",
-      "metaDescription": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.9686070344444659,
-      "crawledAt": "2026-08-20T20:37:01.386Z",
-      "id": "sr3jty",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9931862354278564,
-          "index": 1,
-          "word": "Link",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9944508075714111,
-          "index": 2,
-          "word": "##da",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9774429798126221,
-          "index": 3,
-          "word": "##ze",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Linkdaze's smart calendar has an AI-powered meal planner tool. The smart calendar is a popular app for the company.",
-      "language": "en",
-      "processed_at": "2026-08-20T20:39:59.314Z"
-    },
-    {
-      "title": "Is KV Cache in a high dimensional vector space?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vtrdem/is_kv_cache_in_a_high_dimensional_vector_space_d/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T18:18:10.000Z",
-      "metaDescription": "I've been doing some research on this question:\n At inference time a large part of a model's working memory lives in the KV cache, plus whatever external memory the harness bolts on. I've been poking ",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.3082502965208618,
-      "crawledAt": "2026-08-20T20:37:49.844Z",
-      "id": "bl1bjr",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9858208298683167,
-          "index": 2,
-          "word": "K",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9869600534439087,
-          "index": 3,
-          "word": "##V",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9949741363525391,
-          "index": 4,
-          "word": "C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9614282846450806,
-          "index": 5,
-          "word": "##ache",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A large part of a model's working memory lives in the KV cache, plus whatever external memory the harness bolts on.",
-      "language": "en",
-      "processed_at": "2026-08-20T20:40:10.640Z"
-    },
-    {
-      "title": "Machine Learning for Beginners: The Whole Field in 20 mins",
-      "url": "https://pub.towardsai.net/machine-learning-for-beginners-the-whole-field-in-20-mins-1ae911366f67?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T18:01:01.000Z",
-      "metaDescription": "A beginner’s overview of the entire field of machine learning from your first model to LLMs and agents in one 18-minute read with no math.\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.4445513387022294,
-      "crawledAt": "2026-08-20T20:37:37.756Z",
-      "id": "7eo9mp",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9751729965209961,
-          "index": 10,
-          "word": "Field",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A beginner’s overview of the entire field of machine learning from your first model to LLMs and agents in one 18-minute read with no math.",
-      "language": "en",
-      "processed_at": "2026-08-20T20:40:22.818Z"
-    },
-    {
-      "title": "How to Effectively Align Your Intent with Claude Code",
-      "url": "https://towardsdatascience.com/how-to-effectively-align-your-intents-with-claude-code/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T18:00:00.000Z",
-      "metaDescription": "Improve your proficiency with Claude Code.\nThe post How to Effectively Align Your Intent with Claude Code appeared first on Towards Data Science.",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3545828800895226,
-      "crawledAt": "2026-08-20T20:37:11.464Z",
-      "id": "b3dxkp",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9985436797142029,
-          "index": 12,
-          "word": "Claude",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.997776448726654,
-          "index": 13,
-          "word": "Code",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The post How to Effectively Align Your Intent with Claude Code appeared first on Towards Data Science. Improve your proficiency with Claude code.",
-      "language": "en",
-      "processed_at": "2026-08-20T20:40:31.707Z"
-    },
-    {
-      "title": "Retrieval Is a Pipeline: Sentence-Aware Chunking, Hybrid Search, and Reranking",
-      "url": "https://ai.plainenglish.io/retrieval-is-a-pipeline-sentence-aware-chunking-hybrid-search-and-reranking-43a289c9c41f?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T17:29:14.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.5157418960666108,
-      "crawledAt": "2026-08-20T20:37:43.724Z",
-      "id": "40b59x",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-20T20:40:41.593Z"
-    },
-    {
-      "title": "AI for Absolute Beginners — Day 3: Building A Model From Scratch",
-      "url": "https://ai.plainenglish.io/ai-for-absolute-beginners-day-3-building-a-model-from-scratch-part-1-2adaecfcf4ae?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T17:28:45.000Z",
-      "metaDescription": "Building a Comment-Reply model from scratch- No GPU, no cost, zero prior experience needed\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.6653284019329367,
-      "crawledAt": "2026-08-20T20:37:44.126Z",
-      "id": "5dzbvs",
-      "entities": [],
-      "summary": " Building a Comment-Reply model from scratch- No. GPU, no cost, no price, no time, zero prior experience needed.",
-      "language": "en",
-      "processed_at": "2026-08-20T20:41:01.395Z"
-    },
-    {
-      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
-      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-08-20T17:25:44.000Z",
-      "metaDescription": "Adding an AI agent to Slack sounds appealing to many enterprises — but, as VentureBeat has experienced ourselves first hand — the reality is often far more complex and clunkier than it first seems.\nNo",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.928577688281655,
-      "crawledAt": "2026-08-20T20:37:15.143Z",
-      "id": "liv2a8",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.977442741394043,
-          "index": 1,
-          "word": "Nan",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9268086552619934,
-          "index": 3,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9375099539756775,
-          "index": 7,
-          "word": "S",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The reality is often more complex and clunkier than it first seems. Adding an AI agent to Slack sounds appealing to many enterprises.",
-      "language": "en",
-      "processed_at": "2026-08-20T20:41:11.883Z"
-    },
-    {
-      "title": "What Is OpenClaw? The 350,000+Star AI Agent",
-      "url": "https://pub.towardsai.net/what-is-openclaw-the-350-000-star-ai-agent-785134a0706f?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T17:01:03.000Z",
-      "metaDescription": "Continue reading on Towards AI »",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.9134917973908658,
-      "crawledAt": "2026-08-20T20:37:37.847Z",
-      "id": "9933ka",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8016332983970642,
-          "index": 3,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9801549315452576,
-          "index": 4,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8811107277870178,
-          "index": 5,
-          "word": "##law",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-20T20:41:34.566Z"
-    },
-    {
-      "title": "Ramp launches its own AI model router, called Router",
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T16:46:00.000Z",
-      "metaDescription": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "category": "product-launch",
-      "difficulty": 6,
-      "confidence": 0.8180225494063145,
-      "crawledAt": "2026-08-20T20:37:01.815Z",
-      "id": "a4cp42",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.955459713935852,
-          "index": 1,
-          "word": "Ram",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9653624296188354,
-          "index": 2,
-          "word": "##p",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9695689678192139,
-          "index": 6,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Ramp has launched its own AI model routing service, called Router. The service lets users and companies switch between language models via an API.",
-      "language": "en",
-      "processed_at": "2026-08-20T20:41:43.862Z"
-    },
-    {
-      "title": "The LLM Judge That Kept Agreeing With Itself",
-      "url": "https://towardsdatascience.com/the-llm-judge-that-kept-agreeing-with-itself/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T16:30:00.000Z",
-      "metaDescription": "What a production incident taught me about trusting a model to judge another model's work\nThe post The LLM Judge That Kept Agreeing With Itself appeared first on Towards Data Science.",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.381294569325151,
-      "crawledAt": "2026-08-20T16:42:25.325Z",
-      "id": "bxk213",
-      "entities": [],
-      "summary": " The LLM Judge That Kept Agreeing With Itself. What a production incident taught me about trusting a model to judge a model's work?",
-      "language": "en",
-      "processed_at": "2026-08-20T16:43:26.311Z"
-    },
-    {
-      "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-08-20T16:24:12.000Z",
-      "metaDescription": "Scaling agentic AI across an enterprise requires patterns that preserve flexibility while avoiding vendor lock-in. In this second post of our multi-agent series, we examine how ML teams operate many a",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.9161480022518371,
-      "crawledAt": "2026-08-20T16:42:30.603Z",
-      "id": "g5hx51",
-      "entities": [],
-      "summary": "In the second post of our multi-agent series, we look at how ML teams operate. We look at the use of AI in the workplace.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:43:36.979Z"
-    },
-    {
-      "title": "Claude sonnet 4.6 was really good at estimating the future qwen 3.8 27b performance",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtnuuk/claude_sonnet_46_was_really_good_at_estimating/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T16:11:44.000Z",
-      "metaDescription": "On August 8th, I asked Claude to estimate what performance might I expect out of the soon coming qwen 3.8 27b release by telling it to extrapolate from the qwen 3.6 max to qwen 3.6 27b difference, and",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.260482101466378,
-      "crawledAt": "2026-08-20T16:42:43.052Z",
-      "id": "to1457",
-      "entities": [],
-      "summary": "On August 8th, Claude asked Claude to estimate what performance might I expect out of the soon coming qwen 3.8 27b release by telling it to extrapolate from the qwen3.6 max to 3.6max to 3,6 max.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:43:51.887Z"
-    },
-    {
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-08-20T16:11:18.000Z",
-      "metaDescription": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrast",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.9565644597440305,
-      "crawledAt": "2026-08-20T16:42:30.660Z",
-      "id": "h4p79z",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8826096653938293,
-          "index": 13,
-          "word": "##rock",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8435165882110596,
-          "index": 14,
-          "word": "Agent",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:44:01.016Z"
-    },
-    {
-      "title": "AWS vector solutions: Build agentic AI where your data lives",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-08-20T16:06:06.000Z",
-      "metaDescription": "AWS offers a broad portfolio of vector search built directly into the databases and storage services you already use, with no standalone vector database or data migration required. This post covers si",
-      "category": "developer-tool",
-      "difficulty": 4,
-      "confidence": 0.44470976836565035,
-      "crawledAt": "2026-08-20T16:42:30.713Z",
-      "id": "5g4a9p",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8562905192375183,
-          "index": 1,
-          "word": "A",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " AWS offers a broad portfolio of vector search built directly into the databases and storage services you already use. No standalone vector database or data migration required.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:44:18.465Z"
-    },
-    {
-      "title": "LangSmith Preview Builds: Test agent changes before production",
-      "url": "https://www.youtube.com/watch?v=xEnUDGZ3_HE",
-      "source": "LangChain",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T16:00:10.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.3780531175470486,
-      "crawledAt": "2026-08-20T16:42:47.745Z",
-      "id": "lh0vv0",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9814767837524414,
-          "index": 1,
-          "word": "Lang",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9665710926055908,
-          "index": 2,
-          "word": "##S",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9698848128318787,
-          "index": 3,
-          "word": "##mith",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:44:27.073Z"
-    },
-    {
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T16:00:00.000Z",
-      "metaDescription": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.6652856967824107,
-      "crawledAt": "2026-08-20T16:42:21.229Z",
-      "id": "pp3co2",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9990206360816956,
-          "index": 1,
-          "word": "In",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9835937023162842,
-          "index": 2,
-          "word": "##ert",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9987252354621887,
-          "index": 3,
-          "word": "##ia",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9991603493690491,
-          "index": 4,
-          "word": "Enterprises",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Inertia Enterprises reduced the fuel filling process from a week to a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:44:36.059Z"
-    },
-    {
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Technology Review",
-      "source_domain": "technologyreview.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T15:42:39.000Z",
-      "metaDescription": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.41293632296525634,
-      "crawledAt": "2026-08-20T16:42:24.199Z",
-      "id": "l9snir",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9929108619689941,
-          "index": 5,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " “Runaway” AI, “rogue” agents, and “autonomous” actors, are angry at their creators.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:44:48.669Z"
-    },
-    {
-      "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-08-20T15:20:03.000Z",
-      "metaDescription": "Learn how to add context-aware security monitoring to FHIR APIs using Amazon Bedrock. This post shows how to detect anomalous access patterns, classify data sensitivity automatically, and generate com",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.42751130387301145,
-      "crawledAt": "2026-08-20T16:42:30.765Z",
-      "id": "8soor2",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.8078814744949341,
-          "index": 11,
-          "word": "Bed",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Learn how to add context-aware security monitoring to FHIR APIs using Amazon Bedrock. This post shows how to detect anomalous access patterns, classify data sensitivity automatically, and generate com.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:44:58.830Z"
-    },
-    {
-      "title": "Your Agent Is Working. So Why Can’t You Explain What It Did?",
-      "url": "https://pub.towardsai.net/your-agent-is-working-so-why-cant-you-explain-what-it-did-5981c692c98d?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T15:01:03.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.39809952336112786,
-      "crawledAt": "2026-08-20T16:42:34.513Z",
-      "id": "kvi9m0",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:44:58.880Z"
-    },
-    {
-      "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
-      "url": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-08-20T14:42:07.000Z",
-      "metaDescription": "Serval is making Catalyst, its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers — allowing teams of AI agents to decide what should b",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.8955201214994608,
-      "crawledAt": "2026-08-20T16:42:26.329Z",
-      "id": "ijopfy",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8753093481063843,
-          "index": 1,
-          "word": "Ser",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9573732018470764,
-          "index": 7,
-          "word": "Cat",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9255110025405884,
-          "index": 8,
-          "word": "##aly",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Serval is making Catalyst, its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:45:27.120Z"
-    },
-    {
-      "title": "How to Maximize Codex Exec Command",
-      "url": "https://pub.towardsai.net/how-to-maximize-codex-exec-command-e7a9dd35c743?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T14:01:05.000Z",
-      "metaDescription": "Codex exec is a command you can use to run Codex separately from the terminal to complete a very specific task, where the agent triggering…\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.5924487818454969,
-      "crawledAt": "2026-08-20T16:42:34.555Z",
-      "id": "qjxijq",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9441465139389038,
-          "index": 6,
-          "word": "Ex",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.904716432094574,
-          "index": 7,
-          "word": "##ec",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Codex exec is a command you can use to run Codex separately from the terminal to complete a very specific task. Codex exec can be a command that you can run Codex from the terminals.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:45:57.985Z"
-    },
-    {
-      "title": "How to Build a Career in AI: 3 Distinct Pathways",
-      "url": "https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways",
-      "source": "KDnuggets",
-      "source_domain": "kdnuggets.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-08-20T14:00:59.000Z",
-      "metaDescription": "Three orientations, three different skill maps, and how to find the one that fits where you actually stand.",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.5259808379042855,
-      "crawledAt": "2026-08-20T16:43:03.728Z",
-      "id": "2tsrz7",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.950823962688446,
-          "index": 8,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Three orientations, three different skill maps, and three different orientations. How to find the one that fits where you actually stand?",
-      "language": "en",
-      "processed_at": "2026-08-20T16:46:06.617Z"
-    },
-    {
-      "title": "How to Fine-Tune an LLM: An End-to-End Guide",
-      "url": "https://towardsdatascience.com/how-to-fine-tune-an-llm-an-end-to-end-guide/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T13:30:00.000Z",
-      "metaDescription": "A hands-on guide to fine-tuning LLMs for the real world\nThe post How to Fine-Tune an LLM: An End-to-End Guide appeared first on Towards Data Science.",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.5097173753513684,
-      "crawledAt": "2026-08-20T16:42:25.428Z",
-      "id": "o1p08t",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8334320187568665,
-          "index": 8,
-          "word": "LL",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A hands-on guide to fine-tuning LLMs for the real world. The post is part of a series of articles on how to fine tune your LLM.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:46:23.941Z"
-    },
-    {
-      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
-      "source": "NVIDIA Blog",
-      "source_domain": "blogs.nvidia.com",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-08-20T13:00:24.000Z",
-      "metaDescription": "It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on ",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.29953531125172544,
-      "crawledAt": "2026-08-20T16:42:18.524Z",
-      "id": "swjqdk",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.9888283610343933,
-          "index": 10,
-          "word": "##F",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9439427852630615,
-          "index": 12,
-          "word": "##ce",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8833256363868713,
-          "index": 18,
-          "word": "##fo",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " GeForce NOW welcomes Firefox support to the cloud. It's a new way to jump into high-performance PC gaming straight from the browser.",
-      "language": "en",
-      "processed_at": "2026-08-20T16:46:58.018Z"
     }
   ],
-  "processedAt": "2026-09-04T12:50:23.521Z",
+  "processedAt": "2026-09-04T19:05:49.463Z",
   "categories": [
-    "developer-tool",
-    "creative-ai",
-    "ai-agents",
-    "infrastructure",
-    "product-launch",
-    "model-release",
     "safety-ethics",
+    "ai-agents",
+    "creative-ai",
+    "developer-tool",
+    "infrastructure",
+    "model-release",
+    "product-launch",
     "industry-news",
     "research-paper",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 41,
-  "existingArticlesKept": 1596,
+  "newArticlesProcessed": 34,
+  "existingArticlesKept": 1612,
   "cleanupApplied": true,
-  "cleanedUpCount": 25,
+  "cleanedUpCount": 26,
   "rollingWindowDays": 15
 }
