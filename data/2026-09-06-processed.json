@@ -1,9 +1,258 @@
 {
-  "crawledAt": "2026-09-06T12:05:57.227Z",
+  "crawledAt": "2026-09-06T18:13:09.341Z",
   "totalSources": 70,
-  "totalArticles": 35,
+  "totalArticles": 55,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Pentagon Says Its Anthropic Ban Is On, Despite Lutnick Remarks",
+      "url": "https://www.reddit.com/r/artificial/comments/1w927or/pentagon_says_its_anthropic_ban_is_on_despite/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T17:22:49.000Z",
+      "metaDescription": "submitted by    /u/ThereWas  \n [link]   [comments]",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2543974567224917,
+      "crawledAt": "2026-09-06T18:12:42.833Z",
+      "id": "4iigh6",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9980767369270325,
+          "index": 1,
+          "word": "Pentagon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9958075284957886,
+          "index": 13,
+          "word": "Lu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:13:20.594Z"
+    },
+    {
+      "title": "AI Agents Spoke to One Another on a Public Message Board",
+      "url": "https://pub.towardsai.net/ai-agents-spoke-to-one-another-on-a-public-message-board-419c5d92757c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T16:31:01.000Z",
+      "metaDescription": "They relayed answers, reverse-engineered their own question generator, and shared a way out of their sandbox\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9802232855271859,
+      "crawledAt": "2026-09-06T18:12:35.590Z",
+      "id": "yfkbkl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.860687792301178,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9751560091972351,
+          "index": 11,
+          "word": "Public",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8772185444831848,
+          "index": 12,
+          "word": "Message",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8968886733055115,
+          "index": 13,
+          "word": "Board",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " They relayed answers, reverse-engineered their own question generator, and shared a way out of their sandbox.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:13:40.849Z"
+    },
+    {
+      "title": "Back to Writing: My Claude Certification Week",
+      "url": "https://pub.towardsai.net/back-to-writing-my-claude-certification-week-14107faca592?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T16:01:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3991409042961285,
+      "crawledAt": "2026-09-06T18:12:35.631Z",
+      "id": "ao72w8",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:13:51.280Z"
+    },
+    {
+      "title": "Your Model Memorized More Than You Think — and That’s One Bug, Not Four",
+      "url": "https://pub.towardsai.net/your-model-memorized-more-than-you-think-and-thats-one-bug-not-four-a72d0306e2b7?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T15:31:01.000Z",
+      "metaDescription": "Benchmark contamination, training-data extraction, copyright regurgitation, and membership inference get studied as four separate research…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3143902136402884,
+      "crawledAt": "2026-09-06T18:12:35.728Z",
+      "id": "b1dhaq",
+      "entities": [],
+      "summary": " Benchmark contamination, training-data extraction, copyright regurgitation, and membership inference get studied as four separate research.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:14:09.771Z"
+    },
+    {
+      "title": "What Do You Do With a Model That’s Too Big for Your GPU?",
+      "url": "https://pub.towardsai.net/what-do-you-do-with-a-model-thats-too-big-for-your-gpu-443bbbe70d4d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T15:01:02.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.25772372819143413,
+      "crawledAt": "2026-09-06T18:12:35.781Z",
+      "id": "wx1ie9",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:14:09.858Z"
+    },
+    {
+      "title": "Text Watermarking in Python: Catch Whoever Copies Your Writing",
+      "url": "https://towardsdatascience.com/text-watermarking-in-python-catch-whoever-copies-your-writing/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T14:00:01.000Z",
+      "metaDescription": "AI companies quietly watermark billions of words a day. Here’s how to apply the same three families of techniques to your own writing—and what real experiments reveal about which watermarks survive co",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4829802538004903,
+      "crawledAt": "2026-09-06T18:12:17.503Z",
+      "id": "efru88",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8079938292503357,
+          "index": 9,
+          "word": "Whoever",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AI companies quietly watermark billions of words a day. Here’s how to apply the same three families of techniques to your own writing.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:14:19.124Z"
+    },
+    {
+      "title": "7 Laravel + AI Integration Patterns Every PHP Developer Must Master in 2026",
+      "url": "https://pub.towardsai.net/7-laravel-ai-integration-patterns-every-php-developer-must-master-in-2026-4b318289efe5?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T13:31:00.000Z",
+      "metaDescription": "From queued embeddings to typed AI responses in TypeScript — the patterns separating demo code from production code.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.35686843978447247,
+      "crawledAt": "2026-09-06T18:12:35.992Z",
+      "id": "g08cqy",
+      "entities": [],
+      "summary": " From queued embeddings to typed AI responses in TypeScript, the patterns are separating demo code from production code.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:14:43.030Z"
+    },
+    {
+      "title": "Multi-Agent Systems Are the New Microservices — and They’re Making the Same Mistakes",
+      "url": "https://pub.towardsai.net/multi-agent-systems-are-the-new-microservices-and-theyre-making-the-same-mistakes-b3978845c387?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T13:01:04.000Z",
+      "metaDescription": "A runaway loop in a microservice is an operations problem: pods crash, alerts fire, someone gets paged. A runaway loop in a multi-agent…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3521463563856917,
+      "crawledAt": "2026-09-06T18:12:36.106Z",
+      "id": "nm576f",
+      "entities": [],
+      "summary": " A runaway loop in a microservice is an operations problem. A runawayloop in a multi-agent micro-service is a problem that needs to be addressed.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:14:53.691Z"
+    },
+    {
+      "title": "How much people still like these tools?",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8vete/how_much_people_still_like_these_tools/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T12:52:58.000Z",
+      "metaDescription": "Chatgtp, Claude, Gemini - outside of image generation for 2 of these things, they're pretty much near the same. \n They are very inaccurate for a natural language model, but what I hate the most is the",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.29751634157724716,
+      "crawledAt": "2026-09-06T18:12:44.022Z",
+      "id": "92c48w",
+      "entities": [],
+      "summary": " The most of these are inaccurate for a natural language model, but what I hate the most is the most. They are very inaccurate for an inaccurate language model.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:15:04.970Z"
+    },
+    {
+      "title": "8 Cool Things People Use GPT-6 Astra For",
+      "url": "https://generativeai.pub/8-cool-things-people-use-gpt-6-astra-for-801a03e237d2?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T12:25:57.000Z",
+      "metaDescription": "People are using Astra to create 3D games, motion graphics, product ads, and explorable paintings. Here are my favorites so far.\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.30468323863447555,
+      "crawledAt": "2026-09-06T18:12:40.462Z",
+      "id": "k2yc4a",
+      "entities": [],
+      "summary": " People are using Astra to create 3D games, motion graphics, product ads, and explorable paintings. Here are my favorites so far.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:15:13.965Z"
+    },
     {
       "title": "Quiz: Understanding the Python Traceback",
       "url": "https://realpython.com/quizzes/python-traceback/",
@@ -55,6 +304,42 @@
       "summary": " In this quiz, you’ll test your understanding of the Python Traceback. In this quizz, you'll test your knowledge of how to read a traceback from the bottom up.",
       "language": "en",
       "processed_at": "2026-09-06T12:06:26.825Z"
+    },
+    {
+      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-06T11:55:26.000Z",
+      "metaDescription": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.5807840543918166,
+      "crawledAt": "2026-09-06T18:12:12.722Z",
+      "id": "skxy30",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9996857047080994,
+          "index": 1,
+          "word": "German",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999150276184082,
+          "index": 6,
+          "word": "Europe",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"We achieved within a few years what had taken the European space industry decades before,\" says the European Space industry. \"We achieve within afew years what has taken the world decades before\"",
+      "language": "en",
+      "processed_at": "2026-09-06T18:15:27.043Z"
     },
     {
       "title": "My Brief Summer Fling With Siri AI",
@@ -195,6 +480,130 @@
       "processed_at": "2026-09-06T12:07:18.801Z"
     },
     {
+      "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8q5xa/nvidia_and_crowdstrike_develop_new_cybersecurity/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T08:13:16.000Z",
+      "metaDescription": "Nvidia and CrowdStrike are addressing what they see as one of cybersecurity’s biggest gaps: the need for cyber defenders to harness AI at the velocity of cyber attackers.\n    submitted by    /u/israel",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.5043972631189941,
+      "crawledAt": "2026-09-06T18:12:43.419Z",
+      "id": "po8xnl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8990359902381897,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8747853636741638,
+          "index": 2,
+          "word": "##vid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8495381474494934,
+          "index": 7,
+          "word": "##S",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Nvidia and CrowdStrike are addressing what they see as one of cybersecurity's biggest gaps. The need for cyber defenders to harness AI at the velocity of cyber attackers.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:15:56.697Z"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T08:00:00.000Z",
+      "metaDescription": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.27954489271675004,
+      "crawledAt": "2026-09-06T18:12:01.217Z",
+      "id": "medsl5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9945990443229675,
+          "index": 7,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9695063829421997,
+          "index": 8,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8420479893684387,
+          "index": 9,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:16:05.762Z"
+    },
+    {
+      "title": "Rouge AI Tracker: A central news source for Rogue AI incidents",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8plr8/rouge_ai_tracker_a_central_news_source_for_rogue/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T07:41:17.000Z",
+      "metaDescription": "submitted by    /u/Tupptupp_XD  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.686635010837802,
+      "crawledAt": "2026-09-06T18:12:43.602Z",
+      "id": "7n2kv2",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8414417505264282,
+          "index": 11,
+          "word": "Rogue",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8067666888237,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:16:05.831Z"
+    },
+    {
       "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions?",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
       "source": "r/MachineLearning",
@@ -212,6 +621,34 @@
       "summary": " The author of a new book, \"The Book of the Book,\" will be published next week. The book, which will be released by the publisher, will be a book of the book.",
       "language": "en",
       "processed_at": "2026-09-06T12:07:34.903Z"
+    },
+    {
+      "title": "If an AI agent can act on the internet without asking you every time should we actually trust it ?",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8obmo/if_an_ai_agent_can_act_on_the_internet_without/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T06:28:53.000Z",
+      "metaDescription": "AI agents are getting scary good.\n Were moving from AI that simply answers questions to AI that can actually take actions online edit things, use websites and interact with other systems.\n Recent repo",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9860852814117274,
+      "crawledAt": "2026-09-06T18:12:44.276Z",
+      "id": "8s8af9",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9344108700752258,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AI that answers questions to AI that can actually be used to edit things. Recent repo has been used to help people edit websites and interact with other systems.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:16:29.544Z"
     },
     {
       "title": "GPT-6 Astra Is Built to Do the Work, Not Just Answer the Question",
@@ -250,6 +687,25 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-09-06T12:07:56.173Z"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8mzqg/can_ai_design_circuit_boards_yet/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T05:14:52.000Z",
+      "metaDescription": "submitted by    /u/tw1st3d_m3nt4t  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.40883919653093204,
+      "crawledAt": "2026-09-06T18:12:43.231Z",
+      "id": "qlbpv6",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:16:29.601Z"
     },
     {
       "title": "The Architecture of Persistent AI: When Agents Never Stop",
@@ -684,6 +1140,25 @@
       "processed_at": "2026-09-06T04:15:09.561Z"
     },
     {
+      "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8gee5/ai_companies_are_dumping_265m_into_the_midterms/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-05T23:50:17.000Z",
+      "metaDescription": "submitted by    /u/esporx  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.5063145890831993,
+      "crawledAt": "2026-09-06T18:12:43.068Z",
+      "id": "uedv",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:16:39.260Z"
+    },
+    {
       "title": "My only real use case for a local AI use is document management, how much VRAM do I realistically need for a good experience?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8ga5y/my_only_real_use_case_for_a_local_ai_use_is/",
       "source": "r/LocalLLaMA",
@@ -896,6 +1371,34 @@
       "processed_at": "2026-09-06T04:18:11.113Z"
     },
     {
+      "title": "Am I the only one thinking AI workflows are more of a burden than relief?",
+      "url": "https://www.reddit.com/r/artificial/comments/1w88rti/am_i_the_only_one_thinking_ai_workflows_are_more/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-05T18:39:47.000Z",
+      "metaDescription": "I reckon we have all seen demos where someone’s multi-agent framework spins up, researches a topic, writes code, and deploys an app while they grab coffee. but when i actually try to set something up ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.727950228911279,
+      "crawledAt": "2026-09-06T18:12:43.837Z",
+      "id": "4ars1a",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8630666732788086,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "When i try to set up an app, I try to create an app for a coffee app. I reckon we have all seen demos where someone’s multi-agent framework spins up.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:16:53.498Z"
+    },
+    {
       "title": "Any resource on using Blender with local models, and which models work best?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w86wqp/any_resource_on_using_blender_with_local_models/",
       "source": "r/LocalLLaMA",
@@ -949,6 +1452,34 @@
       "summary": " Otaku is an LLM frontend, primarily designed for roleplay. It also works for general-purpose chat with local backends.",
       "language": "en",
       "processed_at": "2026-09-06T04:18:44.098Z"
+    },
+    {
+      "title": "What's the deal with all those cheap 3D modelled web apps?",
+      "url": "https://www.reddit.com/r/artificial/comments/1w84vih/whats_the_deal_with_all_those_cheap_3d_modelled/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-05T16:12:00.000Z",
+      "metaDescription": "My feed is filled with demos showcasing random worlds generated by the new model that just came out, not sure about it's name but the one that is real real AGI. Thing is, most are using prefabs reused",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.3754044675729551,
+      "crawledAt": "2026-09-06T18:12:44.502Z",
+      "id": "g128cw",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9953310489654541,
+          "index": 10,
+          "word": "3D",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new model is the first time a new model has been created. The new version of the model has a new name and a new design.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:17:06.694Z"
     },
     {
       "title": "The gap has closed, open source will win",
@@ -1015,19 +1546,39 @@
       "summary": "Announcement or discussion about new AI model releases and updates.",
       "language": "en",
       "processed_at": "2026-09-06T04:19:27.147Z"
+    },
+    {
+      "title": "Why are more people not concerned about privacy?",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-05T02:18:25.000Z",
+      "metaDescription": "There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. \n Additionally, the power users ha",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.35629543829762883,
+      "crawledAt": "2026-09-06T18:12:44.393Z",
+      "id": "bur57f",
+      "entities": [],
+      "summary": " There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter.",
+      "language": "en",
+      "processed_at": "2026-09-06T18:17:17.695Z"
     }
   ],
-  "processedAt": "2026-09-06T12:09:24.913Z",
+  "processedAt": "2026-09-06T18:17:17.936Z",
   "categories": [
-    "creative-ai",
     "infrastructure",
     "ai-agents",
-    "model-release",
+    "creative-ai",
+    "safety-ethics",
     "product-launch",
+    "model-release",
     "developer-tool"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 17,
-  "dailyArticlesCount": 35,
+  "newArticlesProcessed": 20,
+  "dailyArticlesCount": 55,
   "filterDate": "2026-09-06"
 }
