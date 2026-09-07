@@ -1,9 +1,517 @@
 {
-  "crawledAt": "2026-09-07T14:11:49.294Z",
+  "crawledAt": "2026-09-07T19:50:30.831Z",
   "totalSources": 70,
-  "totalArticles": 95,
+  "totalArticles": 110,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Friends Don't Let Friends Use Ollama",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa26pn/friends_dont_let_friends_use_ollama/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T19:40:10.000Z",
+      "metaDescription": "submitted by    /u/rm-rf-rm  \n [link]   [comments]",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.273848127720163,
+      "crawledAt": "2026-09-07T19:49:36.770Z",
+      "id": "2wsv8u",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8966563940048218,
+          "index": 8,
+          "word": "O",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:50:32.605Z"
+    },
+    {
+      "title": "Getting Started with Grok Bot",
+      "url": "https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/",
+      "source": "Analytics Vidhya",
+      "source_domain": "analyticsvidhya.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T19:34:17.000Z",
+      "metaDescription": "Last week, a GitHub notification arrived while I was asleep: a bug had been reproduced in staging, documented with screenshots, and assigned to the right engineer. A bot I set up four days earlier did",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.35140365792428707,
+      "crawledAt": "2026-09-07T19:50:25.041Z",
+      "id": "rw46yz",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9986976981163025,
+          "index": 5,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9491187334060669,
+          "index": 6,
+          "word": "##rok",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9930026531219482,
+          "index": 7,
+          "word": "Bo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A bug had been reproduced in staging, documented with screenshots, and assigned to the right engineer. A bot I set up four days earlier did the same thing.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:51:06.691Z"
+    },
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T19:24:00.000Z",
+      "metaDescription": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.4357737364031109,
+      "crawledAt": "2026-09-07T19:48:50.093Z",
+      "id": "xj75ge",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9574080109596252,
+          "index": 9,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:51:17.896Z"
+    },
+    {
+      "title": "exllamav3 comfortably beats llama.cpp running CPU-offloaded Qwen-3.8-Flash-Next on my setup!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa1jkb/exllamav3_comfortably_beats_llamacpp_running/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T19:16:48.000Z",
+      "metaDescription": "I got 2x 20GB RTX 3080s + 128GB of DDR4 2666hz RAM (only 4 of 6 channels populated) + a Xeon 6148 \n I've always been a llama.cpp person and I've been running Unsloth's Q4_K_XL quant of Qwen 3.8 Flash ",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2842958756107195,
+      "crawledAt": "2026-09-07T19:49:40.103Z",
+      "id": "1onv7u",
+      "entities": [],
+      "summary": " I got 2x 20GB RTX 3080s + 128GB of DDR4 2666hz RAM (only 4 of 6 channels populated) I've always been a llama. I've been running Unsloth's Q4_K_XL quant of Q4.8 Flash.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:51:36.589Z"
+    },
+    {
+      "title": "Cybersecurity is local AI model's killer use case",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa0ucq/cybersecurity_is_local_ai_models_killer_use_case/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T18:51:24.000Z",
+      "metaDescription": "This weekend I posted about the gap closing between frontier models and open source models. Well, now I'm coming with receipts. \n I've been running local + cloud models against real public github code",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.9626337763064664,
+      "crawledAt": "2026-09-07T19:49:38.823Z",
+      "id": "8vtdjb",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9679734706878662,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This weekend I posted about the gap closing between frontier models and open source models. I've been running local + cloud models against real public public code.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:51:47.607Z"
+    },
+    {
+      "title": "DeepSeek-V4-Flash-Vision-Exp is amazing at creating game worlds!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa06k3/deepseekv4flashvisionexp_is_amazing_at_creating/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T18:27:43.000Z",
+      "metaDescription": "Model: DeepSeek-V4-Flash-Vision-Exp (local and API when impatient)\n Time: about one weekend (2 days) of QA and small improvements\n Full game is here\n  \nAfter Qwen3.8-Flash-Next one-shotted a really co",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.8473727518804482,
+      "crawledAt": "2026-09-07T19:49:37.218Z",
+      "id": "lftcna",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9159510731697083,
+          "index": 1,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8512078523635864,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8381011486053467,
+          "index": 3,
+          "word": "##eek",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8281042575836182,
+          "index": 6,
+          "word": "##4",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9490691423416138,
+          "index": 8,
+          "word": "Flash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8291137218475342,
+          "index": 12,
+          "word": "Ex",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The game is called DeepSeek-V4-V3-V5-V2-V7-V6-V8-V1-V 3-2-4-3-5-5. The game has been dubbed \"DeepSeekV4\" and",
+      "language": "en",
+      "processed_at": "2026-09-07T19:52:24.504Z"
+    },
+    {
+      "title": "I REALLY hope the new gemma 5 family sticks to the \"chat model first\" philsophy and doesn't fall into the Qwen trap",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ylhh/i_really_hope_the_new_gemma_5_family_sticks_to/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T17:30:30.000Z",
+      "metaDescription": "It just seems every local 30b class model is just trying so hard to be the next Qwen that they all just kinda blend into a mass of code focused models. I really like how gemma 4 31b turned out with it",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3410434610530866,
+      "crawledAt": "2026-09-07T19:49:36.219Z",
+      "id": "ync4d",
+      "entities": [],
+      "summary": " The Qwen model is the latest in a long line of models that have been dubbed Qwen models. Qwen is the first Qwen to have a model that has been called a Qwen Model.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:52:39.394Z"
+    },
+    {
+      "title": "Context Engineering: The Missing Piece in Agentic Systems!",
+      "url": "https://levelup.gitconnected.com/context-engineering-the-missing-piece-in-agentic-systems-e2bbb8012e4e?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T15:50:11.000Z",
+      "metaDescription": "Context Engineering is becoming essential as AI agents take on more software development work. An agent can plan, code, test, investigate…\nContinue reading on Level Up Coding »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.5296790056322903,
+      "crawledAt": "2026-09-07T19:49:29.527Z",
+      "id": "98l681",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9605259299278259,
+          "index": 11,
+          "word": "Systems",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Context Engineering is becoming essential as AI agents take on more software development work. An agent can plan, code, test, investigate and investigate.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:53:24.643Z"
+    },
+    {
+      "title": "AI doesn’t fix your engineering org. It amplifies whatever’s already there.",
+      "url": "https://levelup.gitconnected.com/ai-doesnt-fix-your-engineering-org-it-amplifies-whatever-s-already-there-3f4b1081cb0e?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T15:49:47.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.7890384333330059,
+      "crawledAt": "2026-09-07T19:49:29.757Z",
+      "id": "1llrv7",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:53:35.366Z"
+    },
+    {
+      "title": "Nine Rules for Compile-Time Work with Rust const fn",
+      "url": "https://levelup.gitconnected.com/nine-rules-for-compile-time-work-with-rust-const-fn-part-1-a29f7dd62b2f?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T15:31:47.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3532723738029032,
+      "crawledAt": "2026-09-07T19:49:29.990Z",
+      "id": "db8bo0",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:53:47.499Z"
+    },
+    {
+      "title": "NVIDIA Is Buying the Internet’s AI Model Library. Can Hugging Face Still Be Neutral?",
+      "url": "https://levelup.gitconnected.com/nvidia-is-buying-the-internets-ai-model-library-can-hugging-face-still-be-neutral-ad83ef8d2f70?source=rss----5517fd7b58a6---4",
+      "source": "Level Up Coding",
+      "source_domain": "levelup.gitconnected.com",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T15:31:30.000Z",
+      "metaDescription": "NVIDIA has spent the AI boom selling the hardware underneath almost everything.\nContinue reading on Level Up Coding »",
+      "category": "infrastructure",
+      "difficulty": 8,
+      "confidence": 0.5976814001922989,
+      "crawledAt": "2026-09-07T19:49:30.138Z",
+      "id": "uada5c",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9877590537071228,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9744465947151184,
+          "index": 3,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8484438061714172,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8923820853233337,
+          "index": 9,
+          "word": "Internet",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8075969815254211,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.973167896270752,
+          "index": 13,
+          "word": "Model",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9049203395843506,
+          "index": 14,
+          "word": "Library",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " NVIDIA has spent the AI boom selling the hardware underneath almost everything. The company has spent a lot of time selling the software for the software.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:53:59.039Z"
+    },
+    {
+      "title": "Formal Methods May Become Part of the Agentic Coding Stack",
+      "url": "https://python.plainenglish.io/formal-methods-may-become-part-of-the-agentic-coding-stack-54c6400bbcc3?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T15:09:31.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.28451944865208106,
+      "crawledAt": "2026-09-07T19:49:33.267Z",
+      "id": "vmhf9g",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9113056063652039,
+          "index": 11,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9840448498725891,
+          "index": 13,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8491284251213074,
+          "index": 15,
+          "word": "St",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:54:30.004Z"
+    },
+    {
+      "title": "Building an API-First Content Platform with Flask: Introducing Python Headless CMS",
+      "url": "https://python.plainenglish.io/building-an-api-first-content-platform-with-flask-introducing-python-headless-cms-60d73789cce8?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T15:09:08.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 7,
+      "confidence": 0.2754574269989704,
+      "crawledAt": "2026-09-07T19:49:33.349Z",
+      "id": "ls5bk1",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9304126501083374,
+          "index": 3,
+          "word": "API",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9854094982147217,
+          "index": 6,
+          "word": "Content",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9739963412284851,
+          "index": 7,
+          "word": "Platform",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9912140965461731,
+          "index": 16,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.971204936504364,
+          "index": 19,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:54:30.177Z"
+    },
+    {
+      "title": "How to squeeze out every last drop of your precious RAM on your Mac - Use iPhone mirroring",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ua08/how_to_squeeze_out_every_last_drop_of_your/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T14:50:49.000Z",
+      "metaDescription": "I was recently trying to load a larger model on my Mac and was going through the drill of checking RAM usage, closing apps like Telegram, Messages, Spark(email), etc that were using too much RAM and I",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.36198929095048293,
+      "crawledAt": "2026-09-07T19:49:38.228Z",
+      "id": "8dssgn",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9919556379318237,
+          "index": 14,
+          "word": "Mac",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I was recently trying to load a larger model on my Mac and was going through the drill of checking RAM usage.",
+      "language": "en",
+      "processed_at": "2026-09-07T19:54:54.076Z"
+    },
     {
       "title": "Why are the SOTA open-weight models scoring low scores on AA-Omniscience Index",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9t83y/why_are_the_sota_openweight_models_scoring/",
@@ -453,6 +961,34 @@
       "summary": " When multiple companies are behind one project, who bears responsibility for problems? When multiple firms are behind a project, what do you do?",
       "language": "en",
       "processed_at": "2026-09-07T14:14:41.284Z"
+    },
+    {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T11:00:03.000Z",
+      "metaDescription": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.6813737516620747,
+      "crawledAt": "2026-09-07T19:48:53.204Z",
+      "id": "yo9165",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9659647941589355,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " When multiple companies are behind one project, who bears responsibility for problems? When multiple firms are behind a project, what do you do?",
+      "language": "en",
+      "processed_at": "2026-09-07T19:55:06.717Z"
     },
     {
       "title": "Best local models for hardware programming?",
@@ -2834,19 +3370,20 @@
       "processed_at": "2026-09-07T14:22:51.661Z"
     }
   ],
-  "processedAt": "2026-09-07T14:22:51.666Z",
+  "processedAt": "2026-09-07T19:55:29.909Z",
   "categories": [
+    "safety-ethics",
+    "ai-agents",
+    "creative-ai",
+    "infrastructure",
+    "product-launch",
     "model-release",
     "industry-news",
-    "ai-agents",
-    "infrastructure",
-    "safety-ethics",
-    "creative-ai",
     "developer-tool",
     "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 44,
-  "dailyArticlesCount": 95,
+  "newArticlesProcessed": 15,
+  "dailyArticlesCount": 110,
   "filterDate": "2026-09-07"
 }
