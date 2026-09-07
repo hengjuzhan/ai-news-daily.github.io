@@ -1,9 +1,145 @@
 {
-  "crawledAt": "2026-09-07T19:50:30.831Z",
+  "crawledAt": "2026-09-07T22:45:36.836Z",
   "totalSources": 70,
-  "totalArticles": 110,
+  "totalArticles": 119,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "WebMCP Is Giving Every Website a Second Door for AI Agents",
+      "url": "https://pub.towardsai.net/webmcp-is-giving-every-website-a-second-door-for-ai-agents-39fdb73e421b?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T22:01:01.000Z",
+      "metaDescription": "WebMCP gives AI agents a structured way to use the websites people already use.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.8728447992439694,
+      "crawledAt": "2026-09-07T22:44:31.896Z",
+      "id": "16tmo2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9878571033477783,
+          "index": 1,
+          "word": "Web",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.940009593963623,
+          "index": 2,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " WebMCP gives AI agents a structured way to use websites people already use. WebM CP gives AI agent a structured method to use the websites people use.",
+      "language": "en",
+      "processed_at": "2026-09-07T22:45:49.410Z"
+    },
+    {
+      "title": "Shieldstral: Build an AI Content Moderation Classifier with Python",
+      "url": "https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T21:01:01.000Z",
+      "metaDescription": "Learn how Mistral.AI’s 3B safety model uses natural-language policies for flexible, adaptive content moderation\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.891095353151968,
+      "crawledAt": "2026-09-07T22:44:32.041Z",
+      "id": "7zk283",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.979624330997467,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9661096930503845,
+          "index": 14,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "AI’s 3B safety model uses natural-language policies for flexible, adaptive content moderation. The company's 3B model uses the language of language to help people understand the world.",
+      "language": "en",
+      "processed_at": "2026-09-07T22:46:02.151Z"
+    },
+    {
+      "title": "I Built an AI Reactive DevOps Agent for AWS — It Detects, Investigates, and Fixes Incidents -Using…",
+      "url": "https://pub.towardsai.net/i-built-an-ai-reactive-devops-agent-for-aws-it-detects-investigates-and-fixes-incidents-using-06ed7864e11f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T20:31:01.000Z",
+      "metaDescription": "No magic. Just AWS APIs, telemetry, a tool loop, and very strict guardrails.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.986520221851456,
+      "crawledAt": "2026-09-07T22:44:32.215Z",
+      "id": "du1fwx",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9796685576438904,
+          "index": 12,
+          "word": "A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Just APIs, telemetry, a tool loop, and very strict guardrails. No magic. Just APIs and telemetry.",
+      "language": "en",
+      "processed_at": "2026-09-07T22:46:14.136Z"
+    },
+    {
+      "title": "Why AI Agents Trust Memory More Than Reality",
+      "url": "https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T20:01:01.000Z",
+      "metaDescription": "A new benchmark reveals that AI agents can follow an outdated memory record even when a live, authoritative tool provides the correct…\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.8719934265770508,
+      "crawledAt": "2026-09-07T22:44:32.350Z",
+      "id": "avs9dm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9105513691902161,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9343680143356323,
+          "index": 3,
+          "word": "Agents",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A new benchmark reveals that AI agents can follow an outdated memory record even when a live, authoritative tool provides the correct reading on Towards AI.",
+      "language": "en",
+      "processed_at": "2026-09-07T22:46:23.004Z"
+    },
     {
       "title": "Friends Don't Let Friends Use Ollama",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa26pn/friends_dont_let_friends_use_ollama/",
@@ -124,6 +260,34 @@
       "processed_at": "2026-09-07T19:51:36.589Z"
     },
     {
+      "title": "How Does One GPU Serve Hundreds of Users at the Same Time?",
+      "url": "https://pub.towardsai.net/how-does-one-gpu-serve-hundreds-of-users-at-the-same-time-b999e60a440e?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T19:01:01.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.266925309600231,
+      "crawledAt": "2026-09-07T22:44:32.467Z",
+      "id": "5ee5t4",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8896885514259338,
+          "index": 5,
+          "word": "##U",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T22:46:23.233Z"
+    },
+    {
       "title": "Cybersecurity is local AI model's killer use case",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa0ucq/cybersecurity_is_local_ai_models_killer_use_case/",
       "source": "r/LocalLLaMA",
@@ -218,6 +382,25 @@
       "summary": " The game is called DeepSeek-V4-V3-V5-V2-V7-V6-V8-V1-V 3-2-4-3-5-5. The game has been dubbed \"DeepSeekV4\" and",
       "language": "en",
       "processed_at": "2026-09-07T19:52:24.504Z"
+    },
+    {
+      "title": "Is Your Agentic AI Actually Insurable?",
+      "url": "https://pub.towardsai.net/is-your-agentic-ai-actually-insurable-acc56ac10d57?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T18:01:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.853441330464774,
+      "crawledAt": "2026-09-07T22:44:32.645Z",
+      "id": "fdydcf",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T22:46:35.591Z"
     },
     {
       "title": "I REALLY hope the new gemma 5 family sticks to the \"chat model first\" philsophy and doesn't fall into the Qwen trap",
@@ -1291,6 +1474,145 @@
       "summary": "We spent years worrying that AI would run out of data. Now we have a new problem: too much data is coming from AI.",
       "language": "en",
       "processed_at": "2026-09-07T14:17:49.344Z"
+    },
+    {
+      "title": "KV cache as an agent runtime",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T09:03:48.000Z",
+      "metaDescription": "Our research team has been exploring an alternative approach to achieving interactivity and better responsiveness with LLM systems.\n One of the team members wrote up a post about it:\n https://research",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3673881514902486,
+      "crawledAt": "2026-09-07T22:44:45.361Z",
+      "id": "6clt9n",
+      "entities": [],
+      "summary": " The team has been exploring an alternative approach to achieving interactivity and better responsiveness with LLM systems. One of the team members wrote up a post about it.",
+      "language": "en",
+      "processed_at": "2026-09-07T22:47:13.056Z"
+    },
+    {
+      "title": "Automotive Radar Object Classification",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T08:10:55.000Z",
+      "metaDescription": "Hello all,\n I'm a radar signal processing engineer and i trained a 5-class classifier (car, large_vehicle, two_wheeler, pedestrian, pedestrian_group) on RadarScenes radar point clouds. \n The input vec",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.29395187497061626,
+      "crawledAt": "2026-09-07T22:44:45.936Z",
+      "id": "19l6pn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9151327610015869,
+          "index": 1,
+          "word": "Auto",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9114999175071716,
+          "index": 5,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8615921139717102,
+          "index": 6,
+          "word": "##bject",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8583204746246338,
+          "index": 7,
+          "word": "Classification",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The input is a radar signal processing engineer. I trained a 5-class classifier on RadarScenes radar point clouds.",
+      "language": "en",
+      "processed_at": "2026-09-07T22:47:25.506Z"
+    },
+    {
+      "title": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T07:56:38.000Z",
+      "metaDescription": "Is LfD and BC research being effected by recent advances in (so-called) Frontier LLMs? Or is research in LfD and BC sort of going along in an independent direction from these? \n Are you seeing any use",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.5938145423783138,
+      "crawledAt": "2026-09-07T22:44:45.767Z",
+      "id": "f7j2zg",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8182839751243591,
+          "index": 6,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9913907051086426,
+          "index": 8,
+          "word": "from",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9592811465263367,
+          "index": 10,
+          "word": "Demons",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8381088972091675,
+          "index": 11,
+          "word": "##tration",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9485564827919006,
+          "index": 12,
+          "word": "##s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9810122847557068,
+          "index": 18,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " LfD and BC research is being effected by recent advances in (so-called) Frontier LLMs. Are you seeing any use of Lf D and BC Research? Or is research in Lf d and BC sort of going along in an independent direction from these?",
+      "language": "en",
+      "processed_at": "2026-09-07T22:47:41.092Z"
     },
     {
       "title": "Thinking about grabbing an RTX 2000 Ada 16gb to add to my gaming pc for inference due to Wattage constraints, any advice?",
@@ -3370,11 +3692,11 @@
       "processed_at": "2026-09-07T14:22:51.661Z"
     }
   ],
-  "processedAt": "2026-09-07T19:55:29.909Z",
+  "processedAt": "2026-09-07T22:47:51.442Z",
   "categories": [
-    "safety-ethics",
     "ai-agents",
     "creative-ai",
+    "safety-ethics",
     "infrastructure",
     "product-launch",
     "model-release",
@@ -3383,7 +3705,7 @@
     "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 15,
-  "dailyArticlesCount": 110,
+  "newArticlesProcessed": 9,
+  "dailyArticlesCount": 119,
   "filterDate": "2026-09-07"
 }
