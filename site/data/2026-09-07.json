@@ -1,9 +1,879 @@
 {
-  "crawledAt": "2026-09-07T04:12:29.156Z",
+  "crawledAt": "2026-09-07T14:11:49.294Z",
   "totalSources": 70,
-  "totalArticles": 51,
+  "totalArticles": 95,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Why are the SOTA open-weight models scoring low scores on AA-Omniscience Index",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9t83y/why_are_the_sota_openweight_models_scoring/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T14:09:45.000Z",
+      "metaDescription": "https://preview.redd.it/qwmh23nfr3oh1.png?width=1062&format=png&auto=webp&s=4741852dc3f5e7d86ae85281b089b2a325a1804a\n I mean they aren't that low but seeing them much lower than Gemini-3.* flash surpr",
+      "category": "model-release",
+      "difficulty": 7,
+      "confidence": 0.2680766826901722,
+      "crawledAt": "2026-09-07T14:11:16.503Z",
+      "id": "jlxoqr",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9769518971443176,
+          "index": 4,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9465141296386719,
+          "index": 5,
+          "word": "##OT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9944273233413696,
+          "index": 15,
+          "word": "AA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9807750582695007,
+          "index": 21,
+          "word": "##nce",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9935842752456665,
+          "index": 22,
+          "word": "Index",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:11:51.402Z"
+    },
+    {
+      "title": "Async Generators Get yield from and Other Python News for September 2026",
+      "url": "https://realpython.com/python-news-september-2026/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T14:00:00.000Z",
+      "metaDescription": "August was a month for reading release notes rather than writing new code. Python 3.15 stopped accepting changes to its application binary interface, and three older branches got security patches with",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.3393014660735718,
+      "crawledAt": "2026-09-07T14:11:47.518Z",
+      "id": "cxacc",
+      "entities": [],
+      "summary": " Python 3.15 stopped accepting changes to its application binary interface. Three older branches got security patches with security patches.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:12:12.665Z"
+    },
+    {
+      "title": "MiniCPM5-2B Release Day",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9skjz/minicpm52b_release_day/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T13:43:45.000Z",
+      "metaDescription": "OpenBMB's MiniCPM5-2B scores 15 on the Artificial Analysis Intelligence Index v4.2, the highest of any open weights model at 4B parameters or below\n Hugging Face: https://huggingface.co/openbmb/MiniCP",
+      "category": "model-release",
+      "difficulty": 3,
+      "confidence": 0.962862059729354,
+      "crawledAt": "2026-09-07T14:11:14.724Z",
+      "id": "4hlnel",
+      "entities": [],
+      "summary": " OpenBMB's MiniCPM5-2B scores 15 on the Artificial Analysis Intelligence Index v4.2.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:12:34.717Z"
+    },
+    {
+      "title": "Monitoring and Authorization for AI Agents: the Model’s Own Judgment is not a Permission Check",
+      "url": "https://pub.towardsai.net/monitoring-and-authorization-for-ai-agents-the-models-own-judgment-is-not-a-permission-check-cbbf0447d7b9?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T13:31:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9874119402123318,
+      "crawledAt": "2026-09-07T14:11:04.498Z",
+      "id": "cabr0v",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8035184741020203,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:12:34.792Z"
+    },
+    {
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "url": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T13:01:23.000Z",
+      "metaDescription": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commerc",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.41051662696272734,
+      "crawledAt": "2026-09-07T14:10:52.829Z",
+      "id": "x363o9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9952986240386963,
+          "index": 1,
+          "word": "MG",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9903702735900879,
+          "index": 2,
+          "word": "Ship",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9858096241950989,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " MG Ship has introduced an AI route optimisation and carrier selection module. The technical module targets global retailers and commerc companies.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:12:45.248Z"
+    },
+    {
+      "title": "Superlinked Inference Engine",
+      "url": "https://pub.towardsai.net/superlinked-inference-engine-f7556613a808?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T13:01:03.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.9321077915259309,
+      "crawledAt": "2026-09-07T14:11:04.533Z",
+      "id": "idl112",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:12:45.321Z"
+    },
+    {
+      "title": "9 easy steps for llama.cpp, a local model, Freecad to generate solid objects that sound mechanically good and can be also be 3D printed/milled",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9r73k/9_easy_steps_for_llamacpp_a_local_model_freecad/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T12:45:58.000Z",
+      "metaDescription": "Quick setup on linux:\n STEP 0:\n install/download llama.cpp, Freecad, your favourite gguf model - possibly with multimedia image reading capabilities (I've used Qwen3.8-27B-UD-Q4_K_M and relative mmpro",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.48517567651631854,
+      "crawledAt": "2026-09-07T14:11:14.612Z",
+      "id": "b1rqxo",
+      "entities": [],
+      "summary": "Qwen3.8-27B-UD-Q4-K_M and relative mmpro are all possible models.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:12:57.253Z"
+    },
+    {
+      "title": "little-coder vs just Pi",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9qvi9/littlecoder_vs_just_pi/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T12:31:09.000Z",
+      "metaDescription": "Hi, I use hermes as a harness, and I am pleased with it, but sometimes Hermes's context size is a bit too much for my system, so I wanted to delegate or straight up use a lighter option for coding tas",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.27937069382905083,
+      "crawledAt": "2026-09-07T14:11:15.191Z",
+      "id": "1o8owv",
+      "entities": [],
+      "summary": " The Hermes's context size is a bit too much for my system, so I wanted to delegate or straight up use a lighter option for coding tas.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:13:07.440Z"
+    },
+    {
+      "title": "You Don’t Need a Cloud GPU Cluster to Fine-Tune Your Own LLM",
+      "url": "https://pub.towardsai.net/you-dont-need-a-cloud-gpu-cluster-to-fine-tune-your-own-llm-83a0baf8e626?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T12:31:02.000Z",
+      "metaDescription": "A free Google Colab T4 and one open-source library are enough to make a base model actually yours\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.25504174354194603,
+      "crawledAt": "2026-09-07T14:11:04.616Z",
+      "id": "mk29h6",
+      "entities": [],
+      "summary": " A free Google Colab T4 and one open-source library are enough to make a base model actually yours.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:13:19.217Z"
+    },
+    {
+      "title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+      "source": "Import AI",
+      "source_domain": "jack-clark.net",
+      "source_category": "newsletter",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T12:26:31.000Z",
+      "metaDescription": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Researchers discov",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.8838292812341391,
+      "crawledAt": "2026-09-07T14:11:28.027Z",
+      "id": "fwylzd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9881179928779602,
+          "index": 8,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9904309511184692,
+          "index": 9,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9760370850563049,
+          "index": 10,
+          "word": "##ind",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9708271026611328,
+          "index": 20,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9190145134925842,
+          "index": 24,
+          "word": "For",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:13:30.309Z"
+    },
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T12:10:00.000Z",
+      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of explorati",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3800962067978916,
+      "crawledAt": "2026-09-07T14:10:47.336Z",
+      "id": "pfcf80",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9945793747901917,
+          "index": 13,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9776716828346252,
+          "index": 14,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9263213872909546,
+          "index": 15,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Download is a daily dose of what’s going on in the world of technology. Use this week's Daily Download to help us understand today's featured news stories.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:13:43.132Z"
+    },
+    {
+      "title": "MCP Prompts in Claude Code: A Simple Guide for Developers",
+      "url": "https://pub.towardsai.net/mcp-prompts-in-claude-code-a-simple-guide-for-developers-2b7a8063f616?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T12:01:03.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.6104981207372954,
+      "crawledAt": "2026-09-07T14:11:04.662Z",
+      "id": "8u2v39",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8156924247741699,
+          "index": 1,
+          "word": "MC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9478825330734253,
+          "index": 7,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9806062579154968,
+          "index": 8,
+          "word": "Code",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:13:43.201Z"
+    },
+    {
+      "title": "Easy local Copilot with VS Code and Lemonade",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9puz3/easy_local_copilot_with_vs_code_and_lemonade/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T11:43:41.000Z",
+      "metaDescription": "Not so long ago I wrote a guide on how to get GitHub Copilot running with a local model in Visual Studio Code. Since then Copilot subscriptions have got much more expensive, local models have got much",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3515867521566134,
+      "crawledAt": "2026-09-07T14:11:16.233Z",
+      "id": "8r333v",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8190155029296875,
+          "index": 9,
+          "word": "Code",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Copilot subscriptions have got much more expensive. Since then Copilot subscriptions are much more costly. Local models have got more expensive.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:14:13.270Z"
+    },
+    {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T11:00:03.000Z",
+      "metaDescription": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.6813737771428044,
+      "crawledAt": "2026-09-07T14:10:44.763Z",
+      "id": "c4syg8",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9659647941589355,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " When multiple companies are behind one project, who bears responsibility for problems? When multiple firms are behind a project, what do you do?",
+      "language": "en",
+      "processed_at": "2026-09-07T14:14:41.284Z"
+    },
+    {
+      "title": "Best local models for hardware programming?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9oso4/best_local_models_for_hardware_programming/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T10:47:48.000Z",
+      "metaDescription": "Guys can you tell me which local LLMs are best for hardware programming? like Verilog RTL, UVM, System Verilog?\n    submitted by    /u/Curious_Cantaloupe65  \n [link]   [comments]",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.6267598591021419,
+      "crawledAt": "2026-09-07T14:11:15.845Z",
+      "id": "h3qa4r",
+      "entities": [],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:14:41.336Z"
+    },
+    {
+      "title": "Which models are you running on 32Gb VRAM and 128Gb RAM?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9omj0/which_models_are_you_running_on_32gb_vram_1616/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T10:38:22.000Z",
+      "metaDescription": "I finally pulled the plug and got a second 5080 and 64GB DDR5 RAM to add to my existing 64. Now I have dual RTX5080s and 128Gb DDR5 RAM on a consumer tower with a AMD Ryzen 7 7700X CPU (so I guess sad",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.2559310000021294,
+      "crawledAt": "2026-09-07T14:11:15.617Z",
+      "id": "7w0bmg",
+      "entities": [],
+      "summary": " The new AMD 7700X CPU has a second 5080 and 64GB RAM to add to the existing 64-year-old.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:14:54.457Z"
+    },
+    {
+      "title": "Me trying to keep up with all the new AI models being released",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9of3u/me_trying_to_keep_up_with_all_the_new_ai_models/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T10:26:51.000Z",
+      "metaDescription": "submitted by    /u/Nunki08  \n [link]   [comments]",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.908193734489368,
+      "crawledAt": "2026-09-07T14:11:14.382Z",
+      "id": "nagmhp",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.809746265411377,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:15:04.604Z"
+    },
+    {
+      "title": "AI vs ML vs DL vs Data Science: Comprehensive Comparison and Use Cases",
+      "url": "https://python.plainenglish.io/ai-vs-ml-vs-dl-vs-data-science-comprehensive-comparison-and-use-cases-24fadb57d57c?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T09:40:09.000Z",
+      "metaDescription": "A practical breakdown of the four pillars of intelligent computing, with real code, career guidance, and the clarity you need to stop…\nContinue reading on Python in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.3252554056166748,
+      "crawledAt": "2026-09-07T14:11:11.368Z",
+      "id": "8dru9a",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.94613116979599,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9859089255332947,
+          "index": 3,
+          "word": "M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.951029896736145,
+          "index": 4,
+          "word": "##L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9914054870605469,
+          "index": 6,
+          "word": "DL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9327406883239746,
+          "index": 9,
+          "word": "Science",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A practical breakdown of the four pillars of intelligent computing, with real code, career guidance, and real code. Read the full breakdown of what you need to stop reading on Python in Plain English.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:15:32.489Z"
+    },
+    {
+      "title": "AI Is Much More Useful Once You Stop Thinking Of It As Google",
+      "url": "https://ai.plainenglish.io/ai-is-much-more-useful-once-you-stop-thinking-of-it-as-google-04a717e41c8f?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T09:35:32.000Z",
+      "metaDescription": "For years, I used AI basically the same way I used Google.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.42822798444884586,
+      "crawledAt": "2026-09-07T14:11:09.749Z",
+      "id": "th25km",
+      "entities": [],
+      "summary": " For years, I used AI basically the same way I used Google. For years. For Years, I use AI basically same way as Google.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:15:42.831Z"
+    },
+    {
+      "title": "The Vibe Coder’s Guide to Accepting Payments",
+      "url": "https://ai.plainenglish.io/the-vibe-coders-guide-to-accepting-payments-05ad81276d5b?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T09:34:41.000Z",
+      "metaDescription": "The question to answer before asking your coding agent to accept payments.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4661375462393576,
+      "crawledAt": "2026-09-07T14:11:09.816Z",
+      "id": "z24qib",
+      "entities": [],
+      "summary": " The question to answer before asking your coding agent to accept payments is the question to ask your coding agents to accept payment.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:15:52.347Z"
+    },
+    {
+      "title": "AI Agents with Python 2026 — Part 4: AI Agent Tools and APIs",
+      "url": "https://ai.plainenglish.io/ai-agents-with-python-2026-part-4-ai-agent-tools-and-apis-6b62f27bfef4?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T09:30:41.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.9496224591618811,
+      "crawledAt": "2026-09-07T14:11:09.862Z",
+      "id": "r573hg",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8612633347511292,
+          "index": 2,
+          "word": "Agents",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9605949521064758,
+          "index": 4,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.891042172908783,
+          "index": 12,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:16:17.891Z"
+    },
+    {
+      "title": "10 Python Projects That Look Hard but Are Surprisingly Easy",
+      "url": "https://python.plainenglish.io/10-python-projects-that-look-hard-but-are-surprisingly-easy-4fc30fdfab0a?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T09:10:51.000Z",
+      "metaDescription": "The best way to get better at Python is to build things that solve real problems. However, some project ideas can look much harder than…\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.26573125677989673,
+      "crawledAt": "2026-09-07T14:11:11.717Z",
+      "id": "e0w051",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9426829218864441,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The best way to get better at Python is to build things that solve real problems. However, some project ideas can look much harder than…",
+      "language": "en",
+      "processed_at": "2026-09-07T14:17:08.866Z"
+    },
+    {
+      "title": "I Finally Understood Python Decorators …Here’s the Simple Explanation",
+      "url": "https://python.plainenglish.io/i-finally-understood-python-decorators-heres-the-simple-explanation-50a00cadac1a?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T09:09:56.000Z",
+      "metaDescription": "I used to think Python decorators were one of those features you were supposed to understand eventually.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.864196894424395,
+      "crawledAt": "2026-09-07T14:11:11.855Z",
+      "id": "48wi25",
+      "entities": [],
+      "summary": " I used to think Python decorators were one of those features you were supposed to understand. I used. to think that Python decorator was one of these features.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:17:31.841Z"
+    },
+    {
+      "title": "Stop Collecting Frameworks. Learn How Software Actually Works.",
+      "url": "https://ai.plainenglish.io/stop-collecting-frameworks-learn-how-software-actually-works-3f21015c93b5?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T09:08:57.000Z",
+      "metaDescription": "Frameworks change every few years. The systems underneath them are much harder to replace.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.334030133862628,
+      "crawledAt": "2026-09-07T14:11:10.027Z",
+      "id": "o0dmry",
+      "entities": [],
+      "summary": " The systems underneath them are much harder to replace. Frameworks change every few years. The systems under them are more difficult to replace.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:17:40.369Z"
+    },
+    {
+      "title": "AI Can Generate Infinite Data. So Why Is New Human Data Becoming More Valuable?",
+      "url": "https://ai.plainenglish.io/ai-can-generate-infinite-data-so-why-is-new-human-data-becoming-more-valuable-79d7639eef2c?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T09:08:32.000Z",
+      "metaDescription": "We spent years worrying that AI would run out of data. Now we may have a stranger problem: too much of the new data is coming from AI…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3159702548810144,
+      "crawledAt": "2026-09-07T14:11:10.123Z",
+      "id": "mkungz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.828567385673523,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "We spent years worrying that AI would run out of data. Now we have a new problem: too much data is coming from AI.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:17:49.344Z"
+    },
+    {
+      "title": "Thinking about grabbing an RTX 2000 Ada 16gb to add to my gaming pc for inference due to Wattage constraints, any advice?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9l8qc/thinking_about_grabbing_an_rtx_2000_ada_16gb_to/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T07:23:26.000Z",
+      "metaDescription": "So, I’m currently just short of being able to run the mainline dense SLMs (Qwen 27b/Gemma 31b), running a i9-14900F/RTX4070 Super/32GB DDR5 setup w/ a 700W 80 Gold PSU and a MSI PRO B760-VC WI-FI IV m",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.2703610627178702,
+      "crawledAt": "2026-09-07T14:11:16.139Z",
+      "id": "efddrl",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9982599020004272,
+          "index": 5,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9762728214263916,
+          "index": 6,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.993560254573822,
+          "index": 7,
+          "word": "##X",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I’m currently just short of being able to run the mainline dense SLMs (Qwen 27b/Gemma 31b)",
+      "language": "en",
+      "processed_at": "2026-09-07T14:18:04.160Z"
+    },
+    {
+      "title": "A Software Engineer’s Guide to Large Language Models",
+      "url": "https://pub.towardsai.net/a-software-engineers-guide-to-large-language-models-1efaac0fb805?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T04:18:16.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.2864173783694159,
+      "crawledAt": "2026-09-07T14:11:04.760Z",
+      "id": "2mm6o4",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9432872533798218,
+          "index": 9,
+          "word": "Language",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8626164197921753,
+          "index": 10,
+          "word": "Models",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:18:19.370Z"
+    },
+    {
+      "title": "OpenWiki In Production: A Realistic Setup & Review Guide",
+      "url": "https://pub.towardsai.net/openwiki-in-production-a-realistic-setup-review-guide-23edce255b09?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T04:18:03.000Z",
+      "metaDescription": "Make your codebase AI-ready with OpenWiki. A pragmatic practitioner’s guide to bounding agent reads, tracking costs, and reviewing PRs.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3863343449214448,
+      "crawledAt": "2026-09-07T14:11:04.848Z",
+      "id": "qfcrg0",
+      "entities": [],
+      "summary": " A pragmatic practitioner's guide to bounding agent reads, tracking costs, and reviewing PRs. Make your codebase AI-ready with OpenWiki.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:18:29.596Z"
+    },
+    {
+      "title": "The Labeling Engine: Why Supervised Learning Powers Modern AI",
+      "url": "https://pub.towardsai.net/the-labeling-engine-why-supervised-learning-powers-modern-ai-90e68dc9eb8a?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T04:17:52.000Z",
+      "metaDescription": "Learn how supervised learning models map inputs to targets, write clean training pipelines, and deploy robust predictors to production.\nContinue reading on Towards AI »",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.2561490072606908,
+      "crawledAt": "2026-09-07T14:11:04.925Z",
+      "id": "ye10fi",
+      "entities": [],
+      "summary": "Learn how supervised learning models map inputs to targets, write clean training pipelines, and deploy robust predictors to production.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:18:39.155Z"
+    },
     {
       "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
       "url": "https://arxiv.org/abs/2609.04286",
@@ -1165,6 +2035,364 @@
       "processed_at": "2026-09-07T04:25:32.965Z"
     },
     {
+      "title": "AI Writes Code, Humans Pay the Debt. An Empirical Study on the Sustainability and Evolution of Agent-Generated Code",
+      "url": "https://arxiv.org/abs/2609.04208",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-09-07T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.04208v1 Announce Type: new \nAbstract: Context. The increasing adoption of Generative AI coding agents in software engineering is transforming how developers implement and maintain code. Whi",
+      "category": "ai-agents",
+      "difficulty": 8,
+      "confidence": 0.5359149982172928,
+      "crawledAt": "2026-09-07T14:11:41.955Z",
+      "id": "8h8xjv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8777240514755249,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8155191540718079,
+          "index": 26,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.870924174785614,
+          "index": 28,
+          "word": "Gene",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9262449145317078,
+          "index": 29,
+          "word": "##rated",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9839718341827393,
+          "index": 30,
+          "word": "Code",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The increasing adoption of Generative AI coding agents in software engineering is transforming how developers implement and maintain code. Whi. Whi.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:19:33.975Z"
+    },
+    {
+      "title": "The Prompt Triangle: A Registered Report on Prompts as Hybrid Artifacts",
+      "url": "https://arxiv.org/abs/2609.04209",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-09-07T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.04209v1 Announce Type: new \nAbstract: AI-based coding assistants are transforming software development by shifting effort from writing code to crafting prompts that guide code generation. D",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.30752903687269084,
+      "crawledAt": "2026-09-07T14:11:42.049Z",
+      "id": "l2qxqw",
+      "entities": [],
+      "summary": " AI-based coding assistants are transforming software development by shifting effort from writing code to crafting prompts. D. D.D.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:19:45.741Z"
+    },
+    {
+      "title": "SH-PDOPS: AI-Driven Cloud Native Enterprise Reliability Framework for Predictive Analytics and Intelligent DevOps Automation",
+      "url": "https://arxiv.org/abs/2609.04210",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-09-07T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.04210v1 Announce Type: new \nAbstract: This paper presents an AI-driven cloud-native enterprise reliability framework designed to improve predictive analytics, intelligent DevOps automation,",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.4097700718112573,
+      "crawledAt": "2026-09-07T14:11:42.153Z",
+      "id": "4sf625",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9355670213699341,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9579771161079407,
+          "index": 12,
+          "word": "Native",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This is the first time this has been published in the past two years. This is a new version of this article.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:19:56.356Z"
+    },
+    {
+      "title": "Data-Related Challenges and Requirements for Event Log Generation in Process Mining: A Systematic Literature Review",
+      "url": "https://arxiv.org/abs/2609.04211",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-09-07T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.04211v1 Announce Type: new \nAbstract: Process mining is becoming an essential technology that not only supports the improvement of business processes but also enables the software technolog",
+      "category": "research-paper",
+      "difficulty": 5,
+      "confidence": 0.4828974907601681,
+      "crawledAt": "2026-09-07T14:11:42.248Z",
+      "id": "4kyusi",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9769307971000671,
+          "index": 18,
+          "word": "Mining",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9050715565681458,
+          "index": 23,
+          "word": "Literature",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9366591572761536,
+          "index": 24,
+          "word": "Review",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Process mining is becoming an essential technology that supports the improvement of business processes. The technology also enables the improvement in business processes.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:20:06.984Z"
+    },
+    {
+      "title": "Big Questions on Software Architecture: Report of the ICSE 2026 BoF on Software Architecture",
+      "url": "https://arxiv.org/abs/2609.04212",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-09-07T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.04212v1 Announce Type: new \nAbstract: Software Architecture (SA) is more important than ever, from the need to master the pervasive impact of technology in society and planet earth, to bala",
+      "category": "industry-news",
+      "difficulty": 5,
+      "confidence": 0.2500735024458129,
+      "crawledAt": "2026-09-07T14:11:42.355Z",
+      "id": "q8ykaz",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9926062226295471,
+          "index": 5,
+          "word": "Architecture",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9156196713447571,
+          "index": 11,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9517139792442322,
+          "index": 12,
+          "word": "##E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9925779700279236,
+          "index": 19,
+          "word": "Architecture",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Software Architecture is more important than ever, from the need to master the pervasive impact of technology in society and planet earth.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:20:15.289Z"
+    },
+    {
+      "title": "Toward Model-Driven Digital Twin Configuration: Separating Structure Semantics and Runtime with SysML SAREF and Ditto",
+      "url": "https://arxiv.org/abs/2609.04213",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-09-07T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.04213v1 Announce Type: new \nAbstract: Energy communities, neighbourhoods that jointly produce, store, and consume electricity, increasingly rely on \\emph{digital twins}: live software copie",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.43978853106455645,
+      "crawledAt": "2026-09-07T14:11:42.466Z",
+      "id": "5eh7te",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9033080339431763,
+          "index": 6,
+          "word": "Digital",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8413999676704407,
+          "index": 7,
+          "word": "Twin",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Energy communities. Energy communities, neighbourhoods that jointly produce, store, and consume electricity, increasingly rely on each other.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:20:26.088Z"
+    },
+    {
+      "title": "A Mixed-Method Empirical Study of LLM Assistance in Software Engineering Workflows",
+      "url": "https://arxiv.org/abs/2609.04214",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-09-07T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.04214v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly integrated into software development workflows, yet their effects are often discussed without distinguish",
+      "category": "safety-ethics",
+      "difficulty": 6,
+      "confidence": 0.25509807639818705,
+      "crawledAt": "2026-09-07T14:11:42.561Z",
+      "id": "7x9re9",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9096892476081848,
+          "index": 15,
+          "word": "Engineering",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Large Language Models (LLMs) are increasingly integrated into software development workflows. But their effects are often discussed without distinguish.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:20:33.847Z"
+    },
+    {
+      "title": "A systematic literature review on logging smell detection",
+      "url": "https://arxiv.org/abs/2609.04215",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-09-07T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.04215v1 Announce Type: new \nAbstract: Context:Logging is an important part of software development that helps developers monitor systems, understand behavior, and fix problems. But when log",
+      "category": "research-paper",
+      "difficulty": 3,
+      "confidence": 0.4009187439138874,
+      "crawledAt": "2026-09-07T14:11:42.648Z",
+      "id": "wz9k26",
+      "entities": [],
+      "summary": "Logging is an important part of software development that helps developers monitor systems, understand behavior, and fix problems. But when log, when log is a problem, it's a problem.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:20:46.982Z"
+    },
+    {
+      "title": "Engineering as Code: Bringing Software Engineering Methodology to Engineering Design",
+      "url": "https://arxiv.org/abs/2609.04216",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-09-07T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.04216v1 Announce Type: new \nAbstract: Large language models have made significant progress in verifiable domains such as code generation and chip design, yet remain limited on engineering d",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.3950557596891289,
+      "crawledAt": "2026-09-07T14:11:42.740Z",
+      "id": "bcho4s",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9666532874107361,
+          "index": 8,
+          "word": "Engineering",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9069859385490417,
+          "index": 13,
+          "word": "Design",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Large language models have made significant progress in the field of engineering. Large language domains such as code generation and chip design remain limited.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:20:55.759Z"
+    },
+    {
+      "title": "A Governance Methodology Layer for AI-Assisted Software Development: Defect Taxonomy, Controlled Ablation, and Process-Over-Capability Evidence",
+      "url": "https://arxiv.org/abs/2609.04218",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-09-07T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.04218v1 Announce Type: new \nAbstract: Autonomous coding agents produce output that passes syntactic checks -- compilation, type safety, CI -- at high velocity. Yet syntactic correctness doe",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.9702536687345357,
+      "crawledAt": "2026-09-07T14:11:42.855Z",
+      "id": "wjx0np",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.952736496925354,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Autonomous coding agents produce output that passes syntactic checks. They pass compilation, type safety, CI -- at high velocity.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:21:04.288Z"
+    },
+    {
       "title": "A Data Model an AI Can Actually Understand",
       "url": "https://generativeai.pub/a-data-model-an-ai-can-actually-understand-fa2f79711fa7?source=rss----440100e76000---4",
       "source": "Generative AI",
@@ -1281,6 +2509,42 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-09-07T04:26:15.322Z"
+    },
+    {
+      "title": "when will open source LLM catch up to Astra I wonder?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9fwsw/when_will_open_source_llm_catch_up_to_astra_i/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T02:47:28.000Z",
+      "metaDescription": "I feel like this year has been insane , the speed of AI race is something that normal human can't catch up anymore \n    submitted by    /u/fugogugo  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.27910769053274886,
+      "crawledAt": "2026-09-07T14:11:15.100Z",
+      "id": "9axcn8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9610707759857178,
+          "index": 5,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9692045450210571,
+          "index": 10,
+          "word": "As",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:21:32.423Z"
     },
     {
       "title": "How Public Digital Footprints Get Left Behind",
@@ -1420,6 +2684,90 @@
       "processed_at": "2026-09-07T04:26:48.416Z"
     },
     {
+      "title": "New Benchmark: The Struggle Bench",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9dlf1/new_benchmark_the_struggle_bench/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T00:55:28.000Z",
+      "metaDescription": "How it works. The model being tested is given a server capable of running it's weights and full context. That server is placed in a median priced apartment. The AI is given a bank account with for ren",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3278947325276929,
+      "crawledAt": "2026-09-07T14:11:14.468Z",
+      "id": "2waper",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8760215044021606,
+          "index": 10,
+          "word": "Ben",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The model being tested is given a server capable of running it's weights and full context. That server is placed in a median priced apartment.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:21:44.331Z"
+    },
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-07T00:00:00.000Z",
+      "metaDescription": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "category": "industry-news",
+      "difficulty": 4,
+      "confidence": 0.5347616807412414,
+      "crawledAt": "2026-09-07T14:10:35.590Z",
+      "id": "1e55ni",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995828866958618,
+          "index": 5,
+          "word": "Ukraine",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:21:55.156Z"
+    },
+    {
+      "title": "I built an LLM benchmark harness that lets you browse and compare how models answered each question",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ad9q/i_built_an_llm_benchmark_harness_that_lets_you/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T22:32:07.000Z",
+      "metaDescription": "Hello everyone. I felt current LLM benchmark harnesses hand you headline numbers but offer no tooling to see how models actually answered each question (they dump everything to a JSONL or Parquet file",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.2604305316025859,
+      "crawledAt": "2026-09-07T14:11:16.337Z",
+      "id": "40efw1",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9068421125411987,
+          "index": 4,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " LLM benchmark harnesses offer no tooling to see how models actually answered each question. They dump everything to a JSONL or Parquet file.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:22:05.214Z"
+    },
+    {
       "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
       "source": "r/MachineLearning",
@@ -1456,21 +2804,49 @@
       "summary": " A stateless API re-sends your whole conversation every turn, so an agent's input cost climbs fast.",
       "language": "en",
       "processed_at": "2026-09-07T04:27:34.790Z"
+    },
+    {
+      "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-06T13:15:22.000Z",
+      "metaDescription": "This comparison was requested by a few people, and certainly we were all eager to see the final results. The comparison had taken 11 days and the GPU was crunching numbers for ~167 hours.\n We've been ",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.3171677768570006,
+      "crawledAt": "2026-09-07T14:11:15.397Z",
+      "id": "vrvb45",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8671526312828064,
+          "index": 5,
+          "word": "Q",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The comparison had taken 11 days and the GPU was crunching numbers for ~167 hours. This comparison was requested by a few people, and certainly we were all eager to see the final results.",
+      "language": "en",
+      "processed_at": "2026-09-07T14:22:51.661Z"
     }
   ],
-  "processedAt": "2026-09-07T04:27:34.795Z",
+  "processedAt": "2026-09-07T14:22:51.666Z",
   "categories": [
+    "model-release",
+    "industry-news",
     "ai-agents",
     "infrastructure",
     "safety-ethics",
     "creative-ai",
-    "model-release",
     "developer-tool",
-    "research-paper",
-    "industry-news"
+    "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 51,
-  "dailyArticlesCount": 51,
+  "newArticlesProcessed": 44,
+  "dailyArticlesCount": 95,
   "filterDate": "2026-09-07"
 }
