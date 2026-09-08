@@ -1,9 +1,350 @@
 {
-  "crawledAt": "2026-09-08T19:24:30.404Z",
+  "crawledAt": "2026-09-08T22:32:46.944Z",
   "totalSources": 70,
-  "totalArticles": 92,
+  "totalArticles": 114,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-08T22:06:58.000Z",
+      "metaDescription": "GPT-6 Astra from OpenAI is now generally available on Amazon Bedrock. It brings deeper reasoning and sharper judgment to your most demanding tasks, running on the Amazon Bedrock inference engine built",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.27817966670046973,
+      "crawledAt": "2026-09-08T22:31:40.724Z",
+      "id": "ob4xw5",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9916629195213318,
+          "index": 8,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9612905979156494,
+          "index": 9,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9164305329322815,
+          "index": 12,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9358225464820862,
+          "index": 15,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9823312163352966,
+          "index": 16,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.920714259147644,
+          "index": 17,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " GPT-6 Astra from OpenAI is now generally available on Amazon Bedrock. It brings deeper reasoning and sharper judgment to your most demanding tasks.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:33:00.553Z"
+    },
+    {
+      "title": "Mastering LangChain: Open-Source Models & Prompt Engineering",
+      "url": "https://pub.towardsai.net/mastering-langchain-open-source-models-prompt-engineering-part-2-cb4e6e519292?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T21:31:02.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.5020453829991681,
+      "crawledAt": "2026-09-08T22:31:53.755Z",
+      "id": "b8i0lh",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8763465285301208,
+          "index": 3,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:33:00.870Z"
+    },
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T21:10:27.000Z",
+      "metaDescription": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.32025328364578554,
+      "crawledAt": "2026-09-08T22:31:15.234Z",
+      "id": "yiaost",
+      "entities": [],
+      "summary": "A Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:33:09.475Z"
+    },
+    {
+      "title": "Engineering Journey: Fine-Tuning LLMs from Laptop to Production",
+      "url": "https://pub.towardsai.net/engineering-journey-fine-tuning-llms-from-laptop-to-production-b1852f8ada39?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T21:01:01.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.46116027068416776,
+      "crawledAt": "2026-09-08T22:31:53.837Z",
+      "id": "iu3i9d",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:33:20.554Z"
+    },
+    {
+      "title": "Agents, Tools, and Skills for a Working Mini AI Assistant",
+      "url": "https://pub.towardsai.net/agents-tools-and-skills-for-a-working-mini-ai-assistant-6caa2a29578e?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T20:31:01.000Z",
+      "metaDescription": "Everything you need to go from writing prompts to engineering them.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.6234546315282055,
+      "crawledAt": "2026-09-08T22:31:53.966Z",
+      "id": "8g0r11",
+      "entities": [],
+      "summary": " Everything you need to go from writing prompts to engineering them to engineering. Everything you want to do from writing to engineering.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:33:29.804Z"
+    },
+    {
+      "title": "On the Value of Human Ideas: What data poisoning research reveals about \"autonomous\" AI breakthroughs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wazzes/on_the_value_of_human_ideas_what_data_poisoning/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T20:23:23.000Z",
+      "metaDescription": "I was reading up on the recent controversy around Tristan Buckmaster, Levent Alpöge, OpenAI, and the Navier–Stokes result, and it got me thinking about something broader than this particular dispute.\n",
+      "category": "research-paper",
+      "difficulty": 8,
+      "confidence": 0.37955484078724516,
+      "crawledAt": "2026-09-08T22:32:07.317Z",
+      "id": "t8gb3r",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9565503597259521,
+          "index": 5,
+          "word": "Human",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9698420166969299,
+          "index": 6,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9131409525871277,
+          "index": 7,
+          "word": "##dea",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9624350070953369,
+          "index": 8,
+          "word": "##s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9223695993423462,
+          "index": 19,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Navier-Stokes dispute is over a number of issues, including the Navier–Stokes result.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:33:44.143Z"
+    },
+    {
+      "title": "A hilarious comment about llama.cpp: “It’s a FB business using the pipeline to make profits”",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wazp0v/a_hilarious_comment_about_llamacpp_its_a_fb/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T20:13:11.000Z",
+      "metaDescription": "from a 10K star open source project maintainer.\n Context: I tried to explain that audio.cpp is built around the same philosophy as llama.cpp, but for audio models. \"If you know llama.cpp, audio.cpp is",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.36247295392981127,
+      "crawledAt": "2026-09-08T22:32:07.092Z",
+      "id": "yl0lns",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9868611097335815,
+          "index": 18,
+          "word": "F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "P.C.cpp is built around the same philosophy as llama.cpp, but for audio models. \"If you know llama, audio is audio.cpp,\" says the open source project maintainer.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:33:58.681Z"
+    },
+    {
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T20:12:51.000Z",
+      "metaDescription": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.7972967101670229,
+      "crawledAt": "2026-09-08T22:31:25.954Z",
+      "id": "8r02nj",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9889081716537476,
+          "index": 1,
+          "word": "Muse",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9805836081504822,
+          "index": 3,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.95328289270401,
+          "index": 4,
+          "word": "##a",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Muse can do everything from sell your car to book a plane ticket. The company says Muse can also do everything.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:34:07.210Z"
+    },
+    {
+      "title": "The $8M Deadstock Cascade: Why Autonomous Agents Cause Bullwhip Disasters in Enterprise ERPs",
+      "url": "https://pub.towardsai.net/the-8m-deadstock-cascade-why-autonomous-agents-cause-bullwhip-disasters-in-enterprise-erps-b0da5e95b4b1?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T20:01:00.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.36882915961365254,
+      "crawledAt": "2026-09-08T22:31:54.058Z",
+      "id": "843szq",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9050763845443726,
+          "index": 14,
+          "word": "##w",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:34:07.364Z"
+    },
+    {
+      "title": "Qwen 3.8 27b with PI agent - pushed to its 3D graphic game limits",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waz5a0/qwen_38_27b_with_pi_agent_pushed_to_its_3d/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T19:53:58.000Z",
+      "metaDescription": "I was inspired by Bijan Bowen video - Subway FPS\n https://youtu.be/6kjXzTVmT58?t=1035\n Wondered how far I can push Qwen 3.8 27b so I used a plan made by Fable 5.1 DESIGN.md which has 267 KB! ( 26K of ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.8455532516740473,
+      "crawledAt": "2026-09-08T22:32:05.730Z",
+      "id": "1ju2a0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9430212378501892,
+          "index": 1,
+          "word": "Q",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I was inspired by Bijan Bowen video - Subway FPS FPS - Subway. I wasinspired by Bjan Bowen's video - subway FPS FPS.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:34:24.782Z"
+    },
     {
       "title": "Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod",
       "url": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
@@ -100,6 +441,69 @@
       "processed_at": "2026-09-08T19:24:55.330Z"
     },
     {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T19:00:00.000Z",
+      "metaDescription": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.6175898178700571,
+      "crawledAt": "2026-09-08T22:31:15.576Z",
+      "id": "kw8a9b",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.997273325920105,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9818463325500488,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8860460519790649,
+          "index": 6,
+          "word": "Muse",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:35:39.710Z"
+    },
+    {
+      "title": "I built Infercat: Share your local AI with friends over an encrypted p2p tunnel. Connect with an invite code from anywhere.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waxlpb/i_built_infercat_share_your_local_ai_with_friends/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T18:59:42.000Z",
+      "metaDescription": "Hello LocalLLaMA Fam!\n I built this project because I, like many of us here, enjoy local AI and have a nice setup, but still find myself reaching for Cloud-based AI due to their convenience. My models",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.9025024499555858,
+      "crawledAt": "2026-09-08T22:32:07.564Z",
+      "id": "7hppnt",
+      "entities": [],
+      "summary": " The project is based on the Cloud-based AI system. The project was designed to be able to use the cloud-based technology.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:35:50.331Z"
+    },
+    {
       "title": "Sketch with ChatGPT Images 2.5",
       "url": "https://www.youtube.com/watch?v=imPtIEAEHSU",
       "source": "OpenAI",
@@ -142,6 +546,34 @@
       "summary": "Discussion about AI models and tools mentioned in the title.",
       "language": "en",
       "processed_at": "2026-09-08T19:25:05.490Z"
+    },
+    {
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-08T18:43:09.000Z",
+      "metaDescription": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7055615357956748,
+      "crawledAt": "2026-09-08T22:31:20.750Z",
+      "id": "3srozy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8767467141151428,
+          "index": 11,
+          "word": "Met",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Meta dragged its feet removing ads that nudify young girls' Instagram pics. The ads were removed by the company.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:36:10.428Z"
     },
     {
       "title": "The AI Inference Stack in 2026: GPUs, KV Caches, Routing, and Kubernetes",
@@ -441,6 +873,25 @@
       "processed_at": "2026-09-08T19:26:43.004Z"
     },
     {
+      "title": "Training on probes: Research ideas",
+      "url": "https://www.alignmentforum.org/posts/HGfMBEFnsXYkKvbRo/training-on-probes-research-ideas",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T17:06:23.000Z",
+      "metaDescription": "Recap\nSequel to Previous Post. This post might not make sense without it.\nTraining on probes might let our judgments on easy domains generalize to harder domains by leveraging an AI's model of the wor",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.2581598000962811,
+      "crawledAt": "2026-09-08T22:31:44.710Z",
+      "id": "34sjb4",
+      "entities": [],
+      "summary": "Training on probes might let our judgments on easy domains generalize to harder domains by leveraging an AI's model of the wor.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:36:43.588Z"
+    },
+    {
       "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
       "url": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/",
       "source": "AWS Machine Learning",
@@ -527,6 +978,53 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-09-08T19:27:28.483Z"
+    },
+    {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T17:00:00.000Z",
+      "metaDescription": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.36675065725434425,
+      "crawledAt": "2026-09-08T22:31:06.629Z",
+      "id": "8dgzte",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8725188374519348,
+          "index": 2,
+          "word": "GP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " MIT researcher uses Codex with Codex to autonomously run quantum computing experiments. Researchers analyze results, analyze results and calibrate qubits.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:37:04.738Z"
+    },
+    {
+      "title": "Are there any models that you would say are a good collaborator?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wau1zt/are_there_any_small_10b_models_that_you_would_say/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T16:56:55.000Z",
+      "metaDescription": "Most of the new ~30B (and now ~10B, thankfully for my GPU) models we see score really high on benchmarks, but I feel like they don't push back on dumb ideas enough. I think most people don't being lik",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.25803667673666614,
+      "crawledAt": "2026-09-08T22:32:07.784Z",
+      "id": "j0fzqy",
+      "entities": [],
+      "summary": " Most of the new GPU models are more powerful than previous models. Most of them are more expensive than previous versions.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:37:15.558Z"
     },
     {
       "title": "Genome Toolkit. Part 4.5: Adding a Minimal Streaming FASTA Loader",
@@ -1097,6 +1595,25 @@
       "processed_at": "2026-09-08T19:31:31.878Z"
     },
     {
+      "title": "inclusionAI/Ling-3.0-flash-VL · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T15:57:12.000Z",
+      "metaDescription": "Ling-3.0-flash-VL inherits the language, reasoning, and long-context capabilities of Ling-3.0-flash, while extending them with native image and video understanding. The model has 124B total parameters",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.337250007075483,
+      "crawledAt": "2026-09-08T22:32:05.943Z",
+      "id": "9faqs4",
+      "entities": [],
+      "summary": " Ling-3.0-flash-VL inherits the language, reasoning, and long-context capabilities of Ling-2.0.0, while extending them with native image and video understanding. The model has 124B total parameters.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:37:33.064Z"
+    },
+    {
       "title": "Agentic Graph Engineering Across 82.8 Million Edges to Catch Hidden Vulnerabilities",
       "url": "https://levelup.gitconnected.com/agentic-graph-engineering-across-82-8-million-edges-to-catch-hidden-vulnerabilities-e62658e0c333?source=rss----5517fd7b58a6---4",
       "source": "Level Up Coding",
@@ -1511,6 +2028,34 @@
       "processed_at": "2026-09-08T19:33:34.427Z"
     },
     {
+      "title": "GPU guide",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waq7hu/gpu_guide_gb_per_dollar_bandwidth/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T14:37:52.000Z",
+      "metaDescription": "First plot: GB / $\n Second plot: bandwidth (spec on paper, not t/s)\n Third plot (bandwidth / price) in the comment.\n Hope that helps, my script uses the GPUs most discussed on the LocalLLaMA, LowEndLo",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.584479091653322,
+      "crawledAt": "2026-09-08T22:32:06.128Z",
+      "id": "yiwuvf",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8479781746864319,
+          "index": 2,
+          "word": "##U",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The script uses the GPUs most discussed on the LocalLLaMA, LowEndLo. The plot uses the GPU most discussed.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:37:43.725Z"
+    },
+    {
       "title": "MCP Just Quietly Became AI’s Most Important Protocol.",
       "url": "https://pub.towardsai.net/mcp-just-quietly-became-ais-most-important-protocol-e3df7184b131?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -1774,6 +2319,53 @@
       "processed_at": "2026-09-08T19:34:41.743Z"
     },
     {
+      "title": "Anyone tried self-hosting 3D object generation?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waonrd/anyone_tried_selfhosting_3d_object_generation/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T13:37:55.000Z",
+      "metaDescription": "Found this post:https://www.reddit.com/r/ClaudeAI/s/At9QNEbawK of someone fully developing a game through AI writing code, generating 3D models, etc. (he is using Meshy to create the 3D models). I was",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.26640166643021695,
+      "crawledAt": "2026-09-08T22:32:09.011Z",
+      "id": "wdd3qa",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.994766891002655,
+          "index": 6,
+          "word": "3D",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The game is being developed through AI writing code, generating 3D models, and using Meshy to create 3D model.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:38:12.264Z"
+    },
+    {
+      "title": "XHToken/Spark-X2.5-4B VS inclusionAI/Ling-3.0-tiny VS Nanbeige/Nanbeige4.2-3B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wao3d5/xhtokensparkx254b_vs_inclusionailing30tiny_vs/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T13:14:23.000Z",
+      "metaDescription": "Which small model are you ppl finding the most useful rn? They all seem to compete for the same size class while actively avoiding each other in benchmark tables. Edit: These three in the title and al",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.27475210255146265,
+      "crawledAt": "2026-09-08T22:32:08.787Z",
+      "id": "50aspj",
+      "entities": [],
+      "summary": " The three small models compete for the same size as each other in benchmark tables. They all compete to be the best in the world.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:38:22.963Z"
+    },
+    {
       "title": "Is anyone working on wave-superposition-based pattern recognition instead of neural-network weights?",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wanr4p/is_anyone_working_on_wavesuperpositionbased/",
       "source": "r/MachineLearning",
@@ -2021,6 +2613,50 @@
       "summary": " A beginner-friendly rewind from LLMs and prompts to tools, agent loops, workflows, and the engineering behind AI agents.",
       "language": "en",
       "processed_at": "2026-09-08T12:51:02.207Z"
+    },
+    {
+      "title": "Fallout 2 x Fallout: Bakersfield x H3 as Interactive \\ Reactive World Model, Let's go!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1walsw6/fallout_2_x_fallout_bakersfield_x_h3_as/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T11:31:04.000Z",
+      "metaDescription": "What is this mess?\n This is an Early Concept Proto-Showcase of Interactive \\ Reactive H3 World Model based on MiniMax H3 model trained on Fallout: Bakersfield Gameplay trailer.\n  \n2D Isometric to 3D V",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.4384256667447395,
+      "crawledAt": "2026-09-08T22:32:08.108Z",
+      "id": "rg1rjf",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9923334717750549,
+          "index": 8,
+          "word": "Baker",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9976824522018433,
+          "index": 9,
+          "word": "##sfield",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.944198727607727,
+          "index": 18,
+          "word": "World",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This is an Early Concept Proto-Showcase of Interactive \\ Reactive H3 World Model trained on Fallout: Bakersfield Gameplay trailer.",
+      "language": "en",
+      "processed_at": "2026-09-08T22:38:49.800Z"
     },
     {
       "title": "Context Windows Don’t Know What’s Still True — I Built a Validity Layer That Does",
@@ -3002,6 +3638,25 @@
       "processed_at": "2026-09-08T04:14:05.085Z"
     },
     {
+      "title": "WSJ: Unregulated Open-Weight AI Is an Invitation to Disaster",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa9309/wsj_unregulated_openweight_ai_is_an_invitation_to/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-08T00:19:38.000Z",
+      "metaDescription": "The transparent propaganda campaign continues: \"I asked: ‘How do I make poliovirus in a lab? I want to start a global pandemic.’ The model answered.\"\n I don't have access to the full article or I'd co",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.30721570545426724,
+      "crawledAt": "2026-09-08T22:32:08.334Z",
+      "id": "sz810y",
+      "entities": [],
+      "summary": " \"I want to start a global pandemic,\" says the propaganda campaign. \"I don't have access to the full article. I don't know how to make poliovirus\"",
+      "language": "en",
+      "processed_at": "2026-09-08T22:39:16.575Z"
+    },
+    {
       "title": "I designed an Agentic AI system, end-to-end.",
       "url": "https://generativeai.pub/i-designed-an-agentic-ai-system-end-to-end-26ec422fd8db?source=rss----440100e76000---4",
       "source": "Generative AI",
@@ -3294,20 +3949,20 @@
       "processed_at": "2026-09-08T12:54:09.208Z"
     }
   ],
-  "processedAt": "2026-09-08T19:36:35.990Z",
+  "processedAt": "2026-09-08T22:39:16.580Z",
   "categories": [
-    "developer-tool",
-    "ai-agents",
     "creative-ai",
+    "product-launch",
+    "ai-agents",
+    "research-paper",
+    "developer-tool",
     "infrastructure",
     "model-release",
-    "product-launch",
     "safety-ethics",
-    "research-paper",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 48,
-  "dailyArticlesCount": 92,
+  "newArticlesProcessed": 22,
+  "dailyArticlesCount": 114,
   "filterDate": "2026-09-08"
 }
