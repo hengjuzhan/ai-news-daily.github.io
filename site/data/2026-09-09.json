@@ -1,9 +1,729 @@
 {
-  "crawledAt": "2026-09-09T19:14:12.474Z",
+  "crawledAt": "2026-09-09T22:26:18.553Z",
   "totalSources": 70,
-  "totalArticles": 89,
+  "totalArticles": 120,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T22:25:22.000Z",
+      "metaDescription": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.277509092706276,
+      "crawledAt": "2026-09-09T22:25:36.861Z",
+      "id": "1yf27m",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.997495174407959,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9946370124816895,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9922122955322266,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9957821369171143,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:26:28.670Z"
+    },
+    {
+      "title": "What If Attention Isn’t All You Need? Inside Mamba and the Quiet Rewiring of Modern LLMs",
+      "url": "https://pub.towardsai.net/what-if-attention-isnt-all-you-need-inside-mamba-and-the-quiet-rewiring-of-modern-llms-e7187e3e4e65?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T22:01:02.000Z",
+      "metaDescription": "From 1960s rocket-control math to IBM Granite 4.0 and NVIDIA Nemotron- how the O(n) architecture finally got practical, and why hybrids…\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.34639247500368503,
+      "crawledAt": "2026-09-09T22:25:50.689Z",
+      "id": "vxkr9g",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9396977424621582,
+          "index": 23,
+          "word": "Modern",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9260940551757812,
+          "index": 24,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " IBM Granite 4.0 and NVIDIA Nemotron. The O(n) architecture finally got practical in the 1960s.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:26:48.784Z"
+    },
+    {
+      "title": "ChatGPT Work, now powered by GPT-6 Astra",
+      "url": "https://www.youtube.com/watch?v=kuGjypoJKwk",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T21:54:53.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.3907270255767449,
+      "crawledAt": "2026-09-09T22:26:04.026Z",
+      "id": "mvz7g6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9973942041397095,
+          "index": 10,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9950578212738037,
+          "index": 11,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9400936961174011,
+          "index": 13,
+          "word": "6",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9616650938987732,
+          "index": 15,
+          "word": "##tra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:26:48.830Z"
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T21:43:34.000Z",
+      "metaDescription": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.2867631629852629,
+      "crawledAt": "2026-09-09T22:25:36.909Z",
+      "id": "7evu3g",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9992961883544922,
+          "index": 1,
+          "word": "Massachusetts",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development. Massachusetts has become third state to slap restrictions on Data Center development.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:26:57.329Z"
+    },
+    {
+      "title": "GPT-6 Astra turned London into a game",
+      "url": "https://www.youtube.com/shorts/cmN6XVuLEd4",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T21:39:53.000Z",
+      "metaDescription": "",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.873001386825,
+      "crawledAt": "2026-09-09T22:26:04.049Z",
+      "id": "o0r6k9",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9809644818305969,
+          "index": 1,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9790294766426086,
+          "index": 2,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.906194269657135,
+          "index": 6,
+          "word": "##tra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9981153011322021,
+          "index": 8,
+          "word": "London",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:26:57.372Z"
+    },
+    {
+      "title": "The Python Project I Built to Turn Any Folder Into a Searchable Personal Database",
+      "url": "https://python.plainenglish.io/the-python-project-i-built-to-turn-any-folder-into-a-searchable-personal-database-23c1ecf97d6d?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T21:34:31.000Z",
+      "metaDescription": "How I combined pathlib, sqlite3, hashlib, watchdog, and argparse to build a local file-indexing system that could become a useful…\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 10,
+      "confidence": 0.2572174738414164,
+      "crawledAt": "2026-09-09T22:25:53.751Z",
+      "id": "dd85e",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9835099577903748,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9953034520149231,
+          "index": 3,
+          "word": "Project",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9830681085586548,
+          "index": 4,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9832627773284912,
+          "index": 5,
+          "word": "Built",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8957829475402832,
+          "index": 6,
+          "word": "to",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.940208911895752,
+          "index": 7,
+          "word": "Turn",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9409559965133667,
+          "index": 8,
+          "word": "Any",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8452612161636353,
+          "index": 9,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.905769944190979,
+          "index": 11,
+          "word": "##er",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9238108396530151,
+          "index": 14,
+          "word": "Search",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9969725608825684,
+          "index": 15,
+          "word": "##able",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9962835907936096,
+          "index": 16,
+          "word": "Personal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9936738014221191,
+          "index": 17,
+          "word": "Database",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Python in Plain English. How I combined pathlib, sqlite3, hashlib, watchdog, and argparse to build a local file-indexing system.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:27:14.875Z"
+    },
+    {
+      "title": "Free Resources to Learn Python: Where to Actually Start in 2026",
+      "url": "https://python.plainenglish.io/free-resources-to-learn-python-where-to-actually-start-in-2026-2386095d1a85?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T21:34:19.000Z",
+      "metaDescription": "Too many tutorials, not enough progress? Here’s the shortlist that gets you from zero to building\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.26489166702659556,
+      "crawledAt": "2026-09-09T22:25:53.796Z",
+      "id": "isnzc6",
+      "entities": [],
+      "summary": " Too many tutorials, not enough progress? Here’s the shortlist that gets you from zero to building up to building a Python in Plain English.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:27:22.438Z"
+    },
+    {
+      "title": "Your AI Agent Can Pick the Right Tool and Still Be Wrong",
+      "url": "https://ai.plainenglish.io/your-ai-agent-can-pick-the-right-tool-and-still-be-wrong-99fd7a36559f?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T21:15:30.000Z",
+      "metaDescription": "Apple’s Agent Seer paper exposes a blind spot in agent testing: choosing the right function is only the beginning.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.99020377777178,
+      "crawledAt": "2026-09-09T22:25:53.538Z",
+      "id": "o4m2zg",
+      "entities": [],
+      "summary": "Apple's Agent Seer paper exposes a blind spot in agent testing. The company's agent test results show that the right function is the right.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:28:16.519Z"
+    },
+    {
+      "title": "Kubernetes for LLM Inference: How AI Workloads Run Across a GPU Cluster",
+      "url": "https://pub.towardsai.net/kubernetes-for-llm-inference-how-ai-workloads-run-across-a-gpu-cluster-424f0dcfab8c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T21:01:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.6135621801613421,
+      "crawledAt": "2026-09-09T22:25:50.719Z",
+      "id": "j1pjyk",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9796446561813354,
+          "index": 6,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9472436904907227,
+          "index": 19,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9757043719291687,
+          "index": 20,
+          "word": "##U",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:28:25.204Z"
+    },
+    {
+      "title": "Surveillance plagiarism by OpenAI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wby2cm/surveillance_plagiarism_by_openai/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T20:55:47.000Z",
+      "metaDescription": "Surveillance plagiarism - Hosted AI company pumps their stock price by training upon researchers' AI sessions, so that their internal model can solve problems with seemingly less human guidance, but r",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.3591771955926743,
+      "crawledAt": "2026-09-09T22:25:57.130Z",
+      "id": "6echzj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.997347354888916,
+          "index": 10,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9843975901603699,
+          "index": 11,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8648191690444946,
+          "index": 12,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Surveillance plagiarism. Hosted AI company pumps their stock price by training upon researchers' AI sessions. Their internal model can solve problems with seemingly less human guidance.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:28:33.546Z"
+    },
+    {
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T20:24:48.000Z",
+      "metaDescription": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2562218001281871,
+      "crawledAt": "2026-09-09T22:25:36.985Z",
+      "id": "y2kcpa",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991407990455627,
+          "index": 1,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9987552762031555,
+          "index": 2,
+          "word": "Watch",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations. The features raise questions about consent, privacy, and how people behave.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:28:44.433Z"
+    },
+    {
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T20:06:28.000Z",
+      "metaDescription": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.25492122675964146,
+      "crawledAt": "2026-09-09T22:25:38.030Z",
+      "id": "2nq5ea",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9996359348297119,
+          "index": 2,
+          "word": "Chinese",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " US urges AI firms to ID, then secretly switch, Chinese users to less-capable models. US urges firms to then switch, then switch.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:28:54.592Z"
+    },
+    {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T20:03:43.000Z",
+      "metaDescription": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.5698586968919642,
+      "crawledAt": "2026-09-09T22:25:37.045Z",
+      "id": "x2wqf7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9980161190032959,
+          "index": 2,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9928959012031555,
+          "index": 7,
+          "word": "iPhone",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.99652498960495,
+          "index": 14,
+          "word": "iPhone",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9879493713378906,
+          "index": 15,
+          "word": "Duo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9803874492645264,
+          "index": 21,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9946385025978088,
+          "index": 22,
+          "word": "Watch",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The iPhone Duo is the first foldable phone. The iPhone is the world's first fold-able phone. The iPhone has been dubbed the world-famous iPhone Duo.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:29:03.920Z"
+    },
+    {
+      "title": "ICYMI: What landed for AI builders in August 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T20:01:03.000Z",
+      "metaDescription": "A recap of August 2026 launches for AI builders across Amazon Bedrock, Amazon Bedrock AgentCore, and Strands: million-token context for OpenAI models, cross-Region inference, agents that run for up to",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.8667996623418972,
+      "crawledAt": "2026-09-09T22:25:45.774Z",
+      "id": "vrfh5c",
+      "entities": [],
+      "summary": " A recap of August 2026 launches for AI builders across Amazon Bedrock, Amazon BedRock, Amazon AgentCore, and Strands.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:29:13.154Z"
+    },
+    {
+      "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+      "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T19:42:00.000Z",
+      "metaDescription": "Apple's first foldable can be yours next month.",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.5781588590423924,
+      "crawledAt": "2026-09-09T22:25:38.078Z",
+      "id": "hc0c0s",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985257387161255,
+          "index": 1,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.992318332195282,
+          "index": 17,
+          "word": "iPhone",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.893262505531311,
+          "index": 18,
+          "word": "Duo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:29:21.775Z"
+    },
+    {
+      "title": "Would you consider 5t/s usable for a local model?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbvd2i/would_you_consider_5ts_usable_for_a_local_model/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T19:20:00.000Z",
+      "metaDescription": "I'm able to run qwen3.8 27b in two ways on my system: split between my 3060 12gb and 9070xt running at 20t/s or running off the 780m iGPU and 5400mhz DDR5 at 5t/s. Personally I feel like the 5t/s is s",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.281010288912918,
+      "crawledAt": "2026-09-09T22:25:58.248Z",
+      "id": "zzm2o",
+      "entities": [],
+      "summary": "I'm able to run qwen3.8 27b in two ways on my system: split between my 3060 12gb and 9070xt running at 20t/s or running off the 780m iGPU and 5400m DDR5. Personally I feel like the 5t",
+      "language": "en",
+      "processed_at": "2026-09-09T22:29:59.853Z"
+    },
+    {
+      "title": "GPT-6 Astra First Impressions From Businesses",
+      "url": "https://www.youtube.com/watch?v=n-dqdVMwoas",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T19:00:16.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.44027086309754887,
+      "crawledAt": "2026-09-09T22:26:04.072Z",
+      "id": "qt4by8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9858726859092712,
+          "index": 5,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8776229023933411,
+          "index": 6,
+          "word": "##tra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:30:06.386Z"
+    },
     {
       "title": "How Clay Monitors Millions of Agent Runs",
       "url": "https://www.youtube.com/shorts/DHriN5P5wPs",
@@ -374,6 +1094,34 @@
       "processed_at": "2026-09-09T19:16:03.013Z"
     },
     {
+      "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
+      "url": "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T17:11:46.000Z",
+      "metaDescription": "UN-backed Equal Earth map has educational value but won’t alter navigation apps.",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.5469768578328112,
+      "crawledAt": "2026-09-09T22:25:38.412Z",
+      "id": "16q7ib",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9965029954910278,
+          "index": 12,
+          "word": "UN",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " UN-backed Equal Earth map has educational value but won't alter navigation apps. The map has been designed to help people navigate the world.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:30:37.233Z"
+    },
+    {
       "title": "Running an LLM Feature on Amazon Bedrock Without Guardrails or Logs",
       "url": "https://pub.towardsai.net/running-an-llm-feature-on-amazon-bedrock-without-guardrails-or-logs-85a1bc8e5121?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -562,6 +1310,118 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-09-09T19:16:33.550Z"
+    },
+    {
+      "title": "Prime Video releases full trailer for Mike Flanagan's Carrie",
+      "url": "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T16:40:45.000Z",
+      "metaDescription": "\"All I ever wanted was to go to school.\"",
+      "category": "model-release",
+      "difficulty": 7,
+      "confidence": 0.35572076814654996,
+      "crawledAt": "2026-09-09T22:25:38.509Z",
+      "id": "rzwijy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9946981072425842,
+          "index": 1,
+          "word": "Prime",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9920180439949036,
+          "index": 2,
+          "word": "Video",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9997652173042297,
+          "index": 7,
+          "word": "Mike",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995653629302979,
+          "index": 8,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9869255423545837,
+          "index": 9,
+          "word": "##lana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.981052041053772,
+          "index": 10,
+          "word": "##gan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9626187682151794,
+          "index": 13,
+          "word": "Carrie",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:30:47.314Z"
+    },
+    {
+      "title": "Google's AI genome system evaluates every possible one-base change",
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T16:34:18.000Z",
+      "metaDescription": "Most one-base changes to the human genome do nothing, but a few are significant.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.25633856433939406,
+      "crawledAt": "2026-09-09T22:25:38.558Z",
+      "id": "9m5awy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983254671096802,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9100408554077148,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Most one-base changes to the human genome do nothing, but a few are significant. Most onebase changes do nothing.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:30:56.165Z"
     },
     {
       "title": "Beyond Prompt Engineering: Designing Multiagent Conversational Architecture.",
@@ -1974,6 +2834,34 @@
       "processed_at": "2026-09-09T19:26:32.839Z"
     },
     {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-09T11:00:00.000Z",
+      "metaDescription": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.36460791186819463,
+      "crawledAt": "2026-09-09T22:25:31.523Z",
+      "id": "1ff6k6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9337924122810364,
+          "index": 1,
+          "word": "GP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " GPT-6 Astra is OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:31:03.897Z"
+    },
+    {
       "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
       "url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
       "source": "AI News",
@@ -2098,6 +2986,61 @@
       "summary": "Announcement or discussion about new AI model releases and updates.",
       "language": "en",
       "processed_at": "2026-09-09T19:27:26.970Z"
+    },
+    {
+      "title": "best multi model ai gateway for enterprises??",
+      "url": "https://www.reddit.com/r/mlops/comments/1wbeflh/best_multi_model_ai_gateway_for_enterprises/",
+      "source": "r/MLOps",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T07:14:03.000Z",
+      "metaDescription": "we have been living this problem for the past two quarters . every team picked a diff provider . now trying to put a single gateway in front of all of it before the complexity gets unmanageable\n break",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4680833968988286,
+      "crawledAt": "2026-09-09T22:26:01.851Z",
+      "id": "8h3nwx",
+      "entities": [],
+      "summary": " Every team picked a diff provider. now trying to put a single gateway in front of all of it before the complexity gets unmanageable.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:31:11.827Z"
+    },
+    {
+      "title": "VeloxML: an open-source engine to deploy and self-host open-source LLMs on your own cloud with scale-to-zero",
+      "url": "https://www.reddit.com/r/mlops/comments/1wbcig5/veloxml_an_opensource_engine_to_deploy_and/",
+      "source": "r/MLOps",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T05:27:36.000Z",
+      "metaDescription": "VeloxML is an open-source deployment engine for self-hosting open-source LLMs and AI services directly inside your own account.\n https://veloxml.com/\n https://github.com/paguasmar/veloxml-deploy\n What",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.4426621298392777,
+      "crawledAt": "2026-09-09T22:26:01.988Z",
+      "id": "hxzu74",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9364032745361328,
+          "index": 4,
+          "word": "##ML",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9889580607414246,
+          "index": 20,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " VeloxML is an open-source deployment engine for self-hosting open- source LLMs and AI services directly inside your own account.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:31:22.570Z"
     },
     {
       "title": "Learn Matplotlib for Data Science: From Your First Plot to Real-World Visualizations",
@@ -2929,6 +3872,42 @@
       "processed_at": "2026-09-09T19:27:40.310Z"
     },
     {
+      "title": "Open-source Infra for ML workloads - Tahuna",
+      "url": "https://www.reddit.com/r/mlops/comments/1wb4emu/opensource_infra_for_ml_workloads_tahuna/",
+      "source": "r/MLOps",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-08T23:12:43.000Z",
+      "metaDescription": "Tahuna is an open-source tool for running existing Python ML projects on remote GPUs without maintaining custom SSH, SCP, syncing, logging, artifact, and cleanup scripts. It syncs code and data, provi",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.48160323754707457,
+      "crawledAt": "2026-09-09T22:26:02.045Z",
+      "id": "nrzq8y",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9966075420379639,
+          "index": 4,
+          "word": "In",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9894477725028992,
+          "index": 5,
+          "word": "##fra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tahuna is an open-source tool for running existing Python ML projects on remote GPUs without maintaining custom SSH, SCP, syncing, synced, logging, and cleanup scripts.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:31:35.255Z"
+    },
+    {
       "title": "How many agents can 2×4090 actually run at once? Three weeks of llama.cpp concurrency data — soft cap 5 @ 64k, hard cap 9, and why.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb35xo/how_many_agents_can_24090_actually_run_at_once/",
       "source": "r/LocalLLaMA",
@@ -3010,21 +3989,213 @@
       "summary": " \"Science fiction imagines the future. We build it.\" \"We build it,\" says the author of the book.",
       "language": "en",
       "processed_at": "2026-09-09T04:29:58.548Z"
+    },
+    {
+      "title": "What production skills are actually worth learning in Year 1 of an AI/ML journey?",
+      "url": "https://www.reddit.com/r/mlops/comments/1waxsgh/what_production_skills_are_actually_worth/",
+      "source": "r/MLOps",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-08T19:05:46.000Z",
+      "metaDescription": "Hey everyone,\n I'm starting a BS Mathematics degree in October 2026. My university classes will be online and flexible, and I'm preparing for a long-term career in AI/ML Engineering.I also plan to pur",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5453355036553648,
+      "crawledAt": "2026-09-09T22:26:01.909Z",
+      "id": "qraqzy",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9084487557411194,
+          "index": 13,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I'm starting a BS Mathematics degree in October 2026. My university classes will be online and flexible. I'm preparing for a long-term career in AI/ML Engineering.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:31:51.156Z"
+    },
+    {
+      "title": "OpenTelemetry vs OpenLineage: two different ideas of what a default should do. What would you do?",
+      "url": "https://www.reddit.com/r/mlops/comments/1wanfqq/opentelemetry_vs_openlineage_two_different_ideas/",
+      "source": "r/MLOps",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-08T12:46:03.000Z",
+      "metaDescription": "We ship two observability integrations for an open source data framework. One emits OpenTelemetry spans per pipeline step, one emits OpenLineage RunEvents. You add either with one line. Constructed wi",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.3227046504468199,
+      "crawledAt": "2026-09-09T22:26:02.237Z",
+      "id": "xro4hn",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9073596596717834,
+          "index": 2,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8952601552009583,
+          "index": 4,
+          "word": "##metry",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8633700013160706,
+          "index": 6,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9527062177658081,
+          "index": 7,
+          "word": "##L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8377619385719299,
+          "index": 9,
+          "word": "##age",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " We ship two observability integrations for an open source data framework. One emits OpenTelemetry spans per pipeline step, one emits OpenLineage RunEvents.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:32:01.086Z"
+    },
+    {
+      "title": "Thinking about black-box LLM monitoring as a partially observable decision problem",
+      "url": "https://www.reddit.com/r/mlops/comments/1wahi89/thinking_about_blackbox_llm_monitoring_as_a/",
+      "source": "r/MLOps",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-08T07:27:26.000Z",
+      "metaDescription": "I'm exploring a monitoring problem where the system being monitored is an external LLM and its actual internal state is unavailable.\n The monitor only sees observations such as:\n  \nprompt/response beh",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.4367173925480405,
+      "crawledAt": "2026-09-09T22:26:02.174Z",
+      "id": "snwx8k",
+      "entities": [],
+      "summary": " The monitor only sees observations such as:    receiving a researment from the system. The monitor's actual internal state is unavailable.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:32:18.758Z"
+    },
+    {
+      "title": "What’s the earliest signal you’ve seen that an AI/agent run was going to fail before it actually failed?",
+      "url": "https://www.reddit.com/r/mlops/comments/1wafnnm/whats_the_earliest_signal_youve_seen_that_an/",
+      "source": "r/MLOps",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-08T05:42:01.000Z",
+      "metaDescription": "Not the final error, timeout, or bad output — I mean something earlier in the execution that, in hindsight, was the first sign the run was already going wrong.\n For example: a tool starting to repeat,",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.970600235379032,
+      "crawledAt": "2026-09-09T22:26:02.356Z",
+      "id": "ma7en",
+      "entities": [],
+      "summary": "In hindsight, this was the first sign the run was already going wrong. For example: a tool starting to repeat, a tool starts to repeat.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:32:28.140Z"
+    },
+    {
+      "title": "how are you actually enforcing AI guardrails in production without breaking real workflows?",
+      "url": "https://www.reddit.com/r/mlops/comments/1wa3u1k/how_are_you_actually_enforcing_ai_guardrails_in/",
+      "source": "r/MLOps",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T20:41:26.000Z",
+      "metaDescription": "we have genAI workflows in prod across engineering and sales, but guardrails are messy.\n we’ve tried a few approaches. some catch obvious issues but don’t actually stop risky behavior in real time. ot",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.29815024419684244,
+      "crawledAt": "2026-09-09T22:26:02.589Z",
+      "id": "by8aox",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9569382071495056,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "We have genAI workflows in prod across engineering and sales, but guardrails are messy. Some catch obvious issues but don't actually stop risky behavior in real time.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:32:45.636Z"
+    },
+    {
+      "title": "Revise: The Figma for Machine Learning, Creating Vision, Tabular, Signaling, and NLP ML Models without Code on Desktop",
+      "url": "https://www.reddit.com/r/mlops/comments/1w9x4if/revise_the_figma_for_machine_learning_creating/",
+      "source": "r/MLOps",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T16:36:38.000Z",
+      "metaDescription": "Hey everyone,\n I am a data scientist. For the past 2 years I watched researchers and nontechnical workers with real clinical data get stuck with creating ML models because they either couldn't code or",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6042165526561095,
+      "crawledAt": "2026-09-09T22:26:02.706Z",
+      "id": "2dw3rj",
+      "entities": [],
+      "summary": " The author of the book, \"The New York City, New York, New England, is a former journalist and author of \"The City of New York\"",
+      "language": "en",
+      "processed_at": "2026-09-09T22:33:04.721Z"
+    },
+    {
+      "title": "A point in time AI red teaming only finds yesterday's attacks. I’ve come to realize the test battery I trusted is already stale",
+      "url": "https://www.reddit.com/r/mlops/comments/1w9ipv7/a_point_in_time_ai_red_teaming_only_finds/",
+      "source": "r/MLOps",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-07T05:07:29.000Z",
+      "metaDescription": "Ive been red teaming AI systems for a while now. For most of that time the approach was pretty standard. Show up, run a battery of tests, write the report, call it done. \n The part I kept ignoring is ",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.4106189616228358,
+      "crawledAt": "2026-09-09T22:26:02.931Z",
+      "id": "2622xb",
+      "entities": [],
+      "summary": " Ive been red teaming AI systems for a while now. For most of that time the approach was pretty standard. Show up, run a battery of tests, write the report, call it done.",
+      "language": "en",
+      "processed_at": "2026-09-09T22:34:03.432Z"
     }
   ],
-  "processedAt": "2026-09-09T19:27:40.317Z",
+  "processedAt": "2026-09-09T22:34:03.437Z",
   "categories": [
-    "safety-ethics",
     "ai-agents",
     "infrastructure",
+    "developer-tool",
+    "safety-ethics",
     "model-release",
     "creative-ai",
     "product-launch",
-    "developer-tool",
     "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 62,
-  "dailyArticlesCount": 89,
+  "newArticlesProcessed": 31,
+  "dailyArticlesCount": 120,
   "filterDate": "2026-09-09"
 }
