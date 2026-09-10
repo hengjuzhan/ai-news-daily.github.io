@@ -1,9 +1,576 @@
 {
-  "crawledAt": "2026-09-10T19:05:14.095Z",
+  "crawledAt": "2026-09-10T22:26:53.824Z",
   "totalSources": 70,
-  "totalArticles": 128,
+  "totalArticles": 151,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T21:37:49.000Z",
+      "metaDescription": "Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read from local NVMe storage instead of downloading ov",
+      "category": "model-release",
+      "difficulty": 8,
+      "confidence": 0.4249216203038276,
+      "crawledAt": "2026-09-10T22:25:34.132Z",
+      "id": "cou7ri",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8681188821792603,
+          "index": 9,
+          "word": "Sage",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8201568722724915,
+          "index": 11,
+          "word": "##aker",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8396389484405518,
+          "index": 13,
+          "word": "##yper",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9408968687057495,
+          "index": 14,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8187248110771179,
+          "index": 15,
+          "word": "##od",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:27:30.371Z"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T21:31:19.000Z",
+      "metaDescription": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app.\nThe post GitHub Copilot a",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3290467259337018,
+      "crawledAt": "2026-09-10T22:25:18.045Z",
+      "id": "l46s6",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9192110300064087,
+          "index": 3,
+          "word": "##H",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:28:02.870Z"
+    },
+    {
+      "title": "Muse-glimmer-30b really punches above its weight for creative writing",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcwa7i/museglimmer30b_really_punches_above_its_weights/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-10T21:22:03.000Z",
+      "metaDescription": "After noticing that it is ranked among MUCH larger frontier models in the EQ-Bench Creative Writing benchmark and the Hemingway-bench, I decided to give it a try and was very impressed. \n I didn't do ",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.979160927501928,
+      "crawledAt": "2026-09-10T22:25:59.140Z",
+      "id": "g9vzpo",
+      "entities": [],
+      "summary": " The Hemingway-bench is ranked among larger frontier models in the EQ-Bench Creative Writing benchmark and the Hemingways-bench.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:28:14.386Z"
+    },
+    {
+      "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
+      "url": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T21:15:39.000Z",
+      "metaDescription": "TwelveLabs Marengo Embed 3.0 is now generally available as an embedding model in Amazon Bedrock Knowledge Bases, bringing fully managed natural language search to video, image, and audio content. This",
+      "category": "developer-tool",
+      "difficulty": 7,
+      "confidence": 0.33355134963693295,
+      "crawledAt": "2026-09-10T22:25:34.309Z",
+      "id": "haphhy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9949027895927429,
+          "index": 6,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9983534216880798,
+          "index": 7,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9969498515129089,
+          "index": 8,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9972895979881287,
+          "index": 9,
+          "word": "Knowledge",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9928795099258423,
+          "index": 10,
+          "word": "Base",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.974980354309082,
+          "index": 12,
+          "word": "Mare",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.968600869178772,
+          "index": 13,
+          "word": "##ngo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9536667466163635,
+          "index": 14,
+          "word": "3",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " TwelveLabs Marengo Embed 3.0 is now generally available as an embedding model in Amazon Bedrock Knowledge Bases. This will bring fully managed natural language search to video, image, and audio content.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:28:29.841Z"
+    },
+    {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-10T20:57:30.000Z",
+      "metaDescription": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "category": "creative-ai",
+      "difficulty": 10,
+      "confidence": 0.553879740495,
+      "crawledAt": "2026-09-10T22:25:13.596Z",
+      "id": "6w2syp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982404708862305,
+          "index": 11,
+          "word": "Ali",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980206489562988,
+          "index": 12,
+          "word": "##ba",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.960187554359436,
+          "index": 13,
+          "word": "##ba",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9898295998573303,
+          "index": 15,
+          "word": "Moon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9924255609512329,
+          "index": 16,
+          "word": "##shot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9935939908027649,
+          "index": 17,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9921518564224243,
+          "index": 20,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9970061182975769,
+          "index": 21,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9932999014854431,
+          "index": 22,
+          "word": "##eek",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A new report alleges persistent distillation attacks by China-based AI companies. The report was released Thursday by Anthropic.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:28:51.633Z"
+    },
+    {
+      "title": "From It Works to It Wins",
+      "url": "https://python.plainenglish.io/from-it-works-to-it-wins-3b4473885bdd?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T19:59:15.000Z",
+      "metaDescription": "Why should you spend more time refactoring your code?\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.6464435960673803,
+      "crawledAt": "2026-09-10T22:25:52.590Z",
+      "id": "3iv695",
+      "entities": [],
+      "summary": " Why should you spend more time refactoring your code?Continue reading on Python in Plain English. Read more on Python on CNN.com and CNN iReport.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:29:31.028Z"
+    },
+    {
+      "title": "12 Python Projects That Broke My Code — and Fixed My Skills",
+      "url": "https://python.plainenglish.io/12-python-projects-that-broke-my-code-and-fixed-my-skills-fe4a75ea0e94?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T19:57:46.000Z",
+      "metaDescription": "“Twelve projects, countless bugs, and one brutal learning curve.”\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3195696639555635,
+      "crawledAt": "2026-09-10T22:25:52.708Z",
+      "id": "9engo4",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9161857962608337,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8903742432594299,
+          "index": 14,
+          "word": "Skills",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " “Twelve projects, countless bugs, and one brutal learning curve’s “one brutal learning Curve’",
+      "language": "en",
+      "processed_at": "2026-09-10T22:29:42.202Z"
+    },
+    {
+      "title": "Mastering FFmpeg: The Complete Guide to Video Processing in Python",
+      "url": "https://python.plainenglish.io/mastering-ffmpeg-the-complete-guide-to-video-processing-in-python-ca9d76dec413?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T19:55:37.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9685605140476065,
+      "crawledAt": "2026-09-10T22:25:53.087Z",
+      "id": "wmacu7",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8643033504486084,
+          "index": 12,
+          "word": "Process",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:30:05.290Z"
+    },
+    {
+      "title": "Practical Python Tricks Part 16: Python decorators with arguments",
+      "url": "https://python.plainenglish.io/practical-python-tricks-part-16-python-decorators-with-arguments-afcf5c7ac4dc?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T19:55:27.000Z",
+      "metaDescription": "Decorators with Arguments\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5934091230784952,
+      "crawledAt": "2026-09-10T22:25:53.180Z",
+      "id": "wqod06",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9181272983551025,
+          "index": 1,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9904281497001648,
+          "index": 3,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Decorators with Arguments with Argumentaries. Decorators. Decorsators withArguments withArgumentarians.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:30:17.027Z"
+    },
+    {
+      "title": "11 Python Shortcuts That Quietly 10x’d My Productivity",
+      "url": "https://python.plainenglish.io/11-python-shortcuts-that-quietly-10xd-my-productivity-0c08b022ed2f?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T19:54:39.000Z",
+      "metaDescription": "Small changes. Massive output. Zero burnout.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.28522635076445113,
+      "crawledAt": "2026-09-10T22:25:53.457Z",
+      "id": "tkjqka",
+      "entities": [],
+      "summary": "Small changes. Small changes. Massive output. Massive output. Small change. Small changes. Small change. Small output.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:30:34.654Z"
+    },
+    {
+      "title": "I Didn’t Expect This Python GUI Tool to Work So Well",
+      "url": "https://python.plainenglish.io/i-didnt-expect-this-python-gui-tool-to-work-so-well-855b0b32184c?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T19:54:33.000Z",
+      "metaDescription": "Turning My Automation Scripts Into Real Tools People Actually Use\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2913690936187625,
+      "crawledAt": "2026-09-10T22:25:53.568Z",
+      "id": "evckjw",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9553223252296448,
+          "index": 8,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Turning My Automation Scripts Into Real Tools Into Real tools into Real Tools People Actually Use reading on Python in Plain English.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:30:46.539Z"
+    },
+    {
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-10T19:50:04.000Z",
+      "metaDescription": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9534609866882209,
+      "crawledAt": "2026-09-10T22:25:13.735Z",
+      "id": "9nl0ev",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9914722442626953,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9605045914649963,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8602538704872131,
+          "index": 7,
+          "word": "Muse",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9983876943588257,
+          "index": 17,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Meta's new app Muse is off to a slower start than the company's other apps. The app is called Muse.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:30:55.008Z"
+    },
+    {
+      "title": "Notes on a hobby sub going mainstream",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wctos6/notes_on_a_hobby_sub_going_mainstream/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-10T19:46:01.000Z",
+      "metaDescription": "Both good and bad things have come from a subreddit that was lot more niche than for example r/flashlight rapidly transforming into the largest online forum about an increasingly core part of the infr",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4773653956482987,
+      "crawledAt": "2026-09-10T22:25:57.746Z",
+      "id": "lytbme",
+      "entities": [],
+      "summary": " R/flashlight has become the largest online forum about an increasingly core part of the infrrr. subreddit.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:31:05.102Z"
+    },
+    {
+      "title": "Android can now securely migrate your logins between password managers",
+      "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T18:41:09.000Z",
+      "metaDescription": "App support is slim right now, but Google says more are coming.",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.333795655596535,
+      "crawledAt": "2026-09-10T22:25:15.942Z",
+      "id": "cax6gx",
+      "entities": [],
+      "summary": " Google says more apps are coming. App support is slim right now, but Google says it's coming. Google says that more apps will come.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:31:33.776Z"
+    },
+    {
+      "title": "If you want to Learn Philosophy try \"Ashmere\" on the google play store!",
+      "url": "https://www.reddit.com/r/deeplearning/comments/1wcrmb9/if_you_want_to_learn_philosophy_try_ashmere_on/",
+      "source": "r/deeplearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T18:33:14.000Z",
+      "metaDescription": "submitted by    /u/Steevey145  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.40173795538773205,
+      "crawledAt": "2026-09-10T22:26:02.156Z",
+      "id": "yy03y8",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8780304193496704,
+          "index": 11,
+          "word": "##mere",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:31:33.897Z"
+    },
     {
       "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
       "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
@@ -97,6 +664,34 @@
       "summary": " Architectures that incorporate opaque recurrence or allow for agents to communicate with each other using latents could make it much harder to monitor chains of thought or communication.",
       "language": "en",
       "processed_at": "2026-09-10T19:06:36.222Z"
+    },
+    {
+      "title": "Good source to learn more about LLM's?",
+      "url": "https://www.reddit.com/r/deeplearning/comments/1wcp70o/good_source_to_learn_more_about_llms/",
+      "source": "r/deeplearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T17:08:39.000Z",
+      "metaDescription": "For context I have studied the Transformer architecture as well as components of GPT-2 and the Llama-3 series models so I have a rough idea of how LLM's work. But I want to learn more, so suggest some",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3600421059527619,
+      "crawledAt": "2026-09-10T22:26:02.343Z",
+      "id": "uwytqw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9491230249404907,
+          "index": 7,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " For context, I have studied the Transformer architecture and Llama-based architecture. I want to learn more about the architecture of the Llama model.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:32:13.756Z"
     },
     {
       "title": "React Native ExecuTorch is now up to 92x faster 🏎️",
@@ -287,6 +882,34 @@
       "summary": " The barrier to understanding AI is virtually zero, but the cost of building with it is quietly stacking up. Why the barrier to knowing AI is almost zero?",
       "language": "en",
       "processed_at": "2026-09-10T19:07:07.117Z"
+    },
+    {
+      "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+      "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T16:53:52.000Z",
+      "metaDescription": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.48402691255880353,
+      "crawledAt": "2026-09-10T22:25:16.376Z",
+      "id": "ubc0gc",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998258352279663,
+          "index": 9,
+          "word": "Nepal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " DJI drones that already supply Mount Everest camps assist Nepal’s flood relief. The drones have been used to help flood victims.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:32:22.868Z"
     },
     {
       "title": "Supply chains detect fast, act slow: How AI agents fix it",
@@ -1451,6 +2074,25 @@
       "processed_at": "2026-09-10T12:54:35.314Z"
     },
     {
+      "title": "Keypoint annotations",
+      "url": "https://www.reddit.com/r/deeplearning/comments/1wcg135/keypoint_annotations/",
+      "source": "r/deeplearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T11:05:57.000Z",
+      "metaDescription": "Hey guys ! I am currently implementing a deep learning model for fish detection and length estimation. I need someone who can help me with the keypoint annotations before the actual training, I really",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5906420965537521,
+      "crawledAt": "2026-09-10T22:26:02.644Z",
+      "id": "egj1a5",
+      "entities": [],
+      "summary": " A deep learning model for fish detection and length estimation. I need someone who can help me with the keypoint annotations before the actual training.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:32:35.696Z"
+    },
+    {
       "title": "Powering AI is an architecture problem",
       "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "source": "MIT Technology Review",
@@ -1652,6 +2294,42 @@
       "summary": "Community discussion seeking help or recommendations on AI-related topics.",
       "language": "en",
       "processed_at": "2026-09-10T19:11:48.075Z"
+    },
+    {
+      "title": "Edge AI",
+      "url": "https://www.reddit.com/r/deeplearning/comments/1wce8g2/edge_ai/",
+      "source": "r/deeplearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T09:30:43.000Z",
+      "metaDescription": "Do you guys have recommendation for capstone projects about Edge AI, TinyML, Computer vision, and federated learning? I explored battery RUL, Predictive Thermal Management system, and Fault bearing di",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6361983846563887,
+      "crawledAt": "2026-09-10T22:26:03.570Z",
+      "id": "s9lg9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9277263879776001,
+          "index": 1,
+          "word": "Edge",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8549703359603882,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Edge AI, TinyML, Computer vision, and federated learning. I explored battery RUL, Predictive Thermal Management system, and Fault bearing di di di.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:32:46.878Z"
     },
     {
       "title": "Healthcare AI’s next test is integration",
@@ -1919,6 +2597,25 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-09-10T19:12:54.097Z"
+    },
+    {
+      "title": "DePEFT: Crowdsourcing LLM training/fine-tuning without a centralized cloud.",
+      "url": "https://www.reddit.com/r/deeplearning/comments/1wca4pq/depeft_crowdsourcing_llm_trainingfinetuning/",
+      "source": "r/deeplearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-10T05:39:16.000Z",
+      "metaDescription": "A while ago, I successfully trained a tiny 80M parameter language model from scratch using the TinyStories dataset. It worked surprisingly well and could generate coherent little stories! Inspired by ",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.41155186330889726,
+      "crawledAt": "2026-09-10T22:26:04.412Z",
+      "id": "t8hv1k",
+      "entities": [],
+      "summary": " A while ago, I successfully trained a tiny 80M model from scratch using the TinyStories dataset. It worked surprisingly well and could generate coherent little stories.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:33:11.052Z"
     },
     {
       "title": "9 Python Optimization Techniques That Turned My Slow Scripts Into Lightning-Fast Programs",
@@ -3844,6 +4541,34 @@
       "processed_at": "2026-09-10T19:13:08.035Z"
     },
     {
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-10T00:00:00.000Z",
+      "metaDescription": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.5557203452648438,
+      "crawledAt": "2026-09-10T22:25:09.652Z",
+      "id": "ywnpt1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8828252553939819,
+          "index": 5,
+          "word": "Agents",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Agents API is powered by the Codex harness for orchestration, long-running sessions, and tool use. Build and launch cloud agents with the Agents API.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:33:32.847Z"
+    },
+    {
       "title": "DGX Spark vs Strix Halo: What the Extra $1,250 Buys You",
       "url": "https://pub.towardsai.net/dgx-spark-vs-strix-halo-what-the-extra-1-250-buys-you-e5d441039c44?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -4024,6 +4749,25 @@
       "processed_at": "2026-09-10T04:33:28.363Z"
     },
     {
+      "title": "Cl33-opLM: Operator-Only Language Model",
+      "url": "https://www.reddit.com/r/deeplearning/comments/1wbzwnx/cl33oplm_operatoronly_language_model/",
+      "source": "r/deeplearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T22:04:22.000Z",
+      "metaDescription": "I’ve been working on a different approach to language-model interpretability that I find interesting. Instead of trying to reconstruct a model’s computation after the fact, make the model compute thro",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.5262921016328816,
+      "crawledAt": "2026-09-10T22:26:04.929Z",
+      "id": "65jle5",
+      "entities": [],
+      "summary": " Instead of trying to reconstruct a model’s computation after the fact, make the model compute after thefact.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:33:52.755Z"
+    },
+    {
       "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
       "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
       "source": "TechCrunch AI",
@@ -4066,6 +4810,34 @@
       "summary": " Apple introduced Apple Reference Image to help users determine whether photos have been edited. Users can also check whether photos were edited by AI.",
       "language": "en",
       "processed_at": "2026-09-10T04:33:58.216Z"
+    },
+    {
+      "title": "I built SpectralBERT — an FFT-based alternative to Attention that's 14.5x faster at 65K tokens with better loss. Is this legit?",
+      "url": "https://www.reddit.com/r/deeplearning/comments/1wbmqkb/i_built_spectralbert_an_fftbased_alternative_to/",
+      "source": "r/deeplearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-09-09T14:12:20.000Z",
+      "metaDescription": "​\n Hi everyone,\n I want to share a project I've been working on: SpectralBERT a novel architecture that replaces traditional self-attention with a frequency-domain memory mechanism.\n The Core Idea:\n I",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5015514144701684,
+      "crawledAt": "2026-09-10T22:26:02.867Z",
+      "id": "wfsxyf",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9111920595169067,
+          "index": 10,
+          "word": "FF",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Core Idea: SpectralBERT is a novel architecture that replaces traditional self-attention with a frequency-domain memory mechanism.",
+      "language": "en",
+      "processed_at": "2026-09-10T22:34:19.227Z"
     },
     {
       "title": "An Effective Python Development Environment",
@@ -4226,21 +4998,21 @@
       "processed_at": "2026-09-10T19:13:41.503Z"
     }
   ],
-  "processedAt": "2026-09-10T19:13:41.507Z",
+  "processedAt": "2026-09-10T22:34:26.857Z",
   "categories": [
-    "ai-agents",
-    "creative-ai",
+    "model-release",
     "infrastructure",
+    "creative-ai",
+    "developer-tool",
+    "ai-agents",
     "safety-ethics",
     "industry-news",
-    "research-paper",
-    "developer-tool",
     "product-launch",
-    "tutorial-guide",
-    "model-release"
+    "research-paper",
+    "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 42,
-  "dailyArticlesCount": 128,
+  "newArticlesProcessed": 23,
+  "dailyArticlesCount": 151,
   "filterDate": "2026-09-10"
 }
