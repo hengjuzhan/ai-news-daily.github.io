@@ -1,0 +1,779 @@
+{
+  "crawledAt": "2026-09-12T04:14:37.846Z",
+  "totalSources": 70,
+  "totalArticles": 22,
+  "aiFilterUsed": true,
+  "articles": [
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-12T04:13:52.199Z",
+      "metaDescription": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.30620768943418425,
+      "crawledAt": "2026-09-12T04:13:52.199Z",
+      "id": "t5fz8k",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9802109003067017,
+          "index": 5,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9143559336662292,
+          "index": 6,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Astra uses Astra to write communications, change software, and monitor production systems. Astra checks in much less than with earlier models.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:14:49.293Z"
+    },
+    {
+      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+      "url": "https://arxiv.org/abs/2609.10584",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-09-12T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.10584v1 Announce Type: new \nAbstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance withi",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.2874517830497883,
+      "crawledAt": "2026-09-12T04:14:31.761Z",
+      "id": "oisw34",
+      "entities": [],
+      "summary": " Focal Search (FS) uses heuristic guidance withi. Focal search seeks a solution within a factor $w$ of optimal while reducing search effort.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:14:59.631Z"
+    },
+    {
+      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+      "url": "https://arxiv.org/abs/2609.10654",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-09-12T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.10654v1 Announce Type: new \nAbstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. Th",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2813135551075297,
+      "crawledAt": "2026-09-12T04:14:31.883Z",
+      "id": "uysacr",
+      "entities": [],
+      "summary": " The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization. It can infer and apply abstract rules from limited examples.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:15:21.932Z"
+    },
+    {
+      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "url": "https://arxiv.org/abs/2609.10712",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-09-12T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.10712v1 Announce Type: new \nAbstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from N",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.2954216762834408,
+      "crawledAt": "2026-09-12T04:14:32.063Z",
+      "id": "34a1zs",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9837387204170227,
+          "index": 7,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9944887161254883,
+          "index": 8,
+          "word": "##MO",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9793280363082886,
+          "index": 9,
+          "word": "Gold",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9978392124176025,
+          "index": 17,
+          "word": "Olympia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9829252362251282,
+          "index": 18,
+          "word": "##d",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9707512259483337,
+          "index": 19,
+          "word": "Mathematics",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "ArXiv:2609. arXiv. arxiv: 2609.10712v1 Announce Type: new.10711v1. arXv:2608v1. ar Xiv:.10710v1: We study how model post-training",
+      "language": "en",
+      "processed_at": "2026-09-12T04:15:57.888Z"
+    },
+    {
+      "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+      "url": "https://arxiv.org/abs/2609.10992",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-09-12T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.10992v1 Announce Type: new \nAbstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information. Current ",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.6750006652945746,
+      "crawledAt": "2026-09-12T04:14:32.416Z",
+      "id": "ngz1ac",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9028388857841492,
+          "index": 17,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "The integration of Large Language Models into daily tasks relies on context-rich instructions. The integration of large language models into tasks relies upon context- rich instructions.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:17:00.325Z"
+    },
+    {
+      "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
+      "url": "https://arxiv.org/abs/2609.11018",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-09-12T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.11018v1 Announce Type: new \nAbstract: The term agent in artificial intelligence lacks a standard definition, complicating the evaluation, comparison, and reproducibility of AI agent researc",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9899526131465844,
+      "crawledAt": "2026-09-12T04:14:32.477Z",
+      "id": "rgiz3r",
+      "entities": [],
+      "summary": " The term agent in artificial intelligence lacks a standard definition, complicating the evaluation, evaluation, and comparison of AI agent.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:17:08.073Z"
+    },
+    {
+      "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
+      "url": "https://arxiv.org/abs/2609.11030",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-09-12T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.11030v1 Announce Type: new \nAbstract: AI agents increasingly act through tools and delegated authority, but general incident repositories rarely capture the mechanisms needed to compare pub",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9841154909852675,
+      "crawledAt": "2026-09-12T04:14:32.533Z",
+      "id": "pgt7mv",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8992763161659241,
+          "index": 2,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AI agents increasingly act through tools and delegated authority. General incident repositories rarely capture mechanisms needed to compare pub to pub.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:17:15.128Z"
+    },
+    {
+      "title": "Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents",
+      "url": "https://arxiv.org/abs/2609.11060",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-09-12T04:00:00.000Z",
+      "metaDescription": "arXiv:2609.11060v1 Announce Type: new \nAbstract: Persistent memory is entering production-oriented agent platforms to help long-horizon agents accumulate experience across sessions. Yet a post-task cu",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.2901063016372452,
+      "crawledAt": "2026-09-12T04:14:32.590Z",
+      "id": "rqd321",
+      "entities": [],
+      "summary": " A post-task cu. Yet a post- task cu. But a post post-Task cu. The post-post-task is a post.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:17:24.696Z"
+    },
+    {
+      "title": "The Python Data Science Stack Is Changing. Here’s What Developers Should Learn in 2026",
+      "url": "https://python.plainenglish.io/the-python-data-science-stack-is-changing-heres-what-developers-should-learn-in-2026-0743af8c8b73?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-12T01:31:01.000Z",
+      "metaDescription": "For years, learning Python for data science meant learning a fairly predictable stack.\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.34976557447337936,
+      "crawledAt": "2026-09-12T04:14:17.652Z",
+      "id": "p0qoqi",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9618874788284302,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8777037262916565,
+          "index": 3,
+          "word": "Data",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9548473954200745,
+          "index": 4,
+          "word": "Science",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " For years, learning Python for data science meant learning a fairly predictable stack. For years. For years,. learning Python was a fairly common way to learn about data science.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:17:44.046Z"
+    },
+    {
+      "title": "Some satellite companies still have an appetite for boutique launch services",
+      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-11T23:34:45.000Z",
+      "metaDescription": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.6241286796186079,
+      "crawledAt": "2026-09-12T04:13:57.634Z",
+      "id": "5pjft3",
+      "entities": [],
+      "summary": " \"Dedicated launch\" is \"pretty essential for us for most of our missions\" \"Dingicated launch is pretty essential for our missions,\" says crew member.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:18:02.864Z"
+    },
+    {
+      "title": "Building a Next Best Action System with Offline RL",
+      "url": "https://pub.towardsai.net/building-a-next-best-action-system-with-offline-rl-a6031325027d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-11T23:01:02.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.8889407810113394,
+      "crawledAt": "2026-09-12T04:14:12.003Z",
+      "id": "aujdqs",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.978252649307251,
+          "index": 4,
+          "word": "Best",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8022950887680054,
+          "index": 5,
+          "word": "Action",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:18:29.119Z"
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-11T22:58:17.000Z",
+      "metaDescription": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.29047862704553645,
+      "crawledAt": "2026-09-12T04:13:56.659Z",
+      "id": "tycck0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9978890419006348,
+          "index": 1,
+          "word": "Me",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9835987687110901,
+          "index": 3,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9971856474876404,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9991625547409058,
+          "index": 14,
+          "word": "Se",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8426102995872498,
+          "index": 17,
+          "word": "##ia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The two-year-old startup is coming together months after Mecka announced its Series A. Series A is coming up with the idea.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:18:38.627Z"
+    },
+    {
+      "title": "Insane! Run Kimi K3, 2.8 Trillion Parameters, on a Single 4GB GPU",
+      "url": "https://pub.towardsai.net/insane-run-kimi-k3-2-8-trillion-parameters-on-a-single-4gb-gpu-33ab8a8eec94?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-11T22:31:02.000Z",
+      "metaDescription": "The largest open weight model ever released can run on a 4GB GPU.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3807151921607454,
+      "crawledAt": "2026-09-12T04:14:12.064Z",
+      "id": "lyu8l7",
+      "entities": [],
+      "summary": " The largest open weight model ever released can run on a 4GB GPU. The largest Open Weight model ever made can run at 4GB.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:18:48.106Z"
+    },
+    {
+      "title": "Random rewards enrich classic game-theory insights",
+      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-11T21:41:16.000Z",
+      "metaDescription": "Simple games gain rich strategies in the face of noise.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.27285790864934095,
+      "crawledAt": "2026-09-12T04:13:57.663Z",
+      "id": "tzf11y",
+      "entities": [],
+      "summary": " Simple games gain rich strategies in the face of noise. Simple games can be used as a way to avoid noise.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:18:55.458Z"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-11T20:59:47.000Z",
+      "metaDescription": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "category": "developer-tool",
+      "difficulty": 8,
+      "confidence": 0.2892578004048604,
+      "crawledAt": "2026-09-12T04:13:56.724Z",
+      "id": "31uodz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982988834381104,
+          "index": 1,
+          "word": "Y",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9986338019371033,
+          "index": 2,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9984626173973083,
+          "index": 3,
+          "word": "##mb",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9983561635017395,
+          "index": 4,
+          "word": "##inator",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9996615648269653,
+          "index": 7,
+          "word": "Garry",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994336366653442,
+          "index": 8,
+          "word": "Tan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8390046954154968,
+          "index": 14,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:19:05.396Z"
+    },
+    {
+      "title": "How to handle cofound variables?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wdpat4/how_to_handle_cofound_variables_d/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-11T18:57:40.000Z",
+      "metaDescription": "edit: confound\n Hello all,\n I am working on a object classification with a automotive radar point clouds. I compared many models and feature vectors.\n Once i used range as feature, all models scored h",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.2996014131369892,
+      "crawledAt": "2026-09-12T04:14:20.210Z",
+      "id": "cwoy5t",
+      "entities": [],
+      "summary": " Once i used range as feature, all models scored h. All models scored a range of models and feature vectors.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:19:13.255Z"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-11T16:00:00.000Z",
+      "metaDescription": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.41297920095410895,
+      "crawledAt": "2026-09-12T04:13:52.325Z",
+      "id": "65guc5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9146069884300232,
+          "index": 4,
+          "word": "Devin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.950003445148468,
+          "index": 10,
+          "word": "GP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " GPT‑6 Astra improves Devin's ability to test software and show that it works. Astra aims to help engineers review less code and ship more.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:19:22.834Z"
+    },
+    {
+      "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-11T13:00:11.000Z",
+      "metaDescription": "I trained a 210M-parameter text-to-image diffusion transformer from scratch (3.5 days, one RTX PRO 6000, 4.2M images at 256²) mainly to understand the recipe end to end. Three measurements came out of",
+      "category": "research-paper",
+      "difficulty": 4,
+      "confidence": 0.7362973783712323,
+      "crawledAt": "2026-09-12T04:14:19.939Z",
+      "id": "r4vkwa",
+      "entities": [],
+      "summary": " Three measurements came out of three measurements. I trained a 210M-parameter text-to-image diffusion transformer.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:19:31.528Z"
+    },
+    {
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-11T12:00:18.000Z",
+      "metaDescription": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to fir",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.28483038048061504,
+      "crawledAt": "2026-09-12T04:14:02.797Z",
+      "id": "9ls1uj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9967308044433594,
+          "index": 1,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9215510487556458,
+          "index": 2,
+          "word": "##lant",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9882787466049194,
+          "index": 3,
+          "word": "##ir",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9961444735527039,
+          "index": 4,
+          "word": "Found",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9032601714134216,
+          "index": 11,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9648217558860779,
+          "index": 13,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions. The company measures operational delivery from wafer-out to fir.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:19:40.656Z"
+    },
+    {
+      "title": "Neurips 2026: site selection email",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-11T09:02:43.000Z",
+      "metaDescription": "We just received the email for site selection for our neurips paper. Although it is obviously not an acceptance decision, I wonder whether every single non-withdrawn submission received this email, or",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.37273686134085526,
+      "crawledAt": "2026-09-12T04:14:20.357Z",
+      "id": "qkxdd8",
+      "entities": [],
+      "summary": "We just received the email for site selection for our neurips paper. I wonder whether every non-withdrawn submission received this email.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:19:51.024Z"
+    },
+    {
+      "title": "ACL Sustainable Reviewing Policy",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-11T05:38:02.000Z",
+      "metaDescription": "ACL just announced on X how they are planning to handle the increased submission numbers. Interestingly enough, they call it \"the proposal\".\n My understanding is that, in a nutshell, each submission s",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.48014453373732985,
+      "crawledAt": "2026-09-12T04:14:20.145Z",
+      "id": "ogveqk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9972429871559143,
+          "index": 1,
+          "word": "AC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9949460029602051,
+          "index": 2,
+          "word": "##L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9858218431472778,
+          "index": 3,
+          "word": "Sustainable",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9942492246627808,
+          "index": 4,
+          "word": "Review",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9941552877426147,
+          "index": 5,
+          "word": "##ing",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9809567332267761,
+          "index": 6,
+          "word": "Policy",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " ACL just announced on X how they are planning to handle increased submission numbers. ACL just announce on X that they are plans to handle the increased submission number.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:20:00.149Z"
+    },
+    {
+      "title": "Any tools to turn a codebase into a fine tuning dataset?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-11T04:27:12.000Z",
+      "metaDescription": "I have a few web projects with pretty good UI/UX and I’m wondering if there’s any tool or workflow that can turn an existing codebase into a dataset for fine tuning.\n For example, given a React/Next.j",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.39231923822512116,
+      "crawledAt": "2026-09-12T04:14:20.293Z",
+      "id": "4hn73f",
+      "entities": [],
+      "summary": " A tool or workflow can turn an existing codebase into a dataset for fine tuning. For example, given a React/Next.j, given the React/ next.j tool, given an example.",
+      "language": "en",
+      "processed_at": "2026-09-12T04:20:14.502Z"
+    }
+  ],
+  "processedAt": "2026-09-12T04:20:14.507Z",
+  "categories": [
+    "infrastructure",
+    "safety-ethics",
+    "creative-ai",
+    "ai-agents",
+    "developer-tool",
+    "product-launch",
+    "research-paper"
+  ],
+  "processingMethod": "ai-powered",
+  "newArticlesProcessed": 22,
+  "dailyArticlesCount": 22,
+  "filterDate": "2026-09-12"
+}
