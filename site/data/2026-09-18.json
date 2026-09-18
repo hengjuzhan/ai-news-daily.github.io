@@ -1,9 +1,557 @@
 {
-  "crawledAt": "2026-09-18T18:59:55.914Z",
+  "crawledAt": "2026-09-18T22:28:07.549Z",
   "totalSources": 70,
-  "totalArticles": 126,
+  "totalArticles": 149,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T21:44:33.000Z",
+      "metaDescription": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.2724851566464155,
+      "crawledAt": "2026-09-18T22:27:05.506Z",
+      "id": "hpy7gj",
+      "entities": [],
+      "summary": " Accenture is about to take on its most high-risk consulting engagement ever. Accenture has a history of high- risk consulting engagements.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:28:25.436Z"
+    },
+    {
+      "title": "Five Gates Before an AI Agent Earns Real Production Authority",
+      "url": "https://pub.towardsai.net/five-gates-before-an-ai-agent-earns-real-production-authority-4eea995be5f7?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T21:31:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9515959700611025,
+      "crawledAt": "2026-09-18T22:27:27.770Z",
+      "id": "ddxwug",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9758998155593872,
+          "index": 10,
+          "word": "Real",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9968080520629883,
+          "index": 11,
+          "word": "Production",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9946336150169373,
+          "index": 12,
+          "word": "Authority",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:28:25.489Z"
+    },
+    {
+      "title": "4 Python Libraries for Watching Your System and Reaching a Real Person When Something Goes Wrong",
+      "url": "https://python.plainenglish.io/4-python-libraries-for-watching-your-system-and-reaching-a-real-person-when-something-goes-wrong-b56bba5a375d?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-18T21:08:02.000Z",
+      "metaDescription": "Not another data or CLI toolkit. These four solve a different, quieter problem, knowing what your machine is actually doing, and telling a…\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.2963237414430556,
+      "crawledAt": "2026-09-18T22:27:30.252Z",
+      "id": "3td9fs",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9462867379188538,
+          "index": 6,
+          "word": "Your",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9623192548751831,
+          "index": 7,
+          "word": "System",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8957970142364502,
+          "index": 12,
+          "word": "Person",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The four ways to solve the problem of using Python to solve it is not a problem. Read more from CNN.com's iReport.com/Python.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:28:35.036Z"
+    },
+    {
+      "title": "8 Python Techniques Experienced Developers Use All the Time",
+      "url": "https://python.plainenglish.io/8-python-techniques-experienced-developers-use-all-the-time-bc41b2dad934?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-18T21:05:46.000Z",
+      "metaDescription": "There’s a funny thing that happens when you spend enough time writing Python.\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.5434040115429791,
+      "crawledAt": "2026-09-18T22:27:30.443Z",
+      "id": "baz26z",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9507670998573303,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Read more about Python in Plain English. Read more about how to use the language. Read about how you can learn to use Python.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:28:51.151Z"
+    },
+    {
+      "title": "Large Video Transcription Is a Systems Problem: Build a Resumable Python Pipeline",
+      "url": "https://python.plainenglish.io/large-video-transcription-is-a-systems-problem-build-a-resumable-python-pipeline-64245e8eafb3?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-18T21:03:16.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.7978346701302482,
+      "crawledAt": "2026-09-18T22:27:30.653Z",
+      "id": "95x4cm",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9731820225715637,
+          "index": 16,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:29:09.551Z"
+    },
+    {
+      "title": "Building a RAG Chatbot That Lets You Chat With Any GitHub Repository (Streamlit + LlamaIndex +…",
+      "url": "https://python.plainenglish.io/building-a-rag-chatbot-that-lets-you-chat-with-any-github-repository-streamlit-llamaindex-cf92abc580e9?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-18T21:02:02.000Z",
+      "metaDescription": "Read the story for free .\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.25328166211542347,
+      "crawledAt": "2026-09-18T22:27:30.769Z",
+      "id": "trl5r2",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9657050967216492,
+          "index": 18,
+          "word": "##H",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Python in Plain English. Read the story for free. Read the stories for free. Read more on Python in PlainEnglish.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:29:16.735Z"
+    },
+    {
+      "title": "7 Ways I’d Use Python to Build a Small Online Income Stream",
+      "url": "https://python.plainenglish.io/7-ways-id-use-python-to-build-a-small-online-income-stream-0a3cf55b8a48?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-18T20:56:29.000Z",
+      "metaDescription": "Practical ideas based on tools people actually need\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.25778834785826493,
+      "crawledAt": "2026-09-18T22:27:30.828Z",
+      "id": "n2ua5w",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9443411231040955,
+          "index": 7,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Practical ideas based on tools people actually need to use on Python in Plain English. Read reading on Python on the language of English.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:29:33.565Z"
+    },
+    {
+      "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-18T20:52:14.000Z",
+      "metaDescription": "Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from infe",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.9448886942126089,
+      "crawledAt": "2026-09-18T22:27:18.530Z",
+      "id": "neidsd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9265076518058777,
+          "index": 1,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9734308123588562,
+          "index": 3,
+          "word": "##M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon Sage Maker HyperPod Inference. This post reviews each launch, from infe to infe.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:29:45.423Z"
+    },
+    {
+      "title": "I Built a Tool-Calling LLM From Absolute Zero — Here’s Everything I Learned",
+      "url": "https://pub.towardsai.net/i-built-a-tool-calling-llm-from-absolute-zero-heres-everything-i-learned-bad8ece610d3?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T20:31:01.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.34197279381209655,
+      "crawledAt": "2026-09-18T22:27:27.878Z",
+      "id": "obl0be",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:29:45.497Z"
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T20:18:14.000Z",
+      "metaDescription": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil",
+      "category": "industry-news",
+      "difficulty": 4,
+      "confidence": 0.7933298839699171,
+      "crawledAt": "2026-09-18T22:27:05.620Z",
+      "id": "awgheu",
+      "entities": [],
+      "summary": " The world-models space is sitting on a pile of cash and a ton of buzz. But good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:29:55.627Z"
+    },
+    {
+      "title": "I Gave My Hermes Agent Memory. Then It Started Lying to Me With Confidence.",
+      "url": "https://pub.towardsai.net/i-gave-my-hermes-agent-memory-then-it-started-lying-to-me-with-confidence-bf6fbe8ac6ae?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T20:01:02.000Z",
+      "metaDescription": "Hermes Agent, like pretty much every serious agent framework at this point, has grown out of the stateless-chatbot phase. Plug in a memory…\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.4884866934235317,
+      "crawledAt": "2026-09-18T22:27:27.966Z",
+      "id": "3e1kyu",
+      "entities": [],
+      "summary": " Hermes Agent has grown out of the stateless-chatbot phase. Hermes Agent, like pretty much every serious agent, has grown into a serious agent.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:30:05.177Z"
+    },
+    {
+      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T19:21:09.000Z",
+      "metaDescription": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2665057148739946,
+      "crawledAt": "2026-09-18T22:27:11.580Z",
+      "id": "73zkmm",
+      "entities": [],
+      "summary": "Big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky. Even if big AI companies agreed to apause, ensuring nobody tries.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:30:15.572Z"
+    },
+    {
+      "title": "Your AI Model Is 10× Bigger, But Is It Actually 10× Smarter? The Hidden Engineering Trade-Offs",
+      "url": "https://ai.plainenglish.io/your-ai-model-is-10-bigger-but-is-it-actually-10-smarter-the-hidden-engineering-trade-offs-9c2be81d9b49?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T19:17:53.000Z",
+      "metaDescription": "From inference costs to hallucinations and response speed, explore the critical factors that determine whether scaling an LLM improves…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.41433511574620013,
+      "crawledAt": "2026-09-18T22:27:31.164Z",
+      "id": "wznt6r",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.860966682434082,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.912453293800354,
+          "index": 21,
+          "word": "Engineering",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " From inference costs to hallucinations and response speed, explore the critical factors that determine whether scaling an LLM improves. From inference cost to hallucinations, explore whether scaling a LLM improved.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:30:50.190Z"
+    },
+    {
+      "title": "AI agents need their own identity system. I built one.",
+      "url": "https://ai.plainenglish.io/ai-agents-need-their-own-identity-system-i-built-one-212a0da32622?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T19:17:34.000Z",
+      "metaDescription": "Every “just give the agent your API key” tutorial is a production incident waiting for a name.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.92339204222167,
+      "crawledAt": "2026-09-18T22:27:31.240Z",
+      "id": "4671cg",
+      "entities": [],
+      "summary": " The world's most popular language is English. Read more about Artificial Intelligence in Plain English. Click here for more information.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:30:57.515Z"
+    },
+    {
+      "title": "DeepSeek Open-Sourced the Part That Actually Matters",
+      "url": "https://ai.plainenglish.io/deepseek-open-sourced-the-part-that-actually-matters-c297ab3a56b8?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T19:17:28.000Z",
+      "metaDescription": "Continue reading on Artificial Intelligence in Plain English »",
+      "category": "industry-news",
+      "difficulty": 5,
+      "confidence": 0.5122672603456737,
+      "crawledAt": "2026-09-18T22:27:31.286Z",
+      "id": "niumis",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9763048887252808,
+          "index": 1,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9720582962036133,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9238887429237366,
+          "index": 3,
+          "word": "##eek",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Continue reading on Artificial Intelligence in Plain English. Read on Artificial intelligence in PlainEnglish. Read more on Artificial Artificial Intelligence.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:31:04.845Z"
+    },
+    {
+      "title": "I Created $500+ AI Images for Free — Here’s the Prompt I Used",
+      "url": "https://ai.plainenglish.io/i-created-500-ai-images-for-free-heres-the-prompt-i-used-bd1e9719582b?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T19:15:01.000Z",
+      "metaDescription": "I didn’t pay for an expensive image generator. I changed the way I wrote the prompt.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.30114366380447044,
+      "crawledAt": "2026-09-18T22:27:31.454Z",
+      "id": "elf13",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8073281049728394,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "I changed the way I wrote the prompt. I didn't pay for an expensive image generator. I changed the. way I write the prompt.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:31:23.267Z"
+    },
+    {
+      "title": "How to Use Muse to Manage Your Instagram DMs Without a Third-Party Bot",
+      "url": "https://ai.plainenglish.io/how-to-use-meta-ai-to-manage-your-instagram-dms-without-a-third-party-bot-28d3728288d4?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T19:14:46.000Z",
+      "metaDescription": "Instagram DMs become surprisingly difficult to manage once an account starts growing.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.7301422885143588,
+      "crawledAt": "2026-09-18T22:27:31.602Z",
+      "id": "gvskwh",
+      "entities": [],
+      "summary": " Instagram DMs become surprisingly difficult to manage once an account starts growing. Instagram D Ms become surprisingly hard to manage.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:31:42.212Z"
+    },
+    {
+      "title": "Bedrock Inference Profiles and Mantle: What They Are and Why You Need Them",
+      "url": "https://ai.plainenglish.io/bedrock-inference-profiles-and-mantle-what-they-are-and-why-you-need-them-9514c4b54aa5?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T19:14:26.000Z",
+      "metaDescription": "Where this started\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.3418909770802156,
+      "crawledAt": "2026-09-18T22:27:31.655Z",
+      "id": "1q5o0p",
+      "entities": [],
+      "summary": " Where this started started is where this started. Where this began is where the first article was written. Read on Artificial Intelligence in Plain English.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:31:50.559Z"
+    },
+    {
+      "title": "I Ran the Same Prompt on Claude and GPT in Amazon Bedrock. Here’s How to Pick Without Guessing.",
+      "url": "https://pub.towardsai.net/i-ran-the-same-prompt-on-claude-and-gpt-in-amazon-bedrock-heres-how-to-pick-without-guessing-aa48c624051d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T19:01:02.000Z",
+      "metaDescription": "Every week someone asks me the same question. “Should I use Claude or GPT?”\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3160230479503935,
+      "crawledAt": "2026-09-18T22:27:28.092Z",
+      "id": "7ulhf",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9153363704681396,
+          "index": 9,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9176685214042664,
+          "index": 14,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.972822368144989,
+          "index": 15,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9401209354400635,
+          "index": 16,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Every week someone asks me the same question. “Should I use Claude or GPT?’s’S’",
+      "language": "en",
+      "processed_at": "2026-09-18T22:32:01.096Z"
+    },
     {
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
       "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
@@ -139,6 +687,50 @@
       "summary": "Community discussion seeking help or recommendations on AI-related topics.",
       "language": "en",
       "processed_at": "2026-09-18T19:01:04.602Z"
+    },
+    {
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
+      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-18T17:28:50.000Z",
+      "metaDescription": "The Federal Register website briefly used an open source Chinese AI search tool.",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.3947690043957435,
+      "crawledAt": "2026-09-18T22:27:08.475Z",
+      "id": "6x4hbt",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9730620384216309,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.999620795249939,
+          "index": 5,
+          "word": "Chinese",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9988822340965271,
+          "index": 8,
+          "word": "FBI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Federal Register website briefly used an open source Chinese AI search tool. The tool was used to search for a Chinese AI tool.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:32:22.644Z"
     },
     {
       "title": "The last IMO problem AI could not solve",
@@ -3677,6 +4269,58 @@
       "processed_at": "2026-09-18T19:11:13.119Z"
     },
     {
+      "title": "Partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "source": "Anthropic News",
+      "source_domain": "anthropic.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-18T00:00:00.000Z",
+      "metaDescription": "Partnering with Accenture on embedded evaluation",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.7034666532427145,
+      "crawledAt": "2026-09-18T22:27:17.518Z",
+      "id": "bdd13j",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.889643669128418,
+          "index": 4,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9812955260276794,
+          "index": 5,
+          "word": "##cc",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8675135970115662,
+          "index": 6,
+          "word": "##ent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8039878010749817,
+          "index": 7,
+          "word": "##ure",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:32:22.694Z"
+    },
+    {
       "title": "8 Python Libraries That Automate Real Actions, Not Just Files",
       "url": "https://python.plainenglish.io/8-python-libraries-that-automate-real-actions-not-just-files-5bdd9b485659?source=rss----78073def27b8---4",
       "source": "Python in Plain English",
@@ -3827,6 +4471,34 @@
       "summary": " Multiple family members can share data to help the agent make plans and complete tasks. Multiple family member members can also share data.",
       "language": "en",
       "processed_at": "2026-09-18T04:35:56.766Z"
+    },
+    {
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-17T20:10:41.000Z",
+      "metaDescription": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.36208426661476834,
+      "crawledAt": "2026-09-18T22:27:08.892Z",
+      "id": "ctoc7z",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9978516101837158,
+          "index": 1,
+          "word": "Microsoft",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Microsoft, OpenAI emails reveal fear of AI 'doom loop' of news organizations. Microsoft, Microsoft, Google, Google and others are among those concerned.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:32:32.182Z"
     },
     {
       "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
@@ -4046,22 +4718,67 @@
       "summary": " One hacked camera captured 1.6 million images and could detect people as well as cars. The camera could also detect people and cars.",
       "language": "en",
       "processed_at": "2026-09-18T04:37:46.180Z"
+    },
+    {
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-16T12:00:00.000Z",
+      "metaDescription": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.2695605755051381,
+      "crawledAt": "2026-09-18T22:27:00.343Z",
+      "id": "y2yoqt",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9191462397575378,
+          "index": 10,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8197456002235413,
+          "index": 14,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8710469007492065,
+          "index": 15,
+          "word": "##tra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " GPT-6 Astra helps Hex's data agents turn answers into interactive visualizations. GPT - 6 Astra is a company that makes the best of its customers.",
+      "language": "en",
+      "processed_at": "2026-09-18T22:32:41.927Z"
     }
   ],
-  "processedAt": "2026-09-18T19:11:13.125Z",
+  "processedAt": "2026-09-18T22:32:41.932Z",
   "categories": [
-    "creative-ai",
-    "ai-agents",
     "safety-ethics",
-    "model-release",
-    "infrastructure",
+    "ai-agents",
+    "creative-ai",
     "developer-tool",
+    "infrastructure",
     "product-launch",
+    "industry-news",
+    "model-release",
     "research-paper",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 41,
-  "dailyArticlesCount": 126,
+  "newArticlesProcessed": 23,
+  "dailyArticlesCount": 149,
   "filterDate": "2026-09-18"
 }
