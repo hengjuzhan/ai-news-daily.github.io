@@ -1,9 +1,367 @@
 {
-  "crawledAt": "2026-09-20T13:01:41.034Z",
+  "crawledAt": "2026-09-20T18:40:31.327Z",
   "totalSources": 70,
-  "totalArticles": 1627,
+  "totalArticles": 1620,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T18:32:52.000Z",
+      "metaDescription": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3831898678284612,
+      "crawledAt": "2026-09-20T18:39:22.349Z",
+      "id": "aztfp3",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9786794185638428,
+          "index": 1,
+          "word": "V",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Vocci's lightweight ring costs $249, and might pose some privacy questions. It might pose questions about privacy.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:40:40.760Z"
+    },
+    {
+      "title": "One more 'you should try ExllamaV3/exl3 for flash next' appreciation post",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlo9nz/one_more_you_should_try_exllamav3exl3_for_flash/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T18:10:37.000Z",
+      "metaDescription": "After seeing a few posts on here about it, I finally tried exl3 3bpw and exllamav3 for running flash next - with amazing results. \n On 3x3090s, 128GB DDR4: 1500 prefill, 80 tps decode \n On 1x5090, 128",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.421991148874631,
+      "crawledAt": "2026-09-20T18:40:03.933Z",
+      "id": "5el5vj",
+      "entities": [],
+      "summary": " On 3x3090s, 128GB DDR4: 1500 prefill, 80 tps decode on 1x5090s. On 1x50090s: 1500 pre-loaded, 80tps decode  On 1X5090, 128 tps decoding on 1 x50",
+      "language": "en",
+      "processed_at": "2026-09-20T18:40:57.429Z"
+    },
+    {
+      "title": "FlashAttention Runs the Same Math. It Just Stops Writing It Down.",
+      "url": "https://pub.towardsai.net/flashattention-runs-the-same-math-it-just-stops-writing-it-down-30b595e423f6?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T18:01:01.000Z",
+      "metaDescription": "Attention is not slow because of the compute. It is slow because of where the numbers have to travel.\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3825458686355718,
+      "crawledAt": "2026-09-20T18:39:47.333Z",
+      "id": "if7x5o",
+      "entities": [],
+      "summary": " Attention is not slow because of the compute, it is slow because the numbers have to travel. It is slow due to where the numbers need to travel.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:41:07.555Z"
+    },
+    {
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T18:00:00.000Z",
+      "metaDescription": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitche",
+      "category": "tutorial-guide",
+      "difficulty": 6,
+      "confidence": 0.2909855623193628,
+      "crawledAt": "2026-09-20T18:39:22.474Z",
+      "id": "65h9qj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9220466017723083,
+          "index": 1,
+          "word": "Sc",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9430563449859619,
+          "index": 2,
+          "word": "##roll",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9720151424407959,
+          "index": 3,
+          "word": "##E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.863156795501709,
+          "index": 4,
+          "word": "##d",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9320737719535828,
+          "index": 12,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Palo Alto startup was founded by student co-founders Utsav Gupta and Rebecca Neff. The company is based in Palo Alto, California.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:41:18.489Z"
+    },
+    {
+      "title": "AGI Is Here",
+      "url": "https://pub.towardsai.net/agi-is-here-f44bb5bd9b9d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T17:01:02.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3648682936222497,
+      "crawledAt": "2026-09-20T18:39:47.386Z",
+      "id": "fl3elh",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9244544506072998,
+          "index": 1,
+          "word": "AG",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:41:27.869Z"
+    },
+    {
+      "title": "A Jev-style model fine-tuned on Qwen3.5 4B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wllv4i/a_jevstyle_model_finetuned_on_qwen35_4b/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T16:39:07.000Z",
+      "metaDescription": "This weekend, I did a fun experiment to create something similar to Jev. I LoRA fine-tuned Qwen3.5 4B using a mix of publicly available datasets and synthetic data.\n For the synthetic data, I used Dee",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.6192285589718125,
+      "crawledAt": "2026-09-20T18:40:02.956Z",
+      "id": "sjojza",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9695562720298767,
+          "index": 2,
+          "word": "Je",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This weekend, I did a fun experiment to create something similar to Jev. I LoRA fine-tuned Qwen3.5.5 4B using a mix of publicly available datasets and synthetic data. For the synthetic data, I used Dee Dee Dee.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:41:42.550Z"
+    },
+    {
+      "title": "CUDA: enable sparse fa for qwen4 by am17an · Pull Request #28770 · ggml-org/llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlkxjw/cuda_enable_sparse_fa_for_qwen4_by_am17an_pull/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T16:03:29.000Z",
+      "metaDescription": "Another day, another Qwen Flash Next speedup \n    submitted by    /u/jacek2023  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2706402875037101,
+      "crawledAt": "2026-09-20T18:40:02.258Z",
+      "id": "3do6hq",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:41:42.660Z"
+    },
+    {
+      "title": "8 Cool Things People Use the Jev Model For",
+      "url": "https://generativeai.pub/8-cool-things-people-use-the-jev-model-for-dd0ed8e785d4?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T15:30:40.000Z",
+      "metaDescription": "People are using Jev to review code, control computers, play games, and organize research. Here are my favorites.\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.39310682994743557,
+      "crawledAt": "2026-09-20T18:39:58.375Z",
+      "id": "67zb39",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.84212327003479,
+          "index": 7,
+          "word": "Je",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " People are using Jev to review code, control computers, play games, organize research. Here are my favorites.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:41:49.249Z"
+    },
+    {
+      "title": "AMD’s Taalas Bet: How Much AI Inference Really Needs a GPU?",
+      "url": "https://pub.towardsai.net/amds-taalas-bet-how-much-ai-inference-really-needs-a-gpu-78f078e0412c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T15:01:03.000Z",
+      "metaDescription": "Inside Taalas HC1: hardwired Llama, GPU memory bottlenecks and the cost of making one AI model run exceptionally well\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4282862812517632,
+      "crawledAt": "2026-09-20T18:39:47.609Z",
+      "id": "a1u03n",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9977472424507141,
+          "index": 1,
+          "word": "AM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9716057777404785,
+          "index": 2,
+          "word": "##D",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Inside Taalas HC1: hardwired Llama, GPU memory bottlenecks and the cost of making one AI model run exceptionally well.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:42:16.054Z"
+    },
+    {
+      "title": "GraphRAG: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/graphrag-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T15:00:01.000Z",
+      "metaDescription": "Beyond basic graph retrieval: six production-oriented architectures for combining semantic search, knowledge graphs, and LLM reasoning.\nThe post GraphRAG: A Practitioner's Guide to 6 Advanced Architec",
+      "category": "tutorial-guide",
+      "difficulty": 3,
+      "confidence": 0.5748152471114464,
+      "crawledAt": "2026-09-20T18:39:30.647Z",
+      "id": "owtd5d",
+      "entities": [],
+      "summary": " The post GraphRAG: A Practitioner's Guide to 6 Advanced Architec. The post includes six production-oriented architectures for combining semantic search, knowledge graphs, and LLM reasoning.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:42:26.958Z"
+    },
+    {
+      "title": "From Monitoring to Automation: Using AI Agents for AWS Operations",
+      "url": "https://pub.towardsai.net/from-monitoring-to-automation-using-ai-agents-for-aws-operations-2e87356a9aea?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T14:01:02.000Z",
+      "metaDescription": "Your CloudWatch alarm fires at 3am. It says CPU on prod-api-3 is above 85%.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9889522932739917,
+      "crawledAt": "2026-09-20T18:39:47.741Z",
+      "id": "yx57fq",
+      "entities": [],
+      "summary": " CPU on prod-api-3 is above 85%. It says CPU on the system is above the average of 85%.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:42:47.305Z"
+    },
+    {
+      "title": "Qwen-Image-2.1 released!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T13:12:41.000Z",
+      "metaDescription": "Meet Qwen-Image-2.1, the most balanced and cost-effective image generation model in the Qwen-Image series! Now open weights! 🎨\n A unified model for both generation and editing, delivering top-tier qu",
+      "category": "model-release",
+      "difficulty": 3,
+      "confidence": 0.8782695702945874,
+      "crawledAt": "2026-09-20T18:40:01.487Z",
+      "id": "9gx8bw",
+      "entities": [],
+      "summary": "Qwen-Image-2.1 is the most balanced and cost-effective image generation model in the world.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:43:10.917Z"
+    },
+    {
+      "title": "CBAM Paper Walkthrough: The Double-Attention Mechanism",
+      "url": "https://towardsdatascience.com/cbam-paper-walkthrough-the-double-attention-mechanism/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-09-20T13:00:01.000Z",
+      "metaDescription": "Understanding and implementing CBAM (Convolutional Block Attention Module) from scratch with PyTorch\nThe post CBAM Paper Walkthrough: The Double-Attention Mechanism appeared first on Towards Data Scie",
+      "category": "research-paper",
+      "difficulty": 6,
+      "confidence": 0.728396880134888,
+      "crawledAt": "2026-09-20T18:39:30.753Z",
+      "id": "34775v",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9896491169929504,
+          "index": 1,
+          "word": "CB",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9963509440422058,
+          "index": 2,
+          "word": "##AM",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "The post CBAM Paper Walkthrough: The Double-Attention Mechanism appeared first on Towards Data Scie.",
+      "language": "en",
+      "processed_at": "2026-09-20T18:43:27.990Z"
+    },
     {
       "title": "Is Typesafe based/derived from work done by the Laya author?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlfmgq/is_typesafe_basedderived_from_work_done_by_the/",
@@ -52162,740 +52520,25 @@
       "summary": " Sheriff's office says hikers were advised by Gemini to bring \"far less food and water than their group required\" Hikers were advised to bring far less food, sheriff's office said.",
       "language": "en",
       "processed_at": "2026-09-06T04:18:11.113Z"
-    },
-    {
-      "title": "Am I the only one thinking AI workflows are more of a burden than relief?",
-      "url": "https://www.reddit.com/r/artificial/comments/1w88rti/am_i_the_only_one_thinking_ai_workflows_are_more/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T18:39:47.000Z",
-      "metaDescription": "I reckon we have all seen demos where someone’s multi-agent framework spins up, researches a topic, writes code, and deploys an app while they grab coffee. but when i actually try to set something up ",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.727950228911279,
-      "crawledAt": "2026-09-06T18:12:43.837Z",
-      "id": "4ars1a",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8630666732788086,
-          "index": 7,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "When i try to set up an app, I try to create an app for a coffee app. I reckon we have all seen demos where someone’s multi-agent framework spins up.",
-      "language": "en",
-      "processed_at": "2026-09-06T18:16:53.498Z"
-    },
-    {
-      "title": "Local Agents: Hermes vs OpenClaw",
-      "url": "https://pub.towardsai.net/local-agents-hermes-vs-openclaw-9da89e478f48?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T18:01:01.000Z",
-      "metaDescription": "Run the best open-source AI Agents on your computer for free\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.3474580215133005,
-      "crawledAt": "2026-09-05T18:05:37.718Z",
-      "id": "opt6y9",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.8954824805259705,
-          "index": 4,
-          "word": "Her",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9934527277946472,
-          "index": 7,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9838951230049133,
-          "index": 8,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8659399151802063,
-          "index": 9,
-          "word": "##law",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Run the best open-source AI Agents on your computer for free. Run the most open- source AI Agents.",
-      "language": "en",
-      "processed_at": "2026-09-05T18:06:53.594Z"
-    },
-    {
-      "title": "Any resource on using Blender with local models, and which models work best?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w86wqp/any_resource_on_using_blender_with_local_models/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T17:29:50.000Z",
-      "metaDescription": "Hey all,\n I've seen some really fun looking things with people having their local models drive Blender to create pretty cool looking world scenes.\n Is there a good tutorial on setting up Blender yo be",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.30979768853328316,
-      "crawledAt": "2026-09-06T04:12:49.334Z",
-      "id": "8lxdhw",
-      "entities": [],
-      "summary": "Blender users have their local models drive Blender to create pretty looking world scenes. There's a good tutorial on setting up Blender yo be yo be a good tutorials.",
-      "language": "en",
-      "processed_at": "2026-09-06T04:18:33.354Z"
-    },
-    {
-      "title": "Otaku — an LLM frontend",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w85blf/otaku_an_llm_frontend/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T16:29:27.000Z",
-      "metaDescription": "Otaku is an LLM frontend, primarily designed for roleplay, an alternative to SillyTavern and the like. However, It also works for general-purpose chat with local backends (including Ollama) or cloud m",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.36586024997388006,
-      "crawledAt": "2026-09-06T04:12:47.446Z",
-      "id": "63j535",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9985187649726868,
-          "index": 1,
-          "word": "O",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.8185826539993286,
-          "index": 2,
-          "word": "##ta",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Otaku is an LLM frontend, primarily designed for roleplay. It also works for general-purpose chat with local backends.",
-      "language": "en",
-      "processed_at": "2026-09-06T04:18:44.098Z"
-    },
-    {
-      "title": "What's the deal with all those cheap 3D modelled web apps?",
-      "url": "https://www.reddit.com/r/artificial/comments/1w84vih/whats_the_deal_with_all_those_cheap_3d_modelled/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T16:12:00.000Z",
-      "metaDescription": "My feed is filled with demos showcasing random worlds generated by the new model that just came out, not sure about it's name but the one that is real real AGI. Thing is, most are using prefabs reused",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.3754044675729551,
-      "crawledAt": "2026-09-06T18:12:44.502Z",
-      "id": "g128cw",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9953310489654541,
-          "index": 10,
-          "word": "3D",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The new model is the first time a new model has been created. The new version of the model has a new name and a new design.",
-      "language": "en",
-      "processed_at": "2026-09-06T18:17:06.694Z"
-    },
-    {
-      "title": "Side Effects and Sagas: Retry Semantics When Agents Touch the Real World",
-      "url": "https://pub.towardsai.net/side-effects-and-sagas-retry-semantics-when-agents-touch-the-real-world-593b5c31fb8b?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T16:01:01.000Z",
-      "metaDescription": "The retry is the most dangerous line of code in your agent — because the second time around, the email has already been sent. Part twenty…\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3570544107883063,
-      "crawledAt": "2026-09-05T18:05:37.947Z",
-      "id": "7i2e7a",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8669330477714539,
-          "index": 7,
-          "word": "Re",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8512457609176636,
-          "index": 17,
-          "word": "World",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The retry is the most dangerous line of code in the world. The second time the email has been sent, the second time it's been sent.",
-      "language": "en",
-      "processed_at": "2026-09-05T18:07:12.558Z"
-    },
-    {
-      "title": "One Language, Every Job: How Python Powers AI, Backends, and Data Science",
-      "url": "https://python.plainenglish.io/one-language-every-job-how-python-powers-ai-backends-and-data-science-591cdf664b5e?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-09-05T15:50:17.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.2575287467977152,
-      "crawledAt": "2026-09-05T18:05:49.815Z",
-      "id": "glxajp",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9517453908920288,
-          "index": 5,
-          "word": "Job",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9454193711280823,
-          "index": 17,
-          "word": "Science",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-09-05T18:07:12.857Z"
-    },
-    {
-      "title": "How to Build a Book Price Tracker with Scrapy — And What Breaks Along the Way",
-      "url": "https://python.plainenglish.io/how-to-build-a-book-price-tracker-with-scrapy-and-what-breaks-along-the-way-20a04324394d?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-09-05T15:39:28.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.3993846578500443,
-      "crawledAt": "2026-09-05T18:05:50.355Z",
-      "id": "oe67ge",
-      "entities": [],
-      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
-      "language": "en",
-      "processed_at": "2026-09-05T18:07:22.336Z"
-    },
-    {
-      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-09-05T15:17:36.000Z",
-      "metaDescription": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.28691438169236433,
-      "crawledAt": "2026-09-05T18:05:01.394Z",
-      "id": "tatqtl",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9938602447509766,
-          "index": 1,
-          "word": "Te",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9466475248336792,
-          "index": 2,
-          "word": "##sla",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9770669341087341,
-          "index": 5,
-          "word": "Cy",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The US government is investigating whether the Cybercab meets vehicle safety standards. The Cybercabb is a U.S. company that makes the CyberCab.",
-      "language": "en",
-      "processed_at": "2026-09-05T18:07:32.759Z"
-    },
-    {
-      "title": "Beyond the Chatbot: Understanding SAP’s Architecture for Agentic AI",
-      "url": "https://pub.towardsai.net/beyond-the-chatbot-understanding-saps-architecture-for-agentic-ai-1d9815f159e7?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T15:01:04.000Z",
-      "metaDescription": "",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.9378943832073885,
-      "crawledAt": "2026-09-05T18:05:38.017Z",
-      "id": "ukkr3q",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9951611161231995,
-          "index": 8,
-          "word": "SA",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9897498488426208,
-          "index": 9,
-          "word": "##P",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9276508688926697,
-          "index": 15,
-          "word": "##ic",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.910895824432373,
-          "index": 16,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-09-05T18:07:32.869Z"
-    },
-    {
-      "title": "Why Transformers Need Positional Encoding For Time Series: A Visual Guide",
-      "url": "https://towardsdatascience.com/why-transformers-need-positional-encoding-for-time-series-a-visual-guide/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T15:00:01.000Z",
-      "metaDescription": "From scalar observations to self-attention, and how positional information restores sequence order\nThe post Why Transformers Need Positional Encoding For Time Series: A Visual Guide appeared first on ",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.31083819917513184,
-      "crawledAt": "2026-09-05T18:05:11.448Z",
-      "id": "un0c3c",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9774789214134216,
-          "index": 11,
-          "word": "Time",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The post Why Transformers Need Positional Encoding Encoding For Time Series: A Visual Guide appeared first on the post.",
-      "language": "en",
-      "processed_at": "2026-09-05T18:07:39.709Z"
-    },
-    {
-      "title": "Architecting for Post-OAuth AI Workload Security",
-      "url": "https://pub.towardsai.net/architecting-for-post-oauth-ai-workload-security-2d9ff46874df?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T14:31:00.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.6750065949036255,
-      "crawledAt": "2026-09-05T15:00:05.770Z",
-      "id": "apjcmh",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9846771359443665,
-          "index": 4,
-          "word": "Post",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9566254019737244,
-          "index": 6,
-          "word": "O",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8924996256828308,
-          "index": 7,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9728416204452515,
-          "index": 9,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-09-05T15:01:02.912Z"
-    },
-    {
-      "title": "The gap has closed, open source will win",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w825pc/the_gap_has_closed_open_source_will_win/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T14:25:19.000Z",
-      "metaDescription": "I've been trying the latest models from the frontier labs and honestly, after extensive testing I can not tell the difference between the best open source options.\n I think the differences are now mar",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.3065565633427414,
-      "crawledAt": "2026-09-06T04:12:47.081Z",
-      "id": "j506j4",
-      "entities": [],
-      "summary": " The latest models are the latest models from the frontier labs. I've been trying the latest model from the latest frontier labs and honestly, I can't tell the difference between the best models.",
-      "language": "en",
-      "processed_at": "2026-09-06T04:19:12.435Z"
-    },
-    {
-      "title": "A 1M-Token Context Window Holds 4 MB of Docs — But Only 1.8 MB of Your Logs",
-      "url": "https://pub.towardsai.net/a-1m-token-context-window-holds-4-mb-of-docs-but-only-1-8-mb-of-your-logs-6a6881b16f1c?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T14:01:04.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.2652218518473155,
-      "crawledAt": "2026-09-05T15:00:05.862Z",
-      "id": "s2ez9r",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8914912343025208,
-          "index": 2,
-          "word": "1",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-09-05T15:01:03.099Z"
-    },
-    {
-      "title": "NVIDIA Buying Hugging Face Is Not Just an Acquisition. It Is a Map of AI Power.",
-      "url": "https://ai.plainenglish.io/nvidia-buying-hugging-face-is-not-just-an-acquisition-it-is-a-map-of-ai-power-9a4e5826fc4d?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T13:53:19.000Z",
-      "metaDescription": "The deal may help open models scale, but it also shows how the open AI ecosystem is becoming dependent on the same companies it hoped to…\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.39865476278132456,
-      "crawledAt": "2026-09-05T15:00:12.565Z",
-      "id": "260jsp",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8584014177322388,
-          "index": 1,
-          "word": "N",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-LOC",
-          "score": 0.8872290253639221,
-          "index": 2,
-          "word": "##VI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9140861630439758,
-          "index": 3,
-          "word": "##DI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The deal may help open models scale, but it also shows how the open AI ecosystem is becoming dependent on the same companies it hoped to…",
-      "language": "en",
-      "processed_at": "2026-09-05T15:01:15.893Z"
-    },
-    {
-      "title": "AI Video Generation Tools in 2026: What’s Actually Changing for Content Creators",
-      "url": "https://ai.plainenglish.io/ai-video-generation-tools-in-2026-whats-actually-changing-for-content-creators-fcdda1764e3b?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T13:52:06.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.5405839180536671,
-      "crawledAt": "2026-09-05T15:00:12.639Z",
-      "id": "ncl0n3",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9336503148078918,
-          "index": 1,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8664383292198181,
-          "index": 2,
-          "word": "Video",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-09-05T15:01:16.016Z"
-    },
-    {
-      "title": "Agentic Video Editing: Why 2026 Is the Year Agents Take the Timeline",
-      "url": "https://ai.plainenglish.io/agentic-video-editing-why-2026-is-the-year-agents-take-the-timeline-15f75a91a9f1?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T13:51:56.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.7376693450649848,
-      "crawledAt": "2026-09-05T15:00:12.711Z",
-      "id": "ne3ydw",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-09-05T15:01:16.164Z"
-    },
-    {
-      "title": "Nvidia’s New Bottleneck Isn’t Chips. It’s Watts.",
-      "url": "https://ai.plainenglish.io/nvidias-new-bottleneck-isn-t-chips-it-s-watts-e604e0abc17c?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T13:51:24.000Z",
-      "metaDescription": "",
-      "category": "model-release",
-      "difficulty": 6,
-      "confidence": 0.2718961540894217,
-      "crawledAt": "2026-09-05T15:00:12.791Z",
-      "id": "te25mf",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9917922019958496,
-          "index": 1,
-          "word": "N",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.937161386013031,
-          "index": 2,
-          "word": "##vid",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9346541166305542,
-          "index": 3,
-          "word": "##ia",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9943265914916992,
-          "index": 7,
-          "word": "Bo",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9935028553009033,
-          "index": 8,
-          "word": "##ttle",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.990220308303833,
-          "index": 9,
-          "word": "##neck",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Announcement or discussion about new AI model releases and updates.",
-      "language": "en",
-      "processed_at": "2026-09-05T15:01:16.348Z"
-    },
-    {
-      "title": "Predictive Maintenance with AI: Keeping Industrial Equipment One Step Ahead",
-      "url": "https://ai.plainenglish.io/predictive-maintenance-with-ai-keeping-industrial-equipment-one-step-ahead-7b1846f0291d?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T13:49:49.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.4757273209294509,
-      "crawledAt": "2026-09-05T15:00:12.959Z",
-      "id": "r4nn2g",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-09-05T15:01:24.655Z"
-    },
-    {
-      "title": "The Quiet Way Machine Learning Is Reshaping Small Business Operations",
-      "url": "https://ai.plainenglish.io/the-quiet-way-machine-learning-is-reshaping-small-business-operations-d118806acfc7?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-05T13:49:20.000Z",
-      "metaDescription": "Machine learning is no longer a buzzword reserved for tech giants and startups with big funding. It is quietly becoming part of how small…\nContinue reading on Artificial Intelligence in Plain English ",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.3290530130556677,
-      "crawledAt": "2026-09-05T15:00:13.117Z",
-      "id": "sgb2o6",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.8906896710395813,
-          "index": 3,
-          "word": "Way",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.907829225063324,
-          "index": 4,
-          "word": "Machine",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9405583739280701,
-          "index": 5,
-          "word": "Learning",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8350655436515808,
-          "index": 12,
-          "word": "Operations",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Machine learning is no longer a buzzword for tech giants and startups with big funding. It is quietly becoming part of how small it is becoming.",
-      "language": "en",
-      "processed_at": "2026-09-05T15:01:34.651Z"
     }
   ],
-  "processedAt": "2026-09-20T13:07:28.934Z",
+  "processedAt": "2026-09-20T18:43:27.993Z",
   "categories": [
     "creative-ai",
-    "ai-agents",
     "infrastructure",
+    "tutorial-guide",
+    "model-release",
+    "ai-agents",
+    "research-paper",
     "product-launch",
     "developer-tool",
     "safety-ethics",
-    "model-release",
-    "industry-news",
-    "research-paper",
-    "tutorial-guide"
+    "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 21,
-  "existingArticlesKept": 1628,
+  "newArticlesProcessed": 13,
+  "existingArticlesKept": 1627,
   "cleanupApplied": true,
-  "cleanedUpCount": 22,
+  "cleanedUpCount": 20,
   "rollingWindowDays": 15
 }
