@@ -1,9 +1,860 @@
 {
-  "crawledAt": "2026-09-23T04:27:26.123Z",
+  "crawledAt": "2026-09-23T13:35:02.359Z",
   "totalSources": 70,
-  "totalArticles": 59,
+  "totalArticles": 88,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source": "Hugging Face Blog",
+      "source_domain": "huggingface.co",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T13:17:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.8889603851664956,
+      "crawledAt": "2026-09-23T13:33:08.162Z",
+      "id": "qaer7g",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8004361987113953,
+          "index": 14,
+          "word": "Time",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9054747223854065,
+          "index": 22,
+          "word": "##VI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9369385838508606,
+          "index": 29,
+          "word": "3",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:35:04.243Z"
+    },
+    {
+      "title": "How LLMs Turn Words Into Numbers: Tokenization and Embeddings-A Simple Guide",
+      "url": "https://pub.towardsai.net/how-llms-turn-words-into-numbers-tokenization-and-embeddings-a-simple-guide-6efd5eb4c216?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T13:01:05.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 6,
+      "confidence": 0.3163442656203146,
+      "crawledAt": "2026-09-23T13:33:53.589Z",
+      "id": "dznylz",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:35:16.052Z"
+    },
+    {
+      "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+      "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-09-23T13:00:00.000Z",
+      "metaDescription": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.\nThe post De",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.9918490635797408,
+      "crawledAt": "2026-09-23T13:33:25.371Z",
+      "id": "2ur1y5",
+      "entities": [],
+      "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:35:26.743Z"
+    },
+    {
+      "title": "Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T13:00:00.000Z",
+      "metaDescription": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.7555370620324026,
+      "crawledAt": "2026-09-23T13:33:19.217Z",
+      "id": "ikd6cf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9956216216087341,
+          "index": 1,
+          "word": "Spot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9941385388374329,
+          "index": 2,
+          "word": "##ify",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9480899572372437,
+          "index": 3,
+          "word": "’",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9798511862754822,
+          "index": 20,
+          "word": "Profile",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Spotify is rolling out Taste Profile to Premium users in the U.S. It lets users see how the streamer understands their tastes.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:35:37.150Z"
+    },
+    {
+      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T12:54:58.000Z",
+      "metaDescription": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9803477460258266,
+      "crawledAt": "2026-09-23T13:33:28.628Z",
+      "id": "3tsz0a",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9803023934364319,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8790953755378723,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Meta says it has issued a fix for the Muse zero-day vulnerability. The fix would have let attackers do whatever they wanted.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:35:46.261Z"
+    },
+    {
+      "title": "Meta Muse Just Changed How AI Agents Work. Here Is Why I’m Not Switching",
+      "url": "https://ai.plainenglish.io/meta-muse-just-changed-how-ai-agents-work-here-is-why-im-not-switching-588c90be1403?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T12:51:23.000Z",
+      "metaDescription": "A deep dive into the new “Godthread” architecture, proactive artefacts, and the cloud-only VM constraints that make it a tough sell for…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.7297676604498208,
+      "crawledAt": "2026-09-23T13:34:01.698Z",
+      "id": "nmdia9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8910265564918518,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A deep dive into the new “Godthread’s architecture, proactive artefacts, and the cloud-only VM constraints that make it a tough sell for…",
+      "language": "en",
+      "processed_at": "2026-09-23T13:35:59.654Z"
+    },
+    {
+      "title": "How GRPO Trains Small Language Models with Verifiable Rewards",
+      "url": "https://towardsdatascience.com/how-grpo-trains-small-language-models-with-verifiable-rewards/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T12:30:01.000Z",
+      "metaDescription": "The mechanics behind local reasoning experiments with Unsloth and why the reward function matters as much as the model.\nThe post How GRPO Trains Small Language Models with Verifiable Rewards appeared ",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.27432228472161885,
+      "crawledAt": "2026-09-23T13:33:32.389Z",
+      "id": "tpcw66",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9929625391960144,
+          "index": 2,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9419269561767578,
+          "index": 3,
+          "word": "##RP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9548807144165039,
+          "index": 7,
+          "word": "Language",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The mechanics behind local reasoning experiments with Unsloth. The reward function matters as much as the model. The mechanics of the reward function are behind the model.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:36:10.913Z"
+    },
+    {
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T12:10:00.000Z",
+      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.33240849347765195,
+      "crawledAt": "2026-09-23T13:33:30.278Z",
+      "id": "6248h5",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997793436050415,
+          "index": 5,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9392266273498535,
+          "index": 13,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Download is a daily dose of what’s going on in the world of technology. Use the weekly Newsquiz to test your knowledge of stories you saw on The Download.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:36:26.539Z"
+    },
+    {
+      "title": "AI Skill 是什麼？把重複規則整理成 AI 工作手冊｜AI Coding 入門 Day 11",
+      "url": "https://www.youtube.com/watch?v=TZP-PYraTAE",
+      "source": "Sam Witteveen",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-23T12:00:33.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9650250691063267,
+      "crawledAt": "2026-09-23T13:34:25.508Z",
+      "id": "70s977",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:36:38.827Z"
+    },
+    {
+      "title": "High-Performance Data Processing with Polars: A KDnuggets Cheat Sheet",
+      "url": "https://www.kdnuggets.com/high-performance-data-processing-with-polars-a-cheat-sheet",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-09-23T12:00:19.000Z",
+      "metaDescription": "Polars is a DataFrame library written in Rust on the Apache Arrow memory format, and the speed comes less from the language than from the model. The model? Describe your work as expressions, and the P",
+      "category": "research-paper",
+      "difficulty": 3,
+      "confidence": 0.3640491007192763,
+      "crawledAt": "2026-09-23T13:34:55.131Z",
+      "id": "nvctjv",
+      "entities": [],
+      "summary": " Polars is a DataFrame library written in Rust on the Apache Arrow format. The speed is less from the language than from the model.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:37:03.638Z"
+    },
+    {
+      "title": "Quiz: Cursor vs Copilot: Which AI Editor Is Better for Python?",
+      "url": "https://realpython.com/quizzes/cursor-vs-copilot/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-09-23T12:00:00.000Z",
+      "metaDescription": "In this quiz, you’ll test your understanding of\nCursor vs Copilot: Which AI Editor Is Better for Python?\nBoth editors ship a similar list of features, so the interesting differences show up somewhere ",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.27113106935705344,
+      "crawledAt": "2026-09-23T13:34:58.886Z",
+      "id": "uqne3",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9687756896018982,
+          "index": 8,
+          "word": "Co",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Both editors ship a similar list of features, so the differences show up somewhere. In this quiz, you’ll test your understanding of Cursor vs Copilot: Which AI Editor is Better for Python?",
+      "language": "en",
+      "processed_at": "2026-09-23T13:37:28.979Z"
+    },
+    {
+      "title": "The AI Kill Switch Nobody Has Ever Tested",
+      "url": "https://generativeai.pub/the-ai-kill-switch-nobody-has-ever-tested-d2d9b6a976c9?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T11:37:55.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.5795678833493421,
+      "crawledAt": "2026-09-23T13:34:05.639Z",
+      "id": "fiypcm",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9975254535675049,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9981536865234375,
+          "index": 4,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9919752478599548,
+          "index": 5,
+          "word": "##witch",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:37:58.169Z"
+    },
+    {
+      "title": "The $23K AI Influencer Is the Wrong Number to Look At",
+      "url": "https://generativeai.pub/the-23k-ai-influencer-is-the-wrong-number-to-look-at-e85475d724ac?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T11:16:15.000Z",
+      "metaDescription": "Everyone citing this figure as proof AI influencers are lucrative is quoting a number that isn’t really measuring what they think it’s…\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.32133402329764704,
+      "crawledAt": "2026-09-23T13:34:05.806Z",
+      "id": "881ys6",
+      "entities": [],
+      "summary": " Everyone citing this figure as proof AI influencers are lucrative is quoting a number that isn’t really measuring what they think it’s…Continue reading on Generative AI.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:38:09.357Z"
+    },
+    {
+      "title": "How to Make Your First World Model from Scratch",
+      "url": "https://towardsdatascience.com/how-to-make-your-first-world-model-from-scratch/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T11:00:02.000Z",
+      "metaDescription": "A beginner-friendly guide to building a world model in Python, letting it daydream its way through CartPole, and accurately measuring when the illusion collapses.\nThe post How to Make Your First World",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.30573430081367814,
+      "crawledAt": "2026-09-23T13:33:32.561Z",
+      "id": "wf0bea",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9504478573799133,
+          "index": 4,
+          "word": "Your",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.99635249376297,
+          "index": 6,
+          "word": "World",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9903374910354614,
+          "index": 7,
+          "word": "Model",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A beginner-friendly guide to building a world model in Python. Let it daydream its way through CartPole, and accurately measure when the illusion collapses.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:38:42.303Z"
+    },
+    {
+      "title": "7 Python Libraries That Take the Complexity Out of Networking",
+      "url": "https://python.plainenglish.io/7-python-libraries-that-take-the-complexity-out-of-networking-f640f3ef6cb2?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-09-23T10:53:11.000Z",
+      "metaDescription": "Networking has a reputation for being complicated.\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.4063938354584829,
+      "crawledAt": "2026-09-23T13:34:03.192Z",
+      "id": "gpkfl0",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9396523237228394,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Networking has a reputation for being complicated. Networking is a popular way to communicate with people. Networking can be difficult, but it can be fun, says CNN's John Sutter.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:38:55.371Z"
+    },
+    {
+      "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
+      "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T10:15:00.000Z",
+      "metaDescription": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.4056906801270382,
+      "crawledAt": "2026-09-23T13:33:28.781Z",
+      "id": "m5n8mx",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.999197244644165,
+          "index": 1,
+          "word": "AT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.998910129070282,
+          "index": 2,
+          "word": "&",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990245699882507,
+          "index": 3,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9732723832130432,
+          "index": 5,
+          "word": "Auto",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The telecom giant is eager to show Wall Street that it can do more with less with less. That means fewer employees, less electricity, and increased automation.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:39:06.924Z"
+    },
+    {
+      "title": "Maestro 2.10: Small YAML Files, Serious Mobile Tests",
+      "url": "https://generativeai.pub/maestro-2-10-small-yaml-files-serious-mobile-tests-0502c45a9761?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T09:27:52.000Z",
+      "metaDescription": "A practical introduction to mobile UI automation, reusable flows, and the new dark-mode testing commands.\nContinue reading on Generative AI »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.25561968209902036,
+      "crawledAt": "2026-09-23T13:34:05.955Z",
+      "id": "t2zi66",
+      "entities": [],
+      "summary": " A practical introduction to mobile UI automation, reusable flows, and new dark-mode testing commands. A practical explanation to mobileUI automation, and reusable flows.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:39:18.896Z"
+    },
+    {
+      "title": "Will AI Really End Humanity?",
+      "url": "https://generativeai.pub/will-ai-really-end-humanity-87d0684eb1ab?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T09:06:34.000Z",
+      "metaDescription": "Inside the resignation, the sudden CEO consensus, and why nobody can just pull the plug\nContinue reading on Generative AI »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.541022076967581,
+      "crawledAt": "2026-09-23T13:34:06.536Z",
+      "id": "m4y6gw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9010993242263794,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The sudden CEO consensus, the sudden CEO resignation, and why nobody can just pull the plug. Inside the resignation, the suddenly CEO consensus.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:39:51.543Z"
+    },
+    {
+      "title": "Smart glasses are already causing havoc in India",
+      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T09:00:00.000Z",
+      "metaDescription": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.26249759727063016,
+      "crawledAt": "2026-09-23T13:33:30.458Z",
+      "id": "j4tfd0",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9996580481529236,
+          "index": 9,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The video was recorded at a protest in Delhi, India. It was posted on Instagram by a friend of the group.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:40:02.988Z"
+    },
+    {
+      "title": "How do you split AI models across ideation, math, and coding?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wnzols/how_do_you_split_ai_models_across_ideation_math/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T07:59:39.000Z",
+      "metaDescription": "Hi, I'm a freshly graduated (undergrad) guy currently working on 3–4 projects in parallel:\n - An AI research project: working on a research problem statement, aiming towards a paper publication\n - New",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.35684003825557364,
+      "crawledAt": "2026-09-23T13:34:10.411Z",
+      "id": "r9xums",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9859150052070618,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The New - New - is a freshly graduated (undergrad) guy currently working on 3–4 projects in parallel.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:40:14.376Z"
+    },
+    {
+      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+      "url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-23T07:44:17.000Z",
+      "metaDescription": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads:",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9874992333876709,
+      "crawledAt": "2026-09-23T13:33:36.586Z",
+      "id": "uqd3h4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8535894751548767,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8535078763961792,
+          "index": 2,
+          "word": "Agents",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9105789065361023,
+          "index": 8,
+          "word": "Mal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.881412148475647,
+          "index": 9,
+          "word": "##ware",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:40:26.164Z"
+    },
+    {
+      "title": "AI Agents Are Coming to Enterprise Software. The Hard Part Is Integration",
+      "url": "https://pub.towardsai.net/ai-agents-are-coming-to-enterprise-software-the-hard-part-is-integration-da58d8d770ce?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T07:24:27.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9158684737594763,
+      "crawledAt": "2026-09-23T13:33:53.790Z",
+      "id": "nctbgh",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8826919794082642,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:40:26.278Z"
+    },
+    {
+      "title": "GPT-6 Launched 20 Days Ago. New Relic’s Open-Source Cost Tracker Still Bills It $0.",
+      "url": "https://pub.towardsai.net/gpt-6-launched-20-days-ago-new-relics-open-source-cost-tracker-still-bills-it-0-eea215515089?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T07:24:13.000Z",
+      "metaDescription": "​\nContinue reading on Towards AI »",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.5873979111987726,
+      "crawledAt": "2026-09-23T13:33:53.907Z",
+      "id": "rt2jsj",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:40:26.521Z"
+    },
+    {
+      "title": "Story Points Stopped Working the Day AI Started Writing Code",
+      "url": "https://pub.towardsai.net/story-points-stopped-working-the-day-ai-started-writing-code-c83a68d9ba5e?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T07:23:12.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.36595699895575706,
+      "crawledAt": "2026-09-23T13:33:54.140Z",
+      "id": "f5i0sc",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:40:27.016Z"
+    },
+    {
+      "title": "Building an AI-First Software Engineering Organisation",
+      "url": "https://pub.towardsai.net/building-an-ai-first-software-engineering-organisation-c0ef3108c843?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T07:22:56.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.7563674276264704,
+      "crawledAt": "2026-09-23T13:33:54.199Z",
+      "id": "naqfrz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9956779479980469,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.999193549156189,
+          "index": 6,
+          "word": "Software",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9992802739143372,
+          "index": 7,
+          "word": "Engineering",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9978589415550232,
+          "index": 8,
+          "word": "Organisation",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:40:27.150Z"
+    },
+    {
+      "title": "Why Is Dataflow Gen2 Slow ?",
+      "url": "https://pub.towardsai.net/why-is-dataflow-gen2-so-slow-bc203873996f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T07:19:33.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.41742805639723435,
+      "crawledAt": "2026-09-23T13:33:54.373Z",
+      "id": "9eo2ey",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:40:36.705Z"
+    },
+    {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T04:59:08.000Z",
+      "metaDescription": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4557608172702809,
+      "crawledAt": "2026-09-23T13:33:19.570Z",
+      "id": "mt3fbu",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997429847717285,
+          "index": 13,
+          "word": "Greece",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Greek Prime Minister Kyriakos Mitsotakis admitted that no government is ready for what AI is about to do.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:40:45.950Z"
+    },
     {
       "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
       "url": "https://arxiv.org/abs/2609.22277",
@@ -1409,6 +2260,42 @@
       "processed_at": "2026-09-23T04:42:10.953Z"
     },
     {
+      "title": "ICLR main paper + Supplementary in 1 submission",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wnry1d/iclr_main_paper_supplementary_in_1_submission_r/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-23T01:15:59.000Z",
+      "metaDescription": "Can you attach the supplementary material along with my paper when uploading it? Or would the paper be desk-rejected if I do so?\n I don’t want to split it into two separate files: the main paper and t",
+      "category": "research-paper",
+      "difficulty": 6,
+      "confidence": 0.509063788676564,
+      "crawledAt": "2026-09-23T13:34:09.308Z",
+      "id": "kgafqo",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9466016888618469,
+          "index": 1,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8269529342651367,
+          "index": 2,
+          "word": "##CL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I don’t want to split it into two separate files: the main paper and t. Can you attach the supplementary material along with my paper when uploading it? Or would the paper be desk-rejected if I do so?",
+      "language": "en",
+      "processed_at": "2026-09-23T13:41:03.287Z"
+    },
+    {
       "title": "Unsloth Studio VS LM Studio... Which one do you prefer?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnrh76/unsloth_studio_vs_lm_studio_which_one_do_you/",
       "source": "r/LocalLLaMA",
@@ -1940,6 +2827,25 @@
       "processed_at": "2026-09-23T04:44:16.928Z"
     },
     {
+      "title": "Opus 5.5 — Anthropic Finally Listened?",
+      "url": "https://www.youtube.com/watch?v=04qy4OWteio",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-22T18:15:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.32455018453057805,
+      "crawledAt": "2026-09-23T13:34:24.753Z",
+      "id": "r4mh5m",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-23T13:41:03.392Z"
+    },
+    {
       "title": "AntLing open sourced the Ming-Image-0.1-Design family",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnh7tk/antling_open_sourced_the_mingimage01design_family/",
       "source": "r/LocalLLaMA",
@@ -2102,19 +3008,20 @@
       "processed_at": "2026-09-23T04:45:45.991Z"
     }
   ],
-  "processedAt": "2026-09-23T04:45:45.997Z",
+  "processedAt": "2026-09-23T13:41:17.852Z",
   "categories": [
-    "ai-agents",
-    "infrastructure",
     "creative-ai",
-    "research-paper",
     "safety-ethics",
+    "developer-tool",
+    "product-launch",
+    "ai-agents",
+    "research-paper",
+    "infrastructure",
     "model-release",
-    "industry-news",
-    "developer-tool"
+    "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 59,
-  "dailyArticlesCount": 59,
+  "newArticlesProcessed": 29,
+  "dailyArticlesCount": 88,
   "filterDate": "2026-09-23"
 }
