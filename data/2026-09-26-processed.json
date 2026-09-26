@@ -1,9 +1,410 @@
 {
-  "crawledAt": "2026-09-26T19:10:56.083Z",
+  "crawledAt": "2026-09-26T22:38:55.754Z",
   "totalSources": 70,
-  "totalArticles": 63,
+  "totalArticles": 75,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Koboldcpp v1.122 released",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr3esw/koboldcpp_v1122_released/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T22:24:22.000Z",
+      "metaDescription": "submitted by    /u/Fcking_Chuck  \n [link]   [comments]",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.6814471094030317,
+      "crawledAt": "2026-09-26T22:38:19.233Z",
+      "id": "ans9ad",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9986217617988586,
+          "index": 1,
+          "word": "Ko",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9982132911682129,
+          "index": 2,
+          "word": "##bol",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9877036213874817,
+          "index": 3,
+          "word": "##d",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9957811832427979,
+          "index": 4,
+          "word": "##c",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9903239011764526,
+          "index": 5,
+          "word": "##pp",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:38:57.758Z"
+    },
+    {
+      "title": "Why AI Chatbots Violate HIPAA Without Leaving the Building",
+      "url": "https://pub.towardsai.net/why-ai-chatbots-violate-hipaa-without-leaving-the-building-460ab116a40e?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T22:01:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.29293298071486745,
+      "crawledAt": "2026-09-26T22:38:07.881Z",
+      "id": "3erh6t",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9936333894729614,
+          "index": 9,
+          "word": "H",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.983815610408783,
+          "index": 10,
+          "word": "##IP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9742938876152039,
+          "index": 11,
+          "word": "##AA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:38:58.029Z"
+    },
+    {
+      "title": "How AI In Future Will Remember Past Without Reading Everything",
+      "url": "https://pub.towardsai.net/how-ai-in-future-will-remember-past-without-reading-everything-3f81b61a8537?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T21:31:01.000Z",
+      "metaDescription": "Continue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4029721611530748,
+      "crawledAt": "2026-09-26T22:38:07.956Z",
+      "id": "t34h3q",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:38:58.165Z"
+    },
+    {
+      "title": "Your AI Agent Doesn’t Ask What “Late” Means. It Guesses.",
+      "url": "https://pub.towardsai.net/your-ai-agent-doesnt-ask-what-late-means-it-guesses-78cca2ea79d3?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T21:31:01.000Z",
+      "metaDescription": "Why Your AI Agent Needs a Domain Model Before It Needs a Better Prompt\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9886029637855089,
+      "crawledAt": "2026-09-26T22:38:08.081Z",
+      "id": "z3qvzo",
+      "entities": [],
+      "summary": " Why Your AI Agent Needs a Domain Model before It Needs a Better Prompt Model before it Needs a better Prompt. Read on Towards AI.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:39:06.411Z"
+    },
+    {
+      "title": "Run Qwen3.8+Flash-Next and tiny models on Apple Silicon up to 3x faster",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr1qlz/run_qwen38flashnext_and_tiny_models_on_apple/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T21:10:37.000Z",
+      "metaDescription": "Maybe you'll like it? I hope I get to use my self-promotion credit a tiny little bit here after being in the community so long haha. I was the top of MLX.fast for a while and remain the winner on chip",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.9810909770483459,
+      "crawledAt": "2026-09-26T22:38:19.722Z",
+      "id": "gp05a4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9569372534751892,
+          "index": 15,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9311448931694031,
+          "index": 16,
+          "word": "Silicon",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I hope I get to get to use my self-promotion credit a tiny little bit here after being in the community so long. I was the top of MLXfast for a while and remain the winner on chip.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:39:18.825Z"
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T21:02:06.000Z",
+      "metaDescription": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.7624959451475605,
+      "crawledAt": "2026-09-26T22:37:32.492Z",
+      "id": "pnh0ho",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8281040787696838,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Blue Cross Blue Shield says use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:39:26.059Z"
+    },
+    {
+      "title": "Laya vs Gemma: Who Wins the Doom Game?",
+      "url": "https://pub.towardsai.net/laya-vs-gemma-who-wins-the-doom-game-18d3b30f303b?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T21:01:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.25704394542338027,
+      "crawledAt": "2026-09-26T22:38:08.145Z",
+      "id": "7oq5yn",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8867742419242859,
+          "index": 1,
+          "word": "Lay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9447197914123535,
+          "index": 4,
+          "word": "Gemma",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.968242347240448,
+          "index": 10,
+          "word": "Doom",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.986519455909729,
+          "index": 11,
+          "word": "Game",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:39:26.162Z"
+    },
+    {
+      "title": "GPT-6 Sol vs Claude Opus 5.5: Same Week, Different Bet",
+      "url": "https://pub.towardsai.net/gpt-6-sol-vs-claude-opus-5-5-same-week-different-bet-e975a66dcb6b?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T20:01:01.000Z",
+      "metaDescription": "OpenAI shipped GPT-6 Sol on September 22, 2026. Anthropic shipped Claude Opus 5.5 about an hour earlier, the same day. Neither company…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3529988129226139,
+      "crawledAt": "2026-09-26T22:38:08.511Z",
+      "id": "509xuq",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9983800649642944,
+          "index": 7,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9978246092796326,
+          "index": 8,
+          "word": "Opus",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "OpenAI shipped GPT-6 Sol on September 22, 2026. Anthropic shipped Claude Opus 5.5 about an hour earlier, the same day.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:39:59.682Z"
+    },
+    {
+      "title": "Can Rewriting an AI Agent Bend the Intelligence Curve? - Zhengyao Jiang",
+      "url": "https://www.youtube.com/watch?v=yB6_iFGTq9k",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-26T19:32:30.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.6076613794666854,
+      "crawledAt": "2026-09-26T22:38:24.966Z",
+      "id": "bf1zu6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8659400343894958,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995079040527344,
+          "index": 15,
+          "word": "Zheng",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.991432249546051,
+          "index": 16,
+          "word": "##ya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8055164813995361,
+          "index": 17,
+          "word": "##o",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9980858564376831,
+          "index": 18,
+          "word": "Jiang",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:40:13.197Z"
+    },
+    {
+      "title": "Antigravity SDK Local Models: Build Offline Coding Agents That Stay Useful",
+      "url": "https://pub.towardsai.net/antigravity-sdk-local-models-build-offline-coding-agents-that-stay-useful-1e460b9e9164?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T19:31:01.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.4629169450531882,
+      "crawledAt": "2026-09-26T22:38:08.587Z",
+      "id": "5xshj2",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:40:13.355Z"
+    },
+    {
+      "title": "Engineering a Multi-Agent AI Platform — Part 8: Measuring What Matters",
+      "url": "https://pub.towardsai.net/engineering-a-multi-agent-ai-platform-part-8-measuring-what-matters-ac312405f6bf?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T19:01:01.000Z",
+      "metaDescription": "This is the conclusion of a series on engineering AI systems that learn in production. Part 2 introduced the reward signal that drives the…\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9924493832897846,
+      "crawledAt": "2026-09-26T22:38:08.736Z",
+      "id": "2jwrbk",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9256801009178162,
+          "index": 5,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This is the conclusion of a series on engineering AI systems that learn in production. Part 2 of the series is on the subject of AI technology.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:40:22.066Z"
+    },
     {
       "title": "Should You Choose Microsoft Fabric or Azure Synapse?",
       "url": "https://pub.towardsai.net/should-you-choose-microsoft-fabric-or-azure-synapse-83ee8c3b1a4a?source=rss----98111c9905da---4",
@@ -1410,6 +1811,34 @@
       "processed_at": "2026-09-26T04:43:38.869Z"
     },
     {
+      "title": "JEV vs Thinking Models: 100% to 0%",
+      "url": "https://www.youtube.com/watch?v=S4efgdWLvIc",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-24T13:00:34.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3193422676755407,
+      "crawledAt": "2026-09-26T22:38:31.352Z",
+      "id": "2whcui",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8664013147354126,
+          "index": 6,
+          "word": "Models",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-26T22:40:22.317Z"
+    },
+    {
       "title": "10 YOE Fullstack Dev pivoting to MLOps & Private Enterprise AI — Reality check on my plan and a 270h course ?",
       "url": "https://www.reddit.com/r/mlops/comments/1woywqp/10_yoe_fullstack_dev_pivoting_to_mlops_private/",
       "source": "r/MLOps",
@@ -1764,20 +2193,20 @@
       "processed_at": "2026-09-26T13:04:45.547Z"
     }
   ],
-  "processedAt": "2026-09-26T19:15:46.978Z",
+  "processedAt": "2026-09-26T22:40:22.325Z",
   "categories": [
-    "infrastructure",
-    "developer-tool",
+    "model-release",
     "creative-ai",
     "ai-agents",
-    "model-release",
-    "industry-news",
     "safety-ethics",
+    "infrastructure",
+    "developer-tool",
+    "industry-news",
     "research-paper",
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 23,
-  "dailyArticlesCount": 63,
+  "newArticlesProcessed": 12,
+  "dailyArticlesCount": 75,
   "filterDate": "2026-09-26"
 }
