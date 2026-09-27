@@ -1,9 +1,247 @@
 {
-  "crawledAt": "2026-09-26T22:38:55.754Z",
+  "crawledAt": "2026-09-27T04:59:35.314Z",
   "totalSources": 70,
-  "totalArticles": 1760,
+  "totalArticles": 1765,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "SupersonicLabs/Julia-1 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr8d4d/supersoniclabsjulia1_hugging_face/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-27T02:24:05.000Z",
+      "metaDescription": "New open source Jev like model for running on local devices from a group called Supersonic Labs.\n It's a 144M param local non-generative local classifier.\n From their site:\n  \nJulia 1 opens our resear",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5396461061833965,
+      "crawledAt": "2026-09-27T04:59:00.856Z",
+      "id": "7vxfwe",
+      "entities": [],
+      "summary": " New open source Jev like model for running on local devices from group called Supersonic Labs. It's a 144M param local non-generative local classifier.",
+      "language": "en",
+      "processed_at": "2026-09-27T04:59:50.307Z"
+    },
+    {
+      "title": "Navigating Cost Efficient Hardware in these Volatile Times",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr7tgb/navigating_cost_efficient_hardware_in_these/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-27T01:55:54.000Z",
+      "metaDescription": "Where to even begin on this one...I guess I should start by acknowledging the risk vs reward for vendors other than nvidia, so:\n Yes I understand that nvidia are dominant currently on speed (llm and i",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.30143251342275,
+      "crawledAt": "2026-09-27T04:59:01.236Z",
+      "id": "852eim",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9140228629112244,
+          "index": 14,
+          "word": "##ati",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8956268429756165,
+          "index": 15,
+          "word": "##le",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9417535066604614,
+          "index": 16,
+          "word": "Times",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " n Nvidia are dominant currently on speed (llm and i) n Nvidia is dominant on speed. The company is also dominant on the speed (m andi)",
+      "language": "en",
+      "processed_at": "2026-09-27T05:00:04.160Z"
+    },
+    {
+      "title": "Laya: A Free, Local Stand-In for TypeSafe’s Jev — If You Use It for the Right Job",
+      "url": "https://pub.towardsai.net/laya-a-free-local-stand-in-for-typesafes-jev-if-you-use-it-for-the-right-job-11aa0903f011?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-27T00:01:02.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.31766600516919064,
+      "crawledAt": "2026-09-27T04:58:46.671Z",
+      "id": "bwe0xq",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9038101434707642,
+          "index": 12,
+          "word": "Type",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9316531419754028,
+          "index": 13,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9192297458648682,
+          "index": 14,
+          "word": "##af",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8205300569534302,
+          "index": 15,
+          "word": "##e",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:00:33.567Z"
+    },
+    {
+      "title": "I Tested APIs Built for AI Agents. Here’s What Changed",
+      "url": "https://pub.towardsai.net/i-tested-apis-built-for-ai-agents-heres-what-changed-d6879fb6cf25?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-27T00:01:02.000Z",
+      "metaDescription": "A hands on comparison of REST APIs, agent ready APIs, and MCP servers with real AI agents.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.668154679034805,
+      "crawledAt": "2026-09-27T04:58:46.822Z",
+      "id": "s5fv2c",
+      "entities": [],
+      "summary": " A hands on comparison of REST APIs, agent ready APIs, and MCP servers with real AI agents. A hands-on comparison of the REST APIs and agent ready API.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:00:49.821Z"
+    },
+    {
+      "title": "AI Can Write Your Code. Can It Maintain It?",
+      "url": "https://pub.towardsai.net/ai-can-write-your-code-can-it-maintain-it-041a0f48cefe?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T23:31:01.000Z",
+      "metaDescription": "AI generated code ships fast, but the maintenance data tells a different story. Here’s what comprehension debt actually costs.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.26235185156581536,
+      "crawledAt": "2026-09-27T04:58:47.127Z",
+      "id": "hg44vi",
+      "entities": [],
+      "summary": " AI generated code ships fast, but maintenance data tells a different story. Here’s what comprehension debt actually costs.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:01:27.900Z"
+    },
+    {
+      "title": "how often is the thing that caused ur agent bug not even in the trace?",
+      "url": "https://www.reddit.com/r/LangChain/comments/1wr4b9d/how_often_is_the_thing_that_caused_ur_agent_bug/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T23:06:08.000Z",
+      "metaDescription": "this one has been fucking with me lately\n u can have what looks like a really detailed trace and still eventually find out the actual issue was something outside it\n config changed\n permissions were d",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.30034386473817165,
+      "crawledAt": "2026-09-27T04:59:05.578Z",
+      "id": "zho8up",
+      "entities": [],
+      "summary": "This one has been fucking with me lately. I can have what looks like a really detailed trace and still eventually find out the actual issue was something outside it was something out of the config config change.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:01:43.480Z"
+    },
+    {
+      "title": "AI Agents Hacking: 6 Incidents That Changed Everything",
+      "url": "https://pub.towardsai.net/ai-agents-hacking-6-incidents-that-changed-everything-5c6a8db59c69?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T23:01:02.000Z",
+      "metaDescription": "Six documented incidents in 12 months show how AI agents went from hacking assistants to autonomous attackers.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.985866617707478,
+      "crawledAt": "2026-09-27T04:58:47.255Z",
+      "id": "u6ayri",
+      "entities": [],
+      "summary": " Six documented incidents in 12 months show how AI agents went from hacking assistants to autonomous attackers. Six documented cases in 12 years show how the agents went on to become autonomous attackers.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:01:56.309Z"
+    },
+    {
+      "title": "Fine-Tuning to Quantization: What Free-Tier Hardware Can Prove",
+      "url": "https://pub.towardsai.net/fine-tuning-to-quantization-what-free-tier-hardware-can-prove-bb4359c2a5cd?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T23:01:02.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 9,
+      "confidence": 0.5107837040806211,
+      "crawledAt": "2026-09-27T04:58:47.336Z",
+      "id": "yru7hu",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:01:56.452Z"
+    },
+    {
+      "title": "You Think AI Made You a Faster Coder. A New Study Says You’re Wrong.",
+      "url": "https://pub.towardsai.net/you-think-ai-made-you-a-faster-coder-a-new-study-says-youre-wrong-13f74d353c68?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T22:31:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.4199518921767975,
+      "crawledAt": "2026-09-27T04:58:47.512Z",
+      "id": "r13eet",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8556813597679138,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:01:56.836Z"
+    },
     {
       "title": "Koboldcpp v1.122 released",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr3esw/koboldcpp_v1122_released/",
@@ -1142,6 +1380,34 @@
       "processed_at": "2026-09-26T19:15:38.546Z"
     },
     {
+      "title": "How are people handling state, time and conflicting records in RAG?",
+      "url": "https://www.reddit.com/r/LangChain/comments/1wqpwfb/how_are_people_handling_state_time_and/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T12:57:46.000Z",
+      "metaDescription": "submitted by    /u/jylusdev  \n [link]   [comments]",
+      "category": "industry-news",
+      "difficulty": 4,
+      "confidence": 0.2691366814721923,
+      "crawledAt": "2026-09-27T04:59:06.287Z",
+      "id": "ljgwzu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8550362586975098,
+          "index": 12,
+          "word": "RA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:02:27.289Z"
+    },
+    {
       "title": "The Python Library Features I Never Knew I Was Missing",
       "url": "https://python.plainenglish.io/the-python-library-features-i-never-knew-i-was-missing-c96891cde456?source=rss----78073def27b8---4",
       "source": "Python in Plain English",
@@ -1253,6 +1519,34 @@
       "processed_at": "2026-09-26T12:58:43.872Z"
     },
     {
+      "title": "We published an open standard for AI agent commitment tracking. LangChain isn't compliant yet here's the spec.",
+      "url": "https://www.reddit.com/r/LangChain/comments/1wqnij2/we_published_an_open_standard_for_ai_agent/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T10:50:30.000Z",
+      "metaDescription": "Most of my test agents run on LangChain, so this is partly aimed at this sub.\n The annoyance: an agent says \"I'll send the report to Sarah by Friday\", the run completes, the trace looks clean, and a w",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.8972244887822152,
+      "crawledAt": "2026-09-27T04:59:07.151Z",
+      "id": "45qyay",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9972756505012512,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The trace looks clean, and a w w w is clean, according to LangChain. The report will be sent to Sarah by Friday.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:02:40.400Z"
+    },
+    {
       "title": "LLM Content Moderation Is a Policy Layer",
       "url": "https://generativeai.pub/llm-content-moderation-is-a-policy-layer-85b4ab43acb3?source=rss----440100e76000---4",
       "source": "Generative AI",
@@ -1308,6 +1602,58 @@
       "summary": " Qwen3.8fn 6bpw exl3 (from turboderp) on a 6x3090 (from a 6X3090) Qwen 3.8bn (from an ex-turbulence) on the 6x50 (from the 6X50",
       "language": "en",
       "processed_at": "2026-09-26T12:59:31.857Z"
+    },
+    {
+      "title": "Looking for AI - agent builders working in finance/blockchain to help us test Agaemon - a governance layer between agents and execution.",
+      "url": "https://www.reddit.com/r/LangChain/comments/1wqmngx/looking_for_ai_agent_builders_working_in/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T09:57:39.000Z",
+      "metaDescription": "​\n We're building Agaemon, a governance and decision layer designed for AI agents that need to take real world or onchain actions.\n We've already integrated Agaemon into our agent/runtime flow and we'",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9571629120842547,
+      "crawledAt": "2026-09-27T04:59:06.520Z",
+      "id": "j8nk5x",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8735744953155518,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9817414879798889,
+          "index": 18,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8832073211669922,
+          "index": 19,
+          "word": "##ga",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9524326920509338,
+          "index": 20,
+          "word": "##emon",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Agaemon is a governance and decision layer designed for AI agents that need to take real world or onchain actions.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:02:56.265Z"
     },
     {
       "title": "Agent retry loop burned 400 dollars overnight, are per agent token budgets at the gateway the fix",
@@ -1439,6 +1785,25 @@
       "summary": "Discussion about AI models and tools mentioned in the title.",
       "language": "en",
       "processed_at": "2026-09-26T13:00:42.210Z"
+    },
+    {
+      "title": "Built a lightweight, framework-agnostic intent & tool router using Jev AI",
+      "url": "https://www.reddit.com/r/LangChain/comments/1wqhyx3/built_a_lightweight_frameworkagnostic_intent_tool/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-26T05:11:54.000Z",
+      "metaDescription": "Hey everyone,\n Lately, while building agent architectures, I kept running into the same bottleneck: waiting for large generative LLMs to decide which tool to call or which path to take at every step i",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.48914455730366385,
+      "crawledAt": "2026-09-27T04:59:06.918Z",
+      "id": "eao237",
+      "entities": [],
+      "summary": " Lately, while building agent architecture, while developing agent architectures, I kept running into the same bottleneck. I kept waiting for large generative LLMs to decide which tool to call or which path to take at every step i.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:03:12.252Z"
     },
     {
       "title": "AI Doomer Jacob Coxon Lied",
@@ -2297,6 +2662,42 @@
       "processed_at": "2026-09-25T19:59:42.833Z"
     },
     {
+      "title": "Surviving 1M+ Context Windows: Architectural Lessons from VRAM Fragmentation and Dynamic KV Caching",
+      "url": "https://www.reddit.com/r/LangChain/comments/1wq1swi/surviving_1m_context_windows_architectural/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-25T17:03:50.000Z",
+      "metaDescription": "submitted by    /u/Top-Philosopher-5411  \n [link]   [comments]",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.4609761991069525,
+      "crawledAt": "2026-09-27T04:59:07.610Z",
+      "id": "kkie54",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9534424543380737,
+          "index": 4,
+          "word": "1",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8416041731834412,
+          "index": 9,
+          "word": "Windows",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:03:26.627Z"
+    },
+    {
       "title": "Make Volta Fast Again",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq1rmf/make_volta_fast_again/",
       "source": "r/LocalLLaMA",
@@ -2821,6 +3222,25 @@
       "summary": " The post 10 Things I'm Learning Beyond AI to Become More Technologically Fluent appeared first on Towards Data Science.",
       "language": "en",
       "processed_at": "2026-09-25T20:01:34.423Z"
+    },
+    {
+      "title": "Adding Agent Skills to LangChain/LangGraph: lessons on context, caching, and artifacts",
+      "url": "https://www.reddit.com/r/LangChain/comments/1wpz4g4/adding_agent_skills_to_langchainlanggraph_lessons/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-25T15:20:05.000Z",
+      "metaDescription": "I added Agent Skills support to Cameron, my open-source finance agent built with LangChain/LangGraph. Three decisions mattered more than the loader code:\n  \nLoad instructions on demand; choose tool lo",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.43172900757574734,
+      "crawledAt": "2026-09-27T04:59:08.176Z",
+      "id": "wbmgzg",
+      "entities": [],
+      "summary": "Cameron's open-source finance agent built with LangChain/LangGraph. Three decisions mattered more than the loader code.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:03:41.199Z"
     },
     {
       "title": "The Transactional Outbox Pattern in Symfony: Keeping Your Database and RabbitMQ Consistent",
@@ -3686,6 +4106,25 @@
       "processed_at": "2026-09-25T13:35:37.040Z"
     },
     {
+      "title": "My process for handling red teaming large language models in production and how I messed it up.",
+      "url": "https://www.reddit.com/r/LangChain/comments/1wpvp0y/my_process_for_handling_red_teaming_large/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-25T12:59:20.000Z",
+      "metaDescription": "if the model is live, has tool access, and can see customer content, i run the same order every time. first i scope the prompts and data sources, then i test jailbreaks in staging, then i run exfil tr",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.5509194701868255,
+      "crawledAt": "2026-09-27T04:59:08.390Z",
+      "id": "z2z9g8",
+      "entities": [],
+      "summary": " i run the same order every time. First i scope the prompts and data sources, then test jailbreaks in staging, then i run exfil tr tr tr. If the model is live, has tool access, has tools access, and can see customer content.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:04:00.408Z"
+    },
+    {
       "title": "RAG Isn't an Agent — I Built the Layer Between Retrieval and Action",
       "url": "https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/",
       "source": "Towards Data Science",
@@ -4421,6 +4860,34 @@
       "summary": " A strong, diverse portfolio showcases p. A strong portfolio showcases a strong, diversity portfolio. A strong and diverse portfolio showcase p. Projects are the bridge between learning and becoming a professional.",
       "language": "en",
       "processed_at": "2026-09-25T13:38:46.209Z"
+    },
+    {
+      "title": "Checkpointer vs durable execution for prod LangGraph: what do you actually do about side effects?",
+      "url": "https://www.reddit.com/r/LangChain/comments/1wppy9n/checkpointer_vs_durable_execution_for_prod/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-25T07:27:50.000Z",
+      "metaDescription": "Disclosure: I'm a developer advocate at Diagrid, which builds durable execution tooling. That makes me biased toward option three below, and it's also why I'm asking instead of telling.\n Genuine quest",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.30455706899359236,
+      "crawledAt": "2026-09-27T04:59:08.776Z",
+      "id": "yc0djy",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9805775284767151,
+          "index": 11,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Diagrid, which builds durable execution tooling, is a developer advocate at Diagrrid. Diagri is a company that makes durable execution tools.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:04:49.090Z"
     },
     {
       "title": "8 Cool Things People Are Actually Using GPT-6 Astra For",
@@ -6562,6 +7029,34 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-09-25T04:53:01.292Z"
+    },
+    {
+      "title": "Building a RAG based chatbot on a huge codebase",
+      "url": "https://www.reddit.com/r/LangChain/comments/1wpj0lk/building_a_rag_based_chatbot_on_a_huge_codebase/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-25T01:07:52.000Z",
+      "metaDescription": "submitted by    /u/OkWeird2709  \n [link]   [comments]",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.9870349668916816,
+      "crawledAt": "2026-09-27T04:59:08.885Z",
+      "id": "55qypp",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9548833966255188,
+          "index": 3,
+          "word": "RA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-27T05:04:58.690Z"
     },
     {
       "title": "What's up with AAAI reviewers and organizers?",
@@ -57285,429 +57780,15 @@
       "summary": " A 262 144-token context window, adjustable reasoning effort, tool calling, and text, image and video understanding.",
       "language": "en",
       "processed_at": "2026-09-12T22:15:57.537Z"
-    },
-    {
-      "title": "Concerning \"humanlike models\" and chatbot RP in general...",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we2rp2/concerning_humanlike_models_and_chatbot_rp_in/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-09-12T04:36:59.000Z",
-      "metaDescription": "So, uh... the popularity of so-called humanlike Qwen (currently on top in this sub) made me realize just how clueless the general public is about the models they have.\n You'd be shocked but you don't ",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.39726090904485367,
-      "crawledAt": "2026-09-12T22:09:28.673Z",
-      "id": "674op6",
-      "entities": [],
-      "summary": " The popularity of Qwen has caused a stir in the world of human models. Qwen's popularity has led to a surge in popularity in recent years.",
-      "language": "en",
-      "processed_at": "2026-09-12T22:16:10.204Z"
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI Blog",
-      "source_domain": "openai.com",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-09-12T04:13:52.199Z",
-      "metaDescription": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.30620768943418425,
-      "crawledAt": "2026-09-12T04:13:52.199Z",
-      "id": "t5fz8k",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9802109003067017,
-          "index": 5,
-          "word": "GP",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9143559336662292,
-          "index": 6,
-          "word": "##T",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Astra uses Astra to write communications, change software, and monitor production systems. Astra checks in much less than with earlier models.",
-      "language": "en",
-      "processed_at": "2026-09-12T04:14:49.293Z"
-    },
-    {
-      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-      "url": "https://arxiv.org/abs/2609.10584",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-09-12T04:00:00.000Z",
-      "metaDescription": "arXiv:2609.10584v1 Announce Type: new \nAbstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance withi",
-      "category": "safety-ethics",
-      "difficulty": 3,
-      "confidence": 0.2874517830497883,
-      "crawledAt": "2026-09-12T04:14:31.761Z",
-      "id": "oisw34",
-      "entities": [],
-      "summary": " Focal Search (FS) uses heuristic guidance withi. Focal search seeks a solution within a factor $w$ of optimal while reducing search effort.",
-      "language": "en",
-      "processed_at": "2026-09-12T04:14:59.631Z"
-    },
-    {
-      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-      "url": "https://arxiv.org/abs/2609.10654",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-09-12T04:00:00.000Z",
-      "metaDescription": "arXiv:2609.10654v1 Announce Type: new \nAbstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. Th",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.2813135551075297,
-      "crawledAt": "2026-09-12T04:14:31.883Z",
-      "id": "uysacr",
-      "entities": [],
-      "summary": " The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization. It can infer and apply abstract rules from limited examples.",
-      "language": "en",
-      "processed_at": "2026-09-12T04:15:21.932Z"
-    },
-    {
-      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "url": "https://arxiv.org/abs/2609.10712",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-09-12T04:00:00.000Z",
-      "metaDescription": "arXiv:2609.10712v1 Announce Type: new \nAbstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from N",
-      "category": "creative-ai",
-      "difficulty": 7,
-      "confidence": 0.2954216762834408,
-      "crawledAt": "2026-09-12T04:14:32.063Z",
-      "id": "34a1zs",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9837387204170227,
-          "index": 7,
-          "word": "I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9944887161254883,
-          "index": 8,
-          "word": "##MO",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9793280363082886,
-          "index": 9,
-          "word": "Gold",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9978392124176025,
-          "index": 17,
-          "word": "Olympia",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9829252362251282,
-          "index": 18,
-          "word": "##d",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9707512259483337,
-          "index": 19,
-          "word": "Mathematics",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "ArXiv:2609. arXiv. arxiv: 2609.10712v1 Announce Type: new.10711v1. arXv:2608v1. ar Xiv:.10710v1: We study how model post-training",
-      "language": "en",
-      "processed_at": "2026-09-12T04:15:57.888Z"
-    },
-    {
-      "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
-      "url": "https://arxiv.org/abs/2609.10992",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-09-12T04:00:00.000Z",
-      "metaDescription": "arXiv:2609.10992v1 Announce Type: new \nAbstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information. Current ",
-      "category": "safety-ethics",
-      "difficulty": 4,
-      "confidence": 0.6750006652945746,
-      "crawledAt": "2026-09-12T04:14:32.416Z",
-      "id": "ngz1ac",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9028388857841492,
-          "index": 17,
-          "word": "LL",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "The integration of Large Language Models into daily tasks relies on context-rich instructions. The integration of large language models into tasks relies upon context- rich instructions.",
-      "language": "en",
-      "processed_at": "2026-09-12T04:17:00.325Z"
-    },
-    {
-      "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
-      "url": "https://arxiv.org/abs/2609.11018",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-09-12T04:00:00.000Z",
-      "metaDescription": "arXiv:2609.11018v1 Announce Type: new \nAbstract: The term agent in artificial intelligence lacks a standard definition, complicating the evaluation, comparison, and reproducibility of AI agent researc",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.9899526131465844,
-      "crawledAt": "2026-09-12T04:14:32.477Z",
-      "id": "rgiz3r",
-      "entities": [],
-      "summary": " The term agent in artificial intelligence lacks a standard definition, complicating the evaluation, evaluation, and comparison of AI agent.",
-      "language": "en",
-      "processed_at": "2026-09-12T04:17:08.073Z"
-    },
-    {
-      "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
-      "url": "https://arxiv.org/abs/2609.11030",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-09-12T04:00:00.000Z",
-      "metaDescription": "arXiv:2609.11030v1 Announce Type: new \nAbstract: AI agents increasingly act through tools and delegated authority, but general incident repositories rarely capture the mechanisms needed to compare pub",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.9841154909852675,
-      "crawledAt": "2026-09-12T04:14:32.533Z",
-      "id": "pgt7mv",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8992763161659241,
-          "index": 2,
-          "word": "Agent",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " AI agents increasingly act through tools and delegated authority. General incident repositories rarely capture mechanisms needed to compare pub to pub.",
-      "language": "en",
-      "processed_at": "2026-09-12T04:17:15.128Z"
-    },
-    {
-      "title": "Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents",
-      "url": "https://arxiv.org/abs/2609.11060",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-09-12T04:00:00.000Z",
-      "metaDescription": "arXiv:2609.11060v1 Announce Type: new \nAbstract: Persistent memory is entering production-oriented agent platforms to help long-horizon agents accumulate experience across sessions. Yet a post-task cu",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.2901063016372452,
-      "crawledAt": "2026-09-12T04:14:32.590Z",
-      "id": "rqd321",
-      "entities": [],
-      "summary": " A post-task cu. Yet a post- task cu. But a post post-Task cu. The post-post-task is a post.",
-      "language": "en",
-      "processed_at": "2026-09-12T04:17:24.696Z"
-    },
-    {
-      "title": "The Python Data Science Stack Is Changing. Here’s What Developers Should Learn in 2026",
-      "url": "https://python.plainenglish.io/the-python-data-science-stack-is-changing-heres-what-developers-should-learn-in-2026-0743af8c8b73?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-09-12T01:31:01.000Z",
-      "metaDescription": "For years, learning Python for data science meant learning a fairly predictable stack.\nContinue reading on Python in Plain English »",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.34976557447337936,
-      "crawledAt": "2026-09-12T04:14:17.652Z",
-      "id": "p0qoqi",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9618874788284302,
-          "index": 2,
-          "word": "Python",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8777037262916565,
-          "index": 3,
-          "word": "Data",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9548473954200745,
-          "index": 4,
-          "word": "Science",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " For years, learning Python for data science meant learning a fairly predictable stack. For years. For years,. learning Python was a fairly common way to learn about data science.",
-      "language": "en",
-      "processed_at": "2026-09-12T04:17:44.046Z"
-    },
-    {
-      "title": "Some satellite companies still have an appetite for boutique launch services",
-      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-09-11T23:34:45.000Z",
-      "metaDescription": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
-      "category": "product-launch",
-      "difficulty": 3,
-      "confidence": 0.6241286796186079,
-      "crawledAt": "2026-09-12T04:13:57.634Z",
-      "id": "5pjft3",
-      "entities": [],
-      "summary": " \"Dedicated launch\" is \"pretty essential for us for most of our missions\" \"Dingicated launch is pretty essential for our missions,\" says crew member.",
-      "language": "en",
-      "processed_at": "2026-09-12T04:18:02.864Z"
-    },
-    {
-      "title": "Building a Next Best Action System with Offline RL",
-      "url": "https://pub.towardsai.net/building-a-next-best-action-system-with-offline-rl-a6031325027d?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-11T23:01:02.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.8889407810113394,
-      "crawledAt": "2026-09-12T04:14:12.003Z",
-      "id": "aujdqs",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.978252649307251,
-          "index": 4,
-          "word": "Best",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8022950887680054,
-          "index": 5,
-          "word": "Action",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
-      "language": "en",
-      "processed_at": "2026-09-12T04:18:29.119Z"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-09-11T22:58:17.000Z",
-      "metaDescription": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "category": "creative-ai",
-      "difficulty": 7,
-      "confidence": 0.29047862704553645,
-      "crawledAt": "2026-09-12T04:13:56.659Z",
-      "id": "tycck0",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9978890419006348,
-          "index": 1,
-          "word": "Me",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9835987687110901,
-          "index": 3,
-          "word": "##a",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9971856474876404,
-          "index": 4,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9991625547409058,
-          "index": 14,
-          "word": "Se",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8426102995872498,
-          "index": 17,
-          "word": "##ia",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The two-year-old startup is coming together months after Mecka announced its Series A. Series A is coming up with the idea.",
-      "language": "en",
-      "processed_at": "2026-09-12T04:18:38.627Z"
     }
   ],
-  "processedAt": "2026-09-26T22:40:22.321Z",
+  "processedAt": "2026-09-27T05:05:13.400Z",
   "categories": [
-    "model-release",
     "creative-ai",
+    "infrastructure",
     "ai-agents",
     "safety-ethics",
-    "infrastructure",
+    "model-release",
     "developer-tool",
     "industry-news",
     "research-paper",
@@ -57715,9 +57796,9 @@
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 12,
-  "existingArticlesKept": 1769,
+  "newArticlesProcessed": 18,
+  "existingArticlesKept": 1760,
   "cleanupApplied": true,
-  "cleanedUpCount": 21,
+  "cleanedUpCount": 13,
   "rollingWindowDays": 15
 }
