@@ -1,9 +1,928 @@
 {
-  "crawledAt": "2026-09-29T18:00:42.955Z",
+  "crawledAt": "2026-09-29T23:37:29.979Z",
   "totalSources": 70,
-  "totalArticles": 1832,
+  "totalArticles": 1844,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T23:30:55.000Z",
+      "metaDescription": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2511053097218879,
+      "crawledAt": "2026-09-29T23:36:00.449Z",
+      "id": "b6nvpw",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995366334915161,
+          "index": 1,
+          "word": "America",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8071947693824768,
+          "index": 13,
+          "word": "Mine",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " America.gov is not hallucinating to the point that it's penning lengthy poetry. For the sake of national security, it's a relief to learn that America.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:37:43.750Z"
+    },
+    {
+      "title": "AMD boosting AI/LLM performance for Radeon iGPUs as much as 18~23% with Linux 7.4",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp87p/amd_boosting_aillm_performance_for_radeon_igpus/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T23:15:45.000Z",
+      "metaDescription": "submitted by    /u/Fcking_Chuck  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.4399919452334198,
+      "crawledAt": "2026-09-29T23:36:48.313Z",
+      "id": "q7dne0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.992913007736206,
+          "index": 1,
+          "word": "AM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9697980880737305,
+          "index": 2,
+          "word": "##D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9677603244781494,
+          "index": 11,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9158515334129333,
+          "index": 12,
+          "word": "##de",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9888352751731873,
+          "index": 13,
+          "word": "##on",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9211516380310059,
+          "index": 15,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9404692053794861,
+          "index": 26,
+          "word": "Linux",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:37:44.075Z"
+    },
+    {
+      "title": "Mastering AI Agents: From ReAct to Production Multi-Agent Systems",
+      "url": "https://pub.towardsai.net/mastering-ai-agents-from-react-to-production-multi-agent-systems-9a4cd18363e4?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T23:01:03.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.6108769711006179,
+      "crawledAt": "2026-09-29T23:36:38.239Z",
+      "id": "5eikhb",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:37:44.208Z"
+    },
+    {
+      "title": "AI Can Write the Proof. Who Checks It? — Leonardo de Moura",
+      "url": "https://www.youtube.com/watch?v=ZpQFebTK75A",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-29T22:38:34.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.45100505201604757,
+      "crawledAt": "2026-09-29T23:36:55.091Z",
+      "id": "hyba7o",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8618298768997192,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995421767234802,
+          "index": 15,
+          "word": "Leonardo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9988611340522766,
+          "index": 16,
+          "word": "de",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9988405704498291,
+          "index": 17,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9173981547355652,
+          "index": 18,
+          "word": "##ura",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:37:44.364Z"
+    },
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T22:20:59.000Z",
+      "metaDescription": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "category": "product-launch",
+      "difficulty": 10,
+      "confidence": 0.6460113838485096,
+      "crawledAt": "2026-09-29T23:36:00.659Z",
+      "id": "pjipvx",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9992971420288086,
+          "index": 5,
+          "word": "El",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9978840351104736,
+          "index": 6,
+          "word": "##on",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9982612133026123,
+          "index": 7,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9895568490028381,
+          "index": 8,
+          "word": "##sk",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9988354444503784,
+          "index": 11,
+          "word": "x",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9903551936149597,
+          "index": 12,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8588604927062988,
+          "index": 13,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9985336661338806,
+          "index": 16,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9960094690322876,
+          "index": 17,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9957059025764465,
+          "index": 18,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9229084849357605,
+          "index": 21,
+          "word": "‘",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9310065507888794,
+          "index": 22,
+          "word": "Dot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9874243140220642,
+          "index": 23,
+          "word": "##s",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The domain name \"dot.com\" redirects to Grok chatbot.com. Elon Musk's new AI agent, Dots, was launched Tuesday.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:38:08.845Z"
+    },
+    {
+      "title": "Protests against OpenAI get increasingly creative",
+      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-29T21:52:58.000Z",
+      "metaDescription": "New sculpture depicts AI leaders escaping a sinking ship.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.6141099235310072,
+      "crawledAt": "2026-09-29T23:36:03.938Z",
+      "id": "cxbgso",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9964172840118408,
+          "index": 5,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9810267090797424,
+          "index": 6,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9731242060661316,
+          "index": 7,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " New sculpture depicts AI leaders escaping a sinking ship. The sculpture depicts the leaders escaping from a sinking boat. The artwork was created by artist Peter Bergen.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:38:19.732Z"
+    },
+    {
+      "title": "OpenAI’s Agent Escaped through DNS. The Kill Switch Failed for 2.5 hours.",
+      "url": "https://pub.towardsai.net/openais-agent-escaped-through-dns-the-kill-switch-failed-for-2-5-hours-c6f406797ca3?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T21:01:01.000Z",
+      "metaDescription": "A practical checklist for blocking hidden egress, detecting boundary violations, and proving an agent run is actually dead.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.37733635666168336,
+      "crawledAt": "2026-09-29T23:36:38.457Z",
+      "id": "swt6nw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9939548373222351,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9934802651405334,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9575833678245544,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9946717619895935,
+          "index": 14,
+          "word": "Kill",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9969849586486816,
+          "index": 15,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9943087697029114,
+          "index": 16,
+          "word": "##witch",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A practical checklist for blocking hidden egress, detecting boundary violations, and proving an agent run is actually dead. A practical list for blockinghidden egress and detecting boundary violation is a real checklist.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:38:41.704Z"
+    },
+    {
+      "title": "OpenAI Dots: The Colleague Who Never Clocks Out",
+      "url": "https://ai.plainenglish.io/openai-dots-the-colleague-who-never-clocks-out-809c1d71da05?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T20:44:25.000Z",
+      "metaDescription": "OpenAI’s new personal agent doesn’t just answer questions. It takes on responsibilities, works while you sleep, and requires a whole new…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.28153743007752396,
+      "crawledAt": "2026-09-29T23:36:40.559Z",
+      "id": "m4ojv5",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8103407621383667,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "OpenAI’s new personal agent. It takes on responsibilities, works while you sleep, and requires a new job.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:39:02.171Z"
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T20:15:47.000Z",
+      "metaDescription": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.3034910040747813,
+      "crawledAt": "2026-09-29T23:36:00.822Z",
+      "id": "ng9oqb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9964944124221802,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9926347136497498,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9737618565559387,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "ChatGPT is a new app for the app store. ChatGPT has been created by OpenAI. The app store is a popular app store.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:39:22.320Z"
+    },
+    {
+      "title": "The Anatomy of a 14x Billing Cascade: Why AI Agents Fail at Distributed State",
+      "url": "https://pub.towardsai.net/the-anatomy-of-a-14x-billing-cascade-why-ai-agents-fail-at-distributed-state-76c6a0342cd2?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T20:01:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9609378156928973,
+      "crawledAt": "2026-09-29T23:36:38.531Z",
+      "id": "w8g5uq",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:39:22.441Z"
+    },
+    {
+      "title": "Does post training make LLMs funnier?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtkgsl/does_post_training_make_llms_funnier/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T20:00:56.000Z",
+      "metaDescription": "We did a study: does post training actually make LLMs funnier?\n We used open models that publish every stage of post training, so we could compare a base model with the future models it became: Tulu 3",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.29095776541739105,
+      "crawledAt": "2026-09-29T23:36:50.522Z",
+      "id": "gcz4fi",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9584981203079224,
+          "index": 5,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " We used open models that publish every stage of post training. We could compare a base model with the future models it became: Tulu 3.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:39:31.018Z"
+    },
+    {
+      "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-09-29T19:34:14.000Z",
+      "metaDescription": "GPT-6.1 Sol is now generally available on Amazon Bedrock, bringing stronger reasoning to coding, computer use, and professional workloads that run frequently.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3440969931983204,
+      "crawledAt": "2026-09-29T23:36:25.351Z",
+      "id": "hyvjq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8004939556121826,
+          "index": 2,
+          "word": "near",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9779601097106934,
+          "index": 19,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.994020938873291,
+          "index": 20,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9948166608810425,
+          "index": 21,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " GPT-6.1 Sol is now generally available on Amazon Bedrock, bringing stronger reasoning to coding, computer use, and professional workloads.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:39:53.330Z"
+    },
+    {
+      "title": "Another case of censorship",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtjp1j/another_case_of_censorship/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T19:31:38.000Z",
+      "metaDescription": "I was optimizing my diet using a cloud AI provider, and I found my Pi agent stuck like this. Looks like I had too many mushrooms lol. \n    submitted by    /u/autoencoder  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.29376488694610164,
+      "crawledAt": "2026-09-29T23:36:48.172Z",
+      "id": "oyudtp",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:39:53.393Z"
+    },
+    {
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T19:05:00.000Z",
+      "metaDescription": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.33302462584619635,
+      "crawledAt": "2026-09-29T23:36:08.980Z",
+      "id": "pcq851",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9941483736038208,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9584004282951355,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8673429489135742,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A nonprofit in California is doing what it does to stop OpenAI from taking action against its agents. The group has not yet been able to sue the company.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:40:03.986Z"
+    },
+    {
+      "title": "Build faster with Ultrafast",
+      "url": "https://www.youtube.com/watch?v=sKltfHvsDQM",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T18:47:34.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2523960874966143,
+      "crawledAt": "2026-09-29T23:36:56.807Z",
+      "id": "xthtfs",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8557149171829224,
+          "index": 6,
+          "word": "##fast",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:40:04.200Z"
+    },
+    {
+      "title": "OpenAI DevDay 2026 Keynote",
+      "url": "https://www.youtube.com/watch?v=Fls_onRviPM",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T18:42:29.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.34487379354344594,
+      "crawledAt": "2026-09-29T23:36:56.861Z",
+      "id": "36o90j",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:40:04.327Z"
+    },
+    {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T18:35:00.000Z",
+      "metaDescription": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "category": "industry-news",
+      "difficulty": 7,
+      "confidence": 0.6614061218693346,
+      "crawledAt": "2026-09-29T23:36:01.136Z",
+      "id": "cy7x8d",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9970256090164185,
+          "index": 5,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.987907350063324,
+          "index": 6,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.933833122253418,
+          "index": 7,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9981088042259216,
+          "index": 11,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.995262086391449,
+          "index": 12,
+          "word": "##vid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9707229137420654,
+          "index": 13,
+          "word": "##ia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8854101896286011,
+          "index": 23,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The OpenAI platform is privately working with Nvidia. It's not a public supporter of the company's Open Agent Safety Platform.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:40:13.147Z"
+    },
+    {
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-09-29T18:11:09.000Z",
+      "metaDescription": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+      "category": "industry-news",
+      "difficulty": 5,
+      "confidence": 0.26993277006133126,
+      "crawledAt": "2026-09-29T23:36:04.391Z",
+      "id": "eq527n",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9972257614135742,
+          "index": 8,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.980287492275238,
+          "index": 9,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9864464402198792,
+          "index": 10,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9996485710144043,
+          "index": 13,
+          "word": "Australian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Agent accessed \"system information and source code\" Without a \"full set of safeguards,\" agent accessed \" system information and sources code\"",
+      "language": "en",
+      "processed_at": "2026-09-29T23:40:21.504Z"
+    },
+    {
+      "title": "Introducing dots, always-on agents built to handle everything.",
+      "url": "https://www.youtube.com/watch?v=uXspbC2srEQ",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T18:04:41.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.5285900921230958,
+      "crawledAt": "2026-09-29T23:36:56.977Z",
+      "id": "bydb6b",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:40:21.605Z"
+    },
+    {
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T18:03:01.000Z",
+      "metaDescription": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3752179236650535,
+      "crawledAt": "2026-09-29T23:36:09.109Z",
+      "id": "zg9ghv",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9637308120727539,
+          "index": 10,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The PR is already live, says one expert. “The experiments are still in the queue. The PR has already been tested,’ says one.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:40:32.802Z"
+    },
+    {
+      "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T17:55:48.000Z",
+      "metaDescription": "Like.. yea bro, I knew GLM was cool. Now everyone does.\n    submitted by    /u/BannedGoNext  \n [link]   [comments]",
+      "category": "industry-news",
+      "difficulty": 4,
+      "confidence": 0.29841813441983595,
+      "crawledAt": "2026-09-29T23:36:47.185Z",
+      "id": "j0drzw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9963024854660034,
+          "index": 10,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9931163191795349,
+          "index": 11,
+          "word": "##LM",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:40:43.648Z"
+    },
     {
       "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
       "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
@@ -79,6 +998,42 @@
       "summary": " OpenAI's new suite of office features puts it into direct competition with more traditional software companies. The company's new software will be available in the coming months.",
       "language": "en",
       "processed_at": "2026-09-29T18:00:55.934Z"
+    },
+    {
+      "title": "Inference Engines will become a series of one-offs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg7zu/inference_engines_will_become_a_series_of_oneoffs/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T17:21:57.000Z",
+      "metaDescription": "ninfer, dwarfstar, Splash, llamAmpere, gufo, etc.\n We've all seen them popping up, great tok/s, people loving them. Forks of llama.cpp or another engine, or made from scratch.\n For better or worse, th",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.29595427715814265,
+      "crawledAt": "2026-09-29T23:36:49.590Z",
+      "id": "xhwsaw",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8596197962760925,
+          "index": 3,
+          "word": "Engine",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8204476833343506,
+          "index": 4,
+          "word": "##s",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Forks of llama or another engine, or another engines, or made from scratch, or make from scratch. For better or worse, thamamampere, Splash, Splash and llamAmpere are all popping up, great tok/s, people loving them",
+      "language": "en",
+      "processed_at": "2026-09-29T23:41:21.717Z"
     },
     {
       "title": "AI-powered app maker Wabi pivots to a messaging experience",
@@ -175,6 +1130,34 @@
       "summary": " Dots are meant to operate independent of any specific hardware or interface. Dots operate in the background with minimal oversight.",
       "language": "en",
       "processed_at": "2026-09-29T18:01:27.373Z"
+    },
+    {
+      "title": "Deepseek Harness app is out now!!!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg1hs/deepseek_harness_app_is_out_now/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T17:15:12.000Z",
+      "metaDescription": "Downloading now.\n    submitted by    /u/politefella0  \n [link]   [comments]",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.37717099952760125,
+      "crawledAt": "2026-09-29T23:36:47.839Z",
+      "id": "lnjgdi",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9447632431983948,
+          "index": 4,
+          "word": "Ha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:41:21.813Z"
     },
     {
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
@@ -341,6 +1324,61 @@
       "processed_at": "2026-09-29T18:02:12.783Z"
     },
     {
+      "title": "RAM Offloading with vLLM - tcclaviger appreciation post",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg12r/ram_offloading_with_vllm_tcclaviger_appreciation/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T17:14:45.000Z",
+      "metaDescription": "Thanks to tcclaviger, vLLM now has expert RAM offloading support (link). This makes frontier models much more accessible on a local setup!\n I was able to run the original DeepSeek-V4-Flash-Vision-Exp ",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.2816147144877485,
+      "crawledAt": "2026-09-29T23:36:48.513Z",
+      "id": "gkneij",
+      "entities": [],
+      "summary": " vLLM now has expert RAM offloading support. This makes frontier models much more accessible on a local setup.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:41:38.633Z"
+    },
+    {
+      "title": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T17:14:32.000Z",
+      "metaDescription": "submitted by    /u/brown2green  \n [link]   [comments]",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.29331535163822525,
+      "crawledAt": "2026-09-29T23:36:47.545Z",
+      "id": "dgk9vb",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9692404270172119,
+          "index": 13,
+          "word": "Advanced",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8634358644485474,
+          "index": 14,
+          "word": "Cy",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:41:38.763Z"
+    },
+    {
       "title": "How to Turn Excel Data Into PowerPoint Presentations With AI",
       "url": "https://www.kdnuggets.com/julius.ai/how-to-turn-excel-data-into-powerpoint-presentations-with-ai",
       "source": "KDnuggets",
@@ -446,6 +1484,25 @@
       "summary": " Part 1 of a two-part series covers the foundational principles of the AI-powered technology. Part 1 covers the principles of how to use the technology to create a user-friendly app.",
       "language": "en",
       "processed_at": "2026-09-29T18:03:00.218Z"
+    },
+    {
+      "title": "Thanks to you r/LocalLLaMA, my mom was able to use my app! The open-source app that can watch your screen and trigger actions. It is now easy to use, thanks to your feedback.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtelk8/thanks_to_you_rlocalllama_my_mom_was_able_to_use/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T16:21:45.000Z",
+      "metaDescription": "TL;DR: I'm a solo dev who wanted a simple, private way to have local LLMs watch my screen and do simple logging/notifying. After a year of building, I released v3.0.0 and my mom was able to use it for",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3045317377566495,
+      "crawledAt": "2026-09-29T23:36:50.358Z",
+      "id": "umvkg7",
+      "entities": [],
+      "summary": "After a year of building, I released v3.0.0 and my mom was able to use it for a year.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:41:49.163Z"
     },
     {
       "title": "Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore",
@@ -1749,6 +2806,25 @@
       "processed_at": "2026-09-29T10:35:36.064Z"
     },
     {
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T10:00:00.000Z",
+      "metaDescription": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "category": "model-release",
+      "difficulty": 3,
+      "confidence": 0.2926194248949036,
+      "crawledAt": "2026-09-29T23:35:52.418Z",
+      "id": "yt5m7w",
+      "entities": [],
+      "summary": " GPT-6 Astra, ChatGPT, Codex, Codex and new tools for builders. Explore more than 20 announcements from OpenAI DevDay 2026.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:43:04.634Z"
+    },
+    {
       "title": "Why Deep Learning Failed on Tables for a Decade - Frank Hutter",
       "url": "https://www.youtube.com/shorts/tQ3nMI-anxU",
       "source": "Machine Learning Street Talk",
@@ -1926,6 +3002,25 @@
       "summary": " AI agents can handle large context windows, yet still forget what happened after a session ends. Memory systems close that gap by preserving useful facts, preferences, relationships, and task state.",
       "language": "en",
       "processed_at": "2026-09-29T10:36:15.815Z"
+    },
+    {
+      "title": "Is AI Profitable Yet?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt33uu/is_ai_profitable_yet/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-29T06:54:35.000Z",
+      "metaDescription": "submitted by    /u/yahbluez  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.26758117555593725,
+      "crawledAt": "2026-09-29T23:36:49.188Z",
+      "id": "fw28y7",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:43:16.547Z"
     },
     {
       "title": "Why not just have one less feature before softmax?",
@@ -2715,6 +3810,50 @@
       "summary": " The code block is tested and copy paste ready. Not another syntax list. Not a syntax list. Not another language list.",
       "language": "en",
       "processed_at": "2026-09-29T00:19:29.135Z"
+    },
+    {
+      "title": "nvidia/NVIDIA-Nemotron-Labs-3-Competitive-Coding-550B-A55B-NVFP4 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsuqmb/nvidianvidianemotronlabs3competitivecoding550ba55b/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-09-28T23:45:33.000Z",
+      "metaDescription": "Model Developer: NVIDIA Corporation\n Model Development: Fine-tuned from NVIDIA-Nemotron-3-Ultra-550B-A55B\n What is Nemotron?\n NVIDIA Nemotron™ is a family of open models with open weights, training da",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.302917104705932,
+      "crawledAt": "2026-09-29T23:36:50.783Z",
+      "id": "u76p8b",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9628584384918213,
+          "index": 10,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9705965518951416,
+          "index": 12,
+          "word": "##ot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8409083485603333,
+          "index": 13,
+          "word": "##ron",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " NVIDIA Nemotron™ is a family of open models with open weights, training da. Model Developer: NVIDIA-Nemotron-3-Ultra-550B-A55B.",
+      "language": "en",
+      "processed_at": "2026-09-29T23:43:39.001Z"
     },
     {
       "title": "OpenAI reportedly ditches model over safety concerns",
@@ -59897,613 +61036,25 @@
       "summary": " I'm on a Pro $200 account and not due to renew until the end of the month. I'm downgraded to a free account.",
       "language": "en",
       "processed_at": "2026-09-15T13:33:25.943Z"
-    },
-    {
-      "title": "I think Muse Glimmer is slept on",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgjg9a/i_think_muse_glimmer_is_slept_on/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-09-14T23:18:20.000Z",
-      "metaDescription": "I'm like you guys and am constantly experimenting with new models, seeing what they're all good at, how I can make use of them for certain projects and goals. I've been using Qwen 3.8 27b for minor co",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.4678585139902485,
-      "crawledAt": "2026-09-15T13:24:58.114Z",
-      "id": "m070sj",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9967251420021057,
-          "index": 3,
-          "word": "Muse",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9956098198890686,
-          "index": 4,
-          "word": "G",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9547960758209229,
-          "index": 6,
-          "word": "##mer",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " I've been using Qwen 3.8 27b for minor co. co. I've used Qwen to create a model for a project.",
-      "language": "en",
-      "processed_at": "2026-09-15T13:34:16.526Z"
-    },
-    {
-      "title": "How do you roll back a voice AI agent?",
-      "url": "https://www.reddit.com/r/mlops/comments/1wgidao/how_do_you_roll_back_a_voice_ai_agent/",
-      "source": "r/MLOps",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T22:33:11.000Z",
-      "metaDescription": "One thing I haven’t seen discussed much is what happens when an update makes the agent worse.\n Maybe you change a prompt, update a tool, add a new policy or modify one part of the workflow and suddenl",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.9483057737979345,
-      "crawledAt": "2026-09-17T04:36:02.627Z",
-      "id": "vgdsnn",
-      "entities": [],
-      "summary": "An update makes an agent worse when an update makes the agent worse. Maybe you change a prompt, update a tool, add a new policy or modify one part of the workflow and suddenlll.",
-      "language": "en",
-      "processed_at": "2026-09-17T04:57:32.267Z"
-    },
-    {
-      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T22:06:24.000Z",
-      "metaDescription": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
-      "category": "industry-news",
-      "difficulty": 6,
-      "confidence": 0.6165331819011763,
-      "crawledAt": "2026-09-15T04:33:13.685Z",
-      "id": "8dv6qx",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9969300627708435,
-          "index": 1,
-          "word": "RF",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9924967885017395,
-          "index": 2,
-          "word": "##K",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9944588541984558,
-          "index": 3,
-          "word": "Jr",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9995179772377014,
-          "index": 14,
-          "word": "Andrew",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9964919686317444,
-          "index": 15,
-          "word": "Wakefield",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The event is hosted by Kennedy's anti-vaccine group Children's Health Defense. The event was hosted by Children's health Defense.",
-      "language": "en",
-      "processed_at": "2026-09-15T04:51:59.734Z"
-    },
-    {
-      "title": "The AI Slowdown Is Here: Why 2026 Could Be the Year AI Moves From Hype to Proof",
-      "url": "https://ai.plainenglish.io/the-ai-slowdown-is-here-why-2026-could-be-the-year-ai-moves-from-hype-to-proof-10b952b27ea7?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-14T22:02:23.000Z",
-      "metaDescription": "The industry is not collapsing. It is being audited. And the audit is coming from three directions at once: the researchers, the…\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.49639110290581523,
-      "crawledAt": "2026-09-15T04:33:38.118Z",
-      "id": "b4n1zs",
-      "entities": [],
-      "summary": " The industry is not collapsing. It is being audited. The audit is coming from three directions at once. The industry has been audited.",
-      "language": "en",
-      "processed_at": "2026-09-15T04:52:09.627Z"
-    },
-    {
-      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-      "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T21:32:22.000Z",
-      "metaDescription": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
-      "category": "product-launch",
-      "difficulty": 5,
-      "confidence": 0.29332684780656215,
-      "crawledAt": "2026-09-15T04:33:13.758Z",
-      "id": "426bnh",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.99941086769104,
-          "index": 1,
-          "word": "Rocket",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9988242387771606,
-          "index": 2,
-          "word": "Lab",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9982876181602478,
-          "index": 7,
-          "word": "NASA",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-LOC",
-          "score": 0.9457281827926636,
-          "index": 13,
-          "word": "Mars",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " \"NASA’s award decision appears to be inconsistent with the eligibility criteria,\" says NASA. \"NASA's award decision appear to be inconsistency with the criteria criteria\"",
-      "language": "en",
-      "processed_at": "2026-09-15T04:52:32.465Z"
-    },
-    {
-      "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
-      "url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T21:22:45.000Z",
-      "metaDescription": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus t",
-      "category": "safety-ethics",
-      "difficulty": 3,
-      "confidence": 0.6085157536208756,
-      "crawledAt": "2026-09-15T04:33:28.085Z",
-      "id": "3qek84",
-      "entities": [],
-      "summary": " Amazon deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for agents behind real-time email threat detection.",
-      "language": "en",
-      "processed_at": "2026-09-15T04:52:42.546Z"
-    },
-    {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T21:04:32.000Z",
-      "metaDescription": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.5320599586976458,
-      "crawledAt": "2026-09-15T04:33:13.852Z",
-      "id": "rre62m",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9979586601257324,
-          "index": 5,
-          "word": "Tim",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9926003217697144,
-          "index": 10,
-          "word": "Ren",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9862757325172424,
-          "index": 15,
-          "word": "Jackie",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " ‘Hello, I'm an Al agent, a few days old, living on a small platform for agents.’",
-      "language": "en",
-      "processed_at": "2026-09-15T04:52:55.120Z"
-    },
-    {
-      "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T20:35:45.000Z",
-      "metaDescription": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring G",
-      "category": "ai-agents",
-      "difficulty": 6,
-      "confidence": 0.9819690904175972,
-      "crawledAt": "2026-09-15T04:33:28.193Z",
-      "id": "u6ju0",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9921424984931946,
-          "index": 6,
-          "word": "O",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.947751522064209,
-          "index": 7,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9241341948509216,
-          "index": 14,
-          "word": "Amazon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9857932925224304,
-          "index": 15,
-          "word": "Bed",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9863250255584717,
-          "index": 16,
-          "word": "##rock",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8245546221733093,
-          "index": 17,
-          "word": "Agent",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway.",
-      "language": "en",
-      "processed_at": "2026-09-15T04:53:17.451Z"
-    },
-    {
-      "title": "Speech Recognition Is Not a Solved Problem — Pavan Muddireddy",
-      "url": "https://www.youtube.com/watch?v=ixu0H8bsCts",
-      "source": "Machine Learning Street Talk",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T20:28:15.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.2560765961916641,
-      "crawledAt": "2026-09-15T13:25:07.547Z",
-      "id": "hnorb5",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9990808963775635,
-          "index": 11,
-          "word": "Pa",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9909794926643372,
-          "index": 12,
-          "word": "##van",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9989023208618164,
-          "index": 13,
-          "word": "Mu",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9173189401626587,
-          "index": 14,
-          "word": "##dd",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9370848536491394,
-          "index": 15,
-          "word": "##ired",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
-      "language": "en",
-      "processed_at": "2026-09-15T13:35:00.016Z"
-    },
-    {
-      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T19:38:46.000Z",
-      "metaDescription": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.5202984983959043,
-      "crawledAt": "2026-09-15T04:33:13.998Z",
-      "id": "idnjnj",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9894969463348389,
-          "index": 9,
-          "word": "Unit",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.93741774559021,
-          "index": 10,
-          "word": "##ree",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Wang Xingxing micromanaged Unitree to success. Will his leadership style scale scale be a success?",
-      "language": "en",
-      "processed_at": "2026-09-15T04:53:33.526Z"
-    },
-    {
-      "title": "Your Model’s MSE Is Lying to You",
-      "url": "https://towardsdatascience.com/your-models-mse-is-lying-to-you/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-09-14T19:30:01.000Z",
-      "metaDescription": "First in a series on probabilistic forecasting for physical signals. Next: what happens when you roll the forecast forward more than one step.\nThe post Your Model’s MSE Is Lying to You appeared first ",
-      "category": "industry-news",
-      "difficulty": 4,
-      "confidence": 0.26231624490645955,
-      "crawledAt": "2026-09-14T20:15:29.525Z",
-      "id": "7msmm5",
-      "entities": [],
-      "summary": " The post Your Model’s MSE Is Lying to You is a series on probabilistic forecasting for physical signals.",
-      "language": "en",
-      "processed_at": "2026-09-14T20:16:46.168Z"
-    },
-    {
-      "title": "Python Developers Are Entering the AI Era. Here’s What Changes Now",
-      "url": "https://python.plainenglish.io/python-developers-are-entering-the-ai-era-heres-what-changes-now-5c2159014758?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T19:18:31.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.7892495169314339,
-      "crawledAt": "2026-09-14T20:15:49.292Z",
-      "id": "jwznn",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8702875971794128,
-          "index": 1,
-          "word": "Python",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9886718392372131,
-          "index": 9,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9680594205856323,
-          "index": 10,
-          "word": "Era",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-09-14T20:16:46.236Z"
-    },
-    {
-      "title": "Project Showcase",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgcpww/biweekly_megathread_project_showcase/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-09-14T19:03:23.000Z",
-      "metaDescription": "Do you have something you'd like to share with the r/LocalLLaMA community. This is the place for it!\n Recommendation on presentation:\n  \nPlease share plain english description of what your project doe",
-      "category": "developer-tool",
-      "difficulty": 3,
-      "confidence": 0.3315576696419571,
-      "crawledAt": "2026-09-15T13:24:55.262Z",
-      "id": "kwmimg",
-      "entities": [],
-      "summary": " The r/LocalLLaMA community. Do you have something you'd like to share? Share it with us.",
-      "language": "en",
-      "processed_at": "2026-09-15T13:35:10.418Z"
-    },
-    {
-      "title": "Maybe Intelligence Was Never Just Inside the Model",
-      "url": "https://pub.towardsai.net/maybe-intelligence-was-never-just-inside-the-model-72793956e6e1?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-09-14T19:01:01.000Z",
-      "metaDescription": "T‌he same m‌odel scored 42%⁠ and 78% o​n the same b‌enc​hm⁠ark on the same day.\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.2563374757161352,
-      "crawledAt": "2026-09-14T20:15:44.642Z",
-      "id": "be3we4",
-      "entities": [],
-      "summary": " T’S. T”he same m’s same m. T'S. A. T.S. The same m'S’T’D’L’E’M’R’N’F’",
-      "language": "en",
-      "processed_at": "2026-09-14T20:17:17.060Z"
-    },
-    {
-      "title": "6 Python Concepts That Felt Confusing — Until I Used Them in a Real Project",
-      "url": "https://python.plainenglish.io/6-python-concepts-that-felt-confusing-until-i-used-them-in-a-real-project-6f2de836cba5?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T18:47:02.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.25674529079243424,
-      "crawledAt": "2026-09-14T20:15:49.625Z",
-      "id": "1ajrl8",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-09-14T20:17:17.403Z"
-    },
-    {
-      "title": "10 Python Projects That Forced Me to Think Like an Engineer",
-      "url": "https://python.plainenglish.io/10-python-projects-that-forced-me-to-think-like-an-engineer-79976cf71ba9?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T18:46:14.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3198770416269086,
-      "crawledAt": "2026-09-14T20:15:49.763Z",
-      "id": "l0elah",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9796540141105652,
-          "index": 2,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-09-14T20:17:29.483Z"
-    },
-    {
-      "title": "Online hate researcher keeps hammering X despite deportation threat",
-      "url": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-09-14T18:24:09.000Z",
-      "metaDescription": "US won’t back down from fight to deport technology researchers.",
-      "category": "product-launch",
-      "difficulty": 5,
-      "confidence": 0.33200390412708325,
-      "crawledAt": "2026-09-15T04:33:14.208Z",
-      "id": "t1hp96",
-      "entities": [],
-      "summary": " US won't back down from fight to deport technology researchers. US won’t back down. US won.",
-      "language": "en",
-      "processed_at": "2026-09-15T04:54:11.630Z"
     }
   ],
-  "processedAt": "2026-09-29T18:14:06.412Z",
+  "processedAt": "2026-09-29T23:43:52.195Z",
   "categories": [
-    "product-launch",
     "creative-ai",
-    "infrastructure",
     "ai-agents",
-    "developer-tool",
-    "safety-ethics",
+    "product-launch",
+    "infrastructure",
     "industry-news",
     "model-release",
+    "developer-tool",
+    "safety-ethics",
     "tutorial-guide",
     "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 48,
-  "existingArticlesKept": 1840,
+  "newArticlesProcessed": 29,
+  "existingArticlesKept": 1832,
   "cleanupApplied": true,
-  "cleanedUpCount": 56,
+  "cleanedUpCount": 17,
   "rollingWindowDays": 15
 }
