@@ -1,9 +1,750 @@
 {
-  "crawledAt": "2026-10-03T04:58:43.400Z",
+  "crawledAt": "2026-10-03T13:16:43.855Z",
   "totalSources": 70,
-  "totalArticles": 25,
+  "totalArticles": 49,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Claude Mods - The Biggest Claude Code Upgrade!",
+      "url": "https://www.youtube.com/watch?v=XaYubuLtW8M",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T13:15:06.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3813201365654658,
+      "crawledAt": "2026-10-03T13:16:27.567Z",
+      "id": "1p80og",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9962749481201172,
+          "index": 1,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9955124258995056,
+          "index": 2,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9195107221603394,
+          "index": 9,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9776945114135742,
+          "index": 10,
+          "word": "Code",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:16:45.322Z"
+    },
+    {
+      "title": "LSTM Explained: How Neural Networks Remember Long-Term Information",
+      "url": "https://pub.towardsai.net/lstm-explained-how-neural-networks-remember-long-term-information-ee210d10f0cf?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T13:06:01.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.4226354639921884,
+      "crawledAt": "2026-10-03T13:16:08.874Z",
+      "id": "oog5fg",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9907686114311218,
+          "index": 1,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8984242081642151,
+          "index": 2,
+          "word": "##ST",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:16:45.417Z"
+    },
+    {
+      "title": "Debugging LLMs Without Guesswork: A Practical Langfuse Tutorial",
+      "url": "https://pub.towardsai.net/debugging-llms-without-guesswork-a-practical-langfuse-tutorial-03cb26358f5d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T12:39:35.000Z",
+      "metaDescription": "",
+      "category": "tutorial-guide",
+      "difficulty": 4,
+      "confidence": 0.9884479498059612,
+      "crawledAt": "2026-10-03T13:16:09.026Z",
+      "id": "jfry7k",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9267535209655762,
+          "index": 4,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:16:45.745Z"
+    },
+    {
+      "title": "The AI Coding Harness I Reuse on Every Project",
+      "url": "https://pub.towardsai.net/the-ai-coding-harness-i-reuse-on-every-project-4-files-skills-936cdd492c3e?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T12:39:13.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.627812996203484,
+      "crawledAt": "2026-10-03T13:16:09.150Z",
+      "id": "pj66a7",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9951958656311035,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9922098517417908,
+          "index": 3,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.967883825302124,
+          "index": 4,
+          "word": "##ding",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9072594046592712,
+          "index": 5,
+          "word": "Ha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8717926740646362,
+          "index": 13,
+          "word": "Project",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:16:56.106Z"
+    },
+    {
+      "title": "What is Superpowers? Where it is a Must, and Where It Is Not",
+      "url": "https://pub.towardsai.net/what-is-superpowers-where-it-is-a-must-and-where-it-is-not-8c540af07ffa?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T12:38:40.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.44871478014000876,
+      "crawledAt": "2026-10-03T13:16:09.242Z",
+      "id": "e7xft6",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:16:56.327Z"
+    },
+    {
+      "title": "RAG: Teaching AI to Look Things Up Before It Speaks",
+      "url": "https://pub.towardsai.net/rag-teaching-ai-to-look-things-up-before-it-speaks-b2525c9b2568?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T12:37:58.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3495639025603261,
+      "crawledAt": "2026-10-03T13:16:09.278Z",
+      "id": "rwlov6",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:16:56.422Z"
+    },
+    {
+      "title": "Understanding System One Models Through Their Architecture",
+      "url": "https://pub.towardsai.net/understanding-system-one-models-through-their-architecture-4d57f90b2624?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T12:37:24.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.3750953031839845,
+      "crawledAt": "2026-10-03T13:16:09.309Z",
+      "id": "91gsbv",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9722294211387634,
+          "index": 3,
+          "word": "One",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:16:56.493Z"
+    },
+    {
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T12:00:00.000Z",
+      "metaDescription": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.9636691365045434,
+      "crawledAt": "2026-10-03T13:15:53.207Z",
+      "id": "9tz1mj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9560965299606323,
+          "index": 10,
+          "word": "All",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8968120813369751,
+          "index": 11,
+          "word": "Your",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9266676902770996,
+          "index": 12,
+          "word": "Friends",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9418177008628845,
+          "index": 13,
+          "word": "and",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9409177899360657,
+          "index": 14,
+          "word": "Family",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:17:02.519Z"
+    },
+    {
+      "title": "Quiz: Operator and Function Overloading in Custom Python Classes",
+      "url": "https://realpython.com/quizzes/operator-function-overloading/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-03T12:00:00.000Z",
+      "metaDescription": "In this quiz, you’ll test your understanding of\nOperator and Function Overloading in Custom Python Classes.\nBy working through this quiz, you’ll revisit how Python’s data model connects built-in\nfunct",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.28039942088640296,
+      "crawledAt": "2026-10-03T13:16:41.002Z",
+      "id": "oxckx6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.991226851940155,
+          "index": 12,
+          "word": "Custom",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9635705947875977,
+          "index": 13,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " In this quiz, you’ll test your understanding of how Python’s data model connects built-in functions. In this quizz, you'll test your knowledge of how to use the data model.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:17:22.402Z"
+    },
+    {
+      "title": "Anyworld, a self-hosted multiplayer text RPG where a local LLM is the Dungeon Master",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkudj/anyworld_a_selfhosted_multiplayer_text_rpg_where/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T11:22:44.000Z",
+      "metaDescription": "Hey everyone,\n I’ve been working on a game called Anyworld. It’s a browser-based multiplayer (single player also supported) text adventure inspired by the early days of AI Dungeon, especially its brow",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.35765290224064217,
+      "crawledAt": "2026-10-03T13:16:17.686Z",
+      "id": "npkz9l",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.808605432510376,
+          "index": 14,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9444833993911743,
+          "index": 18,
+          "word": "Du",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.935166597366333,
+          "index": 20,
+          "word": "##on",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9801246523857117,
+          "index": 21,
+          "word": "Master",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The game is a browser-based multiplayer game. It's based on the early days of AI Dungeon. It is also a browser game.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:17:40.670Z"
+    },
+    {
+      "title": "The ultimate guide to multi-harness RL",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwk49n/the_ultimate_guide_to_multiharness_rl/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T10:39:37.000Z",
+      "metaDescription": "Hi folks, it's Lewis here from the post-training team at Hugging Face. We've been exploring how to train open models in different coding harnesses and wrote up a looong guide on how we solved this usi",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.8430558727875219,
+      "crawledAt": "2026-10-03T13:16:18.712Z",
+      "id": "hx9cii",
+      "entities": [],
+      "summary": " Hugging Face team has been exploring how to train open models in different coding harnesses. The team has created a looong guide on how we solved this usi.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:17:56.771Z"
+    },
+    {
+      "title": "10 Codex Tricks I Wish I Knew Earlier",
+      "url": "https://python.plainenglish.io/10-codex-tricks-i-wish-i-knew-earlier-c56f5163797e?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-03T09:36:54.000Z",
+      "metaDescription": "Small changes that made OpenAI Codex much more useful for everyday coding.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3635967494466379,
+      "crawledAt": "2026-10-03T13:16:14.547Z",
+      "id": "vhs1k4",
+      "entities": [],
+      "summary": " Small changes that made OpenAI Codex much more useful for everyday coding made it more useful. The changes made it easier to read on Python in Plain English.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:18:05.046Z"
+    },
+    {
+      "title": "What are you expectations from Kimi K3.5?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwijvi/what_are_you_expectations_from_kimi_k35/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T09:00:47.000Z",
+      "metaDescription": "Kimi K2 was already good but they took K2.5 a whole new level with so much of their continual learning phase, I believe it was on more 20-25T tokens iirc.\n Similarly K3 is just such an amazing model, ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5244779031910037,
+      "crawledAt": "2026-10-03T13:16:18.493Z",
+      "id": "gzgh4n",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9228823184967041,
+          "index": 6,
+          "word": "Kim",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " K2 was already good but they took K2.5 a whole new level with so much of their continual learning phase. Similarly K3 is just such an amazing model, I believe it was on more 20-25T tokens iirc.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:18:17.369Z"
+    },
+    {
+      "title": "Gemini 4 Argon Launches: Beats GPT-6 Astra on Key Benchmarks, Takes On Google’s 800,000-Line Kernel…",
+      "url": "https://generativeai.pub/gemini-4-argon-benchmarks-access-46bf8a96999b?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T08:04:26.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 8,
+      "confidence": 0.9859705836091603,
+      "crawledAt": "2026-10-03T13:16:13.869Z",
+      "id": "5n0fz3",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9749581217765808,
+          "index": 1,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9810389280319214,
+          "index": 2,
+          "word": "4",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9483399987220764,
+          "index": 10,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8370067477226257,
+          "index": 11,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8792884349822998,
+          "index": 15,
+          "word": "##tra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9157357215881348,
+          "index": 17,
+          "word": "Key",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9863788485527039,
+          "index": 18,
+          "word": "Ben",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8440161347389221,
+          "index": 19,
+          "word": "##ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9779155254364014,
+          "index": 20,
+          "word": "##marks",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:18:36.551Z"
+    },
+    {
+      "title": "New Mac mini M6: No Cloud, No Subscription: Running local AI Models",
+      "url": "https://generativeai.pub/new-mac-mini-m-no-cloud-no-subscription-running-local-ai-models-e67478825c01?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T07:55:44.000Z",
+      "metaDescription": "First benchmarks with MLX and why Mixture-of-Experts models are the sweet spot for this machine.\nContinue reading on Generative AI »",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.26349565639508254,
+      "crawledAt": "2026-10-03T13:16:13.947Z",
+      "id": "qic6jq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9833158850669861,
+          "index": 2,
+          "word": "Mac",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Mixture-of-Experts models are the sweet spot for this machine. Mixture of-Experts are the best models for the machine.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:18:44.152Z"
+    },
+    {
+      "title": "Fidelity: AI Makes Our Ideas Look Finished Before They’re Ready",
+      "url": "https://generativeai.pub/fidelity-86ee046fe236?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T07:47:49.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9798833873488676,
+      "crawledAt": "2026-10-03T13:16:13.986Z",
+      "id": "82r2cp",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:18:44.215Z"
+    },
+    {
+      "title": "10 Python Lessons I Learned From Building Real Projects",
+      "url": "https://python.plainenglish.io/10-python-lessons-i-learned-from-building-real-projects-d73c4203f650?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-03T07:45:50.000Z",
+      "metaDescription": "I used to think getting better at Python meant learning more Python.\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2876493277298791,
+      "crawledAt": "2026-10-03T13:16:14.689Z",
+      "id": "wusq6d",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8133708238601685,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.831878125667572,
+          "index": 11,
+          "word": "Projects",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I used to think getting better at Python meant learning more Python. I usedto think gettingbetter at Python means learning morePython.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:18:51.623Z"
+    },
+    {
+      "title": "8 Python Concepts That Finally Made Advanced Code Click for Me",
+      "url": "https://python.plainenglish.io/8-python-concepts-that-finally-made-advanced-code-click-for-me-df8e36a0cbbe?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-03T07:45:40.000Z",
+      "metaDescription": "For a long time, I thought I understood Python.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.28181424989889897,
+      "crawledAt": "2026-10-03T13:16:14.748Z",
+      "id": "cyyzbt",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8693875074386597,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8247212171554565,
+          "index": 3,
+          "word": "Concept",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9432430863380432,
+          "index": 9,
+          "word": "Code",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " For a long time, I thought I understood Python. For a short time, he thought I thought he understood Python.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:18:58.293Z"
+    },
+    {
+      "title": "I Turned the New Mac mini M6 Into a Private AI Agent Server",
+      "url": "https://generativeai.pub/i-turned-the-new-mac-mini-m6-into-a-private-ai-agent-server-b70e59100be7?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T06:52:21.000Z",
+      "metaDescription": "Setting up Hermes Agent with a local Gemma 4 model: no cloud, no subscription, and two gotchas that will save you an hour.\nContinue reading on Generative AI »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.903814610777646,
+      "crawledAt": "2026-10-03T13:16:14.167Z",
+      "id": "jmvk7c",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8871074914932251,
+          "index": 6,
+          "word": "Mac",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Setting up Hermes Agent with a local Gemma 4 model: no cloud, no subscription, and no cloud. No cloud, and two gotchas that will save you an hour.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:19:24.073Z"
+    },
+    {
+      "title": "You May Not Like What AI Is Doing to the Way You Think",
+      "url": "https://generativeai.pub/youre-not-going-to-like-what-ai-is-doing-to-your-brain-d55910cd129e?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T06:42:24.000Z",
+      "metaDescription": "AI can write, explain, debug, and reason alongside us. But some of the work it removes may also be the work that kept our judgment sharp.\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.33327435348654827,
+      "crawledAt": "2026-10-03T13:16:14.294Z",
+      "id": "ipiyhp",
+      "entities": [],
+      "summary": " Some of the work it removes may also be the work that kept our judgment sharp. The work that keeps our judgmentsharp may also keep us sharp.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:19:44.517Z"
+    },
+    {
+      "title": "6 Claude Prompt Techniques That Make Me Better Than 99% of People Using AI",
+      "url": "https://generativeai.pub/6-claude-prompt-techniques-that-make-me-better-than-99-of-people-using-ai-de2e60f34110?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T06:35:06.000Z",
+      "metaDescription": "Six simple prompts that help me get clearer answers, ask better questions, learn faster, spot blind spots, and get more out of Claude…\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.31768914875458504,
+      "crawledAt": "2026-10-03T13:16:14.379Z",
+      "id": "fnb5cu",
+      "entities": [],
+      "summary": " Six simple prompts that help me get clearer answers, ask better questions, learn faster, spot blind spots, and get more out of Claude…",
+      "language": "en",
+      "processed_at": "2026-10-03T13:19:53.298Z"
+    },
     {
       "title": "What’s the end game?",
       "url": "https://www.reddit.com/r/singularity/comments/1wwe5ln/whats_the_end_game/",
@@ -22,6 +763,44 @@
       "summary": " AI sales agents are meant to automate both sides of sales process. I don’t know if this is the right sub. I work for a software consultancy.",
       "language": "en",
       "processed_at": "2026-10-03T04:58:58.951Z"
+    },
+    {
+      "title": "Has anyone noticed this trend toward writing/speaking style among newer models . They are trending toward information density and expanded vocabulary. It's not quite 'caveman speak' but trending that way.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwdsce/has_anyone_noticed_this_trend_toward/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T04:10:31.000Z",
+      "metaDescription": "I've noticed a trend with most new models with regards to their writing style. They are creating a new style, and this seems common among them. It's very information-dense.\n Here is an example from GL",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4115668451100614,
+      "crawledAt": "2026-10-03T13:16:17.821Z",
+      "id": "up8to8",
+      "entities": [],
+      "summary": "Most new models are creating a new style, and this seems common among them. Here is an example from GL.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:19:59.994Z"
+    },
+    {
+      "title": "mlsubgen — subtitles in 45 languages for your videos, entirely on your own machine",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwds6i/mlsubgen_subtitles_in_45_languages_for_your/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T04:10:16.000Z",
+      "metaDescription": "Full disclaimer: I've leaned heavily on Fable to develop this, but I've tested it thoroughly on my own library for a couple of months before putting it on GitHub.\n I live in Thailand, and it started a",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2608927834899554,
+      "crawledAt": "2026-10-03T13:16:19.184Z",
+      "id": "j07ivv",
+      "entities": [],
+      "summary": " Fable has been tested on his own library for a couple of months before putting it on GitHub. Fable is based on Fable's own library in Thailand.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:20:08.794Z"
     },
     {
       "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
@@ -365,6 +1144,25 @@
       "summary": "When generating information becomes cheap, different skills become more valuable. When generating information is cheap, the skills become much more valuable.",
       "language": "en",
       "processed_at": "2026-10-03T05:02:36.927Z"
+    },
+    {
+      "title": "So... Should we turn the page on this past week hype? or Do you have any success cases to inspire the rest?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww86ny/so_should_we_turn_the_page_on_this_past_week_hype/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-02T23:18:18.000Z",
+      "metaDescription": "submitted by    /u/JLeonsarmiento  \n [link]   [comments]",
+      "category": "research-paper",
+      "difficulty": 3,
+      "confidence": 0.3317140686363154,
+      "crawledAt": "2026-10-03T13:16:18.981Z",
+      "id": "y6xh1g",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-03T13:20:21.666Z"
     },
     {
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -813,17 +1611,19 @@
       "processed_at": "2026-10-03T05:05:03.796Z"
     }
   ],
-  "processedAt": "2026-10-03T05:05:03.801Z",
+  "processedAt": "2026-10-03T13:20:21.777Z",
   "categories": [
     "creative-ai",
-    "research-paper",
     "infrastructure",
-    "safety-ethics",
+    "tutorial-guide",
+    "product-launch",
     "ai-agents",
+    "research-paper",
+    "safety-ethics",
     "model-release"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 25,
-  "dailyArticlesCount": 25,
+  "newArticlesProcessed": 24,
+  "dailyArticlesCount": 49,
   "filterDate": "2026-10-03"
 }
