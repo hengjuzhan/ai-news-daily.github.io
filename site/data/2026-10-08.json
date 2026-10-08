@@ -1,9 +1,1463 @@
 {
-  "crawledAt": "2026-10-08T15:30:28.160Z",
+  "crawledAt": "2026-10-08T21:15:35.743Z",
   "totalSources": 70,
-  "totalArticles": 104,
+  "totalArticles": 149,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-08T20:15:53.000Z",
+      "metaDescription": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.3045122410245681,
+      "crawledAt": "2026-10-08T21:13:56.928Z",
+      "id": "vu0lnx",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9273499846458435,
+          "index": 1,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9160507917404175,
+          "index": 3,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9113251566886902,
+          "index": 5,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9799984693527222,
+          "index": 8,
+          "word": "Hamilton",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9968101382255554,
+          "index": 14,
+          "word": "Apollo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9947730302810669,
+          "index": 15,
+          "word": "11",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Hamilton also coined the term \"software engineering\" and founded two successful software companies. He also coined \"software engineer\" and coined the name \"software engineers\"",
+      "language": "en",
+      "processed_at": "2026-10-08T21:16:04.502Z"
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T20:04:26.000Z",
+      "metaDescription": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet",
+      "category": "safety-ethics",
+      "difficulty": 7,
+      "confidence": 0.6696156679508152,
+      "crawledAt": "2026-10-08T21:13:59.516Z",
+      "id": "q99xlr",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9942582249641418,
+          "index": 3,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9223521947860718,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9044406414031982,
+          "index": 5,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information. They say their dismissals are creating a chilling effect on the company's AI safet.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:16:15.716Z"
+    },
+    {
+      "title": "Whatever happened to BABA is AI from 2024?",
+      "url": "https://www.reddit.com/r/artificial/comments/1x115pj/whatever_happened_to_baba_is_ai_from_2024/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T20:02:02.000Z",
+      "metaDescription": "We test three state-of-the-art multi-modal large language models (GPT-4o, Gemini-1.5-Pro, Gemini-1.5-Flash) and find that they fail dramatically when generalization requires that the rules of the game",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.348856449943882,
+      "crawledAt": "2026-10-08T21:14:44.189Z",
+      "id": "gpbrhp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9842191338539124,
+          "index": 4,
+          "word": "BA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9325997829437256,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " We test three state-of-the-art multi-modal large language models (GPT-4o, Gemini-1.5-Flash) and find that they fail dramatically when generalization requires rules of the game.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:16:31.215Z"
+    },
+    {
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+      "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T19:30:00.000Z",
+      "metaDescription": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.9576638473668984,
+      "crawledAt": "2026-10-08T21:14:03.800Z",
+      "id": "pl8qwm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9489938020706177,
+          "index": 3,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9435930252075195,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9462369084358215,
+          "index": 9,
+          "word": "Lo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Jessica Hische knew working for Meta might upset some people. But she didn't anticipate just how angry they would get.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:17:04.535Z"
+    },
+    {
+      "title": "Mathematicians marvel, and grumble, at OpenAI’s trove of new results",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0zwf7/mathematicians_marvel_and_grumble_at_openais/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T19:14:27.000Z",
+      "metaDescription": "submitted by    /u/scientificamerican  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4766203898127954,
+      "crawledAt": "2026-10-08T21:14:43.114Z",
+      "id": "oojoed",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9954233169555664,
+          "index": 15,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9879307746887207,
+          "index": 16,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.990532636642456,
+          "index": 17,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:17:15.666Z"
+    },
+    {
+      "title": "An Ex-OpenAI Researcher Built an AI That Only Picks From a List, and 3 Giants Followed Within 16…",
+      "url": "https://pub.towardsai.net/an-ex-openai-researcher-built-an-ai-that-only-picks-from-a-list-and-3-giants-followed-within-16-fcf3937afaa7?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T19:01:02.000Z",
+      "metaDescription": "Jev, OpenAI’s Decisions API, Cloudflare Clef and Strands Decider return typed choices with probabilities instead of text. Here is how…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.2772241376907199,
+      "crawledAt": "2026-10-08T21:14:33.365Z",
+      "id": "mbtt8m",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9415441155433655,
+          "index": 2,
+          "word": "Ex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9672924876213074,
+          "index": 4,
+          "word": "Open",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Jev, OpenAI’s Decisions API, Cloudflare Clef and Strands Decider return typed choices with probabilities instead of text.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:17:31.558Z"
+    },
+    {
+      "title": "An experimental tour-de-force: Entanglement between glass bead and light",
+      "url": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-08T18:45:23.000Z",
+      "metaDescription": "Getting a glass bead to act like a quantum object by entangling it with light.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.546796309044525,
+      "crawledAt": "2026-10-08T21:13:57.410Z",
+      "id": "xq0aau",
+      "entities": [],
+      "summary": " Getting a glass bead to act like a quantum object by entangling it with light. Getting aglass bead to behave like a Quantum object by engaging it with a light.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:17:43.716Z"
+    },
+    {
+      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-10-08T18:33:29.000Z",
+      "metaDescription": "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model infe",
+      "category": "ai-agents",
+      "difficulty": 8,
+      "confidence": 0.991621554664067,
+      "crawledAt": "2026-10-08T21:14:16.960Z",
+      "id": "uxlhds",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9286075234413147,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9535232186317444,
+          "index": 16,
+          "word": "Inc",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9198063015937805,
+          "index": 17,
+          "word": "##ar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8472196459770203,
+          "index": 18,
+          "word": "##na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9486226439476013,
+          "index": 20,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9945394396781921,
+          "index": 21,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9935620427131653,
+          "index": 22,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9686263799667358,
+          "index": 23,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand. Amazon BedRock AgentCore is a managed-managed way to paid for services by AI agents.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:17:56.691Z"
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T18:20:32.000Z",
+      "metaDescription": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.7404940944626915,
+      "crawledAt": "2026-10-08T21:13:59.691Z",
+      "id": "gk8w61",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.999697208404541,
+          "index": 1,
+          "word": "Ben",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995288848876953,
+          "index": 2,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.997250497341156,
+          "index": 3,
+          "word": "##ffle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9781308770179749,
+          "index": 4,
+          "word": "##ck",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9797926545143127,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Ben Affleck sold his AI startup to Netflix earlier this year. The actor sold his startup to the company earlier this month.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:18:04.968Z"
+    },
+    {
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T18:19:45.000Z",
+      "metaDescription": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.8516833935293068,
+      "crawledAt": "2026-10-08T21:13:59.862Z",
+      "id": "wsylie",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9521066546440125,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9338609576225281,
+          "index": 5,
+          "word": "Arena",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " LMArena leaderboard has raised $200 million from Lightspeed and Khosla. The company is now measuring AI models on alignment issues.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:18:15.069Z"
+    },
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T18:18:00.000Z",
+      "metaDescription": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9825513974145732,
+      "crawledAt": "2026-10-08T21:14:00.195Z",
+      "id": "7bsgel",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9964572787284851,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8214261531829834,
+          "index": 7,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:18:39.769Z"
+    },
+    {
+      "title": "Why are people using ChatGPT for menu generation?",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0y1d4/why_are_people_using_chatgpt_for_menu_generation/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T18:04:34.000Z",
+      "metaDescription": "Just wondering what's up with ChatGPT and the horrible/gross looking food menus. Example attached is from Gemini on a few items that usually look horrible on menus, it can do it just fine. Heck, open ",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2551922208819989,
+      "crawledAt": "2026-10-08T21:14:42.843Z",
+      "id": "7sl1z0",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8577467203140259,
+          "index": 5,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8702143430709839,
+          "index": 7,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Gemini.com has a list of the worst-looking menus on its website. The menu can be a great way to get a menu that looks horrible.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:19:13.828Z"
+    },
+    {
+      "title": "The Enterprise AI Competence Gap: Why Anthropic Made its CCAO-F Certification Zero-Code",
+      "url": "https://pub.towardsai.net/the-enterprise-ai-competence-gap-why-anthropic-made-its-ccao-f-certification-zero-code-54f914385aee?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T18:01:02.000Z",
+      "metaDescription": "Everyone claims to know how to prompt. Almost nobody knows how to audit, govern, or chain models in production. What Anthropic’s CCAO-F…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.3405222047225599,
+      "crawledAt": "2026-10-08T21:14:33.570Z",
+      "id": "4yet47",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9972807765007019,
+          "index": 2,
+          "word": "Enterprise",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9963963031768799,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9756680727005005,
+          "index": 4,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9507294297218323,
+          "index": 8,
+          "word": "Gap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8356179594993591,
+          "index": 17,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Everyone claims to know how to audit, govern, or govern, in production. Almost nobody knows how to govern, govern or chain models in production.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:19:26.289Z"
+    },
+    {
+      "title": "More visual answers from GPT-6 with Intelligent UI",
+      "url": "https://www.youtube.com/shorts/OgjMGn4T6Ok",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:46:54.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.9405105297174208,
+      "crawledAt": "2026-10-08T21:14:51.571Z",
+      "id": "htyjik",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9919110536575317,
+          "index": 5,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9814337491989136,
+          "index": 6,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9382086992263794,
+          "index": 8,
+          "word": "6",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:19:26.388Z"
+    },
+    {
+      "title": "idea-to-launch open source AI prompt/skill",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0xi1s/ideatolaunch_open_source_ai_promptskill/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:43:52.000Z",
+      "metaDescription": "Start with a vague idea, or a bunch of different ideas, then chat with your AI model using this prompt, select the idea which is more feasible, original and marketable, and get the full plan to launch",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.504101416999191,
+      "crawledAt": "2026-10-08T21:14:44.688Z",
+      "id": "9m2hwg",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9875062108039856,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Start with a vague idea, or a bunch of different ideas, then chat with your AI model using this prompt. Select the idea which is more feasible, original and marketable, and get the full plan to launch.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:19:40.174Z"
+    },
+    {
+      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
+      "url": "https://www.youtube.com/shorts/Rs5qLAnkNcI",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:43:05.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.37853523076419354,
+      "crawledAt": "2026-10-08T21:14:51.635Z",
+      "id": "n4qzap",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9943707585334778,
+          "index": 2,
+          "word": "Oracle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8721274733543396,
+          "index": 7,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:19:40.274Z"
+    },
+    {
+      "title": "Get a more visual answer from GPT-6 with Intelligent UI",
+      "url": "https://www.youtube.com/shorts/Wv0PRPMzkJg",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:41:31.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.9331428730952565,
+      "crawledAt": "2026-10-08T21:14:51.703Z",
+      "id": "o1vwn2",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9945192933082581,
+          "index": 7,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9801743626594543,
+          "index": 8,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9513285160064697,
+          "index": 10,
+          "word": "6",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:19:40.415Z"
+    },
+    {
+      "title": "Play a game against GPT-6 with Intelligent UI",
+      "url": "https://www.youtube.com/shorts/BHQF1xl2ScU",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:40:12.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.993297099750879,
+      "crawledAt": "2026-10-08T21:14:51.770Z",
+      "id": "kyhjil",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9727729558944702,
+          "index": 5,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8991779685020447,
+          "index": 6,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:19:40.550Z"
+    },
+    {
+      "title": "Make a game using GPT-6 with Intelligent UI",
+      "url": "https://www.youtube.com/shorts/qmOOspYLhzg",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:37:43.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.984156982784756,
+      "crawledAt": "2026-10-08T21:14:51.897Z",
+      "id": "oq5xlu",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9958876967430115,
+          "index": 5,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.987341046333313,
+          "index": 6,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:19:40.695Z"
+    },
+    {
+      "title": "Python Backend Developer Roadmap for 2026: Skills, Projects, and Job Applications",
+      "url": "https://python.plainenglish.io/python-backend-developer-roadmap-for-2026-skills-projects-and-job-applications-236a5b671d7c?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-08T17:33:04.000Z",
+      "metaDescription": "A practical route from Python basics to a deployed backend, with projects worth discussing in an interview and a job search built around…\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.9087027605002616,
+      "crawledAt": "2026-10-08T21:14:36.828Z",
+      "id": "209qx3",
+      "entities": [],
+      "summary": " A practical route from Python basics to a deployed backend, with projects worth discussing in an interview and a job search built around.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:19:50.587Z"
+    },
+    {
+      "title": "Microsoft Fabric Cost Optimization: Practical Ways to Control Capacity Spend",
+      "url": "https://pub.towardsai.net/microsoft-fabric-cost-optimization-practical-ways-to-control-capacity-spend-da1537916225?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:31:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3094059830591508,
+      "crawledAt": "2026-10-08T21:14:33.638Z",
+      "id": "kww2rn",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9033681750297546,
+          "index": 5,
+          "word": "Co",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:19:50.704Z"
+    },
+    {
+      "title": "Trump declares anyone who uses the term Artificial Intelligence to be ‘The Enemy!’",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:14:58.000Z",
+      "metaDescription": "submitted by    /u/theindependentonline  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.35197110695967276,
+      "crawledAt": "2026-10-08T21:14:42.440Z",
+      "id": "qaq5v5",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9986417889595032,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9215848445892334,
+          "index": 8,
+          "word": "Art",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9677668213844299,
+          "index": 10,
+          "word": "##ial",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9500442147254944,
+          "index": 11,
+          "word": "Intelligence",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:20:05.817Z"
+    },
+    {
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-10-08T17:02:52.000Z",
+      "metaDescription": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.\nThe post How one bug bount",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.2927358509116531,
+      "crawledAt": "2026-10-08T21:13:55.164Z",
+      "id": "esyh3m",
+      "entities": [],
+      "summary": " GitHub Bug Bounty team explores methodology, techniques, and experiences hacking on GitHub. Cybersecurity Awareness Month kicks off Cybersecurity Month.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:20:16.002Z"
+    },
+    {
+      "title": "We Connected a WordPress Site to AI Agents Through MCP. Here’s What We Had to Fix",
+      "url": "https://pub.towardsai.net/we-connected-a-wordpress-site-to-ai-agents-through-mcp-heres-what-we-had-to-fix-c1bdca1918f9?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:01:04.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.542110441788272,
+      "crawledAt": "2026-10-08T21:14:33.727Z",
+      "id": "pipuh0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8330063223838806,
+          "index": 6,
+          "word": "Word",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8619217276573181,
+          "index": 7,
+          "word": "##P",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:20:16.151Z"
+    },
+    {
+      "title": "Deep Dive #1: Machine Learning vs. Deep Learning — How Computers Actually Learn",
+      "url": "https://ai.plainenglish.io/deep-dive-1-machine-learning-vs-deep-learning-how-computers-actually-learn-199d074922f6?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T16:41:25.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.28884122901280335,
+      "crawledAt": "2026-10-08T21:14:39.408Z",
+      "id": "w3g780",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9214476346969604,
+          "index": 2,
+          "word": "Di",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8792862296104431,
+          "index": 7,
+          "word": "Machine",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8792868256568909,
+          "index": 8,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9559464454650879,
+          "index": 11,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9384823441505432,
+          "index": 12,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:20:16.311Z"
+    },
+    {
+      "title": "What Makes a Long AI Session More Expensive and Less Accurate?",
+      "url": "https://ai.plainenglish.io/why-your-ai-coding-session-gets-expensive-and-dumb-at-the-same-time-0c66335c7856?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T16:40:30.000Z",
+      "metaDescription": "The hidden token costs behind slow, costly, and inconsistent AI coding sessions\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.36460656103394257,
+      "crawledAt": "2026-10-08T21:14:39.531Z",
+      "id": "x8hsak",
+      "entities": [],
+      "summary": " The hidden token costs behind slow, costly, and inconsistent AI coding sessions. The hiddenToken costs behindSlow, costly and inconsistentAI coding sessions.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:20:28.340Z"
+    },
+    {
+      "title": "9,000 Production Issues a Month: How Uber’s AI Agent Finds Root Causes and Builds Fixes",
+      "url": "https://ai.plainenglish.io/9-000-production-issues-a-month-how-ubers-ai-agent-finds-root-causes-and-builds-fixes-4a11707fd7a5?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T16:39:44.000Z",
+      "metaDescription": "How Debug Assist turns production evidence into root-cause analysis, tested fixes, and pull requests — and why its fixed workflow matters…\nContinue reading on Artificial Intelligence in Plain English ",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.7732933060160954,
+      "crawledAt": "2026-10-08T21:14:39.840Z",
+      "id": "gkh7od",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9936139583587646,
+          "index": 10,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9635021686553955,
+          "index": 11,
+          "word": "##ber",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " How Debug Assist turns production evidence into root-cause analysis, tested fixes, and pull requests. Read on Artificial Intelligence in Plain English in PlainEnglish.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:20:50.681Z"
+    },
+    {
+      "title": "I Spent a Weekend Figuring Out Which AI Certs Are Worth It. Four Had Already Been Retired.",
+      "url": "https://ai.plainenglish.io/i-spent-a-weekend-figuring-out-which-ai-certs-are-worth-it-four-had-already-been-retired-122fc2f0f966?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T16:39:00.000Z",
+      "metaDescription": "I opened 40 browser tabs on a Saturday morning, coffee in hand, ready to pick an AI certification and finally stop second-guessing my…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.6057597578460493,
+      "crawledAt": "2026-10-08T21:14:40.020Z",
+      "id": "2up1v8",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9931523203849792,
+          "index": 12,
+          "word": "Ce",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I opened 40 browser tabs on a Saturday morning, coffee in hand, ready to pick an AI certification and finally stop second-guessing my…",
+      "language": "en",
+      "processed_at": "2026-10-08T21:21:04.414Z"
+    },
+    {
+      "title": "How to Turn an LLM into a Decision Model",
+      "url": "https://ai.plainenglish.io/how-to-turn-an-llm-into-a-decision-model-258376827f14?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T16:38:13.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.32624316481535237,
+      "crawledAt": "2026-10-08T21:14:40.084Z",
+      "id": "rudot6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9369068741798401,
+          "index": 5,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:21:04.507Z"
+    },
+    {
+      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-08T16:32:46.000Z",
+      "metaDescription": "Amazon killed its app store, so Google Play it is.",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.2823554563192989,
+      "crawledAt": "2026-10-08T21:13:57.527Z",
+      "id": "zbos1q",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9984884858131409,
+          "index": 1,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9185817241668701,
+          "index": 5,
+          "word": "Alex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9677260518074036,
+          "index": 6,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8771520853042603,
+          "index": 8,
+          "word": "##ts",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.995561420917511,
+          "index": 16,
+          "word": "Android",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:21:17.060Z"
+    },
+    {
+      "title": "ChatGPT Is Forging Cartoonists’ Signatures. OpenAI’s Own Checker Proves It.",
+      "url": "https://pub.towardsai.net/chatgpt-is-forging-cartoonists-signatures-openai-s-own-checker-proves-it-a7cf08b6df97?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T16:31:02.000Z",
+      "metaDescription": "I ran the forged New Yorker cartoons through OpenAI’s verification tool. All three carry a second, invisible signature: OpenAI’s.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.267565963754678,
+      "crawledAt": "2026-10-08T21:14:33.903Z",
+      "id": "uo3cnb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8589247465133667,
+          "index": 1,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9970659017562866,
+          "index": 15,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9940022826194763,
+          "index": 16,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9845899343490601,
+          "index": 17,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The New Yorker cartoons were forged through OpenAI's verification tool. All three carry a second, invisible signature: OpenAI’s.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:21:25.497Z"
+    },
+    {
+      "title": "Post vs Pro Human AI Leadership",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0v9q1/post_vs_pro_human_ai_leadership/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T16:19:22.000Z",
+      "metaDescription": "I'm not sure if this is discussed enough pertaining to the fears around AI.\n Theres a group that thinks ai will out smart us and kill us just cause. There is a geoup that thinks without enough safety ",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.443548616535617,
+      "crawledAt": "2026-10-08T21:14:44.980Z",
+      "id": "z4u6n8",
+      "entities": [],
+      "summary": " Theres a group that thinks ai will out smart us and kill us just cause. I'm not sure if this is discussed enough pertaining to the fears around AI.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:21:51.513Z"
+    },
+    {
+      "title": "What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0uuea/what_to_know_about_anthropics_claudeled/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T16:03:02.000Z",
+      "metaDescription": "submitted by    /u/cnn  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.33409236156022354,
+      "crawledAt": "2026-10-08T21:14:43.455Z",
+      "id": "1vxwrd",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8459677696228027,
+          "index": 5,
+          "word": "An",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9402005672454834,
+          "index": 11,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:21:51.668Z"
+    },
+    {
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T16:00:00.000Z",
+      "metaDescription": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9630330034654956,
+      "crawledAt": "2026-10-08T21:14:00.666Z",
+      "id": "ylq71k",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9670402407646179,
+          "index": 1,
+          "word": "Nat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8832724094390869,
+          "index": 2,
+          "word": "##ura",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9351394176483154,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Natura’s $99 smart ring lets you summon AI agents with the press of a finger to complete tasks.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:22:23.417Z"
+    },
+    {
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T16:00:00.000Z",
+      "metaDescription": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9631287833015297,
+      "crawledAt": "2026-10-08T21:14:00.859Z",
+      "id": "tx7641",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9962841272354126,
+          "index": 1,
+          "word": "Good",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.99311363697052,
+          "index": 2,
+          "word": "##fire",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9777980446815491,
+          "index": 14,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Goodfire just launched what it says is a cheaper way to keep AI agents in check. Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:22:36.888Z"
+    },
+    {
+      "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
+      "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-08T15:28:36.000Z",
+      "metaDescription": "\"If this was easy, everybody else would be doing it.\"",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.6783322955793626,
+      "crawledAt": "2026-10-08T21:13:57.639Z",
+      "id": "3yw0d7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9957464337348938,
+          "index": 1,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"If this was easy, everybody else would be doing it,\" says one man. \"Everybody else would have been doing it\"",
+      "language": "en",
+      "processed_at": "2026-10-08T21:23:10.349Z"
+    },
+    {
+      "title": "Frontier AI Governance and the Enforcement Dilemma: Can Deceleration Exist Without Total Surveillance?",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0thpy/frontier_ai_governance_and_the_enforcement/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T15:12:00.000Z",
+      "metaDescription": "Debates around frontier AI safety and compute governance usually focus on technical alignment, capability thresholds, or regulatory frameworks. However, there is a fundamental structural paradox in fr",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.7881641325991139,
+      "crawledAt": "2026-10-08T21:14:45.533Z",
+      "id": "3mdbe1",
+      "entities": [],
+      "summary": " There is a fundamental structural paradox in fr, says Fr. Debates around frontier AI safety and compute governance usually focus on technical alignment, capability thresholds, or regulatory frameworks.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:23:20.691Z"
+    },
     {
       "title": "Openai’s Dots Aren’t Just a Feature Launch. They’re a Lock-in Play",
       "url": "https://pub.towardsai.net/openais-dots-aren-t-just-a-feature-launch-they-re-a-lock-in-play-c3ce0bfeeac3?source=rss----98111c9905da---4",
@@ -440,6 +1894,25 @@
       "summary": " Meta recently released their new personal AI agent named Meta Muse. The name is also used for an upcoming pocket gadget.",
       "language": "en",
       "processed_at": "2026-10-08T15:32:51.037Z"
+    },
+    {
+      "title": "Building AI Agents with Docker Agent",
+      "url": "https://www.kdnuggets.com/building-ai-agents-with-docker-agent",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-08T14:00:00.000Z",
+      "metaDescription": "Docker Agent is an open-source, Apache 2.0-licensed CLI plugin built by Docker Engineering, installed and run as docker agent. Its own tagline states the goal plainly: run AI agents like containers.",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9651597530465023,
+      "crawledAt": "2026-10-08T21:15:30.993Z",
+      "id": "xrn6w3",
+      "entities": [],
+      "summary": " Docker Agent is an open-source, Apache 2.0-licensed CLI plugin built by Docker Engineering. Its own tagline states the goal plainly: run AI agents like containers.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:23:31.095Z"
     },
     {
       "title": "AI/ML Development Services: How US Businesses Are Turning AI Investment Into Real ROI",
@@ -1017,6 +2490,85 @@
       "processed_at": "2026-10-08T15:35:40.918Z"
     },
     {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T12:00:00.000Z",
+      "metaDescription": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.8370663482880455,
+      "crawledAt": "2026-10-08T21:13:45.599Z",
+      "id": "vvnk97",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9965004920959473,
+          "index": 1,
+          "word": "Poll",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9573021531105042,
+          "index": 2,
+          "word": "##o",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9929940700531006,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9973786473274231,
+          "index": 10,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9897549748420715,
+          "index": 11,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads. With GPT-5.6, GPT GPT-6 Astra, and GPT‑Image 2.5, PolloAI helps creators create detailed images.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:24:04.330Z"
+    },
+    {
+      "title": "7 Best Resources to Learn About Self-Evolving AI Agents",
+      "url": "https://www.kdnuggets.com/7-best-resources-to-learn-about-self-evolving-ai-agents",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-08T12:00:00.000Z",
+      "metaDescription": "The next step for AI agents? Self-improvement. Here are 7 resources to get started.",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9777272930575042,
+      "crawledAt": "2026-10-08T21:15:31.104Z",
+      "id": "twr8fc",
+      "entities": [],
+      "summary": " The next step for AI agents? Self-improvement. Here are 7 resources to get started. Here are seven resources to start with.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:24:13.751Z"
+    },
+    {
       "title": "How 1,200 AI Agents Swarmed Hugging Face",
       "url": "https://ai.plainenglish.io/how-1-200-ai-agents-swarmed-hugging-face-8f5e6fd7d4d2?source=rss----78d064101951---4",
       "source": "AI in Plain English",
@@ -1134,6 +2686,34 @@
       "summary": "After this project I'll want to try a godot workflow. 3.8FN truly feels like Claude 4.6 at home.",
       "language": "en",
       "processed_at": "2026-10-08T15:37:09.521Z"
+    },
+    {
+      "title": "Gamma 5 launched yesterday. I used it for an hour, my review",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0n8ow/gamma_5_launched_yesterday_i_used_it_for_an_hour/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T10:17:48.000Z",
+      "metaDescription": "Gamma rebuilt its presentation tool and called it Gamma 5. So rn it is an AI agent that talks through your outline with you, plus a freeform canvas, more themes, around 20 connectors and PPT/PDF impor",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.45147253231137824,
+      "crawledAt": "2026-10-08T21:14:43.326Z",
+      "id": "rnevtx",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8879371881484985,
+          "index": 1,
+          "word": "Gamma",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Gamma is an AI agent that talks through your outline with a freeform canvas. It's a free form tool that talks about your ideas and themes.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:24:24.216Z"
     },
     {
       "title": "Why we’re watching these climate tech companies",
@@ -1358,6 +2938,42 @@
       "summary": " I stopped treating GitHub issues like messages and started treating them like raw engineering data and Python turned the mess into a mess. I stopped Treating GitHub issues and started Treating them like engineering data.",
       "language": "en",
       "processed_at": "2026-10-08T15:39:26.145Z"
+    },
+    {
+      "title": "Epoch AI shows LLMs still have a long way to go before matching human researchers on innovation",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0j40e/epoch_ai_shows_llms_still_have_a_long_way_to_go/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T05:53:59.000Z",
+      "metaDescription": "https://fixupx.com/EpochAIResearch/status/2107895808217788800?s=20\n    submitted by    /u/Eliv_nurotic  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.2995586049441754,
+      "crawledAt": "2026-10-08T21:14:45.189Z",
+      "id": "ca9z4r",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9399646520614624,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8814595341682434,
+          "index": 6,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:24:24.512Z"
     },
     {
       "title": "Can any open-weight models handle a decomp/recomp project yet?",
@@ -3005,6 +4621,85 @@
       "processed_at": "2026-10-08T15:39:52.386Z"
     },
     {
+      "title": "Introducing the Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "source": "Anthropic News",
+      "source_domain": "anthropic.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T00:00:00.000Z",
+      "metaDescription": "Introducing the Anthropic Cyber Mission",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.9516320835369374,
+      "crawledAt": "2026-10-08T21:14:13.405Z",
+      "id": "fh74sx",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9984639883041382,
+          "index": 5,
+          "word": "An",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9888246059417725,
+          "index": 7,
+          "word": "##ic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9891681671142578,
+          "index": 8,
+          "word": "Cy",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9921061992645264,
+          "index": 9,
+          "word": "##ber",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9899894595146179,
+          "index": 10,
+          "word": "Mission",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:24:45.323Z"
+    },
+    {
+      "title": "2026 Usage Policy update",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "source": "Anthropic News",
+      "source_domain": "anthropic.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T00:00:00.000Z",
+      "metaDescription": "2026 Usage Policy update",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.3206843156848655,
+      "crawledAt": "2026-10-08T21:14:13.467Z",
+      "id": "clu4yv",
+      "entities": [],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:24:45.440Z"
+    },
+    {
       "title": "Spec-Driven Development with AI Agents: Spec Kit vs OpenSpec vs BMAD (Plus a Hands-On OpenSpec…",
       "url": "https://pub.towardsai.net/spec-driven-development-with-ai-agents-spec-kit-vs-openspec-vs-bmad-plus-a-hands-on-openspec-7b6997074582?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -3152,6 +4847,50 @@
       "summary": "Announcement or discussion about new AI model releases and updates.",
       "language": "en",
       "processed_at": "2026-10-08T05:50:22.501Z"
+    },
+    {
+      "title": "Why Artificial Intelligence Is Impossible",
+      "url": "https://www.reddit.com/r/artificial/comments/1x099rd/why_artificial_intelligence_is_impossible_ussr/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-07T21:42:53.000Z",
+      "metaDescription": "From: https://archive.org/details/MarkovCyberneticsTodayMir1984/mode/1up\n Why Artificial Intelligence Is Impossible\n A. V. BRUSHLINSKY\n The desire of modern cyberneticists to answer positively the que",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.36750034443035867,
+      "crawledAt": "2026-10-08T21:14:45.373Z",
+      "id": "lpb0uk",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8774776458740234,
+          "index": 3,
+          "word": "##ific",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9761670231819153,
+          "index": 4,
+          "word": "##ial",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.949571967124939,
+          "index": 5,
+          "word": "Intelligence",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The desire of modern cyberneticists to answer positively the que que que. The desire for modern cybernetics to answer positive the que.",
+      "language": "en",
+      "processed_at": "2026-10-08T21:24:55.789Z"
     },
     {
       "title": "Stack Overflow - From Idea to Product | DevDay 2026",
@@ -3457,21 +5196,21 @@
       "processed_at": "2026-10-08T15:40:04.093Z"
     }
   ],
-  "processedAt": "2026-10-08T15:40:04.101Z",
+  "processedAt": "2026-10-08T21:24:55.795Z",
   "categories": [
-    "infrastructure",
+    "product-launch",
+    "safety-ethics",
     "creative-ai",
     "ai-agents",
-    "product-launch",
+    "infrastructure",
     "developer-tool",
-    "safety-ethics",
+    "model-release",
     "industry-news",
     "research-paper",
-    "tutorial-guide",
-    "model-release"
+    "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
   "newArticlesProcessed": 45,
-  "dailyArticlesCount": 104,
+  "dailyArticlesCount": 149,
   "filterDate": "2026-10-08"
 }
