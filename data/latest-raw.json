@@ -1,38 +1,728 @@
 {
-  "crawledAt": "2026-10-10T05:29:13.741Z",
+  "crawledAt": "2026-10-10T14:25:26.590Z",
   "totalSources": 70,
-  "totalArticles": 278,
+  "totalArticles": 332,
   "aiFilterUsed": true,
   "articles": [
     {
-      "title": "3.66B formal logic model built on Granite 4.2 3B · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2619s/366b_formal_logic_model_built_on_granite_42_3b/",
-      "source": "r/LocalLLaMA",
+      "title": "How are you handling GPU scheduling for ML jobs?",
+      "url": "https://www.reddit.com/r/mlops/comments/1x2g3o2/how_are_you_handling_gpu_scheduling_for_ml_jobs/",
+      "source": "r/MLOps",
       "source_domain": "reddit.com",
       "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-10T04:28:14.000Z",
-      "metaDescription": "webAI released TwIL LM3 Pro on September 30. I haven't seen it posted here yet, so I went through the model card, and their comparison chart is attached.\n It's a 3.66B model built on IBM's Granite 4.2",
+      "source_priority": "medium",
+      "pubDate": "2026-10-10T14:03:28.000Z",
+      "metaDescription": "Hi, I’m building a project focused on making AI infrastructure more efficient. This is an heuristic for the GPU job scheduling problem.\n I’m curious how you handle ML training pipelines and if you’ve ",
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:58.013Z",
-      "id": "2i5qso"
+      "crawledAt": "2026-10-10T14:25:02.801Z",
+      "id": "93njq9"
     },
     {
-      "title": "I have an ESC4000 G3 with 8x T4s in it - what is the fastest way I can deploy Qwen3.5-9B for about 10-15 users concurrently: currently using llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x252xy/i_have_an_esc4000_g3_with_8x_t4s_in_it_what_is/",
+      "title": "The $80,000 Hallucination: Why RAG Fails at Healthcare Eligibility Verification",
+      "url": "https://pub.towardsai.net/the-80-000-hallucination-why-rag-fails-at-healthcare-eligibility-verification-acb4bb366b3c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T14:01:05.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:46.914Z",
+      "id": "nefdet"
+    },
+    {
+      "title": "How Can AI Agents Read Untrusted Sources Safely?",
+      "url": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T14:00:00.000Z",
+      "metaDescription": "Add architectural guardrails around how agents read untrusted sources and use them in the workflow.\nThe post How Can AI Agents Read Untrusted Sources Safely? appeared first on Towards Data Science.",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:34.293Z",
+      "id": "cyj0eq"
+    },
+    {
+      "title": "Namespaces in Python",
+      "url": "https://realpython.com/python-namespace/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-10T14:00:00.000Z",
+      "metaDescription": "A Python namespace is a mapping from names to objects. It works like a dictionary where keys are object names and values are the objects themselves. Namespaces organize variables and functions in a de",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:24.662Z",
+      "id": "tcsztt"
+    },
+    {
+      "title": "Python for Loops: The Pythonic Way",
+      "url": "https://realpython.com/python-for-loop/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-10T14:00:00.000Z",
+      "metaDescription": "Python’s for loop allows you to iterate over the items in a collection, such as lists, tuples, strings, and dictionaries. The for loop syntax declares a loop variable that takes each item from the col",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:24.754Z",
+      "id": "eucu91"
+    },
+    {
+      "title": "OAuth 2.0 Token Exchange — Laying the Foundation for AI Agent Authorization",
+      "url": "https://pub.towardsai.net/oauth-2-0-token-exchange-laying-the-foundation-for-ai-agent-authorization-97e21e460930?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T13:31:01.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:46.960Z",
+      "id": "hpl7mi"
+    },
+    {
+      "title": "Is there a better option than llama.cpp for 4GB VRAM for Higher tokens/sec?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2f194/is_there_a_better_option_than_llamacpp_for_4gb/",
       "source": "r/LocalLLaMA",
       "source_domain": "reddit.com",
       "source_category": "reddit",
       "source_priority": "high",
-      "pubDate": "2026-10-10T03:35:42.000Z",
-      "metaDescription": "Hi All:\n I have an Asus ESC 4000 G3 with 128 GB DDR4 RAM - I tried putting in my V620s but couldn’t put more than 2. Sadly, pivoted to T4s, these are 72 watt passive cards and I thought I could use th",
+      "pubDate": "2026-10-10T13:14:30.000Z",
+      "metaDescription": "I love the idea of running local models on consumer hardware. I currently use `llama.cpp`, but I’ve been looking for a \"better\" alternative for a while now. I want something that utilizes my system re",
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:58.425Z",
-      "id": "za1ch9"
+      "crawledAt": "2026-10-10T14:24:58.779Z",
+      "id": "22tp47"
+    },
+    {
+      "title": "Qwen3.8-27B on a single 3090: 140 tok/s on code with a custom megakernel",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T13:01:23.000Z",
+      "metaDescription": "I've been using Claude Opus 5.5 to speed up Qwen3.8-27B on my PC (rtx 3090), it wrote a CUDA megakernel that is 1.4-1.9x faster than llama.cpp depending on the task/context length. The results and cod",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:57.294Z",
+      "id": "1fzjh3"
+    },
+    {
+      "title": "The Summer AI Agents Started Knocking on Government Doors",
+      "url": "https://pub.towardsai.net/the-summer-ai-agents-started-knocking-on-government-doors-f6334ed8883e?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T13:01:03.000Z",
+      "metaDescription": "OpenAI’s own agents wandered i⁠nto US and Aus​tralian government‍ websites, b⁠orrowi​ng keys stra​ngers had left​ lying around online…\nContinue reading on Towards AI »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:47.033Z",
+      "id": "hj5o7b"
+    },
+    {
+      "title": "Architecting Enterprise Voice Agents: Part 1 — Designing Low-Latency Live Call Handling and…",
+      "url": "https://pub.towardsai.net/architecting-enterprise-voice-agents-part-1-designing-low-latency-live-call-handling-and-4c94f7134a31?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T13:01:03.000Z",
+      "metaDescription": "When building enterprise generative AI solutions, text-based copilots are often the low-hanging fruit. Voice, however, is a completely…\nContinue reading on Towards AI »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:47.128Z",
+      "id": "tuetbt"
+    },
+    {
+      "title": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T12:43:33.000Z",
+      "metaDescription": "DigUp is a free Mac app that runs Google DeepMind’s new EmbeddingGemma 2 locally over your own files. The model puts text, images, audio and video in one space, so you describe what you remember and l",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:56.806Z",
+      "id": "f4pewl"
+    },
+    {
+      "title": "Autonomous Robots in Space",
+      "url": "https://pub.towardsai.net/autonomous-robots-in-space-e79285f7564c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T12:31:01.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:47.156Z",
+      "id": "obijyy"
+    },
+    {
+      "title": "Improve token per second without touching quant",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2donu/improve_token_per_second_without_touching_quant/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T12:05:52.000Z",
+      "metaDescription": "Spent the past month tweaking and experimenting with many different numbers to achieve 30tps.\n Hardware:\n -Rx6700xt 12gb vram (AMD)\n -2x16 ddr4 3200 ram\n -r5 5600x\n -llama.cpp vulkan sdk\n -window11 (n",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:58.666Z",
+      "id": "kig3wm"
+    },
+    {
+      "title": "My Multi-Agent Reporting System Breaks on Simple Config Changes. Could Jev help?",
+      "url": "https://pub.towardsai.net/my-multi-agent-reporting-system-breaks-on-simple-config-changes-could-jev-help-9e07e31d93d1?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T12:01:02.000Z",
+      "metaDescription": "What I’ve learned about Jev, a model built to make decisions instead of write text\nContinue reading on Towards AI »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:47.246Z",
+      "id": "diue31"
+    },
+    {
+      "title": "I Reread “Attention Is All You Need” in 2026. Almost Nothing in It Survived.",
+      "url": "https://pub.towardsai.net/i-reread-attention-is-all-you-need-in-2026-almost-nothing-in-it-survived-38576984d897?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T12:01:02.000Z",
+      "metaDescription": "I went back to the 2017 paper behind every AI model to see what’s left of the original. Two ideas made it, and one explains why your…\nContinue reading on Towards AI »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:47.348Z",
+      "id": "fk2c7a"
+    },
+    {
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T12:00:00.000Z",
+      "metaDescription": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:33.396Z",
+      "id": "jby4zq"
+    },
+    {
+      "title": "Why Temperature 0 Isn't Deterministic",
+      "url": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T12:00:00.000Z",
+      "metaDescription": "A one-line formula for how often an LLM's top token flips, and why identical\ncompletions fall apart after about a hundred tokens\nThe post Why Temperature 0 Isn't Deterministic appeared first on Toward",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:34.390Z",
+      "id": "g3ksan"
+    },
+    {
+      "title": "Quiz: How to Get a List of All Files in a Directory With Python",
+      "url": "https://realpython.com/quizzes/get-all-files-in-directory-python/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-10T12:00:00.000Z",
+      "metaDescription": "In this quiz, you’ll test your understanding of How to Get a List of All Files in a Directory With Python.\nBy working through this quiz, you’ll revisit how .iterdir() hands you the contents of a singl",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:24.864Z",
+      "id": "tqmxs8"
+    },
+    {
+      "title": "Microsoft Just Built a Windows PC for the AI Agent Era",
+      "url": "https://ai.plainenglish.io/microsoft-just-built-a-windows-pc-for-the-ai-agent-era-c1b4fc800180?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:53:58.000Z",
+      "metaDescription": "Microsoft’s new Surface machines use Nvidia chips to run AI models locally, while a redesigned Windows 11 is built around AI agents.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:52.650Z",
+      "id": "g881g9"
+    },
+    {
+      "title": "Streaming Responses Are Harder Than They Look",
+      "url": "https://ai.plainenglish.io/streaming-responses-are-harder-than-they-look-c19a2ef08719?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:53:30.000Z",
+      "metaDescription": "In traditional software, a program usually follows a defined sequence of instructions. It receives information, processes that information…\nContinue reading on Artificial Intelligence in Plain English",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:52.720Z",
+      "id": "4nmwat"
+    },
+    {
+      "title": "Must-Know Tips | Day-0 Adaptation Put to the Test!",
+      "url": "https://ai.plainenglish.io/must-know-tips-day-0-adaptation-put-to-the-test-53679431e2e5?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:42:43.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:52.761Z",
+      "id": "c1mees"
+    },
+    {
+      "title": "Your Screenshot Is a Better Prompt Than Your Words",
+      "url": "https://ai.plainenglish.io/your-screenshot-is-a-better-prompt-than-your-words-3753d8cc0fdd?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:38:26.000Z",
+      "metaDescription": "Most people describe their problems to AI in paragraphs. The ones getting better answers just take a picture.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:52.837Z",
+      "id": "elj4mh"
+    },
+    {
+      "title": "15 AI Concepts Every Software Engineer Should Know Before Their Next Interview",
+      "url": "https://ai.plainenglish.io/15-ai-concepts-every-software-engineer-should-know-before-their-next-interview-436c746df523?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:37:35.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:52.876Z",
+      "id": "fa665h"
+    },
+    {
+      "title": "I Built an AI Agent That Turns One Voice Note into a Week of Social Media Content",
+      "url": "https://ai.plainenglish.io/i-built-an-ai-agent-that-turns-one-voice-note-into-a-week-of-social-media-content-477cbe32f1bb?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:36:47.000Z",
+      "metaDescription": "I’m good at talking and terrible at typing. So I stopped typing, and finally started posting consistently.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:52.985Z",
+      "id": "7pco9"
+    },
+    {
+      "title": "Our AI Dilemma: A Grand Synthesis",
+      "url": "https://ai.plainenglish.io/our-ai-dilemma-a-grand-synthesis-6bd57ca204d3?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:35:15.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:53.018Z",
+      "id": "ntyhr"
+    },
+    {
+      "title": "After AI, There Is No Going Back to the Way We Worked Before",
+      "url": "https://ai.plainenglish.io/after-ai-there-is-no-going-back-to-the-way-we-worked-before-c9cc18a057a9?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:35:11.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:53.061Z",
+      "id": "22sg6h"
+    },
+    {
+      "title": "Brain T1 Plus Tumor Mask In, Slice-Consistent Healthy Tissue Fill Out for Registration and…",
+      "url": "https://ai.plainenglish.io/brain-t1-plus-tumor-mask-in-slice-consistent-healthy-tissue-fill-out-for-registration-and-a7860b50a32e?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:33:36.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:53.117Z",
+      "id": "16xusq"
+    },
+    {
+      "title": "OpenAI Dots: A Complete Guide to What They Can Do and How to Use Them",
+      "url": "https://ai.plainenglish.io/openai-dots-a-complete-guide-to-what-they-can-do-and-how-to-use-them-be62cd0ef8a8?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:33:23.000Z",
+      "metaDescription": "Based on launch coverage from OpenAI DevDay, September 29, 2026\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:53.193Z",
+      "id": "1ofsm3"
+    },
+    {
+      "title": "Fully local conversational AI: Whisper + Hermes 8B + Kokoro, zero cloud, running inside a plush toy",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2cztv/fully_local_conversational_ai_whisper_hermes_8b/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:28:41.000Z",
+      "metaDescription": "A conversational AI plush toy where nothing leaves my network. Everything runs on my LAN:\n  \nSTT: Whisper\n \nLLM: Hermes 3 Llama 3.1 8B (Q8_0)\n \nTTS: Kokoro\n \nMemory: per-person (LangGraph). It knows w",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:57.430Z",
+      "id": "4r3527"
+    },
+    {
+      "title": "Typesafe ai raised 870m $ on hype",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2cyy4/typesafe_ai_raised_870m_on_hype_jev/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T11:27:15.000Z",
+      "metaDescription": "https://typesafe.ai/blog/series-ai\n Meanwhile one of the reddit members apparently developed the same architecture a year ago:\n https://www.reddit.com/r/LocalLLaMA/s/8zQXqCNDlb\n Looks like ai valuatio",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:57.073Z",
+      "id": "bofx6y"
+    },
+    {
+      "title": "One with the world? A new look at brains transformed by psychedelics.",
+      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-10T11:15:35.000Z",
+      "metaDescription": "Participants meditated inside an MRI tube, with and without psilocybin.",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:29.245Z",
+      "id": "m8r7i9"
+    },
+    {
+      "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T10:20:08.000Z",
+      "metaDescription": "No.....\n    submitted by    /u/chemist_slime  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:56.688Z",
+      "id": "f619lv"
+    },
+    {
+      "title": "Strata with Qwen3.8 Flash Next UD-Q4_K_XL",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bbx6/strata_with_qwen38_flash_next_udq4_k_xl/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T09:50:37.000Z",
+      "metaDescription": "Been seeing quite a few posts about Strata lately, so I figured I'd give it a shot on my RTX PRO 6000 and I am very impressed. \n Most of the benchmarks I've seen are using IQ2 or IQ3 quants, so I want",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:57.708Z",
+      "id": "4x94oq"
+    },
+    {
+      "title": "Python 3.15 Is Officially Launched— 7 Changes That Actually Matter for Developers",
+      "url": "https://python.plainenglish.io/python-3-15-is-officially-launched-7-changes-that-actually-matter-for-developers-0394bb2d4987?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-10T09:17:14.000Z",
+      "metaDescription": "Lazy imports are finally shipping. Python also gets a built-in immutable mapping, a new profiler, and an experimental JIT with some real…\nContinue reading on Python in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:53.289Z",
+      "id": "lqgvf4"
+    },
+    {
+      "title": "want me to get you some?🤣",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2aqtp/want_me_to_get_you_some/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T09:13:15.000Z",
+      "metaDescription": "Local flea market...and it's about to rain...\n    submitted by    /u/OttoRenner  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:57.145Z",
+      "id": "73p6wf"
+    },
+    {
+      "title": "What are people doing with decisions Jev-like models?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29q4a/what_are_people_doing_with_decisions_jevlike/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T08:07:55.000Z",
+      "metaDescription": "Let's say I run a local Jev-like decision model on my machine. What are the use cases? I already use it for deep eval testing but what are people usually doing with them?\n It a bit of \"solution in sea",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:57.594Z",
+      "id": "qc4t2n"
+    },
+    {
+      "title": "big or small?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T07:54:15.000Z",
+      "metaDescription": "what size do you want? tell them on X:\n https://x.com/QwenDevs/status/2108764909798641737\n    submitted by    /u/jacek2023  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:56.605Z",
+      "id": "otirye"
+    },
+    {
+      "title": "Created laya : Now Introducing a new 800 Million Param physics-based typed decision model with 73k context and image support",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x28zr9/created_laya_now_introducing_a_new_800_million/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T07:22:42.000Z",
+      "metaDescription": "Around 3 weeks ago, I posted on this subreddit about how Jev used my one-year-old architecture, og post: https://www.reddit.com/r/LocalLLaMA/s/VpuMJt577S\n Then, just after that, I introduced Laya, the",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:56.950Z",
+      "id": "fx9wym"
+    },
+    {
+      "title": "9 Python Patterns That Made My Code Much Easier to Debug",
+      "url": "https://python.plainenglish.io/9-python-patterns-that-made-my-code-much-easier-to-debug-e86e5be5f577?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-10T06:55:46.000Z",
+      "metaDescription": "I used to think debugging was mostly about getting better at reading error messages.\nContinue reading on Python in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:53.360Z",
+      "id": "wbe70s"
+    },
+    {
+      "title": "8 Small Python Improvements That Made a Big Difference in My Projects",
+      "url": "https://python.plainenglish.io/8-small-python-improvements-that-made-a-big-difference-in-my-projects-0f14b1ac0bea?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-10T06:55:34.000Z",
+      "metaDescription": "Some of the biggest improvements I’ve made to my Python projects didn’t come from learning a new framework.\nContinue reading on Python in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:53.440Z",
+      "id": "6ihsyt"
+    },
+    {
+      "title": "10 Free Claude Code Plugins Worth Installing Right Now",
+      "url": "https://pub.towardsai.net/10-free-claude-code-plugins-worth-installing-right-now-a18c20602c3f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T06:48:57.000Z",
+      "metaDescription": "A working engineer’s tour of the official marketplace: what each plugin actually does, what it won’t do and the order to install them in\nContinue reading on Towards AI »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:47.430Z",
+      "id": "8c40wv"
+    },
+    {
+      "title": "Don't Copy Notion's MCP Server: 71% of Its Tool Tokens Are Unused Copies",
+      "url": "https://pub.towardsai.net/dont-copy-notion-s-mcp-server-71-of-its-tool-tokens-are-unused-copies-97f1bd184fc2?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T06:48:34.000Z",
+      "metaDescription": "​\nContinue reading on Towards AI »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:47.487Z",
+      "id": "gfr23n"
+    },
+    {
+      "title": "15 Best MCP Servers for Claude in 2026: Tools, Use Cases & Official Links",
+      "url": "https://pub.towardsai.net/15-best-mcp-servers-for-claude-in-2026-tools-use-cases-official-links-8c1995e1b15e?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T06:48:19.000Z",
+      "metaDescription": "Continue reading on Towards AI »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:47.542Z",
+      "id": "xfrovc"
+    },
+    {
+      "title": "microsoft doubles down on local ai with nvidia, but with a cost",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x280nz/microsoft_doubles_down_on_local_ai_with_nvidia/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T06:23:41.000Z",
+      "metaDescription": "https://preview.redd.it/uyjw2lcrvkuh1.png?width=1536&format=png&auto=webp&s=ce991be22faec3de5cbaf39119c14782b6ed0af3\n link to article\n TLDR; new microsoft surface and nvidia rtx spark laptops are star",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:58.114Z",
+      "id": "73gd80"
+    },
+    {
+      "title": "Python’s else Belongs on Loops and try Too — and It Does Not Mean \"Otherwise\"",
+      "url": "https://python.plainenglish.io/pythons-else-belongs-on-loops-and-try-too-and-it-does-not-mean-otherwise-17a2e55e0de2?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-10T06:00:09.000Z",
+      "metaDescription": "On for, while and try, the else block runs when nothing went wrong, which makes it read like \"then\" and lets you delete your flag variables\nContinue reading on Python in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:53.541Z",
+      "id": "gv7hxa"
+    },
+    {
+      "title": "Your RAG System Isn’t Dumb. It’s Forgetful.",
+      "url": "https://python.plainenglish.io/your-rag-system-isnt-dumb-it-s-forgetful-0620d87f23d6?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-10T05:56:05.000Z",
+      "metaDescription": "Most retrieval failures happen before the LLM reads a single token. Here are 15 techniques that fix them, with the verified numbers behind…\nContinue reading on Python in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:53.627Z",
+      "id": "rs0slr"
+    },
+    {
+      "title": "Qwen 3.6 35B A3B: 131K context + vision on 6GB VRAM",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x27au9/qwen_36_35b_a3b_131k_context_vision_on_6gb_vram/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T05:41:18.000Z",
+      "metaDescription": "Running HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive Q4_K_M with llama.cpp at ~600 tok/s prefill and 23 tok/s decode, 131k context window, Q8 KV cache - on an RTX 2060 6GB + 32GB DDR4 RAM.\n",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:24:58.543Z",
+      "id": "cpcwry"
+    },
+    {
+      "title": "What Most People Get Wrong About Evolution | Akarsh Kumar",
+      "url": "https://www.youtube.com/watch?v=615B5nyMFPk",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-10-10T04:31:57.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:01.661Z",
+      "id": "2thlqh"
     },
     {
       "title": "DevOps or Software Engineering for MLOps",
@@ -46,7 +736,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.279Z",
+      "crawledAt": "2026-10-10T14:25:02.892Z",
       "id": "p355jp"
     },
     {
@@ -61,23 +751,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.442Z",
+      "crawledAt": "2026-10-10T14:24:58.227Z",
       "id": "ay4n11"
-    },
-    {
-      "title": "PR merged: `/v1/systemone` support in vllm",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x21of7/pr_merged_v1systemone_support_in_vllm/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-10T00:37:40.000Z",
-      "metaDescription": "submitted by    /u/413205  \n [link]   [comments]",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:58.134Z",
-      "id": "n312mg"
     },
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -91,23 +766,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.176Z",
+      "crawledAt": "2026-10-10T14:24:24.779Z",
       "id": "yfb4ct"
-    },
-    {
-      "title": "Qwen Flash Next @ 137 tok/s & 3,497 tok/s Prefill w/ 512k context on a 5090, 192gb ram, Windows Build, comparing Strata and Infernix",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x217go/qwen_flash_next_137_toks_3497_toks_prefill_w_512k/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-10T00:14:28.000Z",
-      "metaDescription": "Strata vs Infernix on the same model, RTX 5090 — A/B at 262k and 512k context\n Hi folks, another inference engine post for your feed. I was blown away by Strata, but saw someone else post about Infern",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:58.284Z",
-      "id": "vwg7yq"
     },
     {
       "title": "What does LocalLLaMA think of REA?",
@@ -121,23 +781,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.753Z",
+      "crawledAt": "2026-10-10T14:24:58.382Z",
       "id": "daz34e"
-    },
-    {
-      "title": "SlopSoup TV. A live, never-ending 24/7 pixel-art TV network inspired by old-school late night Adult Swim. No human makes any of it.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x20tgs/slopsoup_tv_a_live_neverending_247_pixelart_tv/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T23:57:12.000Z",
-      "metaDescription": "SlopSoup TV is a live, never-ending pixel-art TV network. Every script, character, voice, camera cut and schedule decision is made by models. It's made to be very absurd, dark and strange.\n Hardware: ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.704Z",
-      "id": "ymntbs"
     },
     {
       "title": "Dependency Drift Is Slow Until the Day It Is Sudden",
@@ -151,23 +796,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.860Z",
+      "crawledAt": "2026-10-10T14:24:53.692Z",
       "id": "hg80yb"
-    },
-    {
-      "title": "Your AI Wants a Memory. Google Thinks It Can Have One Without Reading It",
-      "url": "https://ai.plainenglish.io/your-ai-wants-a-memory-google-thinks-it-can-have-one-without-reading-it-8069a20a1e38?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T23:20:05.000Z",
-      "metaDescription": "An assistant that remembers nothing is easy to explain. Every conversation starts from zero. An assistant that remembers preferences…\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.205Z",
-      "id": "t80gu8"
     },
     {
       "title": "AI Writes Code Fast. Here Is a 10-Minute Checklist to Verify It Before You Merge",
@@ -181,7 +811,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.905Z",
+      "crawledAt": "2026-10-10T14:24:53.780Z",
       "id": "khji8x"
     },
     {
@@ -196,7 +826,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.939Z",
+      "crawledAt": "2026-10-10T14:24:53.846Z",
       "id": "lnpnu0"
     },
     {
@@ -211,7 +841,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.975Z",
+      "crawledAt": "2026-10-10T14:24:53.915Z",
       "id": "2zc7pv"
     },
     {
@@ -226,38 +856,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.021Z",
+      "crawledAt": "2026-10-10T14:24:54.002Z",
       "id": "l3fbtl"
-    },
-    {
-      "title": "10 MCP Servers You Shouldn’t Ignore",
-      "url": "https://python.plainenglish.io/10-mcp-servers-you-shouldnt-ignore-68d48503a8fd?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-10-09T23:17:45.000Z",
-      "metaDescription": "Make your AI coding assistant more useful with these 10 practical MCP integrations.\nContinue reading on Python in Plain English »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.055Z",
-      "id": "rbk0xr"
-    },
-    {
-      "title": "JEV: The AI That Decides, Not Writes",
-      "url": "https://python.plainenglish.io/jev-the-ai-that-decides-not-writes-10da3a8f137e?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-10-09T23:17:25.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.075Z",
-      "id": "civb86"
     },
     {
       "title": "My \"Anthropic/ChatGPT in a box\" is... now open source and publicly hosted on Github.",
@@ -271,23 +871,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.560Z",
+      "crawledAt": "2026-10-10T14:24:57.836Z",
       "id": "gx5dls"
-    },
-    {
-      "title": "Qwen3.8-27B UD-IQ4_XS Heretic + MTP on a 16 GB card with 55-68 tok/s",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1zhnx/qwen3827b_udiq4_xs_heretic_mtp_on_a_16_gb_card/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T22:54:37.000Z",
-      "metaDescription": "I wanted the uncensored Qwen3.8-27B (llmfan46's Heretic build, MTP head preserved) on my RTX 4080 with MTP on (because I've been testing TONS of configs, and realized that would be the one)\n And none ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.886Z",
-      "id": "hvfaad"
     },
     {
       "title": "Neanderthal wooden tools from Spain found preserved in stone",
@@ -301,23 +886,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.110Z",
+      "crawledAt": "2026-10-10T14:24:29.454Z",
       "id": "xw0d9l"
     },
     {
-      "title": "I Replaced 6 Python Tools with 2. Here’s What Actually Got Faster",
-      "url": "https://python.plainenglish.io/i-replaced-6-python-tools-with-2-heres-what-actually-got-faster-2d7cd14dc9da?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-10-09T22:07:51.000Z",
-      "metaDescription": "Less ritual, more automation, and no more “ask Dave.”\nContinue reading on Python in Plain English »",
+      "title": "What is a Skill?",
+      "url": "https://www.youtube.com/watch?v=bv1qgkbWhms",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-09T22:11:30.000Z",
+      "metaDescription": "",
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.112Z",
-      "id": "ex171g"
+      "crawledAt": "2026-10-10T14:25:07.057Z",
+      "id": "qn010"
     },
     {
       "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
@@ -331,7 +916,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.144Z",
+      "crawledAt": "2026-10-10T14:24:29.710Z",
       "id": "uzpm6s"
     },
     {
@@ -346,7 +931,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.182Z",
+      "crawledAt": "2026-10-10T14:24:30.006Z",
       "id": "sq7tcu"
     },
     {
@@ -361,23 +946,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.226Z",
+      "crawledAt": "2026-10-10T14:24:24.897Z",
       "id": "6q52iw"
-    },
-    {
-      "title": "Qwen3.8 27b with 200K ctx + MTP on 12GB Ampere Cards",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1xt1x/qwen38_27b_with_200k_ctx_mtp_on_12gb_ampere_cards/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T21:39:32.000Z",
-      "metaDescription": "Hello all!\n Thank you to everyone that contributed their feedback and notes for LlamAmpere the last time I posted. I've continued to chip away at improvements for the 3090 crowd -- this release is mod",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:58.101Z",
-      "id": "eiry48"
     },
     {
       "title": "NASA issues long-awaited call to industry for private space stations",
@@ -391,7 +961,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.214Z",
+      "crawledAt": "2026-10-10T14:24:30.093Z",
       "id": "ls0a18"
     },
     {
@@ -406,23 +976,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.243Z",
+      "crawledAt": "2026-10-10T14:24:30.152Z",
       "id": "62xhfv"
-    },
-    {
-      "title": "H2O-Lightning-4B: Apache-2.0 4B Decision model, official #1 open model on JevBench",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1w1nv/h2olightning4b_apache20_4b_decision_model/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T20:26:12.000Z",
-      "metaDescription": "Disclosure: I work at H2O.ai.\n  We released H2O-Lightning-4B, an open-weight (Apache-2.0) model for the \"decisions API\" style of inference that Jev made popular: you send a state plus typed questions ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.953Z",
-      "id": "3t6ym0"
     },
     {
       "title": "AI coding agents generate more code, but not more software",
@@ -436,7 +991,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.273Z",
+      "crawledAt": "2026-10-10T14:24:30.211Z",
       "id": "nfpsy4"
     },
     {
@@ -451,7 +1006,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.263Z",
+      "crawledAt": "2026-10-10T14:24:24.981Z",
       "id": "uederh"
     },
     {
@@ -466,7 +1021,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.137Z",
+      "crawledAt": "2026-10-10T14:24:33.486Z",
       "id": "lqiym1"
     },
     {
@@ -481,38 +1036,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.305Z",
+      "crawledAt": "2026-10-10T14:24:30.276Z",
       "id": "ghby2r"
     },
     {
-      "title": "The AI Privacy Problem Is Bigger Than Your Chat History",
-      "url": "https://ai.plainenglish.io/the-ai-privacy-problem-is-bigger-than-your-chat-history-b1f07ba32d45?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
+      "title": "Set up your dot in the ChatGPT mobile app",
+      "url": "https://www.youtube.com/watch?v=p5KxBTUncoE",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
       "source_priority": "high",
-      "pubDate": "2026-10-09T19:14:13.000Z",
-      "metaDescription": "The real question is what happens when AI connects to your entire digital life.\nContinue reading on Artificial Intelligence in Plain English »",
+      "pubDate": "2026-10-09T19:13:03.000Z",
+      "metaDescription": "",
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.238Z",
-      "id": "ag1p21"
-    },
-    {
-      "title": "5 Developer Tools You Could Build and Sell With Python",
-      "url": "https://python.plainenglish.io/5-developer-tools-you-could-build-and-sell-with-python-7530fc689cd0?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-10-09T19:14:03.000Z",
-      "metaDescription": "Practical product ideas based on problems developers already pay to solve\nContinue reading on Python in Plain English »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.143Z",
-      "id": "nluu6r"
+      "crawledAt": "2026-10-10T14:25:06.303Z",
+      "id": "swtejb"
     },
     {
       "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
@@ -526,7 +1066,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.339Z",
+      "crawledAt": "2026-10-10T14:24:30.342Z",
       "id": "g2fppw"
     },
     {
@@ -541,23 +1081,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.373Z",
+      "crawledAt": "2026-10-10T14:24:30.410Z",
       "id": "4kwm3s"
-    },
-    {
-      "title": "Qwen 3.8 Flash Next-GSQ-RCO-IQ2_XS at ~21 tok/s on just an RTX 3060 12GB + 16GB DDR4 RAM",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1tclb/qwen_38_flash_nextgsqrcoiq2_xs_at_21_toks_on_just/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T18:41:18.000Z",
-      "metaDescription": "(Don't judge by the screenshot, the cache is cold. It hits 24+ tok/s with a warm cache!)\n About two months ago, I made a post here asking whether predicting which MoE experts would be used on the next",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.634Z",
-      "id": "jri7n7"
     },
     {
       "title": "Your artwork could be featured in the next Debian release",
@@ -571,7 +1096,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.404Z",
+      "crawledAt": "2026-10-10T14:24:30.471Z",
       "id": "3hulgn"
     },
     {
@@ -586,7 +1111,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.439Z",
+      "crawledAt": "2026-10-10T14:24:30.546Z",
       "id": "vvfdsh"
     },
     {
@@ -601,7 +1126,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.384Z",
+      "crawledAt": "2026-10-10T14:24:57.949Z",
       "id": "n9h97j"
     },
     {
@@ -616,23 +1141,38 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.293Z",
+      "crawledAt": "2026-10-10T14:24:57.491Z",
       "id": "ijzhbx"
     },
     {
-      "title": "8 Python Libraries That Fix Slow Loops, Flaky Tests, and Fake Data",
-      "url": "https://python.plainenglish.io/8-python-libraries-that-fix-slow-loops-flaky-tests-and-fake-data-64b55daeff54?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-10-09T17:31:01.000Z",
-      "metaDescription": "Most Python advice tells you to use the same five packages.\nContinue reading on Python in Plain English »",
+      "title": "Three Questions Every Agent Engineer Should Be Able To Answer",
+      "url": "https://www.youtube.com/watch?v=oVKGKdIAgtg",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-09T17:16:00.000Z",
+      "metaDescription": "",
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.179Z",
-      "id": "icrwqc"
+      "crawledAt": "2026-10-10T14:25:07.091Z",
+      "id": "krz75z"
+    },
+    {
+      "title": "Building the Codex community",
+      "url": "https://www.youtube.com/watch?v=enPbh_A5F7E",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-09T17:00:34.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:06.342Z",
+      "id": "plr0v5"
     },
     {
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
@@ -646,7 +1186,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.308Z",
+      "crawledAt": "2026-10-10T14:24:25.070Z",
       "id": "jz0i7t"
     },
     {
@@ -661,7 +1201,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.363Z",
+      "crawledAt": "2026-10-10T14:24:25.153Z",
       "id": "7lcptv"
     },
     {
@@ -676,7 +1216,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.398Z",
+      "crawledAt": "2026-10-10T14:24:25.221Z",
       "id": "bl762z"
     },
     {
@@ -691,7 +1231,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.447Z",
+      "crawledAt": "2026-10-10T14:24:25.323Z",
       "id": "vq8f31"
     },
     {
@@ -706,38 +1246,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:37.578Z",
+      "crawledAt": "2026-10-10T14:24:27.375Z",
       "id": "dw9huk"
-    },
-    {
-      "title": "GitHub - google-ai-edge/ml-drift: GPU-Accelerated AI/ML Inference",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1owzm/github_googleaiedgemldrift_gpuaccelerated_aiml/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T15:50:37.000Z",
-      "metaDescription": "Blog Post : ML Drift: Next-Gen GPU AI/ML Inference at the Edge - Google Developers Blog\n  \nThe Google AI Edge Team is excited to announce the open-source release of ML Drift, our high-performance, cro",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.811Z",
-      "id": "2zr633"
-    },
-    {
-      "title": "Tested Mellum2.1-12B-A2.5B on PI Coding Agent - surprisingly usable, but not great at one-shot projects",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1owjv/tested_mellum2112ba25b_on_pi_coding_agent/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T15:50:15.000Z",
-      "metaDescription": "I tested Mellum2.1-12B-A2.5B (Q8) locally using Pi and llama-server. All five tests were one-shot.\n Results were pretty mixed:\n - Pelican SVG, Browser OS, Minecraft: Poor results.\n - Bouncing Hexagon:",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:58.207Z",
-      "id": "btxtd3"
     },
     {
       "title": "a16z’s Olivia Moore on the state of consumer AI",
@@ -751,7 +1261,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.483Z",
+      "crawledAt": "2026-10-10T14:24:25.398Z",
       "id": "9pibpx"
     },
     {
@@ -766,7 +1276,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:47.820Z",
+      "crawledAt": "2026-10-10T14:24:42.289Z",
       "id": "261hlk"
     },
     {
@@ -781,7 +1291,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:47.865Z",
+      "crawledAt": "2026-10-10T14:24:42.375Z",
       "id": "9iifbj"
     },
     {
@@ -796,7 +1306,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.554Z",
+      "crawledAt": "2026-10-10T14:24:34.493Z",
       "id": "w9m58h"
     },
     {
@@ -811,7 +1321,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:34.235Z",
+      "crawledAt": "2026-10-10T14:24:19.787Z",
       "id": "ke9b6l"
     },
     {
@@ -826,7 +1336,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.528Z",
+      "crawledAt": "2026-10-10T14:24:51.963Z",
       "id": "gp1p4r"
     },
     {
@@ -841,7 +1351,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.564Z",
+      "crawledAt": "2026-10-10T14:24:52.045Z",
       "id": "rdqykg"
     },
     {
@@ -856,7 +1366,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.594Z",
+      "crawledAt": "2026-10-10T14:24:52.106Z",
       "id": "zhxnzl"
     },
     {
@@ -871,8 +1381,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.400Z",
+      "crawledAt": "2026-10-10T14:25:03.132Z",
       "id": "yuz9ql"
+    },
+    {
+      "title": "Managed Deep Agents | Deploying mission critical agents to production",
+      "url": "https://www.youtube.com/watch?v=XcsspzECTKA",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-09T14:41:48.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:07.128Z",
+      "id": "jfui1c"
     },
     {
       "title": "The Markowitz curse",
@@ -886,7 +1411,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.627Z",
+      "crawledAt": "2026-10-10T14:24:52.174Z",
       "id": "dol0np"
     },
     {
@@ -901,7 +1426,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.670Z",
+      "crawledAt": "2026-10-10T14:24:52.263Z",
       "id": "a8jdul"
     },
     {
@@ -916,7 +1441,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.692Z",
+      "crawledAt": "2026-10-10T14:24:52.306Z",
       "id": "vr75cq"
     },
     {
@@ -931,7 +1456,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.716Z",
+      "crawledAt": "2026-10-10T14:24:52.354Z",
       "id": "u5nxj2"
     },
     {
@@ -946,7 +1471,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.768Z",
+      "crawledAt": "2026-10-10T14:24:52.457Z",
       "id": "6q2o01"
     },
     {
@@ -961,7 +1486,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.792Z",
+      "crawledAt": "2026-10-10T14:24:52.500Z",
       "id": "hnh4gp"
     },
     {
@@ -976,7 +1501,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.822Z",
+      "crawledAt": "2026-10-10T14:24:52.559Z",
       "id": "ibppmy"
     },
     {
@@ -991,7 +1516,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.217Z",
+      "crawledAt": "2026-10-10T14:24:54.076Z",
       "id": "qex2f8"
     },
     {
@@ -1006,7 +1531,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.542Z",
+      "crawledAt": "2026-10-10T14:24:25.527Z",
       "id": "bz53bg"
     },
     {
@@ -1021,7 +1546,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.588Z",
+      "crawledAt": "2026-10-10T14:24:34.566Z",
       "id": "v2d885"
     },
     {
@@ -1036,38 +1561,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:11.240Z",
+      "crawledAt": "2026-10-10T14:25:21.703Z",
       "id": "cu6m8"
-    },
-    {
-      "title": "Generate Images in Python With OpenAI's GPT Image API",
-      "url": "https://realpython.com/generate-images-openai/",
-      "source": "Real Python",
-      "source_domain": "realpython.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-10-09T14:00:00.000Z",
-      "metaDescription": "You’ve probably asked ChatGPT for a picture and watched one appear a few seconds later. The same models also sit behind OpenAI’s GPT Image API, so you can generate images from your own Python code ins",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.360Z",
-      "id": "ltwbwh"
-    },
-    {
-      "title": "Modern Web Automation With Python and Selenium",
-      "url": "https://realpython.com/modern-web-automation-with-python-and-selenium/",
-      "source": "Real Python",
-      "source_domain": "realpython.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-10-09T14:00:00.000Z",
-      "metaDescription": "Selenium is a web automation tool that allows you to use Python to programmatically interact with dynamic, JavaScript-generated web pages. Your Python Selenium code drives a real browser that you can ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.405Z",
-      "id": "cwqves"
     },
     {
       "title": "Hugging Face Transformers: Leverage Open-Source AI in Python",
@@ -1081,8 +1576,38 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.450Z",
+      "crawledAt": "2026-10-10T14:25:24.950Z",
       "id": "33o20r"
+    },
+    {
+      "title": "Modern Web Automation With Python and Selenium",
+      "url": "https://realpython.com/modern-web-automation-with-python-and-selenium/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-09T14:00:00.000Z",
+      "metaDescription": "Selenium is a web automation tool that allows you to use Python to programmatically interact with dynamic, JavaScript-generated web pages. Your Python Selenium code drives a real browser that you can ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:25.038Z",
+      "id": "cwqves"
+    },
+    {
+      "title": "Generate Images in Python With OpenAI's GPT Image API",
+      "url": "https://realpython.com/generate-images-openai/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-09T14:00:00.000Z",
+      "metaDescription": "You’ve probably asked ChatGPT for a picture and watched one appear a few seconds later. The same models also sit behind OpenAI’s GPT Image API, so you can generate images from your own Python code ins",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:25.140Z",
+      "id": "ltwbwh"
     },
     {
       "title": "Qwen/Qwen-Image-2.1-Turbo · Hugging Face",
@@ -1096,23 +1621,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.327Z",
+      "crawledAt": "2026-10-10T14:24:58.289Z",
       "id": "jldnjt"
-    },
-    {
-      "title": "Qwen-Image-2.1-Turbo released!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1lclx/qwenimage21turbo_released/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T13:27:18.000Z",
-      "metaDescription": "Qwen-Image-2.1-Turbo, create and edit images in just 8 denoising steps! Open weights now available!\n Built on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation archit",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:57.495Z",
-      "id": "jq6kmx"
     },
     {
       "title": "EmbeddingGemma 2: Text, Code, Images, Video and Audio in One Vector Space",
@@ -1126,7 +1636,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.324Z",
+      "crawledAt": "2026-10-10T14:25:23.651Z",
       "id": "8770so"
     },
     {
@@ -1141,8 +1651,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.466Z",
+      "crawledAt": "2026-10-10T14:24:30.598Z",
       "id": "doibr4"
+    },
+    {
+      "title": "Build a Self-Improving Software Factory",
+      "url": "https://www.youtube.com/watch?v=hO4ft4tGOJI",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-09T13:00:30.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:08.993Z",
+      "id": "2z96jk"
     },
     {
       "title": "Build Your First AI Agent with One Tool Call",
@@ -1156,7 +1681,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.621Z",
+      "crawledAt": "2026-10-10T14:24:34.634Z",
       "id": "8o1vb4"
     },
     {
@@ -1171,7 +1696,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.237Z",
+      "crawledAt": "2026-10-10T14:24:54.113Z",
       "id": "ttcj3m"
     },
     {
@@ -1186,7 +1711,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.282Z",
+      "crawledAt": "2026-10-10T14:24:54.199Z",
       "id": "8m5r4c"
     },
     {
@@ -1201,23 +1726,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.903Z",
+      "crawledAt": "2026-10-10T14:24:32.420Z",
       "id": "f4c83"
-    },
-    {
-      "title": "tencent/Youtu-Parsing-Omni · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1jk9z/tencentyoutuparsingomni_hugging_face/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T12:03:32.000Z",
-      "metaDescription": "Youtu-Parsing-Omni is a compact (5B) omni-modal parsing model. Given a single input — a document page, a natural image, a chart / flowchart, a geometry figure, an audio clip or an audio-visual video —",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:58.342Z",
-      "id": "51519v"
     },
     {
       "title": "10 Free AI Tools That Replace Expensive Software for Data Scientists",
@@ -1231,7 +1741,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:11.277Z",
+      "crawledAt": "2026-10-10T14:25:21.779Z",
       "id": "8l70bk"
     },
     {
@@ -1246,7 +1756,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.500Z",
+      "crawledAt": "2026-10-10T14:25:25.241Z",
       "id": "hrg8ed"
     },
     {
@@ -1261,7 +1771,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.552Z",
+      "crawledAt": "2026-10-10T14:25:25.345Z",
       "id": "tpuu6w"
     },
     {
@@ -1276,7 +1786,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.599Z",
+      "crawledAt": "2026-10-10T14:25:25.436Z",
       "id": "tlz7d8"
     },
     {
@@ -1291,7 +1801,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.499Z",
+      "crawledAt": "2026-10-10T14:24:30.667Z",
       "id": "xtuiti"
     },
     {
@@ -1306,7 +1816,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.660Z",
+      "crawledAt": "2026-10-10T14:24:34.718Z",
       "id": "wt3gkz"
     },
     {
@@ -1321,7 +1831,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:46.704Z",
+      "crawledAt": "2026-10-10T14:24:39.296Z",
       "id": "fu6a72"
     },
     {
@@ -1336,7 +1846,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.529Z",
+      "crawledAt": "2026-10-10T14:24:30.728Z",
       "id": "7izf0f"
     },
     {
@@ -1351,23 +1861,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.192Z",
+      "crawledAt": "2026-10-10T14:24:33.554Z",
       "id": "e16hu7"
-    },
-    {
-      "title": "AI Agents Are No Longer Working Alone: Welcome to the Era of Agent Swarms",
-      "url": "https://ai.plainenglish.io/ai-agents-are-no-longer-working-alone-welcome-to-the-era-of-agent-swarms-03dd55211d12?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T09:05:01.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.261Z",
-      "id": "8w8i5a"
     },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
@@ -1381,7 +1876,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.950Z",
+      "crawledAt": "2026-10-10T14:24:32.516Z",
       "id": "m2jic9"
     },
     {
@@ -1396,7 +1891,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.996Z",
+      "crawledAt": "2026-10-10T14:24:32.611Z",
       "id": "t6qa4h"
     },
     {
@@ -1411,7 +1906,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.043Z",
+      "crawledAt": "2026-10-10T14:24:32.713Z",
       "id": "vt7lzx"
     },
     {
@@ -1426,7 +1921,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.324Z",
+      "crawledAt": "2026-10-10T14:24:54.284Z",
       "id": "2f00sz"
     },
     {
@@ -1441,8 +1936,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.374Z",
+      "crawledAt": "2026-10-10T14:24:54.387Z",
       "id": "hhi57e"
+    },
+    {
+      "title": "How Sophos cuts threat response time by 96% with OpenAI Daybreak",
+      "url": "https://www.youtube.com/watch?v=MUHjyljBPHI",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-09T08:37:55.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:06.386Z",
+      "id": "dn1xwv"
     },
     {
       "title": "Jev Doesn’t Talk. It Answers. Why a Model With No Text Output Might Matter More Than GPT-6",
@@ -1456,7 +1966,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.427Z",
+      "crawledAt": "2026-10-10T14:24:54.497Z",
       "id": "a4cjbu"
     },
     {
@@ -1471,23 +1981,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.471Z",
+      "crawledAt": "2026-10-10T14:24:54.587Z",
       "id": "kql0wn"
-    },
-    {
-      "title": "Ahh, it all makes sense now for the 64Gb DGX Spark -",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1fnsy/ahh_it_all_makes_sense_now_for_the_64gb_dgx_spark/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T08:12:34.000Z",
-      "metaDescription": "submitted by    /u/chemist_slime  \n [link]   [comments]",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:58.046Z",
-      "id": "csea0s"
     },
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -1501,7 +1996,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:34.810Z",
+      "crawledAt": "2026-10-10T14:24:22.110Z",
       "id": "lzyouq"
     },
     {
@@ -1516,23 +2011,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:34.860Z",
+      "crawledAt": "2026-10-10T14:24:22.198Z",
       "id": "f797cd"
-    },
-    {
-      "title": "10 AI Agent Terms I Wish I’d Known Before Building My First Agent",
-      "url": "https://pub.towardsai.net/10-ai-agent-terms-i-wish-id-known-before-building-my-first-agent-d14b3ea90835?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-09T06:16:22.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:50.878Z",
-      "id": "3183yy"
     },
     {
       "title": "I built a CLI that runs MLflow, Feast, Evidently and Airflow together locally",
@@ -1546,7 +2026,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.338Z",
+      "crawledAt": "2026-10-10T14:25:03.009Z",
       "id": "6fonc5"
     },
     {
@@ -1561,7 +2041,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.456Z",
+      "crawledAt": "2026-10-10T14:25:03.245Z",
       "id": "ml4hog"
     },
     {
@@ -1576,7 +2056,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.515Z",
+      "crawledAt": "2026-10-10T14:24:54.673Z",
       "id": "sto234"
     },
     {
@@ -1591,53 +2071,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.090Z",
+      "crawledAt": "2026-10-10T14:24:32.809Z",
       "id": "5or9p6"
     },
     {
-      "title": "Jev AI for Developers: Build a Confidence-Gated Ticket Router in Python",
-      "url": "https://pub.towardsai.net/jev-ai-for-developers-build-a-confidence-gated-ticket-router-in-python-95d7fd355ce2?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
+      "title": "Embedding Gemma 2: The Only Embedding you need for RAG",
+      "url": "https://www.youtube.com/shorts/zoLs2JmtBFY",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
       "source_priority": "high",
-      "pubDate": "2026-10-09T00:01:03.000Z",
-      "metaDescription": "Choice, score and noul questions, the exact wire format, the limits TypeSafe documents, and what to do when the model isn’t sure.\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:50.926Z",
-      "id": "84ayho"
-    },
-    {
-      "title": "Tuning Jev as a Risk Judge: A Decision Model vs.",
-      "url": "https://pub.towardsai.net/tuning-jev-as-a-risk-judge-a-decision-model-vs-db4c012a835a?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T23:01:04.000Z",
+      "pubDate": "2026-10-08T22:37:37.000Z",
       "metaDescription": "",
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:50.948Z",
-      "id": "kbfjfj"
-    },
-    {
-      "title": "How Large Language Models Actually Work — Daily AI Post",
-      "url": "https://pub.towardsai.net/how-large-language-models-actually-work-daily-ai-post-b15cdd5d4086?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T22:01:02.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:50.969Z",
-      "id": "94zopg"
+      "crawledAt": "2026-10-10T14:25:09.037Z",
+      "id": "s0ap85"
     },
     {
       "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
@@ -1651,8 +2101,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.563Z",
+      "crawledAt": "2026-10-10T14:24:30.803Z",
       "id": "bgvjuz"
+    },
+    {
+      "title": "Production Monitoring with Codex: Grafana, Kubernetes, & Security",
+      "url": "https://www.youtube.com/watch?v=RQfg-zo4R-g",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T21:35:18.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:06.428Z",
+      "id": "xdtds"
     },
     {
       "title": "Open-Sourcing a sub-15ms Deterministic Decision Gateway to eliminate 2-second LLM routing latencies",
@@ -1666,7 +2131,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.558Z",
+      "crawledAt": "2026-10-10T14:25:03.449Z",
       "id": "dqgelk"
     },
     {
@@ -1681,7 +2146,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.271Z",
+      "crawledAt": "2026-10-10T14:24:33.649Z",
       "id": "e6rgg"
     },
     {
@@ -1696,23 +2161,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:33.306Z",
+      "crawledAt": "2026-10-10T14:24:17.923Z",
       "id": "x2rvvu"
-    },
-    {
-      "title": "What If Enzo Ferrari Was Blamed for Something His Car Did? The AI Agent Authorization Problem",
-      "url": "https://pub.towardsai.net/what-if-enzo-ferrari-was-blamed-for-something-his-car-did-the-ai-agent-authorization-problem-92837575559a?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T21:01:02.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:50.993Z",
-      "id": "5dtdca"
     },
     {
       "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
@@ -1726,7 +2176,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.588Z",
+      "crawledAt": "2026-10-10T14:24:25.624Z",
       "id": "p61maa"
     },
     {
@@ -1741,7 +2191,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.595Z",
+      "crawledAt": "2026-10-10T14:24:30.871Z",
       "id": "rx6z6n"
     },
     {
@@ -1756,7 +2206,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.624Z",
+      "crawledAt": "2026-10-10T14:24:30.931Z",
       "id": "spjch3"
     },
     {
@@ -1771,7 +2221,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.650Z",
+      "crawledAt": "2026-10-10T14:24:30.986Z",
       "id": "pfg1df"
     },
     {
@@ -1786,7 +2236,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.679Z",
+      "crawledAt": "2026-10-10T14:24:31.045Z",
       "id": "vlxooj"
     },
     {
@@ -1801,38 +2251,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.630Z",
+      "crawledAt": "2026-10-10T14:24:25.711Z",
       "id": "q99xlr"
-    },
-    {
-      "title": "Now Amazon Showed up to Jev",
-      "url": "https://pub.towardsai.net/now-amazon-showed-up-to-jev-75aaea859803?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T20:01:01.000Z",
-      "metaDescription": "A New System one model from Strands labs\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:51.023Z",
-      "id": "xn7spy"
-    },
-    {
-      "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
-      "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-10-08T19:57:17.000Z",
-      "metaDescription": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.712Z",
-      "id": "pcqp5n"
     },
     {
       "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
@@ -1846,7 +2266,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.332Z",
+      "crawledAt": "2026-10-10T14:24:33.726Z",
       "id": "pl8qwm"
     },
     {
@@ -1861,23 +2281,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.504Z",
+      "crawledAt": "2026-10-10T14:25:03.341Z",
       "id": "funxo7"
-    },
-    {
-      "title": "An Ex-OpenAI Researcher Built an AI That Only Picks From a List, and 3 Giants Followed Within 16…",
-      "url": "https://pub.towardsai.net/an-ex-openai-researcher-built-an-ai-that-only-picks-from-a-list-and-3-giants-followed-within-16-fcf3937afaa7?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T19:01:02.000Z",
-      "metaDescription": "Jev, OpenAI’s Decisions API, Cloudflare Clef and Strands Decider return typed choices with probabilities instead of text. Here is how…\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:51.077Z",
-      "id": "mbtt8m"
     },
     {
       "title": "Built an open-source layer for AI provenance that uses a Merkle log and HMAC/Ed25519 signatures. Here's the architecture.",
@@ -1891,7 +2296,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.675Z",
+      "crawledAt": "2026-10-10T14:25:03.712Z",
       "id": "ygs6gt"
     },
     {
@@ -1906,7 +2311,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:47.916Z",
+      "crawledAt": "2026-10-10T14:24:42.475Z",
       "id": "uxlhds"
     },
     {
@@ -1921,7 +2326,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.677Z",
+      "crawledAt": "2026-10-10T14:24:25.805Z",
       "id": "gk8w61"
     },
     {
@@ -1936,7 +2341,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.723Z",
+      "crawledAt": "2026-10-10T14:24:25.897Z",
       "id": "wsylie"
     },
     {
@@ -1951,7 +2356,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.792Z",
+      "crawledAt": "2026-10-10T14:24:25.983Z",
       "id": "v3mbq7"
     },
     {
@@ -1966,7 +2371,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.837Z",
+      "crawledAt": "2026-10-10T14:24:26.123Z",
       "id": "7bsgel"
     },
     {
@@ -1981,7 +2386,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.881Z",
+      "crawledAt": "2026-10-10T14:24:26.297Z",
       "id": "2uzrm1"
     },
     {
@@ -1996,38 +2401,83 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.920Z",
+      "crawledAt": "2026-10-10T14:24:26.430Z",
       "id": "3nuebg"
     },
     {
-      "title": "The Enterprise AI Competence Gap: Why Anthropic Made its CCAO-F Certification Zero-Code",
-      "url": "https://pub.towardsai.net/the-enterprise-ai-competence-gap-why-anthropic-made-its-ccao-f-certification-zero-code-54f914385aee?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
+      "title": "More visual answers from GPT-6 with Intelligent UI",
+      "url": "https://www.youtube.com/shorts/OgjMGn4T6Ok",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
       "source_priority": "high",
-      "pubDate": "2026-10-08T18:01:02.000Z",
-      "metaDescription": "Everyone claims to know how to prompt. Almost nobody knows how to audit, govern, or chain models in production. What Anthropic’s CCAO-F…\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:51.129Z",
-      "id": "4yet47"
-    },
-    {
-      "title": "Microsoft Fabric Cost Optimization: Practical Ways to Control Capacity Spend",
-      "url": "https://pub.towardsai.net/microsoft-fabric-cost-optimization-practical-ways-to-control-capacity-spend-da1537916225?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T17:31:01.000Z",
+      "pubDate": "2026-10-08T17:46:54.000Z",
       "metaDescription": "",
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:51.150Z",
-      "id": "kww2rn"
+      "crawledAt": "2026-10-10T14:25:06.466Z",
+      "id": "htyjik"
+    },
+    {
+      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
+      "url": "https://www.youtube.com/shorts/Rs5qLAnkNcI",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:43:05.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:06.503Z",
+      "id": "n4qzap"
+    },
+    {
+      "title": "Get a more visual answer from GPT-6 with Intelligent UI",
+      "url": "https://www.youtube.com/shorts/Wv0PRPMzkJg",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:41:31.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:06.543Z",
+      "id": "o1vwn2"
+    },
+    {
+      "title": "Play a game against GPT-6 with Intelligent UI",
+      "url": "https://www.youtube.com/shorts/BHQF1xl2ScU",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:40:12.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:06.580Z",
+      "id": "kyhjil"
+    },
+    {
+      "title": "Make a game using GPT-6 with Intelligent UI",
+      "url": "https://www.youtube.com/shorts/qmOOspYLhzg",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T17:37:43.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:06.653Z",
+      "id": "oq5xlu"
     },
     {
       "title": "How one bug bounty researcher chooses the features they investigate",
@@ -2041,128 +2491,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:37.634Z",
+      "crawledAt": "2026-10-10T14:24:27.574Z",
       "id": "esyh3m"
-    },
-    {
-      "title": "We Connected a WordPress Site to AI Agents Through MCP. Here’s What We Had to Fix",
-      "url": "https://pub.towardsai.net/we-connected-a-wordpress-site-to-ai-agents-through-mcp-heres-what-we-had-to-fix-c1bdca1918f9?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T17:01:04.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:51.177Z",
-      "id": "pipuh0"
-    },
-    {
-      "title": "Deep Dive #1: Machine Learning vs. Deep Learning — How Computers Actually Learn",
-      "url": "https://ai.plainenglish.io/deep-dive-1-machine-learning-vs-deep-learning-how-computers-actually-learn-199d074922f6?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T16:41:25.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.284Z",
-      "id": "w3g780"
-    },
-    {
-      "title": "What Makes a Long AI Session More Expensive and Less Accurate?",
-      "url": "https://ai.plainenglish.io/why-your-ai-coding-session-gets-expensive-and-dumb-at-the-same-time-0c66335c7856?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T16:40:30.000Z",
-      "metaDescription": "The hidden token costs behind slow, costly, and inconsistent AI coding sessions\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.317Z",
-      "id": "x8hsak"
-    },
-    {
-      "title": "How to Measure What Your AI Session Actually Costs",
-      "url": "https://ai.plainenglish.io/how-to-measure-what-your-ai-session-actually-costs-c270a465e5d1?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T16:40:20.000Z",
-      "metaDescription": "Building a Token Cost Analyzer to Audit Your AI Coding Workspace Before It Costs You\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.351Z",
-      "id": "44t5g8"
-    },
-    {
-      "title": "9,000 Production Issues a Month: How Uber’s AI Agent Finds Root Causes and Builds Fixes",
-      "url": "https://ai.plainenglish.io/9-000-production-issues-a-month-how-ubers-ai-agent-finds-root-causes-and-builds-fixes-4a11707fd7a5?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T16:39:44.000Z",
-      "metaDescription": "How Debug Assist turns production evidence into root-cause analysis, tested fixes, and pull requests — and why its fixed workflow matters…\nContinue reading on Artificial Intelligence in Plain English ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.399Z",
-      "id": "gkh7od"
-    },
-    {
-      "title": "I Spent a Weekend Figuring Out Which AI Certs Are Worth It. Four Had Already Been Retired.",
-      "url": "https://ai.plainenglish.io/i-spent-a-weekend-figuring-out-which-ai-certs-are-worth-it-four-had-already-been-retired-122fc2f0f966?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T16:39:00.000Z",
-      "metaDescription": "I opened 40 browser tabs on a Saturday morning, coffee in hand, ready to pick an AI certification and finally stop second-guessing my…\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.445Z",
-      "id": "2up1v8"
-    },
-    {
-      "title": "How to Turn an LLM into a Decision Model",
-      "url": "https://ai.plainenglish.io/how-to-turn-an-llm-into-a-decision-model-258376827f14?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T16:38:13.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.464Z",
-      "id": "rudot6"
-    },
-    {
-      "title": "The Hidden Cost of Bad Data in Enterprise AI",
-      "url": "https://ai.plainenglish.io/the-hidden-cost-of-bad-data-in-enterprise-ai-a44fc735198e?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-08T16:38:02.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:54.483Z",
-      "id": "8bbq8x"
     },
     {
       "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
@@ -2176,7 +2506,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:47.963Z",
+      "crawledAt": "2026-10-10T14:24:42.567Z",
       "id": "6o8tvg"
     },
     {
@@ -2191,7 +2521,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:34.902Z",
+      "crawledAt": "2026-10-10T14:24:22.276Z",
       "id": "8zpnrn"
     },
     {
@@ -2206,7 +2536,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:38.964Z",
+      "crawledAt": "2026-10-10T14:24:26.601Z",
       "id": "ylq71k"
     },
     {
@@ -2221,7 +2551,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.016Z",
+      "crawledAt": "2026-10-10T14:24:26.767Z",
       "id": "tx7641"
     },
     {
@@ -2236,7 +2566,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:11.315Z",
+      "crawledAt": "2026-10-10T14:25:21.856Z",
       "id": "1xbvl0"
     },
     {
@@ -2251,7 +2581,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.700Z",
+      "crawledAt": "2026-10-10T14:24:34.804Z",
       "id": "7r8dko"
     },
     {
@@ -2266,7 +2596,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:39.075Z",
+      "crawledAt": "2026-10-10T14:24:27.004Z",
       "id": "jt9d6f"
     },
     {
@@ -2281,7 +2611,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.754Z",
+      "crawledAt": "2026-10-10T14:24:34.915Z",
       "id": "t1vz51"
     },
     {
@@ -2296,7 +2626,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:11.360Z",
+      "crawledAt": "2026-10-10T14:25:21.948Z",
       "id": "xrn6w3"
     },
     {
@@ -2311,7 +2641,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.652Z",
+      "crawledAt": "2026-10-10T14:25:25.533Z",
       "id": "lqxn3u"
     },
     {
@@ -2326,7 +2656,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.703Z",
+      "crawledAt": "2026-10-10T14:25:25.636Z",
       "id": "ob5hoq"
     },
     {
@@ -2341,8 +2671,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.537Z",
+      "crawledAt": "2026-10-10T14:24:54.716Z",
       "id": "5q0671"
+    },
+    {
+      "title": "Training Your Own Embedding Model Is Not As Hard As You Think",
+      "url": "https://www.youtube.com/watch?v=S7tFyREI19I",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T13:15:19.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.087Z",
+      "id": "6non4k"
     },
     {
       "title": "Should scan results travel with the model artifact as signed attestations?",
@@ -2356,7 +2701,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.610Z",
+      "crawledAt": "2026-10-10T14:25:03.556Z",
       "id": "k63hwd"
     },
     {
@@ -2371,7 +2716,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:33.362Z",
+      "crawledAt": "2026-10-10T14:24:18.058Z",
       "id": "b4as7j"
     },
     {
@@ -2386,7 +2731,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.801Z",
+      "crawledAt": "2026-10-10T14:24:35.059Z",
       "id": "g7ablb"
     },
     {
@@ -2401,7 +2746,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.138Z",
+      "crawledAt": "2026-10-10T14:24:32.908Z",
       "id": "hc9d2w"
     },
     {
@@ -2416,7 +2761,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:34.949Z",
+      "crawledAt": "2026-10-10T14:24:22.366Z",
       "id": "vvnk97"
     },
     {
@@ -2431,7 +2776,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:34.985Z",
+      "crawledAt": "2026-10-10T14:24:22.441Z",
       "id": "62uy8x"
     },
     {
@@ -2446,7 +2791,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:11.390Z",
+      "crawledAt": "2026-10-10T14:25:22.009Z",
       "id": "twr8fc"
     },
     {
@@ -2461,8 +2806,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.761Z",
+      "crawledAt": "2026-10-10T14:25:25.753Z",
       "id": "fq58ik"
+    },
+    {
+      "title": "Life as it could be | Akarsh Kumar on Artificial Life",
+      "url": "https://www.youtube.com/shorts/pniLY0I9VJQ",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-10-08T11:34:31.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:01.701Z",
+      "id": "y5bwma"
     },
     {
       "title": "AI Engineers, Applied Scientists, Forward Deployed Engineers: Let's Unpack.",
@@ -2476,7 +2836,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.844Z",
+      "crawledAt": "2026-10-10T14:24:35.154Z",
       "id": "evocod"
     },
     {
@@ -2491,8 +2851,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:46.757Z",
+      "crawledAt": "2026-10-10T14:24:39.400Z",
       "id": "vwr6o0"
+    },
+    {
+      "title": "Game of Thrones: Turing Edition | Akarsh Kumar on Core War",
+      "url": "https://www.youtube.com/shorts/LfUgsSUdaX8",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-10-08T10:30:08.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:01.743Z",
+      "id": "8t91l4"
     },
     {
       "title": "Why we’re watching these climate tech companies",
@@ -2506,7 +2881,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.181Z",
+      "crawledAt": "2026-10-10T14:24:33.000Z",
       "id": "s26emh"
     },
     {
@@ -2521,7 +2896,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.366Z",
+      "crawledAt": "2026-10-10T14:25:23.735Z",
       "id": "9in7sg"
     },
     {
@@ -2536,7 +2911,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.406Z",
+      "crawledAt": "2026-10-10T14:24:33.814Z",
       "id": "sohy9t"
     },
     {
@@ -2551,7 +2926,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.223Z",
+      "crawledAt": "2026-10-10T14:24:33.087Z",
       "id": "9l70ui"
     },
     {
@@ -2566,8 +2941,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.262Z",
+      "crawledAt": "2026-10-10T14:24:33.171Z",
       "id": "g9dtwl"
+    },
+    {
+      "title": "OpenAI's Prompt Cache Has a Secret 15 RPS Ceiling",
+      "url": "https://www.youtube.com/shorts/sjKDovLb23Q",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T08:15:04.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:07.166Z",
+      "id": "7mq177"
     },
     {
       "title": "4 Notable Upgrades to Nano Banana 2.1",
@@ -2581,8 +2971,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:55.567Z",
+      "crawledAt": "2026-10-10T14:24:54.773Z",
       "id": "uslevu"
+    },
+    {
+      "title": "What is an agent skill? How to protect your agent's context window.",
+      "url": "https://www.youtube.com/shorts/1BfAsoVz32Q",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-08T00:46:24.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:07.209Z",
+      "id": "7baobq"
     },
     {
       "title": "Disrupting AI-enabled “false front” operations",
@@ -2596,7 +3001,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:35.022Z",
+      "crawledAt": "2026-10-10T14:24:22.512Z",
       "id": "tpkd77"
     },
     {
@@ -2611,7 +3016,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:34.260Z",
+      "crawledAt": "2026-10-10T14:24:19.833Z",
       "id": "aeub49"
     },
     {
@@ -2626,7 +3031,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:46.171Z",
+      "crawledAt": "2026-10-10T14:24:40.262Z",
       "id": "5z4fp"
     },
     {
@@ -2641,7 +3046,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:46.195Z",
+      "crawledAt": "2026-10-10T14:24:40.309Z",
       "id": "fh74sx"
     },
     {
@@ -2656,7 +3061,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:46.215Z",
+      "crawledAt": "2026-10-10T14:24:40.344Z",
       "id": "clu4yv"
     },
     {
@@ -2671,7 +3076,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:51.819Z",
+      "crawledAt": "2026-10-10T14:24:49.188Z",
       "id": "4phlna"
     },
     {
@@ -2686,8 +3091,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.783Z",
+      "crawledAt": "2026-10-10T14:25:03.926Z",
       "id": "rbg0v6"
+    },
+    {
+      "title": "Welcome to LangChain Academy",
+      "url": "https://www.youtube.com/watch?v=Xe7c-7jyp28",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-07T21:33:08.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:07.239Z",
+      "id": "4eenrq"
     },
     {
       "title": "How do you find what caused a production regression when the model version didn't change?",
@@ -2701,8 +3121,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.733Z",
+      "crawledAt": "2026-10-10T14:25:03.828Z",
       "id": "kqdyc2"
+    },
+    {
+      "title": "Claude Haiku 5.5: Anthropic's New Workhorse.",
+      "url": "https://www.youtube.com/shorts/EqMxcTvJorQ",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-07T20:09:51.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.131Z",
+      "id": "w1r6ot"
     },
     {
       "title": "Introducing Claude Haiku 5.5 on AWS",
@@ -2716,7 +3151,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.014Z",
+      "crawledAt": "2026-10-10T14:24:42.666Z",
       "id": "hvrd9k"
     },
     {
@@ -2731,7 +3166,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:33.416Z",
+      "crawledAt": "2026-10-10T14:24:18.209Z",
       "id": "4k6myu"
     },
     {
@@ -2746,7 +3181,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.471Z",
+      "crawledAt": "2026-10-10T14:24:33.892Z",
       "id": "egp6z1"
     },
     {
@@ -2761,7 +3196,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.058Z",
+      "crawledAt": "2026-10-10T14:24:42.750Z",
       "id": "9mab9o"
     },
     {
@@ -2776,7 +3211,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.540Z",
+      "crawledAt": "2026-10-10T14:24:33.975Z",
       "id": "t77kqk"
     },
     {
@@ -2791,7 +3226,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:37.679Z",
+      "crawledAt": "2026-10-10T14:24:27.733Z",
       "id": "rrgvm3"
     },
     {
@@ -2806,7 +3241,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:34.281Z",
+      "crawledAt": "2026-10-10T14:24:19.870Z",
       "id": "9m37qg"
     },
     {
@@ -2821,7 +3256,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.851Z",
+      "crawledAt": "2026-10-10T14:25:04.061Z",
       "id": "eim0vr"
     },
     {
@@ -2836,7 +3271,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:11.423Z",
+      "crawledAt": "2026-10-10T14:25:22.076Z",
       "id": "g23c3d"
     },
     {
@@ -2851,7 +3286,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.104Z",
+      "crawledAt": "2026-10-10T14:24:42.837Z",
       "id": "ob09cv"
     },
     {
@@ -2866,7 +3301,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.149Z",
+      "crawledAt": "2026-10-10T14:24:42.927Z",
       "id": "wpyyxy"
     },
     {
@@ -2881,7 +3316,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.197Z",
+      "crawledAt": "2026-10-10T14:24:43.022Z",
       "id": "d15be4"
     },
     {
@@ -2896,7 +3331,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.247Z",
+      "crawledAt": "2026-10-10T14:24:43.119Z",
       "id": "ffobmv"
     },
     {
@@ -2911,7 +3346,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.296Z",
+      "crawledAt": "2026-10-10T14:24:43.212Z",
       "id": "t6jg6p"
     },
     {
@@ -2926,7 +3361,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.622Z",
+      "crawledAt": "2026-10-10T14:24:34.070Z",
       "id": "42a3pd"
     },
     {
@@ -2941,7 +3376,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.890Z",
+      "crawledAt": "2026-10-10T14:24:35.243Z",
       "id": "rn1zap"
     },
     {
@@ -2956,7 +3391,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.927Z",
+      "crawledAt": "2026-10-10T14:24:35.315Z",
       "id": "oaylem"
     },
     {
@@ -2971,7 +3406,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:11.458Z",
+      "crawledAt": "2026-10-10T14:25:22.145Z",
       "id": "7w42ng"
     },
     {
@@ -2986,8 +3421,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.804Z",
+      "crawledAt": "2026-10-10T14:25:25.838Z",
       "id": "spf7pb"
+    },
+    {
+      "title": "DeepMind's New AI Just Cracked The Code Of Life",
+      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+      "source": "Two Minute Papers",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-07T13:29:33.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:00.937Z",
+      "id": "sjyv8j"
     },
     {
       "title": "Introducing Falcon ASR",
@@ -3001,8 +3451,38 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:34.298Z",
+      "crawledAt": "2026-10-10T14:24:19.898Z",
       "id": "rx2m6c"
+    },
+    {
+      "title": "Embedding Gemma 2: On-Device Multimodal RAG Made Easy",
+      "url": "https://www.youtube.com/watch?v=XtIBx6H9A_I",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-07T13:15:28.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.172Z",
+      "id": "7k1r6e"
+    },
+    {
+      "title": "Building Engine v2: How LangChain approaches agent improvement",
+      "url": "https://www.youtube.com/watch?v=S3l7U7gOsyY",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-07T12:54:08.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:07.278Z",
+      "id": "3xlyy"
     },
     {
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
@@ -3016,7 +3496,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:34.326Z",
+      "crawledAt": "2026-10-10T14:24:19.948Z",
       "id": "xdgyew"
     },
     {
@@ -3031,7 +3511,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.964Z",
+      "crawledAt": "2026-10-10T14:24:35.392Z",
       "id": "5pv2ng"
     },
     {
@@ -3046,7 +3526,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.901Z",
+      "crawledAt": "2026-10-10T14:25:04.159Z",
       "id": "55umb4"
     },
     {
@@ -3061,7 +3541,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.409Z",
+      "crawledAt": "2026-10-10T14:25:23.821Z",
       "id": "j7yb2q"
     },
     {
@@ -3076,7 +3556,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:42.307Z",
+      "crawledAt": "2026-10-10T14:24:33.265Z",
       "id": "b4w4hd"
     },
     {
@@ -3091,7 +3571,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:35.063Z",
+      "crawledAt": "2026-10-10T14:24:22.591Z",
       "id": "7yimau"
     },
     {
@@ -3106,7 +3586,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:35.577Z",
+      "crawledAt": "2026-10-10T14:24:20.644Z",
       "id": "bpctkj"
     },
     {
@@ -3121,7 +3601,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:46.800Z",
+      "crawledAt": "2026-10-10T14:24:39.483Z",
       "id": "25qku8"
     },
     {
@@ -3136,7 +3616,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:11.490Z",
+      "crawledAt": "2026-10-10T14:25:22.210Z",
       "id": "kvam7m"
     },
     {
@@ -3151,7 +3631,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.853Z",
+      "crawledAt": "2026-10-10T14:25:25.936Z",
       "id": "pdud06"
     },
     {
@@ -3166,7 +3646,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.699Z",
+      "crawledAt": "2026-10-10T14:24:34.162Z",
       "id": "t1thgf"
     },
     {
@@ -3181,23 +3661,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:43.014Z",
+      "crawledAt": "2026-10-10T14:24:35.496Z",
       "id": "l5utvm"
-    },
-    {
-      "title": "Your Next Great Read Might Be Certified ‘Organic’",
-      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
-      "source": "Wired AI",
-      "source_domain": "wired.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-10-07T08:30:00.000Z",
-      "metaDescription": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:41.767Z",
-      "id": "kzuji3"
     },
     {
       "title": "How we got from a listening event to updated serving weights in 45 minutes",
@@ -3211,7 +3676,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:01.952Z",
+      "crawledAt": "2026-10-10T14:25:04.261Z",
       "id": "mvirx3"
     },
     {
@@ -3226,7 +3691,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:35.105Z",
+      "crawledAt": "2026-10-10T14:24:22.673Z",
       "id": "daqetl"
     },
     {
@@ -3241,7 +3706,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:35.143Z",
+      "crawledAt": "2026-10-10T14:24:22.747Z",
       "id": "2k9ys0"
     },
     {
@@ -3256,8 +3721,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:37.726Z",
+      "crawledAt": "2026-10-10T14:24:27.903Z",
       "id": "3d0q6p"
+    },
+    {
+      "title": "Mistral Large 4 aka \"le Chonk\": Europe's Biggest Open Model",
+      "url": "https://www.youtube.com/shorts/fzaHuV9l3g8",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-06T19:28:12.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.215Z",
+      "id": "om4iny"
     },
     {
       "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
@@ -3271,8 +3751,38 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.342Z",
+      "crawledAt": "2026-10-10T14:24:43.302Z",
       "id": "kld2z4"
+    },
+    {
+      "title": "What is Deep Agents? An open source harness for long-running agents.",
+      "url": "https://www.youtube.com/shorts/DGYpCXVe1TI",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-06T19:15:09.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:07.319Z",
+      "id": "xdosvx"
+    },
+    {
+      "title": "How to Build a Model Router in the Harness",
+      "url": "https://www.youtube.com/watch?v=5kTFyEOgark",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-06T16:31:25.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:07.355Z",
+      "id": "x3l9fc"
     },
     {
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
@@ -3286,7 +3796,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:35.283Z",
+      "crawledAt": "2026-10-10T14:24:23.038Z",
       "id": "768wup"
     },
     {
@@ -3301,8 +3811,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.392Z",
+      "crawledAt": "2026-10-10T14:24:43.401Z",
       "id": "4l2waf"
+    },
+    {
+      "title": "Add Web Search to Managed Deep Agents for free with One MCP Config",
+      "url": "https://www.youtube.com/watch?v=KAITWbHLSSE",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-06T15:52:50.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:07.401Z",
+      "id": "yzoy3b"
     },
     {
       "title": "Best practices for Amazon SageMaker HyperPod administration and governance",
@@ -3316,7 +3841,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.432Z",
+      "crawledAt": "2026-10-10T14:24:43.479Z",
       "id": "rfc9x8"
     },
     {
@@ -3331,7 +3856,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.482Z",
+      "crawledAt": "2026-10-10T14:24:43.575Z",
       "id": "wf528u"
     },
     {
@@ -3346,7 +3871,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.532Z",
+      "crawledAt": "2026-10-10T14:24:43.673Z",
       "id": "gh0oha"
     },
     {
@@ -3361,7 +3886,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:43.056Z",
+      "crawledAt": "2026-10-10T14:24:35.585Z",
       "id": "dpb5v8"
     },
     {
@@ -3376,7 +3901,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.458Z",
+      "crawledAt": "2026-10-10T14:25:23.921Z",
       "id": "wpplvf"
     },
     {
@@ -3391,7 +3916,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:11.526Z",
+      "crawledAt": "2026-10-10T14:25:22.282Z",
       "id": "pbk55c"
     },
     {
@@ -3406,7 +3931,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:43.099Z",
+      "crawledAt": "2026-10-10T14:24:35.668Z",
       "id": "l0hd09"
     },
     {
@@ -3421,7 +3946,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.898Z",
+      "crawledAt": "2026-10-10T14:25:26.024Z",
       "id": "y4gnya"
     },
     {
@@ -3436,8 +3961,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:02.005Z",
+      "crawledAt": "2026-10-10T14:25:04.366Z",
       "id": "xab76u"
+    },
+    {
+      "title": "DeepSeek Harness Just Got a Web Agent",
+      "url": "https://www.youtube.com/watch?v=6NZEYk4hNG8",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-06T13:00:38.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.249Z",
+      "id": "41b9oe"
     },
     {
       "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
@@ -3451,7 +3991,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:33.463Z",
+      "crawledAt": "2026-10-10T14:24:18.306Z",
       "id": "ncempi"
     },
     {
@@ -3466,7 +4006,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:43.149Z",
+      "crawledAt": "2026-10-10T14:24:35.767Z",
       "id": "huwxrn"
     },
     {
@@ -3481,7 +4021,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:35.180Z",
+      "crawledAt": "2026-10-10T14:24:22.822Z",
       "id": "wlqi87"
     },
     {
@@ -3496,7 +4036,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:35.213Z",
+      "crawledAt": "2026-10-10T14:24:22.889Z",
       "id": "8auld4"
     },
     {
@@ -3511,7 +4051,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:11.566Z",
+      "crawledAt": "2026-10-10T14:25:22.361Z",
       "id": "vp8u88"
     },
     {
@@ -3526,7 +4066,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.945Z",
+      "crawledAt": "2026-10-10T14:25:26.118Z",
       "id": "gdrvlu"
     },
     {
@@ -3541,7 +4081,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:12.996Z",
+      "crawledAt": "2026-10-10T14:25:26.217Z",
       "id": "lysyol"
     },
     {
@@ -3556,7 +4096,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:46.850Z",
+      "crawledAt": "2026-10-10T14:24:39.584Z",
       "id": "srvmsi"
     },
     {
@@ -3571,7 +4111,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:43.200Z",
+      "crawledAt": "2026-10-10T14:24:35.874Z",
       "id": "drx0zu"
     },
     {
@@ -3586,8 +4126,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:35.246Z",
+      "crawledAt": "2026-10-10T14:24:22.960Z",
       "id": "fjzh4"
+    },
+    {
+      "title": "I Tested Jev AI Against LLMs and Open Source",
+      "url": "https://www.youtube.com/watch?v=P-t4F_UlxkI",
+      "source": "James Briggs",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-06T06:50:25.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:10.649Z",
+      "id": "ngi1nv"
     },
     {
       "title": "Expanding the Cyber Verification Program",
@@ -3601,7 +4156,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:46.234Z",
+      "crawledAt": "2026-10-10T14:24:40.381Z",
       "id": "84z267"
     },
     {
@@ -3616,7 +4171,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:50.021Z",
+      "crawledAt": "2026-10-10T14:24:45.286Z",
       "id": "42rqhn"
     },
     {
@@ -3631,8 +4186,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.584Z",
+      "crawledAt": "2026-10-10T14:24:43.778Z",
       "id": "xnfgcq"
+    },
+    {
+      "title": "Context Language Models Explained!",
+      "url": "https://www.youtube.com/shorts/nKgughUp4_k",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-05T21:46:37.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.278Z",
+      "id": "aun2oa"
     },
     {
       "title": "Attributing GPU cost per model on a shared K8s cluster?",
@@ -3646,7 +4216,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:02.109Z",
+      "crawledAt": "2026-10-10T14:25:04.575Z",
       "id": "q1fh6o"
     },
     {
@@ -3661,7 +4231,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.642Z",
+      "crawledAt": "2026-10-10T14:24:43.895Z",
       "id": "43mse6"
     },
     {
@@ -3676,7 +4246,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.693Z",
+      "crawledAt": "2026-10-10T14:24:43.998Z",
       "id": "7d53t8"
     },
     {
@@ -3691,7 +4261,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:37.776Z",
+      "crawledAt": "2026-10-10T14:24:28.071Z",
       "id": "1jbi9j"
     },
     {
@@ -3706,7 +4276,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:48.741Z",
+      "crawledAt": "2026-10-10T14:24:44.095Z",
       "id": "knvrgo"
     },
     {
@@ -3721,7 +4291,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:02.054Z",
+      "crawledAt": "2026-10-10T14:25:04.463Z",
       "id": "hp7a5q"
     },
     {
@@ -3736,7 +4306,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:35.319Z",
+      "crawledAt": "2026-10-10T14:24:23.114Z",
       "id": "kthry8"
     },
     {
@@ -3751,8 +4321,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:43.233Z",
+      "crawledAt": "2026-10-10T14:24:35.942Z",
       "id": "fpufxn"
+    },
+    {
+      "title": "The AI that DOMINATED segmentation ...",
+      "url": "https://www.youtube.com/watch?v=c06sW_lyX10",
+      "source": "Code Emporium",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-10-05T14:00:35.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.985Z",
+      "id": "3gbhet"
     },
     {
       "title": "Python 3.15 Gets a Surprise RC3 and Other Python News for October 2026",
@@ -3766,8 +4351,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.045Z",
+      "crawledAt": "2026-10-10T14:25:26.316Z",
       "id": "jaucq7"
+    },
+    {
+      "title": "Context Language Models: Your Agent Doesn't Need Compaction",
+      "url": "https://www.youtube.com/watch?v=Bgtr1Ue40Jo",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-05T13:30:34.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.316Z",
+      "id": "nzqa7b"
     },
     {
       "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
@@ -3781,8 +4381,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:33.511Z",
+      "crawledAt": "2026-10-10T14:24:18.415Z",
       "id": "6bfrkr"
+    },
+    {
+      "title": "Vite 是什麼？前端專案為什麼需要開發伺服器與建置｜AI Coding 入門 Day 23",
+      "url": "https://www.youtube.com/watch?v=gS5AmfnYec0",
+      "source": "Sam Witteveen",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-10-05T13:00:05.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.411Z",
+      "id": "eods9g"
     },
     {
       "title": "Building an Enterprise AI Customer Support Platform with Claude Fable 5.1 and Claude Code",
@@ -3796,7 +4411,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.505Z",
+      "crawledAt": "2026-10-10T14:25:24.013Z",
       "id": "urj1xh"
     },
     {
@@ -3811,7 +4426,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:05.810Z",
+      "crawledAt": "2026-10-10T14:25:12.234Z",
       "id": "6pv1tv"
     },
     {
@@ -3826,7 +4441,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:46.889Z",
+      "crawledAt": "2026-10-10T14:24:39.664Z",
       "id": "9bisek"
     },
     {
@@ -3841,7 +4456,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.095Z",
+      "crawledAt": "2026-10-10T14:25:26.419Z",
       "id": "ub965v"
     },
     {
@@ -3856,7 +4471,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:43.276Z",
+      "crawledAt": "2026-10-10T14:24:36.029Z",
       "id": "211v6e"
     },
     {
@@ -3871,8 +4486,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:35.356Z",
+      "crawledAt": "2026-10-10T14:24:23.189Z",
       "id": "3xp9qf"
+    },
+    {
+      "title": "The Billion Dollar AI Advantage Is Disappearing",
+      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+      "source": "Two Minute Papers",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-05T09:53:12.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:00.970Z",
+      "id": "abj91g"
     },
     {
       "title": "When do you retire a case from a regression suite?",
@@ -3886,7 +4516,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:02.215Z",
+      "crawledAt": "2026-10-10T14:25:04.782Z",
       "id": "7a3hab"
     },
     {
@@ -3901,7 +4531,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:02.164Z",
+      "crawledAt": "2026-10-10T14:25:04.684Z",
       "id": "sk8bmf"
     },
     {
@@ -3916,38 +4546,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:50.069Z",
+      "crawledAt": "2026-10-10T14:24:45.375Z",
       "id": "d5otqx"
-    },
-    {
-      "title": "MLflow v3.16.1 Assistant running from Docker-compose 403 \"Error: You do not have permission to access this resource.\" any message",
-      "url": "https://www.reddit.com/r/mlops/comments/1wxswqw/mlflow_v3161_assistant_running_from_dockercompose/",
-      "source": "r/MLOps",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-10-04T22:49:42.000Z",
-      "metaDescription": "I'm running mlflow in docker using the docker-compose in the repo.\n I've managed to hook up my \"LLM Connections\" to find the ollama server on the host machine.\n API Base URL: http://host.docker.intern",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:29:02.291Z",
-      "id": "4c9dmx"
-    },
-    {
-      "title": "How to Govern AI Agents",
-      "url": "https://towardsdatascience.com/how-to-govern-ai-agents/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-10-04T14:00:00.000Z",
-      "metaDescription": "From guarding one agent to steering a fleet\nThe post How to Govern AI Agents appeared first on Towards Data Science.",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:43.304Z",
-      "id": "28jiji"
     },
     {
       "title": "Strings and Character Data in Python",
@@ -3961,53 +4561,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.134Z",
+      "crawledAt": "2026-10-10T14:25:26.498Z",
       "id": "cs09be"
     },
     {
-      "title": "How to Install Python on Your System: A Guide",
-      "url": "https://realpython.com/installing-python/",
-      "source": "Real Python",
-      "source_domain": "realpython.com",
-      "source_category": "tutorial",
+      "title": "Node.js 是什麼？為什麼有 AI 還是要安裝開發環境｜AI Coding 入門 Day 21",
+      "url": "https://www.youtube.com/watch?v=4e4s89k8B0k",
+      "source": "Sam Witteveen",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
       "source_priority": "medium",
-      "pubDate": "2026-10-04T14:00:00.000Z",
-      "metaDescription": "To learn how to install Python on your system, you can follow a few straightforward steps. First, check if Python is already installed by opening a command-line interface and typing python --version o",
+      "pubDate": "2026-10-04T12:15:20.000Z",
+      "metaDescription": "",
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.177Z",
-      "id": "ms3smq"
-    },
-    {
-      "title": "The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A”",
-      "url": "https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-10-04T12:00:00.000Z",
-      "metaDescription": "A model can recall a fact in the direction it learned it and fail in the other. Here's a toy version of why\nThe post The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:28:43.362Z",
-      "id": "fls8ho"
-    },
-    {
-      "title": "Quiz: Python's collections: A Buffet of Specialized Data Types",
-      "url": "https://realpython.com/quizzes/python-collections-module/",
-      "source": "Real Python",
-      "source_domain": "realpython.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-10-04T12:00:00.000Z",
-      "metaDescription": "In this quiz, you’ll test your understanding of\nPython’s collections: A Buffet of Specialized Data Types.\nPython’s collections module provides specialized container data types that approach\nspecific p",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.220Z",
-      "id": "6hguav"
+      "crawledAt": "2026-10-10T14:25:09.468Z",
+      "id": "n6l7ex"
     },
     {
       "title": "The Agent Said It Was Done. The Database Disagreed.",
@@ -4021,23 +4591,128 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:34.347Z",
+      "crawledAt": "2026-10-10T14:24:19.985Z",
       "id": "h231dy"
     },
     {
-      "title": "Basic Data Types in Python: A Quick Exploration",
-      "url": "https://realpython.com/python-data-types/",
-      "source": "Real Python",
-      "source_domain": "realpython.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-10-03T14:00:00.000Z",
-      "metaDescription": "Python data types are fundamental to the language, enabling you to represent various kinds of data. You use basic data types like int, float, and complex for numbers, str for text, bytes and bytearray",
+      "title": "What Are Claude Code Mods?",
+      "url": "https://www.youtube.com/shorts/eN77oHqAiUU",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-03T13:30:33.000Z",
+      "metaDescription": "",
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.265Z",
-      "id": "vmqxj8"
+      "crawledAt": "2026-10-10T14:25:09.349Z",
+      "id": "8lgygd"
+    },
+    {
+      "title": "用 ChatGPT 部署 GitHub Pages：從建立儲存庫到網站上線｜AI Coding 入門 Day 21",
+      "url": "https://www.youtube.com/watch?v=K1i-AAJlZrY",
+      "source": "Sam Witteveen",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-10-03T12:00:09.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.524Z",
+      "id": "91xpjy"
+    },
+    {
+      "title": "GitHub Pages 怎麼免費架網站？從檔案到網址的 3 個步驟｜AI Coding 入門 Day 20",
+      "url": "https://www.youtube.com/watch?v=gUFHwJ1y80g",
+      "source": "Sam Witteveen",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-10-02T13:00:07.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.583Z",
+      "id": "ksr1u0"
+    },
+    {
+      "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
+      "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+      "source": "AI Explained",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-01T21:20:12.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:07.442Z",
+      "id": "n7z53d"
+    },
+    {
+      "title": "The most natural voice agent was a French voice speaking English",
+      "url": "https://www.youtube.com/shorts/MVRb03jb6Wg",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-10-01T20:09:15.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:01.779Z",
+      "id": "huun7t"
+    },
+    {
+      "title": "How a Voice Agent Learns the Rhythm of Conversation — Shawn Wen",
+      "url": "https://www.youtube.com/watch?v=VoAPg8Fj6-c",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-10-01T20:00:18.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:01.818Z",
+      "id": "smh02w"
+    },
+    {
+      "title": "From deepfakes to DNA: the science of watermarking AI",
+      "url": "https://www.youtube.com/watch?v=HIUzrxQxTtw",
+      "source": "DeepMind",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-01T16:37:46.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:06.699Z",
+      "id": "fecili"
+    },
+    {
+      "title": "Git 和 GitHub 差在哪？版本控制、協作與開源一次看懂｜AI Coding 入門 Day 19",
+      "url": "https://www.youtube.com/watch?v=7IjMC-Q2wvE",
+      "source": "Sam Witteveen",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-10-01T12:00:14.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.642Z",
+      "id": "me84e7"
     },
     {
       "title": "Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness",
@@ -4051,7 +4726,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:46.929Z",
+      "crawledAt": "2026-10-10T14:24:39.748Z",
       "id": "1tcdlh"
     },
     {
@@ -4066,7 +4741,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:46.966Z",
+      "crawledAt": "2026-10-10T14:24:39.822Z",
       "id": "e2pyk7"
     },
     {
@@ -4081,8 +4756,38 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.547Z",
+      "crawledAt": "2026-10-10T14:25:24.099Z",
       "id": "5mimmt"
+    },
+    {
+      "title": "【10/14 開課】AI Coding 還能這樣做？5 種 SubAgent 協作模式｜9/30 晚上八點 卡斯伯老師",
+      "url": "https://www.youtube.com/watch?v=hheyFO7x1WU",
+      "source": "Sam Witteveen",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-30T14:40:32.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.709Z",
+      "id": "jfwxa3"
+    },
+    {
+      "title": "AI 把程式改壞怎麼辦？用 Git 回到「剛剛還好好的」版本｜AI Coding 入門 Day 18",
+      "url": "https://www.youtube.com/watch?v=yCUWEwoHvLQ",
+      "source": "Sam Witteveen",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-30T13:00:29.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.770Z",
+      "id": "wkru9z"
     },
     {
       "title": "OpenAI Dot: How to Access & Automate Work with OpenAI’s Agent",
@@ -4096,8 +4801,53 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.598Z",
+      "crawledAt": "2026-10-10T14:25:24.205Z",
       "id": "4blqjz"
+    },
+    {
+      "title": "2026 40 天高效職場英文班 線上說明會｜9/29 20:00 卡斯伯老師主持",
+      "url": "https://www.youtube.com/watch?v=bOENeBTAXyo",
+      "source": "Sam Witteveen",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-30T06:19:28.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.828Z",
+      "id": "dr24y0"
+    },
+    {
+      "title": "The Programming Language That Referees Mathematics — Leo de Moura",
+      "url": "https://www.youtube.com/watch?v=ZpQFebTK75A",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-29T22:38:34.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:01.854Z",
+      "id": "b5zjnp"
+    },
+    {
+      "title": "終端機是什麼？AI 為什麼靠黑色視窗操作你的電腦｜AI Coding 入門 Day 17",
+      "url": "https://www.youtube.com/watch?v=3XR23-7FsNs",
+      "source": "Sam Witteveen",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-29T13:00:12.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.887Z",
+      "id": "xkmat9"
     },
     {
       "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
@@ -4111,7 +4861,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:47.013Z",
+      "crawledAt": "2026-10-10T14:24:39.915Z",
       "id": "y8p7dz"
     },
     {
@@ -4126,8 +4876,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.647Z",
+      "crawledAt": "2026-10-10T14:25:24.308Z",
       "id": "f5f11q"
+    },
+    {
+      "title": "Why Deep Learning Failed on Tables for a Decade - Frank Hutter",
+      "url": "https://www.youtube.com/shorts/tQ3nMI-anxU",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-29T09:50:26.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:01.892Z",
+      "id": "mkqzlk"
     },
     {
       "title": "7 Open-Source Memory GitHub Projects on AI Memory",
@@ -4141,7 +4906,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.689Z",
+      "crawledAt": "2026-10-10T14:25:24.394Z",
       "id": "rrrbuu"
     },
     {
@@ -4156,7 +4921,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:29:13.739Z",
+      "crawledAt": "2026-10-10T14:25:24.497Z",
       "id": "exscis"
     },
     {
@@ -4171,8 +4936,53 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-10-10T05:28:47.058Z",
+      "crawledAt": "2026-10-10T14:24:40.003Z",
       "id": "4h1ih9"
+    },
+    {
+      "title": "JSON 是什麼？看懂 API 資料格式，以及它和資料庫的關係｜AI Coding 入門 Day 16",
+      "url": "https://www.youtube.com/watch?v=e6gSqSuCxbI",
+      "source": "Sam Witteveen",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-28T00:00:04.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:09.947Z",
+      "id": "3fu263"
+    },
+    {
+      "title": "Reward hacking… or just fixing a bug? #podcast",
+      "url": "https://www.youtube.com/shorts/qUlfKYGP-vI",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-27T02:16:03.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:01.930Z",
+      "id": "5o6trr"
+    },
+    {
+      "title": "Can Rewriting an AI Agent Bend the Intelligence Curve? - Zhengyao Jiang",
+      "url": "https://www.youtube.com/watch?v=yB6_iFGTq9k",
+      "source": "Machine Learning Street Talk",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-09-26T19:32:30.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-10-10T14:25:01.974Z",
+      "id": "bf1zu6"
     }
   ]
 }
