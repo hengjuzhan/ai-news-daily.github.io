@@ -1,9 +1,448 @@
 {
-  "crawledAt": "2026-10-11T14:52:26.338Z",
+  "crawledAt": "2026-10-11T20:10:03.108Z",
   "totalSources": 70,
-  "totalArticles": 20,
+  "totalArticles": 38,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "LangChain Chapter 3: Prompts, Messages, and Why Chat History Matters",
+      "url": "https://python.plainenglish.io/langchain-chapter-3-prompts-messages-and-why-chat-history-matters-80ced5921a6f?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-11T19:31:31.000Z",
+      "metaDescription": "Part 3 of the LangChain series. In [Chapter 2] we learnt about llm, chat models and embedding models in LangChain. In this chapter we will…\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3911039030957924,
+      "crawledAt": "2026-10-11T20:09:17.540Z",
+      "id": "2liht9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8262534141540527,
+          "index": 1,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Part 3 of the LangChain series. In this chapter we learn about llm, chat models and embedding models in LangChain.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:10:16.779Z"
+    },
+    {
+      "title": "10 SQLAlchemy Features Python Developers Usually Discover Too Late",
+      "url": "https://python.plainenglish.io/10-sqlalchemy-features-python-developers-usually-discover-too-late-35e164387193?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-11T19:30:52.000Z",
+      "metaDescription": "These overlooked capabilities can simplify your queries, improve performance, and save you from writing unnecessary code.\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.9626413469528621,
+      "crawledAt": "2026-10-11T20:09:17.676Z",
+      "id": "jofv5p",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8583204746246338,
+          "index": 2,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9359841346740723,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8953722715377808,
+          "index": 6,
+          "word": "##che",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8689413070678711,
+          "index": 9,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " These overlooked capabilities can simplify your queries, improve performance, and save you from writing unnecessary code. These overlooked abilities can simplify queries and improve performance.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:10:26.313Z"
+    },
+    {
+      "title": "Build a Real-Time Dashboard with FastAPI and WebSockets",
+      "url": "https://python.plainenglish.io/build-a-real-time-dashboard-with-fastapi-and-websockets-eb3c949b3132?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-11T19:30:26.000Z",
+      "metaDescription": "Stream live metrics from a Python process to a browser without repeatedly refreshing the page.\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.38623007716047025,
+      "crawledAt": "2026-10-11T20:09:17.814Z",
+      "id": "xmdpwh",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9091969728469849,
+          "index": 6,
+          "word": "Time",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.861370325088501,
+          "index": 15,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8931640982627869,
+          "index": 16,
+          "word": "##ock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Python's live metrics are based on a Python process to a browser without repeatedly refreshing the page. Stream live metrics from a Python system to a web browser without refreshing the pages.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:10:37.346Z"
+    },
+    {
+      "title": "The Python Libraries I’d Choose for a Production-Ready Project",
+      "url": "https://python.plainenglish.io/the-python-libraries-id-choose-for-a-production-ready-project-8bae29e23027?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-11T19:30:15.000Z",
+      "metaDescription": "A practical stack for building something that needs to last\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7456338769263007,
+      "crawledAt": "2026-10-11T20:09:17.924Z",
+      "id": "b4ictp",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8931651711463928,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A practical stack for building something that needs to last last reading on Python in Plain English. A practical Stack for building a thing that needs a practical stack. A practicalstack for building things that needs the last reading of Python in plain English.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:10:52.305Z"
+    },
+    {
+      "title": "What's up with google scholar citations ?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x3fbv4/whats_up_with_google_scholar_citations_d/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-11T18:17:59.000Z",
+      "metaDescription": "Early-stage researcher, and yes, I get excited about people citing my work. \n I was browsing through arXiv for accepted NeurIPS papers, and I saw multiple papers citing my work. These papers have been",
+      "category": "research-paper",
+      "difficulty": 3,
+      "confidence": 0.6505273631789418,
+      "crawledAt": "2026-10-11T20:09:24.015Z",
+      "id": "nkjht0",
+      "entities": [],
+      "summary": "Early-stage researcher, and yes, I get excited about people citing my work. I was browsing through arXiv for accepted NeurIPS papers, and saw multiple papers citing my works.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:11:17.535Z"
+    },
+    {
+      "title": "DeepSeek Solved AI’s Memory Problem",
+      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+      "source": "Two Minute Papers",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-11T16:53:17.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2545207178786595,
+      "crawledAt": "2026-10-11T20:09:29.451Z",
+      "id": "8p4v65",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9097959399223328,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8097702860832214,
+          "index": 3,
+          "word": "##eek",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:11:17.624Z"
+    },
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-11T16:52:33.000Z",
+      "metaDescription": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.4258391028439323,
+      "crawledAt": "2026-10-11T20:08:38.897Z",
+      "id": "pr65vy",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9691907167434692,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9237883687019348,
+          "index": 14,
+          "word": "##DA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " On Equity, we debate the impact of the data center moratorium on AI technology. We also discuss the impact on the AI industry.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:11:26.869Z"
+    },
+    {
+      "title": "My AI-Built App Has Too Many Buttons",
+      "url": "https://ai.plainenglish.io/my-ai-built-app-has-too-many-buttons-6a2d2ef43371?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-11T15:24:23.000Z",
+      "metaDescription": "A worked example for turning “make it premium” into a design brief an AI coding agent can build.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.879997827918907,
+      "crawledAt": "2026-10-11T20:09:18.914Z",
+      "id": "yvjvov",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9714224338531494,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A worked example for turning ‘make it premium’ into a design brief for an AI coding agent. A working example for a coding agent can be used as a design tool.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:11:39.352Z"
+    },
+    {
+      "title": "Guardrails Are a System Design Problem, Not a Prompt Problem",
+      "url": "https://ai.plainenglish.io/guardrails-are-a-system-design-problem-not-a-prompt-problem-539b1a7d79b0?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-11T15:00:45.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.49824477751139834,
+      "crawledAt": "2026-10-11T20:09:18.982Z",
+      "id": "uqol42",
+      "entities": [],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:11:39.459Z"
+    },
+    {
+      "title": "5 .md Files Every AI Agent Needs in Its Repo Right Now",
+      "url": "https://ai.plainenglish.io/5-md-files-every-ai-agent-needs-in-its-repo-right-now-29eea89c830f?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-11T15:00:18.000Z",
+      "metaDescription": "AGENTS.md, CLAUDE.md, copilot-instructions.md, MEMORY.md and the one you’re probably skipping: what each does that the others can’t\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9850388278656094,
+      "crawledAt": "2026-10-11T20:09:19.164Z",
+      "id": "o7p2g5",
+      "entities": [],
+      "summary": "Read on Artificial Intelligence in Plain English. Read on Artificial intelligence in PlainEnglish. Read on the next generation's version of this article.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:11:49.301Z"
+    },
+    {
+      "title": "AI and Consciousness: How They Work Together",
+      "url": "https://ai.plainenglish.io/ai-and-consciousness-how-they-work-together-1d38b65d5c24?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-11T14:59:41.000Z",
+      "metaDescription": "The rise of artificial intelligence (AI) brings with it a host of philosophical questions, none more provocative than those surrounding…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.737211971630792,
+      "crawledAt": "2026-10-11T20:09:19.299Z",
+      "id": "gf62kw",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8502011895179749,
+          "index": 4,
+          "word": "##s",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The rise of artificial intelligence (AI) brings with it a host of philosophical questions, none more provocative than those surrounding it.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:12:00.086Z"
+    },
+    {
+      "title": "Python's __slots__ Explained: How to Reduce Memory Usage and Control Dynamic Attributes",
+      "url": "https://python.plainenglish.io/pythons-slots-explained-how-to-reduce-memory-usage-and-control-dynamic-attributes-1898e2391c3f?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-11T14:57:19.000Z",
+      "metaDescription": "The hidden cost of Python objects, how __slots__ changes their memory layout, and when this optimization is worth using in production.\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.29848441530980613,
+      "crawledAt": "2026-10-11T20:09:18.093Z",
+      "id": "kpy8vo",
+      "entities": [],
+      "summary": " The hidden cost of Python objects is how __slots__ changes their memory layout. This optimization is worth using in production.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:12:18.788Z"
+    },
+    {
+      "title": "The Python Tool I Built That Turns API Documentation Into a Working SDK",
+      "url": "https://python.plainenglish.io/the-python-tool-i-built-that-turns-api-documentation-into-a-working-sdk-ad8e02a2e4dd?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-11T14:56:22.000Z",
+      "metaDescription": "I was tired of spending hours reading API documentation, copying endpoints into client code, fixing authentication bugs, and rewriting the…\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 6,
+      "confidence": 0.25126657123290325,
+      "crawledAt": "2026-10-11T20:09:18.245Z",
+      "id": "oja88k",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9656047224998474,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9486374258995056,
+          "index": 3,
+          "word": "Too",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I was tired of spending hours reading API documentation, copying endpoints into client code, fixing authentication bugs, and rewriting the… reading on Python in Plain English.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:12:32.371Z"
+    },
+    {
+      "title": "I Replaced pip With uv – Here’s What Actually Changed",
+      "url": "https://python.plainenglish.io/i-replaced-pip-with-uv-heres-what-actually-changed-d0a13743591c?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-11T14:56:18.000Z",
+      "metaDescription": "Why more Python developers are switching to ultra fast package management.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.33775169065377325,
+      "crawledAt": "2026-10-11T20:09:18.358Z",
+      "id": "sbj4y7",
+      "entities": [],
+      "summary": "Python developers are switching to ultra fast package management. Python is a popular version of the language of the Python language.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:12:42.210Z"
+    },
+    {
+      "title": "Is a second MSc worth it?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x3a37d/is_a_second_msc_worth_it_d/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-11T14:48:55.000Z",
+      "metaDescription": "I’m an AI research engineer based in Africa with about 3 YoEs in RL, LLMs, post-training, and systems efficiency (CUDA/vLLM). However, on a smaller scale because of compute limits. My undergrad and Ma",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.28644715038486745,
+      "crawledAt": "2026-10-11T20:09:24.785Z",
+      "id": "wwhawc",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9579609632492065,
+          "index": 4,
+          "word": "MS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The author is an AI research engineer based in Africa with 3 YoEs in RL, LLMs, post-training, and systems efficiency. He also works on a smaller scale because of compute limits.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:13:32.357Z"
+    },
     {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
@@ -105,6 +544,34 @@
       "summary": "Python is used in many fields, including web and desktop development, data science, artificial i. i.S. i.",
       "language": "en",
       "processed_at": "2026-10-11T14:53:13.705Z"
+    },
+    {
+      "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-11T13:51:34.000Z",
+      "metaDescription": "submitted by    /u/moschles  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.6571196995979399,
+      "crawledAt": "2026-10-11T20:09:23.841Z",
+      "id": "mhv674",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8601240515708923,
+          "index": 3,
+          "word": "Models",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:14:07.336Z"
     },
     {
       "title": "OpenMed 3.0 is out: Apache-2.0 clinical AI that runs fully local and never falls back to the cloud. 422 open issues if you want in on 3.1",
@@ -462,6 +929,25 @@
       "processed_at": "2026-10-11T14:55:14.999Z"
     },
     {
+      "title": "What ai is best to operate a system from screen video",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x2yoxe/what_ai_is_best_to_operate_a_system_from_screen/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-11T04:18:11.000Z",
+      "metaDescription": "I have working programmatic control over a system, I can send inputs reliably and capture the screen as visual feedback. The control/feedback loop is already done.\n I need something that can learn fro",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.5475496530166183,
+      "crawledAt": "2026-10-11T20:09:26.222Z",
+      "id": "eml192",
+      "entities": [],
+      "summary": " The control/feedback loop is already done. I need something that can learn fro I need to learn fro.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:14:43.573Z"
+    },
+    {
       "title": "Qwen3.8 Flash Next fixed my GNOME extension",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2xxql/qwen38_flash_next_fixed_my_gnome_extension/",
       "source": "r/LocalLLaMA",
@@ -601,19 +1087,72 @@
       "summary": "Community discussion seeking help or recommendations on AI-related topics.",
       "language": "en",
       "processed_at": "2026-10-11T05:26:24.930Z"
+    },
+    {
+      "title": "Real-time neural weather restyling for Minecraft on a GTX 1650",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-10T04:02:27.000Z",
+      "metaDescription": "Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths).\n Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays ",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.27372904287748473,
+      "crawledAt": "2026-10-11T20:09:26.051Z",
+      "id": "dl1grd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9894099831581116,
+          "index": 10,
+          "word": "Mine",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.980857789516449,
+          "index": 11,
+          "word": "##craft",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9968242645263672,
+          "index": 14,
+          "word": "GT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9957692623138428,
+          "index": 15,
+          "word": "##X",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths) Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via a Fabric mod.",
+      "language": "en",
+      "processed_at": "2026-10-11T20:15:49.985Z"
     }
   ],
-  "processedAt": "2026-10-11T14:55:15.006Z",
+  "processedAt": "2026-10-11T20:15:59.252Z",
   "categories": [
     "creative-ai",
+    "developer-tool",
     "infrastructure",
+    "research-paper",
     "ai-agents",
     "safety-ethics",
-    "model-release",
-    "developer-tool"
+    "model-release"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 14,
-  "dailyArticlesCount": 20,
+  "newArticlesProcessed": 18,
+  "dailyArticlesCount": 38,
   "filterDate": "2026-10-11"
 }
