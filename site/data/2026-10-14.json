@@ -1,9 +1,1055 @@
 {
-  "crawledAt": "2026-10-14T04:33:55.792Z",
+  "crawledAt": "2026-10-14T13:35:20.595Z",
   "totalSources": 70,
-  "totalArticles": 7,
+  "totalArticles": 44,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-14T12:55:06.000Z",
+      "metaDescription": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.25311474984129656,
+      "crawledAt": "2026-10-14T13:33:50.901Z",
+      "id": "utfhoq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9653192162513733,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9063900113105774,
+          "index": 14,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8326513767242432,
+          "index": 15,
+          "word": "##o",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8003088235855103,
+          "index": 16,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"Small weight-based replicators\" could usher in a new generation of computer worms. \"Smallweight-based\" replicators could usher into new generation.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:35:59.655Z"
+    },
+    {
+      "title": "AI Data Infrastructure: Building a Governed Foundation for Enterprise AI",
+      "url": "https://pub.towardsai.net/ai-data-infrastructure-building-a-governed-foundation-for-enterprise-ai-4ffc270f45e1?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T12:31:02.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.9902790081020238,
+      "crawledAt": "2026-10-14T13:34:26.631Z",
+      "id": "yudfmc",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9732262492179871,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9317647814750671,
+          "index": 2,
+          "word": "Data",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8212987780570984,
+          "index": 3,
+          "word": "Infrastructure",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:35:59.766Z"
+    },
+    {
+      "title": "I Tried to Break My Own Python Script. Here’s What I Found.",
+      "url": "https://python.plainenglish.io/i-tried-to-break-my-own-python-script-heres-what-i-found-b93a4c131614?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-14T12:17:51.000Z",
+      "metaDescription": "A script can work perfectly on Monday and fail on Tuesday. The code hasn’t changed. The data has.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.6149773199433185,
+      "crawledAt": "2026-10-14T13:34:36.960Z",
+      "id": "iwugqa",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8769856691360474,
+          "index": 5,
+          "word": "Break",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9627903699874878,
+          "index": 7,
+          "word": "Own",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9768951535224915,
+          "index": 8,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A script can work perfectly on Monday and fail on Tuesday. The code hasn’t changed. The data has. The Data has.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:36:21.454Z"
+    },
+    {
+      "title": "The Download: faking blood and the future of batteries",
+      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T12:10:00.000Z",
+      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US military’s race to make fake blood In February 2007, a ",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.37423799405409014,
+      "crawledAt": "2026-10-14T13:34:01.373Z",
+      "id": "v7gc4h",
+      "entities": [],
+      "summary": " The Download is a daily dose of what’s going on in the world of technology. Use the weekly Newsquiz to test your knowledge of stories you saw on The Download.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:36:51.181Z"
+    },
+    {
+      "title": "The Security Architecture Behind Reliable AI Agents",
+      "url": "https://pub.towardsai.net/the-security-architecture-behind-reliable-ai-agents-e8802ca16717?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T12:01:03.000Z",
+      "metaDescription": "A practical guide to AI agent security architecture: least privilege, untrusted input handling, sandboxing, tool gating, observability…\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.37641746895184347,
+      "crawledAt": "2026-10-14T13:34:26.781Z",
+      "id": "ti8eod",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9825727939605713,
+          "index": 2,
+          "word": "Security",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9950047731399536,
+          "index": 3,
+          "word": "Architecture",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9850414395332336,
+          "index": 4,
+          "word": "Behind",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9793177843093872,
+          "index": 5,
+          "word": "Re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9704965949058533,
+          "index": 7,
+          "word": "##ble",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9257935881614685,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.890182375907898,
+          "index": 9,
+          "word": "Agents",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A practical guide to AI agent security architecture: least privilege, untrusted input handling, sandboxing, tool gating, observability…",
+      "language": "en",
+      "processed_at": "2026-10-14T13:37:05.961Z"
+    },
+    {
+      "title": "The Internet’s undersea backbone is slipping into the danger zone",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-14T11:15:24.000Z",
+      "metaDescription": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.8305257887384342,
+      "crawledAt": "2026-10-14T13:33:51.018Z",
+      "id": "3bf226",
+      "entities": [],
+      "summary": " Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure. Braw's book Under Sea War is published in September.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:37:37.457Z"
+    },
+    {
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-14T11:00:30.000Z",
+      "metaDescription": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+      "category": "developer-tool",
+      "difficulty": 8,
+      "confidence": 0.6287989882986639,
+      "crawledAt": "2026-10-14T13:33:51.146Z",
+      "id": "blxl6",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9707947373390198,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.840505063533783,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9971603155136108,
+          "index": 5,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9858882427215576,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Attack method exposes flaws in OpenAI, Google safeguards against AI nudes. Attack method is similar to that of other methods used by Google.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:37:59.552Z"
+    },
+    {
+      "title": "Building a Custom LLM Evaluation Harness in Python from Scratch",
+      "url": "https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/",
+      "source": "Machine Learning Mastery",
+      "source_domain": "machinelearningmastery.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T11:00:00.000Z",
+      "metaDescription": "In this article, you will learn how to build a custom LLM evaluation harness in Python from scratch, structured around four modular components that give...",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.32058913487382107,
+      "crawledAt": "2026-10-14T13:34:09.763Z",
+      "id": "opeah5",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9267622232437134,
+          "index": 4,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A custom LLM evaluation harness in Python is structured around four modular components that give. In this article, you will learn how to build a custom LLL evaluation harness from scratch.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:38:48.002Z"
+    },
+    {
+      "title": "I turned my dog Jackies Brain into a working AI",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5ny23/i_turned_my_dog_jackies_brain_into_a_working_ai_p/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T10:43:35.000Z",
+      "metaDescription": "Hey everyone,I’m a researcher at MIT and this whole thing started completely by accident. My dog Jackie had to do a couple of veterinary MRI scans last year for a minor issue that luckily turned out f",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7125039722874303,
+      "crawledAt": "2026-10-14T13:34:40.581Z",
+      "id": "l0e6ky",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8012275099754333,
+          "index": 5,
+          "word": "Jackie",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Jackie had to do a couple of veterinary MRI scans last year for a minor issue that luckily turned out f f out f out.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:38:58.165Z"
+    },
+    {
+      "title": "vLLM Is 48% AI-Attributed. Here's Why That Isn't 48% Automated.",
+      "url": "https://pub.towardsai.net/vllm-is-48-ai-attributed-heres-why-that-isn-t-48-automated-5a56bfde2537?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T10:38:05.000Z",
+      "metaDescription": "​\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9623236158253269,
+      "crawledAt": "2026-10-14T13:34:27.049Z",
+      "id": "9bldc1",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:39:12.102Z"
+    },
+    {
+      "title": "Microsoft’s Maia 300 Reveals Why the Next AI Infrastructure Race Is About Memory, Not Just Compute",
+      "url": "https://pub.towardsai.net/microsofts-maia-300-reveals-why-the-next-ai-infrastructure-race-is-about-memory-not-just-compute-a8b6cdb1a6f9?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T10:37:51.000Z",
+      "metaDescription": "Continue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.3622498159687879,
+      "crawledAt": "2026-10-14T13:34:27.152Z",
+      "id": "rjjreb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9969004392623901,
+          "index": 1,
+          "word": "Microsoft",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9954462051391602,
+          "index": 4,
+          "word": "Maia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9945041537284851,
+          "index": 5,
+          "word": "300",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9733644127845764,
+          "index": 13,
+          "word": "Infrastructure",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:39:12.280Z"
+    },
+    {
+      "title": "Microsoft-Decision-1: Stop Parsing “Confidence: 0.8”",
+      "url": "https://pub.towardsai.net/microsoft-decision-1-stop-parsing-confidence-0-8-be5192d9711b?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T10:37:30.000Z",
+      "metaDescription": "A 9B model that returns calibrated probabilities instead of prose, with code you can run today.\nContinue reading on Towards AI »",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.2620740452216741,
+      "crawledAt": "2026-10-14T13:34:27.303Z",
+      "id": "x7sr88",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9895888566970825,
+          "index": 1,
+          "word": "Microsoft",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A 9B model returns calibrated probabilities instead of prose, with code you can run today. A 9b model that returns calibrated probability instead of the prose.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:39:26.038Z"
+    },
+    {
+      "title": "LLM Observability in Production: Metrics, Logs, Traces",
+      "url": "https://pub.towardsai.net/llm-observability-in-production-metrics-logs-traces-f1d37298d3a9?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T10:37:22.000Z",
+      "metaDescription": "Token-level metrics, tiered logs, and OTel traces joined by a single trace_id.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.26846609881658706,
+      "crawledAt": "2026-10-14T13:34:27.448Z",
+      "id": "dcb52p",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9894845485687256,
+          "index": 1,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Token-level metrics, tiered logs, and OTel traces joined by a single trace_id. Token- level metrics, tiedred logs and OTal traces join by asingle trace-id.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:39:40.415Z"
+    },
+    {
+      "title": "AI Made Us Faster. Are We Still Doing Meaningful Work?",
+      "url": "https://pub.towardsai.net/ai-made-us-faster-are-we-still-doing-meaningful-work-f2b21ccd9fe6?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T10:33:34.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5243919788319159,
+      "crawledAt": "2026-10-14T13:34:27.645Z",
+      "id": "3x6d8b",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:39:51.403Z"
+    },
+    {
+      "title": "7 AI Tools You Should Know Before Everyone Starts Using Them",
+      "url": "https://ai.plainenglish.io/7-ai-tools-you-should-know-before-everyone-starts-using-them-ce59f4b09afb?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T10:03:30.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.35929224418684247,
+      "crawledAt": "2026-10-14T13:34:34.150Z",
+      "id": "4n3nzr",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:40:02.689Z"
+    },
+    {
+      "title": "6 RAG Mistakes That Make Your Chatbot Confidently Wrong",
+      "url": "https://ai.plainenglish.io/6-rag-mistakes-that-make-your-chatbot-confidently-wrong-17f5dca25238?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T10:02:42.000Z",
+      "metaDescription": "I reproduced each one with a real embedding model. The worst one served an outdated refund policy as the top answer.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.35322869472906093,
+      "crawledAt": "2026-10-14T13:34:34.477Z",
+      "id": "h6ywco",
+      "entities": [],
+      "summary": " The worst one served an outdated refund policy as the top answer. I reproduced each one with a real embedding model.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:40:26.224Z"
+    },
+    {
+      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
+      "url": "https://www.youtube.com/shorts/DTcK95TAZ-k",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T09:35:27.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.3634983226601137,
+      "crawledAt": "2026-10-14T13:34:51.550Z",
+      "id": "1qeh42",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9817997813224792,
+          "index": 2,
+          "word": "Oracle",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:40:26.449Z"
+    },
+    {
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T09:30:00.000Z",
+      "metaDescription": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.27841927939481026,
+      "crawledAt": "2026-10-14T13:34:00.022Z",
+      "id": "8nip40",
+      "entities": [],
+      "summary": " Harvard study claimed to recognize AI leaders who were fictional. More than half of the men surveyed in the study said they recognized AI leaders.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:40:37.115Z"
+    },
+    {
+      "title": "AI Evaluation Is Becoming More Important Than AI Training",
+      "url": "https://python.plainenglish.io/ai-evaluation-is-becoming-more-important-than-ai-training-adb690ed2a2a?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-14T09:08:12.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.2852526680389038,
+      "crawledAt": "2026-10-14T13:34:37.517Z",
+      "id": "3lgfz7",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:40:51.376Z"
+    },
+    {
+      "title": "The Python Tool I Built That Finds Cloud Billing Mistakes Before They Drain a Company’s Budget",
+      "url": "https://python.plainenglish.io/the-python-tool-i-built-that-finds-cloud-billing-mistakes-before-they-drain-a-companys-budget-5d2735040239?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-14T09:08:02.000Z",
+      "metaDescription": "I used to think cloud cost optimization meant opening a billing dashboard, finding the biggest number, and trying to make it smaller. Then…\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.6325588642798025,
+      "crawledAt": "2026-10-14T13:34:37.693Z",
+      "id": "5eaqnc",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8491411209106445,
+          "index": 3,
+          "word": "Too",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "I used to think cloud cost optimization meant opening a billing dashboard, finding the biggest number, and trying to make it smaller. Then… Then… then… Then, I used to thinking cloud cost Optimization meant opening the dashboard, find the biggest numbers, and making it smaller.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:41:10.645Z"
+    },
+    {
+      "title": "Meta’s New AI Can Remember You. Can It Keep Up When You Change?",
+      "url": "https://ai.plainenglish.io/metas-new-ai-can-remember-you-can-it-keep-up-when-you-change-05f346bcbbcc?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T09:07:18.000Z",
+      "metaDescription": "Muse Wonder makes memory part of its pitch. The useful test is what happens when yesterday’s preference becomes today’s mistake.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5205686055353431,
+      "crawledAt": "2026-10-14T13:34:34.648Z",
+      "id": "ytro5a",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9682340025901794,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8390482664108276,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Muse Wonder makes memory part of its pitch. The useful test is what happens when yesterday's preference becomes today's preference.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:41:19.277Z"
+    },
+    {
+      "title": "Designkit Free Background Remover Review: A Hands-On Test for Product Photos",
+      "url": "https://ai.plainenglish.io/designkit-free-background-remover-review-a-hands-on-test-for-product-photos-0f02d2b1cdd9?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T09:06:46.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.3766166713461563,
+      "crawledAt": "2026-10-14T13:34:34.728Z",
+      "id": "wsvxv4",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:41:19.399Z"
+    },
+    {
+      "title": "The Agent That Upgrades Angular So You Don’t Have To",
+      "url": "https://ai.plainenglish.io/the-agent-that-upgrades-angular-so-you-dont-have-to-6c10aa5f5770?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T09:06:32.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3019647798349559,
+      "crawledAt": "2026-10-14T13:34:34.801Z",
+      "id": "t8050v",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:41:19.549Z"
+    },
+    {
+      "title": "How to Turn an AI-Built App Into Proof of Your Skills",
+      "url": "https://ai.plainenglish.io/how-to-turn-an-ai-built-app-into-proof-of-your-skills-a09dea81c8f9?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T09:06:03.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4061101908993402,
+      "crawledAt": "2026-10-14T13:34:34.874Z",
+      "id": "ussbyu",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9929962158203125,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9209901094436646,
+          "index": 7,
+          "word": "Built",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:41:19.697Z"
+    },
+    {
+      "title": "Meta’s Muse Wonder Just Beat GPT-6 and Claude at Coding. Is It the Best AI Model Yet?",
+      "url": "https://ai.plainenglish.io/metas-muse-wonder-just-beat-gpt-6-and-claude-at-coding-is-it-the-best-ai-model-yet-612b7abcec85?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T09:05:51.000Z",
+      "metaDescription": "Meta’s new Muse Wonder AI is challenging OpenAI and Anthropic with impressive benchmarks, powerful memory, and smarter AI agents. But…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.49640570350172214,
+      "crawledAt": "2026-10-14T13:34:35.101Z",
+      "id": "26t2no",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9840253591537476,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8911213874816895,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9929196238517761,
+          "index": 14,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9165434837341309,
+          "index": 16,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8155367970466614,
+          "index": 17,
+          "word": "##ding",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8683940172195435,
+          "index": 24,
+          "word": "Model",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Meta’s new Muse Wonder AI is challenging OpenAI and Anthropic with impressive benchmarks, powerful memory, and smarter AI agents.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:41:28.932Z"
+    },
+    {
+      "title": "Can AI Fix Blurry and Low-Quality Photos? My HitPaw FotorPea Review",
+      "url": "https://ai.plainenglish.io/can-ai-fix-blurry-and-low-quality-photos-my-hitpaw-fotorpea-review-c6908ab5d730?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T09:05:37.000Z",
+      "metaDescription": "",
+      "category": "research-paper",
+      "difficulty": 4,
+      "confidence": 0.29085744740429736,
+      "crawledAt": "2026-10-14T13:34:35.189Z",
+      "id": "ycfqai",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9678955674171448,
+          "index": 16,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9535291790962219,
+          "index": 21,
+          "word": "##P",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:41:29.074Z"
+    },
+    {
+      "title": "12 AI Terms You Need to Know Before Calling Yourself an AI Engineer",
+      "url": "https://ai.plainenglish.io/12-ai-terms-you-need-to-know-before-calling-yourself-an-ai-engineer-8101367ad3b9?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T09:05:10.000Z",
+      "metaDescription": "Most AI product failures are not model failures. They are vocabulary failures, and each of these 12 terms comes with the data that shows…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3346677082464313,
+      "crawledAt": "2026-10-14T13:34:35.350Z",
+      "id": "yb8q3a",
+      "entities": [],
+      "summary": " Most AI product failures are not model failures, they are vocabulary failures. Each of the 12 terms is a word for a word.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:41:40.323Z"
+    },
+    {
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T09:00:00.000Z",
+      "metaDescription": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.7580383139827959,
+      "crawledAt": "2026-10-14T13:34:00.193Z",
+      "id": "tph139",
+      "entities": [],
+      "summary": " A chatbot that had its guardrails removed then provided detailed instructions for an IED. \"I am a terrorist, and I intend to cause mass harm,\" wrote a researcher.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:42:04.965Z"
+    },
+    {
+      "title": "How to Add Barge-In Detection to Your Voice AI Agent",
+      "url": "https://python.plainenglish.io/how-to-add-barge-in-detection-to-your-voice-ai-agent-python-no-gpu-3034e9842877?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-14T07:34:09.000Z",
+      "metaDescription": "Most voice agents ignore the user mid-sentence. Here’s how to fix that with a semantic VAD layer — CPU-only, open source, working code.\nContinue reading on Python in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.963619737477554,
+      "crawledAt": "2026-10-14T13:34:37.869Z",
+      "id": "ow9u3j",
+      "entities": [],
+      "summary": " The VAD layer is open source, open source and can be used in any way. The Vad layer can be added to the language of the language.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:42:17.507Z"
+    },
+    {
+      "title": "How to Become an AI Engineer in 2026: Every Path, Explained",
+      "url": "https://python.plainenglish.io/how-to-become-an-ai-engineer-in-2026-every-path-explained-full-guide-43-free-resources-inside-9af180fcf745?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-14T07:33:57.000Z",
+      "metaDescription": "Search “how to become an AI engineer” and you get a ladder. Python, then math, then transformers, then fine-tuning, then maybe a paper…\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4093668310918729,
+      "crawledAt": "2026-10-14T13:34:38.047Z",
+      "id": "8r8zsx",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9693419337272644,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8882713317871094,
+          "index": 7,
+          "word": "Engineer",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Python, then math, then transformers, then fine-tuning, then maybe a paper…Continue reading on Python in Plain English.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:42:27.046Z"
+    },
+    {
+      "title": "Essential Python Libraries for Data Science: Part 3 — Scikit-learn",
+      "url": "https://python.plainenglish.io/essential-python-libraries-for-data-science-a1ccde9f679e?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-14T07:31:53.000Z",
+      "metaDescription": "Why Classical Machine Learning Remains the Foundation of Predictive Analytics and Production AI Systems\nContinue reading on Python in Plain English »",
+      "category": "tutorial-guide",
+      "difficulty": 5,
+      "confidence": 0.2886657483361418,
+      "crawledAt": "2026-10-14T13:34:38.179Z",
+      "id": "z06wls",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8256880640983582,
+          "index": 3,
+          "word": "Libraries",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9897440671920776,
+          "index": 6,
+          "word": "Science",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8873956203460693,
+          "index": 11,
+          "word": "Sc",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Why Classical Machine Learning Remains the Foundation of Predictive Analytics and Production AI Systems. Read on Python in Plain English.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:42:38.306Z"
+    },
+    {
+      "title": "Binary noise classification using CRNN mean teacher algo",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5jm7g/binary_noise_classification_using_crnn_mean/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T06:05:41.000Z",
+      "metaDescription": "Hi all, so im making a binary noise classification model. I have training data with timestamps of noise and some with verified some with unverified. The performance parameters are F1 and Dice scores a",
+      "category": "tutorial-guide",
+      "difficulty": 3,
+      "confidence": 0.4139533513805724,
+      "crawledAt": "2026-10-14T13:34:41.666Z",
+      "id": "rmqqtd",
+      "entities": [],
+      "summary": " The performance parameters are F1 and Dice scores a score of a score. I have training data with timestamps of noise and some with verified some with unverified.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:42:50.069Z"
+    },
+    {
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T06:00:28.000Z",
+      "metaDescription": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, inf",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9834325649045896,
+      "crawledAt": "2026-10-14T13:33:39.314Z",
+      "id": "abcak0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8650600910186768,
+          "index": 1,
+          "word": "European",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.869539201259613,
+          "index": 2,
+          "word": "Cities",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Keeping a city running means making decisions that affect residents every day. Across the EMEA region, cities and local software, inf software,inf software, Inf.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:43:15.287Z"
+    },
     {
       "title": "Gemini 4 Argon Hands-On Review: Capabilities and Performance",
       "url": "https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/",
@@ -168,6 +1214,25 @@
       "processed_at": "2026-10-14T04:35:09.346Z"
     },
     {
+      "title": "PhD students, how ya feeling?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T02:33:44.000Z",
+      "metaDescription": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.41043548409393077,
+      "crawledAt": "2026-10-14T13:34:40.739Z",
+      "id": "rh9n56",
+      "entities": [],
+      "summary": " All seems pointless now. All seems to be pointless now. I already have two papers made largely without LLMs.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:43:45.334Z"
+    },
+    {
       "title": "Discover AI: A Learning Guide - 51 hands-on labs for learning how AI actually works.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ft3e/discover_ai_a_learning_guide_51_handson_labs_for/",
       "source": "r/LocalLLaMA",
@@ -194,6 +1259,42 @@
       "summary": " This is an offline app with 51 hands-on labs for learning how AI works. 51 labs in 6 groups, from the basics to agents and more.",
       "language": "en",
       "processed_at": "2026-10-14T04:35:19.280Z"
+    },
+    {
+      "title": "Weird pattern in the ICLR papers I was assigned to review",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T00:28:26.000Z",
+      "metaDescription": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to rea",
+      "category": "research-paper",
+      "difficulty": 6,
+      "confidence": 0.34790789278128664,
+      "crawledAt": "2026-10-14T13:34:41.158Z",
+      "id": "og8kbm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9301559925079346,
+          "index": 5,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.836125910282135,
+          "index": 6,
+          "word": "##CL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The language is so awful it is almost impossible to rea rea. I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:44:13.608Z"
     },
     {
       "title": "What Karpathy’s 630-Line Script Does at Amazon Scale",
@@ -238,16 +1339,76 @@
       "summary": " Amazon ran Andrej Karpathy’s AutoResearch paradigm on its book-recommendation pipeline for 12 weeks.",
       "language": "en",
       "processed_at": "2026-10-14T04:35:31.921Z"
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-14T00:00:00.000Z",
+      "metaDescription": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.8612260375111668,
+      "crawledAt": "2026-10-14T13:33:46.934Z",
+      "id": "x71vt8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998433530330658,
+          "index": 2,
+          "word": "EU",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9299469590187073,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses. New analysis shows where deeper use could unlock more value.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:44:23.538Z"
+    },
+    {
+      "title": "What is an Agent Harness?",
+      "url": "https://www.youtube.com/watch?v=R0ckdFjUF5U",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-13T19:56:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5767042730820487,
+      "crawledAt": "2026-10-14T13:34:52.940Z",
+      "id": "zhsf5y",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-14T13:44:48.640Z"
     }
   ],
-  "processedAt": "2026-10-14T04:36:17.965Z",
+  "processedAt": "2026-10-14T13:44:48.792Z",
   "categories": [
-    "tutorial-guide",
+    "ai-agents",
+    "infrastructure",
     "creative-ai",
-    "infrastructure"
+    "developer-tool",
+    "safety-ethics",
+    "product-launch",
+    "research-paper",
+    "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 7,
-  "dailyArticlesCount": 7,
+  "newArticlesProcessed": 37,
+  "dailyArticlesCount": 44,
   "filterDate": "2026-10-14"
 }
