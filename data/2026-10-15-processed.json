@@ -1,9 +1,427 @@
 {
-  "crawledAt": "2026-10-15T19:49:17.984Z",
+  "crawledAt": "2026-10-15T23:00:12.716Z",
   "totalSources": 70,
-  "totalArticles": 116,
+  "totalArticles": 129,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Should this prompt leave your laptop?",
+      "url": "https://pub.towardsai.net/should-this-prompt-leave-your-laptop-e6a718eca992?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-15T22:01:02.000Z",
+      "metaDescription": "",
+      "category": "tutorial-guide",
+      "difficulty": 3,
+      "confidence": 0.2545737779416286,
+      "crawledAt": "2026-10-15T22:59:30.751Z",
+      "id": "tfa8h9",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:00:14.718Z"
+    },
+    {
+      "title": "Craziest, strangest, funniest, and weirdest LLM fine tunes?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6yuc1/craziest_strangest_funniest_and_weirdest_llm_fine/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-15T21:58:16.000Z",
+      "metaDescription": "I wanna see a master list of the craziest/strangest/funniest LLM tunes. I heard one was talking like an expert in 1800s military vernacular and I figure there's some wacky stuff out there.\n I want to ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5870423307366243,
+      "crawledAt": "2026-10-15T22:59:40.922Z",
+      "id": "5lurvw",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9882611036300659,
+          "index": 15,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.849306583404541,
+          "index": 16,
+          "word": "##M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I want to see a master list of the craziest/strangest/funniest LLM tunes. I heard one was talking like an expert in 1800s military vernacular.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:00:30.109Z"
+    },
+    {
+      "title": "Ternary Bonsai 2 Family: 2B, 4B, & 9B based on Qwen 3.5",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6yk1f/ternary_bonsai_2_family_2b_4b_9b_based_on_qwen_35/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-15T21:45:44.000Z",
+      "metaDescription": "Going to try these out to see if they have the same looping behaviors that other Bonsai models have had.\n Still requires their fork of llama.cpp (branch prism) so dont expect it to work with vanilla l",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.2666541237832467,
+      "crawledAt": "2026-10-15T22:59:40.420Z",
+      "id": "rqhtw1",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8911018967628479,
+          "index": 4,
+          "word": "Bon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8596245646476746,
+          "index": 5,
+          "word": "##sai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9456247687339783,
+          "index": 20,
+          "word": "Q",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Bonsai models have the same looping behaviors that other Bonsai model have had. Still requires their fork of llama.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:00:41.902Z"
+    },
+    {
+      "title": "Plex now helps sell movie theater tickets",
+      "url": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-15T21:22:15.000Z",
+      "metaDescription": "Discovery data from Plex users will help studios, advertisers.",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2628719075541365,
+      "crawledAt": "2026-10-15T22:59:13.830Z",
+      "id": "32i2wk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9048156142234802,
+          "index": 1,
+          "word": "P",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Plex data from Plex users will help studios, advertisers. Discovery data fromPlex users will also help studios and advertisers.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:00:49.178Z"
+    },
+    {
+      "title": "Lessons Learned from Designing Enterprise AI Enablement Program Across Organizations",
+      "url": "https://pub.towardsai.net/lessons-learned-from-designing-enterprise-ai-enablement-program-across-organizations-f23c9f7c443b?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-15T21:01:01.000Z",
+      "metaDescription": "The more organizations I worked with, the more I realized that effective AI enablement programs sit at the intersection of several things\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.798162176717813,
+      "crawledAt": "2026-10-15T22:59:30.819Z",
+      "id": "eh2kwz",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9806898236274719,
+          "index": 9,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8276716470718384,
+          "index": 10,
+          "word": "En",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9363873600959778,
+          "index": 11,
+          "word": "##able",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8159838318824768,
+          "index": 12,
+          "word": "##ment",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8652369379997253,
+          "index": 13,
+          "word": "Program",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The more organizations I worked with, the more I realized that effective AI enablement programs sit at the intersection of several things.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:01:25.085Z"
+    },
+    {
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-15T21:00:28.000Z",
+      "metaDescription": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.375632595007471,
+      "crawledAt": "2026-10-15T22:59:18.240Z",
+      "id": "e6am4c",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9940236806869507,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9930424094200134,
+          "index": 2,
+          "word": "Ha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9245938658714294,
+          "index": 3,
+          "word": "##cks",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9872301816940308,
+          "index": 9,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.987886905670166,
+          "index": 10,
+          "word": "Companies",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Powerful AI models continue to cause chaos, but their targets aren't widely seeking justice. Instead, they're being encouraged to adopt those same tools.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:01:34.692Z"
+    },
+    {
+      "title": "Build more personal sites with Codex",
+      "url": "https://www.youtube.com/watch?v=KJ_7KPKlO_Q",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-15T20:48:59.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.25354651203275963,
+      "crawledAt": "2026-10-15T22:59:46.219Z",
+      "id": "nvgtj2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8960850834846497,
+          "index": 7,
+          "word": "Codex",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:01:34.739Z"
+    },
+    {
+      "title": "anyone running good open weight models for development in 48GB, 64GB or 96GB of RAM?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6x5tk/anyone_running_good_open_weight_models_for/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-15T20:47:59.000Z",
+      "metaDescription": "I posted a question the other day in here about good development models, which prompted good discussion. However, it mostly just reinforced my own experience, which is that on a 128GB machine, you can",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.37321549279534266,
+      "crawledAt": "2026-10-15T22:59:40.718Z",
+      "id": "q0yt6x",
+      "entities": [],
+      "summary": " The 128GB machine is a 128GB model, which can be used on a 128 GB machine. The 128 GB model is a 4,000-pound machine.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:01:47.047Z"
+    },
+    {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face Blog",
+      "source_domain": "huggingface.co",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-15T20:34:01.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.5501150027490117,
+      "crawledAt": "2026-10-15T22:59:05.457Z",
+      "id": "5m91et",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9136996865272522,
+          "index": 3,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8039916753768921,
+          "index": 4,
+          "word": "##witch",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:02:00.218Z"
+    },
+    {
+      "title": "Above the 911? Porsche previews a new mid-engined supercar.",
+      "url": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-15T20:30:02.000Z",
+      "metaDescription": "Porsche’s turnaround plan for 2035 involves less volume but more expensive cars.",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.8254352600651692,
+      "crawledAt": "2026-10-15T22:59:13.998Z",
+      "id": "nmc3y4",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9349427223205566,
+          "index": 3,
+          "word": "911",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9985838532447815,
+          "index": 5,
+          "word": "Porsche",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Porsche's turnaround plan for 2035 involves less volume but more expensive cars. Porsche's new plan for the next year includes more expensive vehicles.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:02:19.106Z"
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-15T20:04:53.000Z",
+      "metaDescription": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.5142444379498673,
+      "crawledAt": "2026-10-15T22:59:12.205Z",
+      "id": "bdu7mj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9967832565307617,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.961539089679718,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9257081747055054,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9334250688552856,
+          "index": 13,
+          "word": "Mac",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Meta and Apple have teamed up for the launch of the Muse Spark Open. The new model will run on Apple's silicon.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:02:52.502Z"
+    },
     {
       "title": "The next developer interface is ambient intelligence",
       "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
@@ -58,6 +476,42 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-10-15T19:49:25.298Z"
+    },
+    {
+      "title": "What did the Liberty Bell sound like? Science is on the case.",
+      "url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-15T19:10:03.000Z",
+      "metaDescription": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.5884457234507431,
+      "crawledAt": "2026-10-15T22:59:14.059Z",
+      "id": "n2m0fd",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9439746141433716,
+          "index": 4,
+          "word": "Liberty",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8594322800636292,
+          "index": 5,
+          "word": "Bell",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend. The bell is a replica of a 20th century replica of the original.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:03:35.989Z"
     },
     {
       "title": "Reliability at the Core: Five Ground Rules for Building an Agent Loop",
@@ -156,6 +610,42 @@
       "summary": "Discussion about AI models and tools mentioned in the title.",
       "language": "en",
       "processed_at": "2026-10-15T19:49:54.115Z"
+    },
+    {
+      "title": "Trump cancels Pentagon plans to livestream firing squad execution",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-15T18:16:36.000Z",
+      "metaDescription": "8 in 10 Americans opposed the Pentagon's plans, a Thursday poll showed.",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.3385694387632035,
+      "crawledAt": "2026-10-15T22:59:14.218Z",
+      "id": "9tnfck",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9984825849533081,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.998749315738678,
+          "index": 4,
+          "word": "Pentagon",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " 8 in 10 Americans opposed the Pentagon's plans, a Thursday poll showed. The Pentagon's plan was announced Thursday.",
+      "language": "en",
+      "processed_at": "2026-10-15T23:04:15.259Z"
     },
     {
       "title": "FLUX.3 Image Klein just got weights published on hugging face",
@@ -3578,20 +4068,21 @@
       "processed_at": "2026-10-15T19:56:10.833Z"
     }
   ],
-  "processedAt": "2026-10-15T19:56:10.838Z",
+  "processedAt": "2026-10-15T23:04:37.687Z",
   "categories": [
-    "developer-tool",
+    "tutorial-guide",
     "creative-ai",
-    "safety-ethics",
-    "product-launch",
-    "ai-agents",
     "infrastructure",
+    "ai-agents",
     "model-release",
+    "product-launch",
+    "developer-tool",
+    "safety-ethics",
     "research-paper",
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 59,
-  "dailyArticlesCount": 116,
+  "newArticlesProcessed": 13,
+  "dailyArticlesCount": 129,
   "filterDate": "2026-10-15"
 }
