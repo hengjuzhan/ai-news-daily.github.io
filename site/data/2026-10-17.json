@@ -1,9 +1,163 @@
 {
-  "crawledAt": "2026-10-17T18:22:28.265Z",
+  "crawledAt": "2026-10-17T22:10:10.723Z",
   "totalSources": 70,
-  "totalArticles": 30,
+  "totalArticles": 41,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-17T21:00:13.000Z",
+      "metaDescription": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.  Starting at $2,399, lap",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.6543829818413551,
+      "crawledAt": "2026-10-17T22:08:36.472Z",
+      "id": "ly1eqm",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9744779467582703,
+          "index": 10,
+          "word": "Celebration",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " NVIDIA RTX Spark laptops are now available. Starting at $2,399, lap lap lap $2.0, lap $1,399.",
+      "language": "en",
+      "processed_at": "2026-10-17T22:11:22.360Z"
+    },
+    {
+      "title": "DeepSeek V4.1 Flash 1017",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ke24/deepseek_v41_flash_1017_gguf_abliterated/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-17T20:29:49.000Z",
+      "metaDescription": "Hi all, as many of you are probably aware DeepSeek V4.1 Flash 1017 was released yesterday. I put up an abliterated model + GGUF quants for both the base and abliterated version (no imatrix yet that's ",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3557747264305203,
+      "crawledAt": "2026-10-17T22:09:31.701Z",
+      "id": "r84e8f",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9613118171691895,
+          "index": 1,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9874741435050964,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9176762700080872,
+          "index": 3,
+          "word": "##eek",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "DeepSeek V4.1 Flash 1017 was released yesterday. I put up an abliterated model for both the base and abliterate version.",
+      "language": "en",
+      "processed_at": "2026-10-17T22:12:13.860Z"
+    },
+    {
+      "title": "DeepSeek V4.1 Flash 1017: A “Minor” Update?",
+      "url": "https://www.youtube.com/shorts/BxZ6DvJnQz8",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-17T19:16:30.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.2715955815572882,
+      "crawledAt": "2026-10-17T22:09:47.129Z",
+      "id": "hg5zrp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9362943172454834,
+          "index": 1,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9868523478507996,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.924450159072876,
+          "index": 3,
+          "word": "##eek",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-10-17T22:12:50.774Z"
+    },
+    {
+      "title": "Older models for technical writing?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8i1h2/older_models_for_technical_writing/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-17T18:51:59.000Z",
+      "metaDescription": "The new models like Qwen3.8 27B and DeepSeek V4 Flash etc., all have this terrible, Claude-sounding writing style that I can't stand.\n Here's an example of what I'm talking about: \"A probe that asks w",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5164778698742791,
+      "crawledAt": "2026-10-17T22:09:33.648Z",
+      "id": "tqpi05",
+      "entities": [],
+      "summary": " The new models like Qwen3.8 27B and DeepSeek V4 Flash all have this terrible, Claude-sounding writing style that I can't stand.",
+      "language": "en",
+      "processed_at": "2026-10-17T22:13:00.895Z"
+    },
+    {
+      "title": "Opencode breached, rotate keys to be safe.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-17T18:02:37.000Z",
+      "metaDescription": "Details are developing…\n    submitted by    /u/chemist_slime  \n [link]   [comments]",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3090344587251203,
+      "crawledAt": "2026-10-17T22:09:30.279Z",
+      "id": "938vgu",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-17T22:13:09.812Z"
+    },
     {
       "title": "Stop Using Claude Like a Chatbot: 9 Hidden Tricks That Make It a Serious Productivity Tool in 2026",
       "url": "https://ai.plainenglish.io/stop-using-claude-like-a-chatbot-9-hidden-tricks-that-make-it-a-serious-productivity-tool-in-2026-be33b1c1c3a3?source=rss----78d064101951---4",
@@ -156,6 +310,50 @@
       "processed_at": "2026-10-17T18:23:59.257Z"
     },
     {
+      "title": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bg1u/nvidianvidianemotronlabsdory104bbf16_hugging_face/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-17T14:20:54.000Z",
+      "metaDescription": "Total Parameters\n 4B\n Architecture\n Looped (latent-recurrent) normalized-GPT with interleaved sliding-window attention (SWA) and full-attention layers\n Precision\n BF16\n Context Length\n Up to 256K toke",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.25617904656438006,
+      "crawledAt": "2026-10-17T22:09:31.928Z",
+      "id": "xrsts0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9882659912109375,
+          "index": 10,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9819959402084351,
+          "index": 12,
+          "word": "##ot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8313000798225403,
+          "index": 13,
+          "word": "##ron",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Total parameters are 4B. Total parameters include 4B, 4B and 4B (latent-recurrent) normalized-GPT with interleaved sliding-window attention (SWA)",
+      "language": "en",
+      "processed_at": "2026-10-17T22:13:38.360Z"
+    },
+    {
       "title": "5 Python Libraries That Feel Like Cheat Codes",
       "url": "https://python.plainenglish.io/5-python-libraries-that-feel-like-cheat-codes-824d17c4a006?source=rss----78073def27b8---4",
       "source": "Python in Plain English",
@@ -182,6 +380,42 @@
       "summary": " Powerful tools that make difficult coding tasks surprisingly simple simple simple tasks. Read reading on Python in Plain English in PlainEnglish.",
       "language": "en",
       "processed_at": "2026-10-17T18:24:08.505Z"
+    },
+    {
+      "title": "DeepSeek V4.1 Flash Now Leads Open-Weight Models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-17T14:15:01.000Z",
+      "metaDescription": "submitted by    /u/Informal-Trouble2183  \n [link]   [comments]",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.3781915606487588,
+      "crawledAt": "2026-10-17T22:09:30.389Z",
+      "id": "svxw7k",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9044333696365356,
+          "index": 1,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9494965076446533,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-17T22:13:38.477Z"
     },
     {
       "title": "Are AI Agents Going Rogue? What’s Actually Happening?",
@@ -305,6 +539,86 @@
       "summary": " You'll be equipped to make production-quality, presentation-ready Python histogram plots with a range of choices and features.",
       "language": "en",
       "processed_at": "2026-10-17T18:24:43.127Z"
+    },
+    {
+      "title": "Why not run Qwen 3.8 Flash Next with the full n-gram-table?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8am0i/why_not_run_qwen_38_flash_next_with_the_full/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-17T13:44:17.000Z",
+      "metaDescription": "Already posted here https://www.reddit.com/r/LocalLLaMA/comments/1x85hfj/strata_qwen_38_flash_next_fast_but_whats_it/phavui9/ , but I believe this topic deserves it's own post. \n The PLE, aka the n-gr",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.29074254954551504,
+      "crawledAt": "2026-10-17T22:09:30.986Z",
+      "id": "lrd1n6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8296478986740112,
+          "index": 4,
+          "word": "Q",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8646451234817505,
+          "index": 10,
+          "word": "Next",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The PLE, aka the n-gr. The Ple, aka The N-gr, aka \"The PLE,\" is the name of the n.gr.",
+      "language": "en",
+      "processed_at": "2026-10-17T22:13:52.105Z"
+    },
+    {
+      "title": "Nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-17T12:18:00.000Z",
+      "metaDescription": "During a post-event interview at the RTX Spark Launch Party: Taipei on October 16, 2026, Nvidia's Senior Vice President of Personal Computing, Jeff Fisher, explicitly debunked the recent discontinuati",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.31328362817424044,
+      "crawledAt": "2026-10-17T22:09:30.714Z",
+      "id": "h9ns1z",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982694983482361,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9690790176391602,
+          "index": 2,
+          "word": "##vid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9794634580612183,
+          "index": 3,
+          "word": "##ia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Nvidia's Senior Vice President of Personal Computing, Jeff Fisher, explicitly debunked the recent discontinuatiati discontinuatis.",
+      "language": "en",
+      "processed_at": "2026-10-17T22:14:20.816Z"
     },
     {
       "title": "Stop Parsing PDFs for RAG. Show the AI the Page Instead.",
@@ -507,6 +821,34 @@
       "processed_at": "2026-10-17T12:09:16.428Z"
     },
     {
+      "title": "Otaku — an LLM frontend for creative writing",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x865rk/otaku_an_llm_frontend_for_creative_writing/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-17T09:42:14.000Z",
+      "metaDescription": "I understand this kind of product may not be exactly right for this subreddit, but I still think it deserves some attention, as it's an LLM frontend for local engines in the first place, and can be us",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.8802051933134974,
+      "crawledAt": "2026-10-17T22:09:32.900Z",
+      "id": "cx7o3u",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9975983500480652,
+          "index": 1,
+          "word": "O",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " LLM is an LLM frontend for local engines in the first place. I understand this kind of product may not be exactly right for this subreddit, but I still think it deserves some attention.",
+      "language": "en",
+      "processed_at": "2026-10-17T22:14:34.976Z"
+    },
+    {
       "title": "10 MCP Servers That Give Claude Code Superpowers",
       "url": "https://python.plainenglish.io/10-mcp-servers-that-give-claude-code-superpowers-fc225edd1afb?source=rss----78073def27b8---4",
       "source": "Python in Plain English",
@@ -524,6 +866,25 @@
       "summary": " MCP servers can take your Claude Code setup to a whole new level. MCP can be set up to a new level.",
       "language": "en",
       "processed_at": "2026-10-17T12:09:35.264Z"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-17T08:09:21.000Z",
+      "metaDescription": "submitted by    /u/Bestlife73  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.5861069575238447,
+      "crawledAt": "2026-10-17T22:09:30.516Z",
+      "id": "4tj4j9",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-17T22:14:35.116Z"
     },
     {
       "title": "Building a Real-Time Multilingual IVR: Call State, Audio Pipelines, and Concurrency",
@@ -818,18 +1179,19 @@
       "processed_at": "2026-10-17T12:10:19.632Z"
     }
   ],
-  "processedAt": "2026-10-17T18:25:14.119Z",
+  "processedAt": "2026-10-17T22:14:52.753Z",
   "categories": [
+    "product-launch",
     "creative-ai",
+    "infrastructure",
     "ai-agents",
     "safety-ethics",
+    "model-release",
     "research-paper",
-    "infrastructure",
-    "developer-tool",
-    "model-release"
+    "developer-tool"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 8,
-  "dailyArticlesCount": 30,
+  "newArticlesProcessed": 11,
+  "dailyArticlesCount": 41,
   "filterDate": "2026-10-17"
 }
