@@ -1,9 +1,914 @@
 {
-  "crawledAt": "2026-10-22T04:20:20.391Z",
+  "crawledAt": "2026-10-22T13:41:57.381Z",
   "totalSources": 70,
-  "totalArticles": 61,
+  "totalArticles": 91,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Build AI Employees in Python That Work While You Sleep",
+      "url": "https://www.analyticsvidhya.com/blog/2026/10/build-an-ai-employee-in-python/",
+      "source": "Analytics Vidhya",
+      "source_domain": "analyticsvidhya.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-22T13:38:55.000Z",
+      "metaDescription": "It’s Friday, 8 a.m. Your weekly tech newsletter is drafted, fact-checked and waiting for one click of approval. You didn’t write it. You were asleep. Three AI employees did. A researcher found the wee",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.4205798732302868,
+      "crawledAt": "2026-10-22T13:41:56.768Z",
+      "id": "u5tei",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9629635810852051,
+          "index": 9,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The weekly tech newsletter is drafted, fact-checked and waiting for one click of approval. Three AI employees did. A researcher found the wee wee.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:42:11.442Z"
+    },
+    {
+      "title": "The Python Automation That Finds Hidden Revenue in Unpaid Invoices",
+      "url": "https://python.plainenglish.io/the-python-automation-that-finds-hidden-revenue-in-unpaid-invoices-f6b07f25633e?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-22T13:35:41.000Z",
+      "metaDescription": "I used to think chasing unpaid invoices was just an accounting problem. Then I realized the bigger problem was knowing which invoices…\nContinue reading on Python in Plain English »",
+      "category": "industry-news",
+      "difficulty": 5,
+      "confidence": 0.3088519132903217,
+      "crawledAt": "2026-10-22T13:41:23.471Z",
+      "id": "rh9bo0",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9536990523338318,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9308647513389587,
+          "index": 3,
+          "word": "Auto",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9626692533493042,
+          "index": 4,
+          "word": "##mation",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The author of the book, Python, is a writer and author of a book, \"Python\" The book is published in the UK and is based on the book \"Python,\" which is written in Python.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:42:25.427Z"
+    },
+    {
+      "title": "Part XVII — Checkpointing vs Lineage: The Fault-Tolerance Trade You Misconfigure",
+      "url": "https://pub.towardsai.net/part-xvii-checkpointing-vs-lineage-the-fault-tolerance-trade-you-misconfigure-f5b1a5892d68?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T13:31:03.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.5503470286781281,
+      "crawledAt": "2026-10-22T13:41:20.937Z",
+      "id": "xwgcfy",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:42:25.496Z"
+    },
+    {
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T13:26:52.000Z",
+      "metaDescription": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2729011069908059,
+      "crawledAt": "2026-10-22T13:41:00.966Z",
+      "id": "lfckwb",
+      "entities": [],
+      "summary": " Nirva will ship its $249 ambient AI pendant by the end of the year. The $249 pendant will cost $1,000.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:42:36.660Z"
+    },
+    {
+      "title": "Your First MCP Server",
+      "url": "https://pub.towardsai.net/your-first-mcp-server-f21a7d69c52c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T13:01:04.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.31311156002292584,
+      "crawledAt": "2026-10-22T13:41:20.962Z",
+      "id": "rf5a2w",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:42:46.262Z"
+    },
+    {
+      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T13:00:20.000Z",
+      "metaDescription": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported d",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.3278821742114154,
+      "crawledAt": "2026-10-22T13:40:56.836Z",
+      "id": "hqhwxr",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9943105578422546,
+          "index": 15,
+          "word": "Modern",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9970831274986267,
+          "index": 16,
+          "word": "Warfare",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9959304928779602,
+          "index": 17,
+          "word": "4",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9572840332984924,
+          "index": 25,
+          "word": "##F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8922483325004578,
+          "index": 26,
+          "word": "##or",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.917389452457428,
+          "index": 27,
+          "word": "##ce",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch. New campaign, multiplayer action and DMZ, high-stakes extraction mode are included.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:42:55.992Z"
+    },
+    {
+      "title": "TimesFM - Foundation Model for Time Series Forcasting",
+      "url": "https://www.youtube.com/watch?v=ByKEkRohzt8",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T13:00:18.000Z",
+      "metaDescription": "",
+      "category": "industry-news",
+      "difficulty": 4,
+      "confidence": 0.3200811707259183,
+      "crawledAt": "2026-10-22T13:41:37.451Z",
+      "id": "1w2jf6",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:42:56.040Z"
+    },
+    {
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say Anything",
+      "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T13:00:00.000Z",
+      "metaDescription": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.40596893170290577,
+      "crawledAt": "2026-10-22T13:41:06.280Z",
+      "id": "6obguj",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9931952357292175,
+          "index": 2,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Disguise them as cute home decor? Disguise you as a cute home-decorating robot.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:43:03.953Z"
+    },
+    {
+      "title": "5 Claude Tricks That Make a Real Difference",
+      "url": "https://ai.plainenglish.io/5-claude-tricks-that-make-a-real-difference-most-developers-overlook-these-ae26f073675a?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T12:39:53.000Z",
+      "metaDescription": "You don’t need a complicated prompt library to get better results from Claude. You need to understand how to give it the right context…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3508697892982802,
+      "crawledAt": "2026-10-22T13:41:24.196Z",
+      "id": "gxu3or",
+      "entities": [],
+      "summary": " You don't need a complicated prompt library to get better results from Claude. You need to understand how to give it the right context.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:43:14.333Z"
+    },
+    {
+      "title": "I’ll Instantly Know A Writer Used ChatGPT When I See This",
+      "url": "https://ai.plainenglish.io/ill-instantly-know-a-writer-used-chatgpt-when-i-see-this-2b2ff0b8a9ab?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T12:39:44.000Z",
+      "metaDescription": "It’s pretty damn obvious once you know what to look for.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3299336876044995,
+      "crawledAt": "2026-10-22T13:41:24.269Z",
+      "id": "edz3pp",
+      "entities": [],
+      "summary": " It’s pretty obvious once you know what to look for, says the author. It”s pretty damn obvious. It‘s pretty pretty obvious, says author.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:43:25.666Z"
+    },
+    {
+      "title": "The Next Battle Isn’t Better Models; It’s Better Harnesses.",
+      "url": "https://generativeai.pub/the-next-battle-isnt-better-models-it-s-better-harnesses-ba3d85f1b23d?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T12:32:21.000Z",
+      "metaDescription": "",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.37029808909475714,
+      "crawledAt": "2026-10-22T13:41:25.712Z",
+      "id": "p0q15i",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8882135152816772,
+          "index": 3,
+          "word": "Battle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8736599087715149,
+          "index": 4,
+          "word": "Isn",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:43:25.722Z"
+    },
+    {
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T12:10:00.000Z",
+      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, ",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.7847981601090216,
+      "crawledAt": "2026-10-22T13:41:06.922Z",
+      "id": "pjujcq",
+      "entities": [],
+      "summary": " The Download is a daily dose of what's going on in the world of technology. Use the weekly Newsquiz to test your knowledge of stories you saw on The Download.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:44:15.812Z"
+    },
+    {
+      "title": "Gotchas and Anti-Patterns",
+      "url": "https://pub.towardsai.net/gotchas-and-anti-patterns-887c54cdc574?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T12:01:02.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.34451191186244706,
+      "crawledAt": "2026-10-22T13:41:21.057Z",
+      "id": "sk37rf",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:44:15.855Z"
+    },
+    {
+      "title": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining",
+      "url": "https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-22T12:00:00.000Z",
+      "metaDescription": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn more, including how to run the free demo yourself.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.6770649646987713,
+      "crawledAt": "2026-10-22T13:41:53.887Z",
+      "id": "y6abjt",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9288649559020996,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8753689527511597,
+          "index": 2,
+          "word": "Open",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two loops without touching model weights. Learn more from the free demo.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:44:27.106Z"
+    },
+    {
+      "title": "10 Underrated Open-Source AI Tools Worth Trying",
+      "url": "https://python.plainenglish.io/10-underrated-open-source-ai-tools-worth-trying-7d8ccd1ea308?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-22T11:33:46.000Z",
+      "metaDescription": "10 hidden AI gems that can do way more than you think.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3567873151440316,
+      "crawledAt": "2026-10-22T13:41:23.614Z",
+      "id": "gpx2tt",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9508975744247437,
+          "index": 6,
+          "word": "Source",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " 10 hidden AI gems that can do more than you think. 10 hidden gems that do more for you than you know.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:44:55.897Z"
+    },
+    {
+      "title": "From Forensics to Flight Control: Building a Real-Time Network Monitor in Python",
+      "url": "https://python.plainenglish.io/from-forensics-to-flight-control-building-a-real-time-network-monitor-in-python-ee3f019c10cc?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-22T11:33:14.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.4464045664841859,
+      "crawledAt": "2026-10-22T13:41:23.731Z",
+      "id": "f6esh6",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.975985050201416,
+          "index": 13,
+          "word": "Time",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9621612429618835,
+          "index": 14,
+          "word": "Network",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8644546866416931,
+          "index": 15,
+          "word": "Monitor",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.888879120349884,
+          "index": 17,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:45:08.672Z"
+    },
+    {
+      "title": "10 Claude Code and Codex Skills Most Developers Haven’t Tried",
+      "url": "https://python.plainenglish.io/10-claude-code-and-codex-skills-most-developers-havent-tried-4e6916b26f49?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-22T11:32:22.000Z",
+      "metaDescription": "Make Claude Code and Codex better at designing, debugging, planning, and building software.\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.28519069966603344,
+      "crawledAt": "2026-10-22T13:41:23.801Z",
+      "id": "xptubq",
+      "entities": [],
+      "summary": " Make Claude Code and Codex better at designing, debugging, planning, and building software. Make Claude code and Codex a better at design, debugging and planning.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:45:20.901Z"
+    },
+    {
+      "title": "Build a Robust Web Scraper with Playwright and Asyncio",
+      "url": "https://python.plainenglish.io/build-a-robust-web-scraper-with-playwright-and-asyncio-e67eb0cfd56c?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-22T11:32:05.000Z",
+      "metaDescription": "How to build a reliable browser automation workflow with asynchronous Python, retries, session handling, and respectful scraping practices.\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.42080101327779407,
+      "crawledAt": "2026-10-22T13:41:23.881Z",
+      "id": "8jurt2",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8206132650375366,
+          "index": 6,
+          "word": "Web",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9397897124290466,
+          "index": 7,
+          "word": "Sc",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Python is a popular tool for creating a reliable browser automation workflow. Use the language of Python to build a reliable, reliable browser workflow.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:45:31.218Z"
+    },
+    {
+      "title": "9 Python Protocols That Let Your Classes Behave Like Built-in Types",
+      "url": "https://python.plainenglish.io/9-python-protocols-that-let-your-classes-behave-like-built-in-types-49ef62085e10?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-22T10:33:22.000Z",
+      "metaDescription": "Use iteration, context management, indexing, and other object protocols to create APIs that feel natural to Python developers.\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.31738144555440756,
+      "crawledAt": "2026-10-22T13:41:23.955Z",
+      "id": "tpkllz",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9922246336936951,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Use iteration, context management, indexing, and other object protocols to create APIs that feel natural to Python developers. Use iteration and context management to create API that feels natural to developers.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:46:14.217Z"
+    },
+    {
+      "title": "How to Run Open-Source AI Models on Kubernetes: A Guide to the Best Tools",
+      "url": "https://ai.plainenglish.io/how-to-run-open-source-ai-models-on-kubernetes-a-guide-to-the-best-tools-6321ae23c6bd?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T10:15:38.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 6,
+      "confidence": 0.3245004990372803,
+      "crawledAt": "2026-10-22T13:41:24.319Z",
+      "id": "6mwrim",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.926007866859436,
+          "index": 4,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9875562191009521,
+          "index": 6,
+          "word": "Source",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9486157894134521,
+          "index": 8,
+          "word": "Models",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:46:14.274Z"
+    },
+    {
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T10:00:00.000Z",
+      "metaDescription": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can mis",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.30244402577705537,
+      "crawledAt": "2026-10-22T13:41:06.980Z",
+      "id": "y90xsq",
+      "entities": [],
+      "summary": " Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But even powerful models can misjudge how a business operates.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:46:24.170Z"
+    },
+    {
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T10:00:00.000Z",
+      "metaDescription": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.7509343963826726,
+      "crawledAt": "2026-10-22T13:41:06.337Z",
+      "id": "dz0m5x",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9406919479370117,
+          "index": 8,
+          "word": "Biology",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new open-source model speaks the language of DNA. It can help researchers understand the effects of changes in gene activity and health.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:46:45.029Z"
+    },
+    {
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T08:41:18.000Z",
+      "metaDescription": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage ",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3982784158358927,
+      "crawledAt": "2026-10-22T13:41:07.130Z",
+      "id": "iq7g6d",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9410937428474426,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Executives will likely be looking at the cost of AI-powered accelerators. But that's not the only reason for the problem.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:46:56.931Z"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face Blog",
+      "source_domain": "huggingface.co",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T07:51:31.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.25534525553966514,
+      "crawledAt": "2026-10-22T13:40:54.155Z",
+      "id": "r8u8ho",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9855655431747437,
+          "index": 5,
+          "word": "IBM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9902809262275696,
+          "index": 6,
+          "word": "Gran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9713994264602661,
+          "index": 7,
+          "word": "##ite",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:46:56.979Z"
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T06:00:00.000Z",
+      "metaDescription": "What forward deployed engineering means at OpenAI",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6296747702320314,
+      "crawledAt": "2026-10-22T13:40:55.189Z",
+      "id": "hhiej9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9825222492218018,
+          "index": 2,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8797392249107361,
+          "index": 6,
+          "word": "Open",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:46:57.024Z"
+    },
+    {
+      "title": "Agentic AI in Action, Part 31: Hands On with Temporary, Secure, and Personal Agents in Cortex",
+      "url": "https://pub.towardsai.net/agentic-ai-in-action-part-32-hands-on-with-temporary-secure-and-personal-agents-in-cortex-03b23a1f7ec5?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T05:05:26.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9750082997863303,
+      "crawledAt": "2026-10-22T13:41:21.140Z",
+      "id": "q6el8c",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9442268013954163,
+          "index": 24,
+          "word": "Co",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:46:57.153Z"
+    },
+    {
+      "title": "I Fine-Tuned a Local Model to Match a Hosted Model.",
+      "url": "https://pub.towardsai.net/i-fine-tuned-a-local-model-to-match-a-hosted-model-35a4a8a650db?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T05:04:47.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3824411202337448,
+      "crawledAt": "2026-10-22T13:41:21.248Z",
+      "id": "k5i201",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:47:07.789Z"
+    },
+    {
+      "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+      "url": "https://blogs.nvidia.com/blog/dsx-power/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T05:00:25.000Z",
+      "metaDescription": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of th",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.2570641414498835,
+      "crawledAt": "2026-10-22T13:40:57.105Z",
+      "id": "1nme2k",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8845304250717163,
+          "index": 5,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.948082447052002,
+          "index": 6,
+          "word": "##VI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9801650047302246,
+          "index": 15,
+          "word": "Bo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8560280799865723,
+          "index": 16,
+          "word": "##ttle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9278263449668884,
+          "index": 17,
+          "word": "##neck",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:47:59.202Z"
+    },
+    {
+      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+      "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-22T05:00:02.000Z",
+      "metaDescription": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to loca",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.7100998238276134,
+      "crawledAt": "2026-10-22T13:40:57.364Z",
+      "id": "x2pptu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9672268629074097,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9723166227340698,
+          "index": 3,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8959426283836365,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Open models provide a path forward to letting governments evaluate them, adapt them to loca. Governments need modern solutions to serve the public while keeping sensitive information under their control.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:48:34.619Z"
+    },
     {
       "title": "Scalable Stress-Constrained Topology Optimization: A Super-resolution and Simultaneous Approach Based on Machine Learning",
       "url": "https://arxiv.org/abs/2610.28703",
@@ -1453,6 +2358,42 @@
       "processed_at": "2026-10-22T04:28:36.639Z"
     },
     {
+      "title": "Claude Duet: Anthropic's Proactive Agent",
+      "url": "https://www.youtube.com/shorts/0sI-GTYetD8",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-21T21:49:31.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.8460338488580009,
+      "crawledAt": "2026-10-22T13:41:37.479Z",
+      "id": "xjlwcp",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9994707703590393,
+          "index": 1,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995115995407104,
+          "index": 2,
+          "word": "Due",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-22T13:48:34.727Z"
+    },
+    {
       "title": "Tenstorrent’s $1.5B Bet: Can Your Stack Run It?",
       "url": "https://levelup.gitconnected.com/tenstorrents-1-5b-bet-can-your-stack-run-it-25d48de98ad4?source=rss----5517fd7b58a6---4",
       "source": "Level Up Coding",
@@ -2074,21 +3015,21 @@
       "processed_at": "2026-10-22T04:32:39.089Z"
     }
   ],
-  "processedAt": "2026-10-22T04:32:39.092Z",
+  "processedAt": "2026-10-22T13:48:34.731Z",
   "categories": [
-    "infrastructure",
-    "creative-ai",
-    "safety-ethics",
-    "tutorial-guide",
-    "industry-news",
     "ai-agents",
-    "developer-tool",
-    "research-paper",
+    "industry-news",
+    "safety-ethics",
+    "creative-ai",
+    "infrastructure",
     "product-launch",
-    "model-release"
+    "model-release",
+    "developer-tool",
+    "tutorial-guide",
+    "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 61,
-  "dailyArticlesCount": 61,
+  "newArticlesProcessed": 30,
+  "dailyArticlesCount": 91,
   "filterDate": "2026-10-22"
 }
