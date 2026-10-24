@@ -1,9 +1,588 @@
 {
-  "crawledAt": "2026-10-24T12:36:59.063Z",
+  "crawledAt": "2026-10-24T18:43:49.442Z",
   "totalSources": 70,
-  "totalArticles": 40,
+  "totalArticles": 58,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Gemini 4 Argon vs Claude Opus 5.5: Pick Wrong, Pay Twice",
+      "url": "https://pub.towardsai.net/gemini-4-argon-vs-claude-opus-5-5-pick-wrong-pay-twice-fc444c629eaa?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T18:01:01.000Z",
+      "metaDescription": "Gemini 4 Argon vs Claude Opus 5.5 for developers: benchmarks, real pricing after November 30, and which model wins for coding, long…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4129421194913591,
+      "crawledAt": "2026-10-24T18:42:56.379Z",
+      "id": "7qet43",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9901565313339233,
+          "index": 1,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8588224053382874,
+          "index": 3,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9986145496368408,
+          "index": 6,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.995980978012085,
+          "index": 7,
+          "word": "Opus",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Gemini 4 Argon vs. Claude Opus. 5.5 for developers: benchmarks, real pricing after November 30.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:44:00.165Z"
+    },
+    {
+      "title": "Building Neumathway: Marrying GNNs with Symbolic Engines for Zero Hallucinations",
+      "url": "https://pub.towardsai.net/building-neumathway-marrying-gnns-with-symbolic-engines-for-zero-hallucinations-f0447dc3814d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T17:01:04.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.5654600478357873,
+      "crawledAt": "2026-10-24T18:42:56.458Z",
+      "id": "580rnx",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:44:23.772Z"
+    },
+    {
+      "title": "Anthropic Just Introduced Claude Duet. AI That Works While You Step Away",
+      "url": "https://pub.towardsai.net/anthropic-just-introduced-claude-duet-ai-that-works-while-you-step-away-89d26bd4feaa?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T16:01:02.000Z",
+      "metaDescription": "Claude Duet is Anthropic’s new proactive AI agent that works in the cloud while you step away.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.9030357313917713,
+      "crawledAt": "2026-10-24T18:42:56.605Z",
+      "id": "414373",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9995535016059875,
+          "index": 8,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9997444748878479,
+          "index": 9,
+          "word": "Due",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8964694142341614,
+          "index": 10,
+          "word": "##t",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Claude Duet is a new AI agent that works in the cloud while you stay away from it. He is the latest in a long line of AI agents that work in the clouds.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:45:32.638Z"
+    },
+    {
+      "title": "Hippocampal Segmentation Ensembles That Flag Their Own Failures",
+      "url": "https://python.plainenglish.io/hippocampal-segmentation-ensembles-that-flag-their-own-failures-aace71845048?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-24T15:59:49.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.30015268981387344,
+      "crawledAt": "2026-10-24T18:43:06.395Z",
+      "id": "rm5oqa",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:45:42.734Z"
+    },
+    {
+      "title": "Recursive’s AI Helped Build a Coding Model in Under 4 Months, and It Runs 125 Tokens a Second on a…",
+      "url": "https://pub.towardsai.net/recursives-ai-helped-build-a-coding-model-in-under-4-months-and-it-runs-125-tokens-a-second-on-a-16097573a320?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T15:01:04.000Z",
+      "metaDescription": "Flint is a 40B open-weight coding model with only 2.5B parameters active per token. Here is what the AI researcher behind it changed, what…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3747189035461011,
+      "crawledAt": "2026-10-24T18:42:56.810Z",
+      "id": "nr2lbw",
+      "entities": [],
+      "summary": " Flint is a 40B open-weight coding model with only 2.5B parameters active per token. Here is what the AI researcher behind it changed.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:46:03.576Z"
+    },
+    {
+      "title": "Pixels, Not Boxes: How a Detection Transformer Paints a Street",
+      "url": "https://pub.towardsai.net/pixels-not-boxes-how-a-detection-transformer-paints-a-street-0e1cdb938925?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T14:01:04.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2962925032333608,
+      "crawledAt": "2026-10-24T18:42:56.878Z",
+      "id": "ula00c",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:46:27.294Z"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T14:00:00.000Z",
+      "metaDescription": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9910223067832031,
+      "crawledAt": "2026-10-24T18:42:27.767Z",
+      "id": "fjyko7",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9880589246749878,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " We created a list of the most notable AI agents that can live in text messages. They include general assistants to agents designed for families, travel, and work.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:46:37.571Z"
+    },
+    {
+      "title": "An Intro to Threading in Python",
+      "url": "https://realpython.com/intro-to-python-threading/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-24T14:00:00.000Z",
+      "metaDescription": "Python threading allows you to have different parts of your program run concurrently and can simplify your design. If you’ve got some experience in Python and want to speed up your program using threa",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.28313619606502916,
+      "crawledAt": "2026-10-24T18:43:46.243Z",
+      "id": "trzpvr",
+      "entities": [],
+      "summary": "Python threading allows you to have different parts of your program run concurrently. If you’ve got some experience in Python, want to speed up your program using threa.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:47:03.237Z"
+    },
+    {
+      "title": "Dictionaries in Python",
+      "url": "https://realpython.com/python-dicts/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-24T14:00:00.000Z",
+      "metaDescription": "Python dictionaries are a powerful built-in data type that allows you to store key-value pairs for efficient data retrieval and manipulation. Learning about them is essential for developers who want t",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.42548862815320143,
+      "crawledAt": "2026-10-24T18:43:46.558Z",
+      "id": "geobaz",
+      "entities": [],
+      "summary": "Python dictionaries are a powerful data type that allows you to store key-value pairs for efficient data retrieval and manipulation.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:47:31.614Z"
+    },
+    {
+      "title": "Alexa Python Development: Build and Deploy an Alexa Skill",
+      "url": "https://realpython.com/alexa-python-skill/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-24T14:00:00.000Z",
+      "metaDescription": "Smart home speakers were a novel idea just a couple of years ago. Today, they’ve become a central part of many people’s homes and offices and their adoption is only expected to grow. Among the most po",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.9910975375610954,
+      "crawledAt": "2026-10-24T18:43:47.042Z",
+      "id": "4q639l",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9796313047409058,
+          "index": 1,
+          "word": "Alex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.861811101436615,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9529582262039185,
+          "index": 3,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Smart home speakers were a novel idea just a couple of years ago. Today, they've become a central part of many people's homes and offices.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:48:06.554Z"
+    },
+    {
+      "title": "The Spatial AI Memory Land Grab Is Here, And the Foundational AI Labs Want In.",
+      "url": "https://ai.plainenglish.io/the-spatial-ai-memory-land-grab-is-here-and-the-foundational-ai-labs-want-in-9c852344008e?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T13:53:56.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.40463495736405236,
+      "crawledAt": "2026-10-24T18:43:08.234Z",
+      "id": "4m3xja",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9836639165878296,
+          "index": 2,
+          "word": "Spa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9172282218933105,
+          "index": 3,
+          "word": "##tial",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8341394662857056,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9547688364982605,
+          "index": 5,
+          "word": "Memory",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9795631170272827,
+          "index": 6,
+          "word": "Land",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9960355162620544,
+          "index": 14,
+          "word": "Foundation",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8552912473678589,
+          "index": 16,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9934806823730469,
+          "index": 17,
+          "word": "Labs",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:48:06.677Z"
+    },
+    {
+      "title": "Is AI The End Or An Inevitable Beginning For Humanity?",
+      "url": "https://ai.plainenglish.io/is-ai-the-end-or-an-inevitable-beginning-for-humanity-10bf6aa4bb5b?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T13:51:42.000Z",
+      "metaDescription": "Has AI come to stay?\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.26027173751427224,
+      "crawledAt": "2026-10-24T18:43:08.712Z",
+      "id": "gp0wf7",
+      "entities": [],
+      "summary": " Has AI come to stay? Has AI been to stay. Has AI have come to remain? Has it come to staying?",
+      "language": "en",
+      "processed_at": "2026-10-24T18:48:38.850Z"
+    },
+    {
+      "title": "Tin Shovels and Ghost Towns: The AI Gold Rush",
+      "url": "https://ai.plainenglish.io/tin-shovels-and-ghost-towns-the-ai-gold-rush-fca938d32f5a?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T13:50:11.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.7096770604234918,
+      "crawledAt": "2026-10-24T18:43:08.922Z",
+      "id": "s89jma",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9904835820198059,
+          "index": 2,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.939521312713623,
+          "index": 3,
+          "word": "##hov",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9753344058990479,
+          "index": 4,
+          "word": "##els",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.982374906539917,
+          "index": 7,
+          "word": "Towns",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9896395802497864,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9895221590995789,
+          "index": 11,
+          "word": "Gold",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9983766674995422,
+          "index": 12,
+          "word": "Rush",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:48:47.109Z"
+    },
+    {
+      "title": "I Tested 5 AI Detectors on Writing From Claude, Gemini, ChatGPT, and Grok",
+      "url": "https://ai.plainenglish.io/i-tested-5-ai-detectors-on-writing-from-claude-gemini-chatgpt-and-grok-a7ee11a5e733?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T13:34:59.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.3619009066628226,
+      "crawledAt": "2026-10-24T18:43:09.004Z",
+      "id": "h8vsrt",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9806849360466003,
+          "index": 12,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9538870453834534,
+          "index": 14,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8146778345108032,
+          "index": 16,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8540170192718506,
+          "index": 22,
+          "word": "G",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:48:47.288Z"
+    },
+    {
+      "title": "Kimi K3.1 Pro Costs Half of Claude Opus 5.5. Your Bill Probably Won’t Halve.",
+      "url": "https://ai.plainenglish.io/kimi-k3-1-pro-costs-half-of-claude-opus-5-5-your-bill-probably-wont-halve-939e6999620c?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T13:25:28.000Z",
+      "metaDescription": "Moonshot cut its token price by a third and landed fourth on the independent leaderboard. Then the model spent the savings on extra…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4047592234461072,
+      "crawledAt": "2026-10-24T18:43:09.190Z",
+      "id": "bu6mkz",
+      "entities": [],
+      "summary": " Moonshot cut its price by a third and landed fourth on the independent leaderboard. The model spent the money on a new version of the game.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:48:57.998Z"
+    },
+    {
+      "title": "Harness² Explained: Self-Improving Agents Without Training",
+      "url": "https://www.youtube.com/watch?v=pW2ktrJlsyE",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T13:00:28.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3325640480014947,
+      "crawledAt": "2026-10-24T18:43:24.952Z",
+      "id": "hhjrkd",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:49:14.166Z"
+    },
+    {
+      "title": "Docs for AI-written code shouldn't be boring",
+      "url": "https://www.youtube.com/shorts/GceC7Eew_pA",
+      "source": "James Briggs",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T12:30:24.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9038822737795106,
+      "crawledAt": "2026-10-24T18:43:26.170Z",
+      "id": "d8u0w2",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9991379380226135,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:49:28.485Z"
+    },
     {
       "title": "Software factory autonomously building OSS libraries that are better than their human counterparts",
       "url": "https://www.reddit.com/r/singularity/comments/1xe78lr/software_factory_autonomously_building_oss/",
@@ -134,6 +713,34 @@
       "summary": " In this quiz, you’ll test your understanding of how to Run a Python Script. In this quizz, you'll revisit how the Python interpreter runs your code.",
       "language": "en",
       "processed_at": "2026-10-24T12:37:30.448Z"
+    },
+    {
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-24T11:50:28.000Z",
+      "metaDescription": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3527230849684731,
+      "crawledAt": "2026-10-24T18:42:30.535Z",
+      "id": "ptp7t8",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9982494115829468,
+          "index": 9,
+          "word": "Mars",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A new model suggests Mars may host ice-forming physics never observed before. The new model is based on a new model of ice-form physics.",
+      "language": "en",
+      "processed_at": "2026-10-24T18:50:26.292Z"
     },
     {
       "title": "The Python Tool I Built That Finds Silent Data Pipeline Failures Before Anyone Notices",
@@ -1291,17 +1898,17 @@
       "processed_at": "2026-10-24T12:38:07.254Z"
     }
   ],
-  "processedAt": "2026-10-24T12:38:07.378Z",
+  "processedAt": "2026-10-24T18:50:59.271Z",
   "categories": [
-    "developer-tool",
     "creative-ai",
-    "safety-ethics",
-    "ai-agents",
     "infrastructure",
+    "ai-agents",
+    "developer-tool",
+    "safety-ethics",
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 20,
-  "dailyArticlesCount": 40,
+  "newArticlesProcessed": 18,
+  "dailyArticlesCount": 58,
   "filterDate": "2026-10-24"
 }
