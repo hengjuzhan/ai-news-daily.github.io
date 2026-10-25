@@ -1,9 +1,258 @@
 {
-  "crawledAt": "2026-10-25T18:52:31.514Z",
+  "crawledAt": "2026-10-25T22:26:02.085Z",
   "totalSources": 70,
-  "totalArticles": 50,
+  "totalArticles": 59,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "CrowdGPT - A collaboratively trained LLM.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-25T22:07:17.000Z",
+      "metaDescription": "Hello, I'm developing CrowdGPT, a project aiming to create an LLM without datacenters and without the usual millions of dollars spent by AI companies.\n The project aims to train a 1 billion parameter ",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.8676206190844221,
+      "crawledAt": "2026-10-25T22:25:40.966Z",
+      "id": "tzbtm1",
+      "entities": [],
+      "summary": " CrowdGPT aims to train a 1 billion parameter to create an LLM without datacenters and without the usual millions of dollars spent by AI companies.",
+      "language": "en",
+      "processed_at": "2026-10-25T22:26:11.113Z"
+    },
+    {
+      "title": "TurboQuant in Production: Qdrant, vLLM, and What Survived",
+      "url": "https://pub.towardsai.net/turboquant-in-production-qdrant-vllm-and-what-survived-595d53b8ec45?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-25T22:01:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3815855805060741,
+      "crawledAt": "2026-10-25T22:25:33.458Z",
+      "id": "j94u0f",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-25T22:26:11.162Z"
+    },
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-25T21:31:16.000Z",
+      "metaDescription": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.43014436328340494,
+      "crawledAt": "2026-10-25T22:25:19.965Z",
+      "id": "r106wm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9328859448432922,
+          "index": 1,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8985512852668762,
+          "index": 2,
+          "word": "##rok",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9988464117050171,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.863478422164917,
+          "index": 14,
+          "word": "Odyssey",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The footage was shot in the footage of the footage. The footage shows footage of footage from the film's first footage. The footage appears to show footage of a human footage.",
+      "language": "en",
+      "processed_at": "2026-10-25T22:26:28.824Z"
+    },
+    {
+      "title": "Tuned Strata config, 2000 PP and 95-105 mean tg",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfe04h/tuned_strata_config_2000_pp_and_95105_mean_tg/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-25T21:12:58.000Z",
+      "metaDescription": "TLDR: IQ3_S Qwen3.8-Flash-Next, RTX 4090 + 48 GB + Ryzen 3900X, Windows, 200k context. Ran essentially a grid search on a ton of flags: decode 97 → 142 tok/s (+45%) for three flags. Most relevant: --a",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.27876556083543025,
+      "crawledAt": "2026-10-25T22:25:41.647Z",
+      "id": "eiko0o",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8440324664115906,
+          "index": 10,
+          "word": "PP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "A grid search on a ton of flags: decode 97 tok/s for three flags. Most relevant: --a --a.",
+      "language": "en",
+      "processed_at": "2026-10-25T22:26:34.599Z"
+    },
+    {
+      "title": "Monolithic ddr3 server",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfd1nk/monolithic_ddr3_server/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-25T20:34:08.000Z",
+      "metaDescription": "Hi all. \n Do any of you guys run a server like this for inference of big models. Given deepseek is down to 8/16b active I'm curious as to whether this could start to make sense if I was to add a gpu. ",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.4838424020632406,
+      "crawledAt": "2026-10-25T22:25:41.850Z",
+      "id": "1tf4wu",
+      "entities": [],
+      "summary": " Given deepseek is down to 8/16b active, I'm curious as to whether this could start to make sense if I was to add a gpu.",
+      "language": "en",
+      "processed_at": "2026-10-25T22:26:49.682Z"
+    },
+    {
+      "title": "Show and tell: PolyStrata on my $20 Xeon server",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfb9oz/show_and_tell_polystrata_on_my_20_xeon_server/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-25T19:24:15.000Z",
+      "metaDescription": "submitted by    /u/randylush  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.28770523198577064,
+      "crawledAt": "2026-10-25T22:25:41.061Z",
+      "id": "o6ccak",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9974699020385742,
+          "index": 5,
+          "word": "Pol",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9944082498550415,
+          "index": 6,
+          "word": "##y",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9979722499847412,
+          "index": 7,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9967631101608276,
+          "index": 8,
+          "word": "##trata",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8374603986740112,
+          "index": 13,
+          "word": "X",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-25T22:27:05.476Z"
+    },
+    {
+      "title": "OpenAI Cut Its AI Off From the Internet. The Web It Kept Is Already Going Stale.",
+      "url": "https://pub.towardsai.net/openai-cut-its-ai-off-from-the-internet-the-web-it-kept-is-already-going-stale-8a125d1b7e77?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-25T19:01:02.000Z",
+      "metaDescription": "I froze a copy of the software web, as OpenAI now does. Half of it was out of date in three months. The security part rotted fastest.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.2526965605932345,
+      "crawledAt": "2026-10-25T22:25:33.624Z",
+      "id": "8wuxjn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9934895038604736,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.976286768913269,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8211303949356079,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8643978238105774,
+          "index": 10,
+          "word": "Internet",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The security part rotted fastest. Half of it was out of date in three months. The security parts rotted fast.",
+      "language": "en",
+      "processed_at": "2026-10-25T22:27:10.174Z"
+    },
     {
       "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models?",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
@@ -435,6 +684,44 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-10-25T13:09:18.902Z"
+    },
+    {
+      "title": "Lure-TTS and Lure-Turbo: 600M voice models to run 4x faster than real time, with inline , direction, and voice cloning. Trained for under $200.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf14j2/luretts_and_lureturbo_600m_voice_models_to_run_4x/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-25T12:29:32.000Z",
+      "metaDescription": "I trained Lure TTS by finetuning Qwen3-TTS using some of the latest developments in model training, such as RLVR, OPD, and multi-teacher OPD.\n My goal was to create a faster, smaller TTS model that I ",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.3507918157123369,
+      "crawledAt": "2026-10-25T22:25:41.567Z",
+      "id": "moerf9",
+      "entities": [],
+      "summary": " I trained Lure TTS by finetuning Qwen3-TTS using some of the latest developments in model training.",
+      "language": "en",
+      "processed_at": "2026-10-25T22:27:47.112Z"
+    },
+    {
+      "title": "Backup your quants!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf11qj/backup_your_quants/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-25T12:25:39.000Z",
+      "metaDescription": "source: https://huggingface.co/mradermacher/model_requests\n I'm sure the situation is the same for other quant producers.\n If you have anything you want to keep, it's best to make a backup now.\n If yo",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.46096949657353314,
+      "crawledAt": "2026-10-25T22:25:40.856Z",
+      "id": "aypn0w",
+      "entities": [],
+      "summary": " If you have anything you want to keep, it's best to make a backup now. If yo yo, it is best to keep. If yo, make a Backup now.",
+      "language": "en",
+      "processed_at": "2026-10-25T22:27:54.534Z"
     },
     {
       "title": "The Beginner’s Guide to Building AI Agents in Python",
@@ -1425,19 +1712,19 @@
       "processed_at": "2026-10-25T04:21:15.797Z"
     }
   ],
-  "processedAt": "2026-10-25T18:55:54.161Z",
+  "processedAt": "2026-10-25T22:28:33.442Z",
   "categories": [
     "creative-ai",
+    "infrastructure",
     "ai-agents",
     "model-release",
-    "infrastructure",
     "safety-ethics",
     "developer-tool",
     "product-launch",
     "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 14,
-  "dailyArticlesCount": 50,
+  "newArticlesProcessed": 9,
+  "dailyArticlesCount": 59,
   "filterDate": "2026-10-25"
 }
