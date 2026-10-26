@@ -1,9 +1,752 @@
 {
-  "crawledAt": "2026-10-26T15:06:22.552Z",
+  "crawledAt": "2026-10-26T21:00:04.448Z",
   "totalSources": 70,
-  "totalArticles": 1534,
+  "totalArticles": 1551,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "How Sullivan & Cromwell builds legal tools with Codex | OpenAI",
+      "url": "https://www.youtube.com/watch?v=crEHJon4iD4",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T20:06:50.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 6,
+      "confidence": 0.8024763738691059,
+      "crawledAt": "2026-10-26T20:59:24.197Z",
+      "id": "2e274h",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998765230178833,
+          "index": 2,
+          "word": "Sullivan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991819858551025,
+          "index": 3,
+          "word": "&",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9988340139389038,
+          "index": 4,
+          "word": "Cromwell",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8962867259979248,
+          "index": 11,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8896334767341614,
+          "index": 12,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:00:19.003Z"
+    },
+    {
+      "title": "ResNet Finally Explained: Why Deeper Networks Got Worse, and the Shortcut That Fixed It",
+      "url": "https://pub.towardsai.net/resnet-finally-explained-why-deeper-networks-got-worse-and-the-shortcut-that-fixed-it-86cec0712466?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T20:01:01.000Z",
+      "metaDescription": "Research Paper Breakdown #5. Residual learning, shortcut connections, and the 152-layer network that won ImageNet 2015, explained with the…\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.35400650636690195,
+      "crawledAt": "2026-10-26T20:59:01.898Z",
+      "id": "1rbgpm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9986497163772583,
+          "index": 1,
+          "word": "Re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.949600100517273,
+          "index": 2,
+          "word": "##s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9912386536598206,
+          "index": 3,
+          "word": "##Net",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.80470210313797,
+          "index": 10,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8285197615623474,
+          "index": 12,
+          "word": "Networks",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The 152-layer network that won ImageNet 2015 won Image net 2015, explained with the……Continue reading on Towards AI.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:00:27.430Z"
+    },
+    {
+      "title": "Hebbia on Astra: Better research, better presentations | OpenAI",
+      "url": "https://www.youtube.com/watch?v=aNMZjoPGPOg",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T19:58:02.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.2650787693864247,
+      "crawledAt": "2026-10-26T20:59:24.270Z",
+      "id": "xpqs25",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8477821350097656,
+          "index": 1,
+          "word": "He",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8128448724746704,
+          "index": 2,
+          "word": "##bb",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8227583765983582,
+          "index": 14,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8081846833229065,
+          "index": 15,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion of AI research findings and academic papers.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:00:27.548Z"
+    },
+    {
+      "title": "Cutting Agent Token Costs in .NET: Tool Search, Output Gating and What the Numbers Really Say",
+      "url": "https://pub.towardsai.net/cutting-agent-token-costs-in-net-tool-search-output-gating-and-what-the-numbers-really-say-d9e3f85ff30f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T19:01:02.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.33437604880323707,
+      "crawledAt": "2026-10-26T20:59:02.047Z",
+      "id": "wzkh6m",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:00:38.601Z"
+    },
+    {
+      "title": "Are Claude Certifications Worth It? Turning Badges into Career Leverage",
+      "url": "https://pub.towardsai.net/are-claude-certifications-worth-it-turning-badges-into-career-leverage-9821cd00fae2?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T18:31:02.000Z",
+      "metaDescription": "Examining recruiter screening habits, enterprise partner demands, and the exact project portfolio needed to back up your credentials.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3081352969654842,
+      "crawledAt": "2026-10-26T20:59:02.181Z",
+      "id": "38ds0b",
+      "entities": [],
+      "summary": " Examining recruiter screening habits, enterprise partner demands, and the exact project portfolio needed to back up your credentials.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:01:22.330Z"
+    },
+    {
+      "title": "AI Can Write Your Code. What Should You Learn First?",
+      "url": "https://ai.plainenglish.io/ai-can-write-your-code-what-should-you-learn-first-c350c6528d84?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T18:27:48.000Z",
+      "metaDescription": "Start with the skills that help you understand what the machine just built.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.27812449907330716,
+      "crawledAt": "2026-10-26T20:59:07.970Z",
+      "id": "ycxg5e",
+      "entities": [],
+      "summary": "Start with the skills that help you understand what the machine just built. Start with the skill that helps you understand the machine's workings.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:01:30.891Z"
+    },
+    {
+      "title": "The Steering Wheel Problem: run.steer, turn/steer and Who May Redirect a Running Agent",
+      "url": "https://pub.towardsai.net/the-steering-wheel-problem-run-steer-turn-steer-and-who-may-redirect-a-running-agent-75d3af8be022?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T18:01:01.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.25436799746635447,
+      "crawledAt": "2026-10-26T20:59:02.268Z",
+      "id": "xilolw",
+      "entities": [],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:01:40.282Z"
+    },
+    {
+      "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-10-26T17:56:58.000Z",
+      "metaDescription": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.43456019243071176,
+      "crawledAt": "2026-10-26T20:58:49.165Z",
+      "id": "l235bm",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8989177942276001,
+          "index": 13,
+          "word": "##M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Amazon SageMaker SDK v3 reference architecture trains, quality-gates, compiles and compiles. This post presents a working Amazon Sage Maker SDK v 3 reference architecture.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:01:52.002Z"
+    },
+    {
+      "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-10-26T17:27:20.000Z",
+      "metaDescription": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency ",
+      "category": "ai-agents",
+      "difficulty": 8,
+      "confidence": 0.9326183521604189,
+      "crawledAt": "2026-10-26T20:58:49.350Z",
+      "id": "m901p2",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9670108556747437,
+          "index": 2,
+          "word": "##hog",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9875780940055847,
+          "index": 3,
+          "word": "Day",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9485722780227661,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9523652195930481,
+          "index": 15,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9951393008232117,
+          "index": 16,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9842706322669983,
+          "index": 17,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9107272624969482,
+          "index": 20,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.942243754863739,
+          "index": 21,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The OpenAI model is based on the data from the company's cloud-based platform. The company has been working with the company to develop the model.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:02:26.630Z"
+    },
+    {
+      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-26T17:26:36.000Z",
+      "metaDescription": "Investigators explain how highway thieves stole $100M in data center equipment.",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.47072256921567096,
+      "crawledAt": "2026-10-26T20:58:33.753Z",
+      "id": "whfvxj",
+      "entities": [],
+      "summary": " Investigators explain how highway thieves stole $100M in data center equipment. Investigators say thieves stole the equipment from the highway.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:02:36.881Z"
+    },
+    {
+      "title": "Secure Your Data Today: 7 Essential Tips",
+      "url": "https://ai.plainenglish.io/secure-your-data-today-7-essential-tips-and-the-2026-data-that-proves-they-work-997d60d37e52?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T17:23:51.000Z",
+      "metaDescription": "The year’s biggest breach reports agree on one uncomfortable thing: most attackers aren’t winning with genius. They’re winning with gaps…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.9833571257812266,
+      "crawledAt": "2026-10-26T20:59:08.118Z",
+      "id": "wvplfx",
+      "entities": [],
+      "summary": " The year's biggest breach report: Most attackers are not winning with genius. The year’s biggest breach is the year's largest breach.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:02:46.342Z"
+    },
+    {
+      "title": "Kimi K3.1 Pro Is the Best Open Model You Can’t Download Yet",
+      "url": "https://ai.plainenglish.io/kimi-k3-1-pro-is-the-best-open-model-you-cant-download-yet-6d7c87df79c0?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T17:23:34.000Z",
+      "metaDescription": "Moonshot’s 2.8 trillion parameter upgrade lands within a few points of Claude Opus 5.5.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.35784679197399694,
+      "crawledAt": "2026-10-26T20:59:08.285Z",
+      "id": "xqp0cm",
+      "entities": [],
+      "summary": " Moonshot’s 2.8 trillion parameter upgrade lands within a few points of Claude Opus 5.5.5.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:02:54.331Z"
+    },
+    {
+      "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-10-26T17:15:14.000Z",
+      "metaDescription": "Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns gr",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.33498891471884373,
+      "crawledAt": "2026-10-26T20:58:49.516Z",
+      "id": "iu9xbp",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8941556215286255,
+          "index": 10,
+          "word": "Man",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8275495767593384,
+          "index": 12,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9932128190994263,
+          "index": 18,
+          "word": "CD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9923161268234253,
+          "index": 19,
+          "word": "##K",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "An agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns gr. Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:03:20.547Z"
+    },
+    {
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T16:46:36.000Z",
+      "metaDescription": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.5609480751028117,
+      "crawledAt": "2026-10-26T20:58:28.655Z",
+      "id": "fmf56t",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991464018821716,
+          "index": 1,
+          "word": "Space",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9979376792907715,
+          "index": 2,
+          "word": "##X",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8399891257286072,
+          "index": 8,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9971563220024109,
+          "index": 13,
+          "word": "Apollo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The financing gives SpaceX another way to fund its AI ambitions without relying on traditional debt markets. The financing is another way of funding the company's AI ambitions.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:04:06.968Z"
+    },
+    {
+      "title": "7 Things You Should Never Share With an AI Chatbot",
+      "url": "https://ai.plainenglish.io/7-things-you-should-never-share-with-an-ai-chatbot-1d14b1b6b7cb?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T16:40:33.000Z",
+      "metaDescription": "Sensitive documents, passwords, private conversations, and other data deserve more protection than a convenient prompt box.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.33702934396766826,
+      "crawledAt": "2026-10-26T20:59:08.422Z",
+      "id": "jcb8pb",
+      "entities": [],
+      "summary": " Sensitive documents, passwords, private conversations, and other data deserve more protection than a convenient prompt box. Sensitive Documents, passwords and private conversations should be more protection.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:04:18.484Z"
+    },
+    {
+      "title": "SoPhi Harness — A Black Box That Can’t Crash the Plane: Teaching an Agent to Learn Without Touching…",
+      "url": "https://pub.towardsai.net/sophi-harness-a-black-box-that-cant-crash-the-plane-teaching-an-agent-to-learn-without-touching-2c4a771e6b9e?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T16:31:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4422882922631727,
+      "crawledAt": "2026-10-26T20:59:02.724Z",
+      "id": "dtksar",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8609609007835388,
+          "index": 1,
+          "word": "So",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8165470361709595,
+          "index": 3,
+          "word": "##hi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9956125617027283,
+          "index": 4,
+          "word": "Ha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:04:18.633Z"
+    },
+    {
+      "title": "Scoring IDP",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xg1695/scoring_idp_r/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T16:10:06.000Z",
+      "metaDescription": "This is a \"survey of current practices\" type of research for a niche area, nothing earth-shattering. I’ve written a 2-part Medium series (free, no paywall) on scoring Intelligent Document Processing (",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.8082885248238074,
+      "crawledAt": "2026-10-26T20:59:15.209Z",
+      "id": "6xa8f9",
+      "entities": [],
+      "summary": " This is a \"survey of current practices\" type of research for a niche area, nothing earth-shattering.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:04:29.372Z"
+    },
+    {
+      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+      "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T16:01:55.000Z",
+      "metaDescription": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.3629053619778581,
+      "crawledAt": "2026-10-26T20:58:38.774Z",
+      "id": "ltmcvn",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9688220024108887,
+          "index": 2,
+          "word": "An",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9813185930252075,
+          "index": 5,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9762607216835022,
+          "index": 6,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.996914267539978,
+          "index": 7,
+          "word": "1",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9756240844726562,
+          "index": 13,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.96379154920578,
+          "index": 16,
+          "word": "##day",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Anthropic thinks “closing the loop’s’ is the best way to end AI. ‘Closing the loops’ could be a recipe for ‘existential threats to humanity’",
+      "language": "en",
+      "processed_at": "2026-10-26T21:04:43.813Z"
+    },
+    {
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI Blog",
+      "source_domain": "blog.google",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T16:00:00.000Z",
+      "metaDescription": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.29065614388610883,
+      "crawledAt": "2026-10-26T20:58:24.932Z",
+      "id": "cq9xh2",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.949696958065033,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9414206147193909,
+          "index": 4,
+          "word": "Quest",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Google's latest AI Quests lesson on neuroscience: \"Polar Peaks\" Google's new AI Quets include neuroscience and neuroscience.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:05:06.297Z"
+    },
+    {
+      "title": "What Makes AI-Written Stories Feel Off?",
+      "url": "https://towardsdatascience.com/what-makes-ai-written-stories-feel-off/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T15:30:00.000Z",
+      "metaDescription": "And how we can turn that feeling into insights\nThe post What Makes AI-Written Stories Feel Off? appeared first on Towards Data Science.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5373670237374978,
+      "crawledAt": "2026-10-26T20:58:40.306Z",
+      "id": "80wj9i",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.997934877872467,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9419516921043396,
+          "index": 5,
+          "word": "Written",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "The post What Makes AI-Written Stories Feel Off? appeared on Towards Data Science. The post is part of a series of stories that we can turn into insights.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:05:17.545Z"
+    },
     {
       "title": "Anthropic officially files for its public debut",
       "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
@@ -58,6 +801,25 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-10-26T15:06:46.997Z"
+    },
+    {
+      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-10-26T14:30:27.000Z",
+      "metaDescription": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+      "category": "model-release",
+      "difficulty": 3,
+      "confidence": 0.5616317856663845,
+      "crawledAt": "2026-10-26T20:58:34.070Z",
+      "id": "g3qm6y",
+      "entities": [],
+      "summary": " Tesla hopes autonomy subscriptions can deliver margins car sales. Tesla hopes it can deliver the margins car car sales. Tesla hopes autonomous subscriptions can help deliver margins.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:05:49.856Z"
     },
     {
       "title": "Mathematics Just Changed Forever — Kevin Hartnett",
@@ -1222,6 +1984,58 @@
       "processed_at": "2026-10-26T15:13:37.736Z"
     },
     {
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T10:00:00.000Z",
+      "metaDescription": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.29520691023610907,
+      "crawledAt": "2026-10-26T20:58:22.247Z",
+      "id": "yrnvfa",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9956527948379517,
+          "index": 1,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9305330514907837,
+          "index": 2,
+          "word": "##t",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9855707287788391,
+          "index": 3,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9755738973617554,
+          "index": 4,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "OpenAI Signals data on 165 work activities across nearly 100 countries. Find out how people use ChatGPT for work and how usage changes over time.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:06:01.096Z"
+    },
+    {
       "title": "Context Bombs: Making attacking agents pay",
       "url": "https://www.reddit.com/r/artificial/comments/1xfsggt/context_bombs_making_attacking_agents_pay/",
       "source": "r/artificial",
@@ -1490,6 +2304,50 @@
       "summary": " Testing across roughly 30,000 MLB products showed 10% higher engagement. Fanatics uses OpenAI to help fans complete their game-day outfits.",
       "language": "en",
       "processed_at": "2026-10-26T15:15:15.819Z"
+    },
+    {
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T07:00:00.000Z",
+      "metaDescription": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.31246693146473786,
+      "crawledAt": "2026-10-26T20:58:22.539Z",
+      "id": "y7bovj",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8271308541297913,
+          "index": 3,
+          "word": "##fast",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9374824166297913,
+          "index": 12,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8832532167434692,
+          "index": 13,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. See how they use the technology to improve their productivity.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:06:19.960Z"
     },
     {
       "title": "10 Ways to Stop Your AI Coding Agent From Wasting Tokens",
@@ -3282,6 +4140,25 @@
       "summary": " Anthropic files S-1 with SEC for proposed initial public offering. Anthropic file S- 1 with SEC with SEC.",
       "language": "en",
       "processed_at": "2026-10-26T15:16:51.203Z"
+    },
+    {
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-10-26T00:00:00.000Z",
+      "metaDescription": "Bringing fast and capable computer use to everyone",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2859382783561364,
+      "crawledAt": "2026-10-26T20:58:22.614Z",
+      "id": "vggxit",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:06:20.047Z"
     },
     {
       "title": "What If Workplace Safety Inspections Didn’t Have to Wait for Inspection Day?",
@@ -5359,6 +6236,25 @@
       "summary": " PHP, TypeScript and friends, vibe coded and public. One ran up over $420k in API-priced tokens.",
       "language": "en",
       "processed_at": "2026-10-24T22:24:41.404Z"
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-24T20:15:33.000Z",
+      "metaDescription": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.9806327119818808,
+      "crawledAt": "2026-10-26T20:58:29.312Z",
+      "id": "jlvanq",
+      "entities": [],
+      "summary": " The moment you realize you realize the internet is \"held together by glue and dreams\" The moment we realize the Internet is \"holding together by glued and dreams,\" says the author.",
+      "language": "en",
+      "processed_at": "2026-10-26T21:06:31.595Z"
     },
     {
       "title": "10 Things Python Can Discover Inside an Ordinary Image",
@@ -49978,296 +50874,25 @@
       "summary": " The problem of event sequence foreca foreca. arXiv: 2610.12586v1 Announce Type: new type of event sequences.",
       "language": "en",
       "processed_at": "2026-10-12T17:49:58.589Z"
-    },
-    {
-      "title": "LangChain Chapter 3: Prompts, Messages, and Why Chat History Matters",
-      "url": "https://python.plainenglish.io/langchain-chapter-3-prompts-messages-and-why-chat-history-matters-80ced5921a6f?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-10-11T19:31:31.000Z",
-      "metaDescription": "Part 3 of the LangChain series. In [Chapter 2] we learnt about llm, chat models and embedding models in LangChain. In this chapter we will…\nContinue reading on Python in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3911039030957924,
-      "crawledAt": "2026-10-11T20:09:17.540Z",
-      "id": "2liht9",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8262534141540527,
-          "index": 1,
-          "word": "Lang",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Part 3 of the LangChain series. In this chapter we learn about llm, chat models and embedding models in LangChain.",
-      "language": "en",
-      "processed_at": "2026-10-11T20:10:16.779Z"
-    },
-    {
-      "title": "10 SQLAlchemy Features Python Developers Usually Discover Too Late",
-      "url": "https://python.plainenglish.io/10-sqlalchemy-features-python-developers-usually-discover-too-late-35e164387193?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-10-11T19:30:52.000Z",
-      "metaDescription": "These overlooked capabilities can simplify your queries, improve performance, and save you from writing unnecessary code.\nContinue reading on Python in Plain English »",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.9626413469528621,
-      "crawledAt": "2026-10-11T20:09:17.676Z",
-      "id": "jofv5p",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8583204746246338,
-          "index": 2,
-          "word": "S",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9359841346740723,
-          "index": 4,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8953722715377808,
-          "index": 6,
-          "word": "##che",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.8689413070678711,
-          "index": 9,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " These overlooked capabilities can simplify your queries, improve performance, and save you from writing unnecessary code. These overlooked abilities can simplify queries and improve performance.",
-      "language": "en",
-      "processed_at": "2026-10-11T20:10:26.313Z"
-    },
-    {
-      "title": "Build a Real-Time Dashboard with FastAPI and WebSockets",
-      "url": "https://python.plainenglish.io/build-a-real-time-dashboard-with-fastapi-and-websockets-eb3c949b3132?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-10-11T19:30:26.000Z",
-      "metaDescription": "Stream live metrics from a Python process to a browser without repeatedly refreshing the page.\nContinue reading on Python in Plain English »",
-      "category": "infrastructure",
-      "difficulty": 6,
-      "confidence": 0.38623007716047025,
-      "crawledAt": "2026-10-11T20:09:17.814Z",
-      "id": "xmdpwh",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9091969728469849,
-          "index": 6,
-          "word": "Time",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.861370325088501,
-          "index": 15,
-          "word": "##S",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8931640982627869,
-          "index": 16,
-          "word": "##ock",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Python's live metrics are based on a Python process to a browser without repeatedly refreshing the page. Stream live metrics from a Python system to a web browser without refreshing the pages.",
-      "language": "en",
-      "processed_at": "2026-10-11T20:10:37.346Z"
-    },
-    {
-      "title": "The Python Libraries I’d Choose for a Production-Ready Project",
-      "url": "https://python.plainenglish.io/the-python-libraries-id-choose-for-a-production-ready-project-8bae29e23027?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-10-11T19:30:15.000Z",
-      "metaDescription": "A practical stack for building something that needs to last\nContinue reading on Python in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.7456338769263007,
-      "crawledAt": "2026-10-11T20:09:17.924Z",
-      "id": "b4ictp",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8931651711463928,
-          "index": 2,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A practical stack for building something that needs to last last reading on Python in Plain English. A practical Stack for building a thing that needs a practical stack. A practicalstack for building things that needs the last reading of Python in plain English.",
-      "language": "en",
-      "processed_at": "2026-10-11T20:10:52.305Z"
-    },
-    {
-      "title": "What's up with google scholar citations ?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x3fbv4/whats_up_with_google_scholar_citations_d/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-11T18:17:59.000Z",
-      "metaDescription": "Early-stage researcher, and yes, I get excited about people citing my work. \n I was browsing through arXiv for accepted NeurIPS papers, and I saw multiple papers citing my work. These papers have been",
-      "category": "research-paper",
-      "difficulty": 3,
-      "confidence": 0.6505273631789418,
-      "crawledAt": "2026-10-11T20:09:24.015Z",
-      "id": "nkjht0",
-      "entities": [],
-      "summary": "Early-stage researcher, and yes, I get excited about people citing my work. I was browsing through arXiv for accepted NeurIPS papers, and saw multiple papers citing my works.",
-      "language": "en",
-      "processed_at": "2026-10-11T20:11:17.535Z"
-    },
-    {
-      "title": "DeepSeek Solved AI’s Memory Problem",
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-      "source": "Two Minute Papers",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-10-11T16:53:17.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.2545207178786595,
-      "crawledAt": "2026-10-11T20:09:29.451Z",
-      "id": "8p4v65",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.9097959399223328,
-          "index": 2,
-          "word": "##S",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8097702860832214,
-          "index": 3,
-          "word": "##eek",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
-      "language": "en",
-      "processed_at": "2026-10-11T20:11:17.624Z"
-    },
-    {
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-10-11T16:52:33.000Z",
-      "metaDescription": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.4258391028439323,
-      "crawledAt": "2026-10-11T20:08:38.897Z",
-      "id": "pr65vy",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9691907167434692,
-          "index": 3,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9237883687019348,
-          "index": 14,
-          "word": "##DA",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " On Equity, we debate the impact of the data center moratorium on AI technology. We also discuss the impact on the AI industry.",
-      "language": "en",
-      "processed_at": "2026-10-11T20:11:26.869Z"
-    },
-    {
-      "title": "My AI-Built App Has Too Many Buttons",
-      "url": "https://ai.plainenglish.io/my-ai-built-app-has-too-many-buttons-6a2d2ef43371?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-11T15:24:23.000Z",
-      "metaDescription": "A worked example for turning “make it premium” into a design brief an AI coding agent can build.\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.879997827918907,
-      "crawledAt": "2026-10-11T20:09:18.914Z",
-      "id": "yvjvov",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9714224338531494,
-          "index": 2,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A worked example for turning ‘make it premium’ into a design brief for an AI coding agent. A working example for a coding agent can be used as a design tool.",
-      "language": "en",
-      "processed_at": "2026-10-11T20:11:39.352Z"
     }
   ],
-  "processedAt": "2026-10-26T15:17:32.093Z",
+  "processedAt": "2026-10-26T21:06:42.651Z",
   "categories": [
-    "industry-news",
-    "ai-agents",
-    "creative-ai",
     "developer-tool",
     "infrastructure",
+    "creative-ai",
     "safety-ethics",
     "product-launch",
+    "ai-agents",
+    "industry-news",
+    "model-release",
     "research-paper",
-    "tutorial-guide",
-    "model-release"
+    "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 54,
-  "existingArticlesKept": 1502,
+  "newArticlesProcessed": 25,
+  "existingArticlesKept": 1534,
   "cleanupApplied": true,
-  "cleanedUpCount": 22,
+  "cleanedUpCount": 8,
   "rollingWindowDays": 15
 }
