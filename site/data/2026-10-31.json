@@ -1,9 +1,397 @@
 {
-  "crawledAt": "2026-10-31T14:29:02.088Z",
+  "crawledAt": "2026-10-31T19:53:11.378Z",
   "totalSources": 70,
-  "totalArticles": 47,
+  "totalArticles": 57,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T19:18:53.000Z",
+      "metaDescription": "Code: https://github.com/divagr18/QwenPU\n Weights: https://huggingface.co/divagr1925/QwenPU\n From the original tweet:\n 1/3 \n A CPU inside an LLM is one thing, but running another LLM inside an LLM wou",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.25072743969712785,
+      "crawledAt": "2026-10-31T19:52:29.788Z",
+      "id": "ww1cs9",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9111297726631165,
+          "index": 2,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.961024284362793,
+          "index": 6,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9464908242225647,
+          "index": 14,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8965677618980408,
+          "index": 16,
+          "word": "##K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9432437419891357,
+          "index": 21,
+          "word": "Q",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8620066046714783,
+          "index": 22,
+          "word": "##wen",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9932449460029602,
+          "index": 26,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8689707517623901,
+          "index": 38,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8111366629600525,
+          "index": 39,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8387358784675598,
+          "index": 43,
+          "word": "Q",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A CPU inside an LLM is one thing, but running another LLM inside an LSM is another thing.",
+      "language": "en",
+      "processed_at": "2026-10-31T19:53:22.532Z"
+    },
+    {
+      "title": "CrowdGPT v2.6 - The collaborative LLM",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T18:57:36.000Z",
+      "metaDescription": "For those who saw the original post, a week ago, I'm glad to announce CrowdGPT v2 (more precisely v2.6), a massive update to the original CrowdGPT project :D (scroll down to see what's new)\n For the n",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4675930580186875,
+      "crawledAt": "2026-10-31T19:52:30.995Z",
+      "id": "ih8vl4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9652455449104309,
+          "index": 12,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new CrowdGPT project is a massive update to the original CrowdGPS project. The new version of the project is called \"CrowdGPT\"",
+      "language": "en",
+      "processed_at": "2026-10-31T19:53:36.253Z"
+    },
+    {
+      "title": "What's the advantage of building a custom harness over using something like Unsloth?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkfhjg/whats_the_advantage_of_building_a_custom_harness/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T17:03:51.000Z",
+      "metaDescription": "I’m still fairly new to local LLMs, got a decent machine (M5 Max, 64GB RAM), trying to understand something I’ve been seeing recommended a lot lately.\n In several threads where new users are frustrate",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.2589894188264738,
+      "crawledAt": "2026-10-31T19:52:31.634Z",
+      "id": "41r4ad",
+      "entities": [],
+      "summary": " The LLMs got a decent machine (M5 Max, 64GB RAM), trying to understand something I've been seeing recommended a lot lately.",
+      "language": "en",
+      "processed_at": "2026-10-31T19:54:08.408Z"
+    },
+    {
+      "title": "10 New MCP Projects You Probably Haven’t Heard About",
+      "url": "https://python.plainenglish.io/10-new-mcp-projects-you-probably-havent-heard-about-7d44f24e2771?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-31T16:24:08.000Z",
+      "metaDescription": "These MCP projects let AI agents remember previous work, control real devices, generate music, edit videos, understand codebases, and even…\nContinue reading on Python in Plain English »",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.36219680869585097,
+      "crawledAt": "2026-10-31T19:52:21.836Z",
+      "id": "70bxlm",
+      "entities": [],
+      "summary": " MCP projects let AI agents remember previous work, control real devices, controlreal devices, generate real devices and generate music, edit videos, understand codebases, and even… read on Python in Plain English.",
+      "language": "en",
+      "processed_at": "2026-10-31T19:54:22.329Z"
+    },
+    {
+      "title": "How to Build Bug-Free Applications with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T16:00:00.000Z",
+      "metaDescription": "Use E2E tests to minimize bugs\nThe post How to Build Bug-Free Applications with Claude Code appeared first on Towards Data Science.",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.6599065760920203,
+      "crawledAt": "2026-10-31T19:51:51.356Z",
+      "id": "m6aua3",
+      "entities": [],
+      "summary": " The post How to Build Bug-Free Applications with Claude Code appeared first on Towards Data Science. Use E2E tests to minimize bugs to minimize errors.",
+      "language": "en",
+      "processed_at": "2026-10-31T19:54:52.402Z"
+    },
+    {
+      "title": "\"Spent a lot on my rig but I can only run Gemma 4\"",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T15:22:08.000Z",
+      "metaDescription": "\"The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing ",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.2936136997845037,
+      "crawledAt": "2026-10-31T19:52:29.449Z",
+      "id": "ch283x",
+      "entities": [],
+      "summary": " The satellite carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity.",
+      "language": "en",
+      "processed_at": "2026-10-31T19:55:03.960Z"
+    },
+    {
+      "title": "Vercel Labs’ agent-desktop: what happens after the click?",
+      "url": "https://ai.plainenglish.io/vercel-labs-agent-desktop-what-happens-after-the-click-2ce9dc6ffbd9?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T15:19:55.000Z",
+      "metaDescription": "A desktop tool can help an AI find the right button. Agent-desktop also asks a harder question: how does the agent know what that button…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.35297132602344417,
+      "crawledAt": "2026-10-31T19:52:23.291Z",
+      "id": "n9613",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991680383682251,
+          "index": 1,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9502304196357727,
+          "index": 2,
+          "word": "##er",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9983592629432678,
+          "index": 3,
+          "word": "##cel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9989703297615051,
+          "index": 4,
+          "word": "Labs",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A desktop tool can help an AI find the right button on a desktop. The tool can also help an agent find the correct button.",
+      "language": "en",
+      "processed_at": "2026-10-31T19:55:13.332Z"
+    },
+    {
+      "title": "Ternary Bonsai 2 is finally 100% working on ik_llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcg2y/guide_ternary_bonsai_2_is_finally_100_working_on/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T15:01:18.000Z",
+      "metaDescription": "Hey folks,\n Quick heads up for anyone playing around with PrismML's Ternary Bonsai 2!\n Until very recently, running it outside of Prism's own fork was a bit of a pain. Upstream llama.cpp uses a block ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.524587179049132,
+      "crawledAt": "2026-10-31T19:52:31.843Z",
+      "id": "nkn4hm",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9851939082145691,
+          "index": 5,
+          "word": "##sai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Prism's Ternary Bonsai runs out of Prism's own fork. It uses a block to run the software.",
+      "language": "en",
+      "processed_at": "2026-10-31T19:55:22.679Z"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T14:58:49.000Z",
+      "metaDescription": "Bolt E4B builds on Gemma 4 E4B with Nemotron post-training. It combines natural conversation with multi-turn agentic capabilities to power voice/device assistants, interactive characters and robotic/I",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.3131410835137506,
+      "crawledAt": "2026-10-31T19:52:31.179Z",
+      "id": "sk2iax",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9939971566200256,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8232080936431885,
+          "index": 2,
+          "word": "##VI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9938170909881592,
+          "index": 3,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9400138854980469,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9934526681900024,
+          "index": 5,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9910230040550232,
+          "index": 6,
+          "word": "##em",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9960301518440247,
+          "index": 7,
+          "word": "##ot",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Bolt E4B builds on Gemma 4 E4b with Nemotron post-training. It combines natural conversation with multi-turn agentic capabilities.",
+      "language": "en",
+      "processed_at": "2026-10-31T19:55:36.585Z"
+    },
+    {
+      "title": "Spike first, then let the agent build",
+      "url": "https://www.youtube.com/shorts/2kuzTGRO_Yo",
+      "source": "James Briggs",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T14:30:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.27983386649448017,
+      "crawledAt": "2026-10-31T19:52:45.887Z",
+      "id": "y1a56c",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9975619316101074,
+          "index": 1,
+          "word": "Spike",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-31T19:55:36.677Z"
+    },
     {
       "title": "OpenAI Halves the Price of Its New Everyday AI Model",
       "url": "https://realpython.com/ai-news-weekly-2026-10-30/",
@@ -1339,17 +1727,18 @@
       "processed_at": "2026-10-31T14:35:23.108Z"
     }
   ],
-  "processedAt": "2026-10-31T14:35:23.123Z",
+  "processedAt": "2026-10-31T19:55:48.488Z",
   "categories": [
     "creative-ai",
-    "ai-agents",
-    "infrastructure",
-    "developer-tool",
     "safety-ethics",
+    "industry-news",
+    "developer-tool",
+    "infrastructure",
+    "ai-agents",
     "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 19,
-  "dailyArticlesCount": 47,
+  "newArticlesProcessed": 10,
+  "dailyArticlesCount": 57,
   "filterDate": "2026-10-31"
 }
