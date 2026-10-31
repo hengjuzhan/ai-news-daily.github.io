@@ -1,9 +1,488 @@
 {
-  "crawledAt": "2026-10-31T05:09:24.338Z",
+  "crawledAt": "2026-10-31T14:29:02.088Z",
   "totalSources": 70,
-  "totalArticles": 28,
+  "totalArticles": 47,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "OpenAI Halves the Price of Its New Everyday AI Model",
+      "url": "https://realpython.com/ai-news-weekly-2026-10-30/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-31T14:00:00.000Z",
+      "metaDescription": "Real Python AI News · Weekly edition · The week of October 24–30, 2026\n\n\n\nStop Falling Behind on AI. Catch Up in Five Minutes.\nNew models, new prices, new agent tools, all the time. Our new AI newslet",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.3592858794799668,
+      "crawledAt": "2026-10-31T14:28:58.760Z",
+      "id": "sb1cnf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9946165680885315,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9924746155738831,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9107407927513123,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The week of October 24–30, 2026, is the week of the month. Catch up in Five Minutes with our new AI newsletlet.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:29:37.336Z"
+    },
+    {
+      "title": "Just finished my humble MoE-Centric Workstation",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkau4g/just_finished_my_humble_moecentric_workstation/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T13:54:27.000Z",
+      "metaDescription": "CPU: AMD EPYC 7452 (8 memory channels)\n Motherboard: Gigabyte MZ32\n GPU: Radeon AI PRO R9700 (32GB)\n RAM: 256GB DDR4 (16×16GB). \n Not exactly a “budget” build, but it came in at roughly half the price",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7216313089316668,
+      "crawledAt": "2026-10-31T14:28:22.588Z",
+      "id": "w6xl5q",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8430583477020264,
+          "index": 8,
+          "word": "Ce",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9561439156532288,
+          "index": 11,
+          "word": "Works",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " CPU: AMD EPYC 7452 (8 memory channels) Motherboard: Gigabyte MZ32 GPU: Gigabytes MZ 32 GPU: Radeon AI PRO R9700 (32GB) R97000 (32 GB) RAM: 256GB DDR4 (16×16GB)",
+      "language": "en",
+      "processed_at": "2026-10-31T14:29:55.250Z"
+    },
+    {
+      "title": "Jev AI matched or beat an LLM on 5 of 6 benchmarks #JevAI",
+      "url": "https://www.youtube.com/shorts/Zg17hosmdU8",
+      "source": "James Briggs",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T12:30:24.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.38860746277581154,
+      "crawledAt": "2026-10-31T14:28:38.139Z",
+      "id": "ieqyzx",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:29:55.387Z"
+    },
+    {
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T12:00:00.000Z",
+      "metaDescription": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.6599624958857844,
+      "crawledAt": "2026-10-31T14:27:43.114Z",
+      "id": "gd98xh",
+      "entities": [],
+      "summary": " The recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:30:21.958Z"
+    },
+    {
+      "title": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
+      "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T12:00:00.000Z",
+      "metaDescription": "A research paper claims reward labels barely change how agents learn. I tested that on three models, and one of them did exactly what the wrong labels told it to.\nThe post I Told an AI Agent That Its ",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9698155650769906,
+      "crawledAt": "2026-10-31T14:27:46.658Z",
+      "id": "ulaqmm",
+      "entities": [],
+      "summary": " A research paper claims reward labels barely change how agents learn. I tested that on three models, and one did exactly what the wrong labels told it to.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:30:35.835Z"
+    },
+    {
+      "title": "Quiz: Socket Programming in Python",
+      "url": "https://realpython.com/quizzes/socket-programming-in-python/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-31T12:00:00.000Z",
+      "metaDescription": "In this quiz, you’ll test your understanding of Socket Programming in Python. Sockets and the socket API are used to send messages across a network. They provide a form of inter-process communication ",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.2649743594854597,
+      "crawledAt": "2026-10-31T14:28:58.906Z",
+      "id": "jyto60",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8899346590042114,
+          "index": 4,
+          "word": "So",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8370915055274963,
+          "index": 5,
+          "word": "##cket",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9721217751502991,
+          "index": 8,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sockets and the socket API are used to send messages across a network. They provide a form of inter-process communication.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:30:47.534Z"
+    },
+    {
+      "title": "10 Open-Source AI Tools That Can Replace Paid Software",
+      "url": "https://python.plainenglish.io/10-open-source-ai-tools-that-can-replace-paid-software-14941d41ba21?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-31T10:32:30.000Z",
+      "metaDescription": "10 powerful free and open-source alternatives to expensive AI tools and software subscriptions.\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.8919010862863603,
+      "crawledAt": "2026-10-31T14:28:15.271Z",
+      "id": "480y1o",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8140865564346313,
+          "index": 2,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8884220123291016,
+          "index": 4,
+          "word": "Source",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "10 powerful free and open-source alternatives to expensive AI tools and software subscriptions. 10 powerful free, open- source alternatives to free and free AI tools.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:31:47.716Z"
+    },
+    {
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T10:30:00.000Z",
+      "metaDescription": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6559980340300208,
+      "crawledAt": "2026-10-31T14:27:43.256Z",
+      "id": "o7yo8m",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9696013331413269,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8983913660049438,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Companies have spent the past several weeks trying to reassure investors that AI agents pose more of an opportunity than a threat.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:31:59.100Z"
+    },
+    {
+      "title": "microsoft/Mage-VL-Cowork · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T10:02:47.000Z",
+      "metaDescription": "Mage-VL-Cowork demonstrates that an efficient 4B small vision-language model can master hybrid computer use when paired with upstream teacher-harness evolution, workflow-first environment synthesis (M",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.30109857436866166,
+      "crawledAt": "2026-10-31T14:28:22.201Z",
+      "id": "bfy4mk",
+      "entities": [],
+      "summary": " Mage-VL-Cowork demonstrates that an efficient 4B small vision-language model can master hybrid computer use when paired with upstream teacher-harness evolution.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:32:15.133Z"
+    },
+    {
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T10:00:00.000Z",
+      "metaDescription": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9964642041070667,
+      "crawledAt": "2026-10-31T14:27:43.393Z",
+      "id": "kezn1j",
+      "entities": [],
+      "summary": " A biotech startup let an agent choose a gene therapy to inject the treatment. The company's founder says the treatment could be used in the future.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:32:26.463Z"
+    },
+    {
+      "title": "7 Ways to Use Python to Understand Your Internet Connection",
+      "url": "https://python.plainenglish.io/7-ways-to-use-python-to-understand-your-internet-connection-ce97a6b51102?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-31T06:05:47.000Z",
+      "metaDescription": "Measure latency, track outages, inspect DNS lookups, and visualize network performance over time.\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.26615484288396507,
+      "crawledAt": "2026-10-31T14:28:15.709Z",
+      "id": "x9cgfj",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8692082166671753,
+          "index": 10,
+          "word": "Internet",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Measure latency, track outages, inspect DNS lookups, and visualize network performance over time. Measure latency and track outage, trackoutages, and inspect DNS looksups.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:33:07.316Z"
+    },
+    {
+      "title": "Make Machine Learning Experiments Reproducible with DVC and GitHub Actions",
+      "url": "https://python.plainenglish.io/make-machine-learning-experiments-reproducible-with-dvc-and-github-actions-61ea449ecab9?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-10-31T05:55:37.000Z",
+      "metaDescription": "Track datasets, models, and experiment results so your machine-learning work remains verifiable, repeatable, and ready for collaboration.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.5061380041230316,
+      "crawledAt": "2026-10-31T14:28:16.061Z",
+      "id": "x8u9bd",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.831325352191925,
+          "index": 3,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9153725504875183,
+          "index": 12,
+          "word": "##VC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8199780583381653,
+          "index": 14,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9706793427467346,
+          "index": 16,
+          "word": "##H",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Track datasets, models, and experiment results so your machine-learning work remains verifiable, repeatable, and ready for collaboration.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:33:35.949Z"
+    },
+    {
+      "title": "AI Can Design the Architecture. Who Verifies That It Will Work?",
+      "url": "https://generativeai.pub/ai-can-design-the-architecture-who-verifies-that-it-will-work-5b8d6b0b55ab?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T05:32:15.000Z",
+      "metaDescription": "An e-commerce inventory problem shows the difference between generating code, designing a system, and gathering evidence that it behaves…\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9158368664750689,
+      "crawledAt": "2026-10-31T14:28:16.789Z",
+      "id": "cb3yuk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9857547283172607,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " An e-commerce inventory problem shows the difference between generating code, designing a system, and gathering evidence that it behaves.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:33:45.543Z"
+    },
+    {
+      "title": "Lawyer with too many GPUs, part 3: DeepSeek-V4.1-Flash on 2x DGX Spark + an old 3090 box. 2,600+ tok/s prefill to 256K, 322 tok/s structured output, full stack and raw data published",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk20x5/lawyer_with_too_many_gpus_part_3_deepseekv41flash/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T05:32:04.000Z",
+      "metaDescription": "Update from the lawyer with the V100 server. I went and got two DGX Sparks, because of course I did. The mid-life crisis remains on schedule.\n Same deal as before: still a lawyer, still driving the wh",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2531645929857616,
+      "crawledAt": "2026-10-31T14:28:23.432Z",
+      "id": "jj9kvj",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8088665008544922,
+          "index": 26,
+          "word": "D",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The mid-life crisis remains on schedule. Still a lawyer, still driving the wh wh wh. Same deal as before: still a lawyer.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:33:56.375Z"
+    },
+    {
+      "title": "The Ultimate Guide to LLM Fine-Tuning: Full Fine-Tuning, PEFT, LoRA, QLoRA, DoRA & QDoRA",
+      "url": "https://generativeai.pub/the-ultimate-guide-to-llm-fine-tuning-full-fine-tuning-parameter-efficient-fine-tuning-peft-739b32ecd9c6?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T05:25:50.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 8,
+      "confidence": 0.2502037044669212,
+      "crawledAt": "2026-10-31T14:28:16.896Z",
+      "id": "kddds",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9361632466316223,
+          "index": 5,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8908849358558655,
+          "index": 25,
+          "word": "Q",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9653700590133667,
+          "index": 30,
+          "word": "Do",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.985712468624115,
+          "index": 33,
+          "word": "Q",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:33:56.576Z"
+    },
     {
       "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
       "url": "https://arxiv.org/abs/2610.37732",
@@ -261,6 +740,25 @@
       "summary": "Discussion about AI models and tools mentioned in the title.",
       "language": "en",
       "processed_at": "2026-10-31T05:11:06.801Z"
+    },
+    {
+      "title": "Fable 5.gguf when?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjwtrv/fable_5gguf_when/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-10-31T01:00:26.000Z",
+      "metaDescription": "submitted by    /u/speedb0at  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4793544848145614,
+      "crawledAt": "2026-10-31T14:28:21.773Z",
+      "id": "uwtai2",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:34:08.370Z"
     },
     {
       "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
@@ -702,6 +1200,69 @@
       "processed_at": "2026-10-31T05:13:52.335Z"
     },
     {
+      "title": "Inheritance and Composition: A Python OOP Guide",
+      "url": "https://realpython.com/inheritance-composition-python/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-30T14:00:00.000Z",
+      "metaDescription": "In Python, understanding inheritance and composition is crucial for effective object-oriented programming. Inheritance allows you to model an is a relationship, where a derived class extends the funct",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5162301033178007,
+      "crawledAt": "2026-10-31T14:28:59.048Z",
+      "id": "kh8jf2",
+      "entities": [],
+      "summary": " Inheritance allows you to model an is a relationship, where a derived class extends the funct. In Python, understanding inheritance and composition is crucial for effective object-oriented programming.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:34:33.082Z"
+    },
+    {
+      "title": "How to Write Beautiful Python Code With PEP 8",
+      "url": "https://realpython.com/python-pep8/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-10-30T14:00:00.000Z",
+      "metaDescription": "PEP 8, sometimes spelled PEP8 or PEP-8, is the official style guide for Python code. PEP 8 gives guidelines on naming conventions, code layout, and other best practices. Guido van Rossum, Barry Warsaw",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3704607435080364,
+      "crawledAt": "2026-10-31T14:28:59.709Z",
+      "id": "hd5aih",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.932272732257843,
+          "index": 5,
+          "word": "Beautiful",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9549517035484314,
+          "index": 6,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.933467447757721,
+          "index": 7,
+          "word": "Code",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " PEP8 is the official style guide for Python code. PEP 8 gives guidelines on naming conventions, code layout, and other best practices.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:35:08.779Z"
+    },
+    {
       "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
       "source": "r/MachineLearning",
@@ -757,19 +1318,38 @@
       "summary": " OpenAI shares excerpts from court briefs by creators, academics, academics and advocates on how fair use supports AI training and innovation.",
       "language": "en",
       "processed_at": "2026-10-31T05:14:17.661Z"
+    },
+    {
+      "title": "This New AI Architecture Is 31x Faster",
+      "url": "https://www.youtube.com/watch?v=_87vrjxx1EE",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-10-28T13:00:01.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.5297590316877111,
+      "crawledAt": "2026-10-31T14:28:35.947Z",
+      "id": "rmsqzh",
+      "entities": [],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-10-31T14:35:23.108Z"
     }
   ],
-  "processedAt": "2026-10-31T05:14:17.665Z",
+  "processedAt": "2026-10-31T14:35:23.123Z",
   "categories": [
     "creative-ai",
-    "infrastructure",
     "ai-agents",
+    "infrastructure",
+    "developer-tool",
     "safety-ethics",
-    "research-paper",
-    "developer-tool"
+    "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 28,
-  "dailyArticlesCount": 28,
+  "newArticlesProcessed": 19,
+  "dailyArticlesCount": 47,
   "filterDate": "2026-10-31"
 }
