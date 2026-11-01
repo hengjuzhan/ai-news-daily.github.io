@@ -1,9 +1,83 @@
 {
-  "crawledAt": "2026-11-01T14:56:27.769Z",
+  "crawledAt": "2026-11-01T20:25:03.536Z",
   "totalSources": 70,
-  "totalArticles": 18,
+  "totalArticles": 21,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl9sv7/i_animated_what_gpt4os_tokenizer_does_to/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-11-01T18:01:28.000Z",
+      "metaDescription": "I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong.\n It follows one word the whole way:\n  \n\"How many r's are in strawberry?\" ",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.25337899582225193,
+      "crawledAt": "2026-11-01T20:24:44.116Z",
+      "id": "ky4p1l",
+      "entities": [],
+      "summary": " I made this explainer for my small channel. I would like feedback from people learning this, especially if anything is wrong.",
+      "language": "en",
+      "processed_at": "2026-11-01T20:25:12.272Z"
+    },
+    {
+      "title": "Why do all NN optimizers have weird names?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl7yv0/why_do_all_nn_optimizers_have_weird_names_d/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-11-01T16:51:18.000Z",
+      "metaDescription": "SOAP, Shampoo, FOAM.\n Muon is a bit better but it has the same name as the particle from physics.\n Whenever I want to search about these tones of completely irrelevant results come up because of their",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3139469465385712,
+      "crawledAt": "2026-11-01T20:24:43.819Z",
+      "id": "3o4e1w",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9512395262718201,
+          "index": 4,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8499919772148132,
+          "index": 5,
+          "word": "##N",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Muon is a bit better but it has the same name as the particle from physics. Whenever I want to search about these tones of irrelevant results come up because of their irrelevant results.",
+      "language": "en",
+      "processed_at": "2026-11-01T20:25:19.561Z"
+    },
+    {
+      "title": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-11-01T16:00:00.000Z",
+      "metaDescription": "Beyond RAG: How modern architectures engineer precise, cost-efficient context for enterprise AI agents.\nThe post The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patter",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.9648704033745773,
+      "crawledAt": "2026-11-01T20:24:25.667Z",
+      "id": "3pzq5s",
+      "entities": [],
+      "summary": " The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patter. Patter: A Guide to Six Advanced Architecturally Patter.",
+      "language": "en",
+      "processed_at": "2026-11-01T20:25:40.526Z"
+    },
     {
       "title": "I Built a Python Tool That Finds Dead Features Hiding Inside a Codebase",
       "url": "https://python.plainenglish.io/i-built-a-python-tool-that-finds-dead-features-hiding-inside-a-codebase-c069b0e1e1f5?source=rss----78073def27b8---4",
@@ -483,16 +557,16 @@
       "processed_at": "2026-11-01T14:59:57.359Z"
     }
   ],
-  "processedAt": "2026-11-01T14:59:57.369Z",
+  "processedAt": "2026-11-01T20:26:02.869Z",
   "categories": [
-    "developer-tool",
     "infrastructure",
     "creative-ai",
+    "developer-tool",
     "ai-agents",
     "safety-ethics"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 14,
-  "dailyArticlesCount": 18,
+  "newArticlesProcessed": 3,
+  "dailyArticlesCount": 21,
   "filterDate": "2026-11-01"
 }

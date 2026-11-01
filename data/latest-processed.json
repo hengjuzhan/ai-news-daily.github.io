@@ -1,9 +1,83 @@
 {
-  "crawledAt": "2026-11-01T14:56:27.769Z",
+  "crawledAt": "2026-11-01T20:25:03.536Z",
   "totalSources": 70,
-  "totalArticles": 1527,
+  "totalArticles": 1522,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl9sv7/i_animated_what_gpt4os_tokenizer_does_to/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-11-01T18:01:28.000Z",
+      "metaDescription": "I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong.\n It follows one word the whole way:\n  \n\"How many r's are in strawberry?\" ",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.25337899582225193,
+      "crawledAt": "2026-11-01T20:24:44.116Z",
+      "id": "ky4p1l",
+      "entities": [],
+      "summary": " I made this explainer for my small channel. I would like feedback from people learning this, especially if anything is wrong.",
+      "language": "en",
+      "processed_at": "2026-11-01T20:25:12.272Z"
+    },
+    {
+      "title": "Why do all NN optimizers have weird names?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl7yv0/why_do_all_nn_optimizers_have_weird_names_d/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-11-01T16:51:18.000Z",
+      "metaDescription": "SOAP, Shampoo, FOAM.\n Muon is a bit better but it has the same name as the particle from physics.\n Whenever I want to search about these tones of completely irrelevant results come up because of their",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3139469465385712,
+      "crawledAt": "2026-11-01T20:24:43.819Z",
+      "id": "3o4e1w",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9512395262718201,
+          "index": 4,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8499919772148132,
+          "index": 5,
+          "word": "##N",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Muon is a bit better but it has the same name as the particle from physics. Whenever I want to search about these tones of irrelevant results come up because of their irrelevant results.",
+      "language": "en",
+      "processed_at": "2026-11-01T20:25:19.561Z"
+    },
+    {
+      "title": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-11-01T16:00:00.000Z",
+      "metaDescription": "Beyond RAG: How modern architectures engineer precise, cost-efficient context for enterprise AI agents.\nThe post The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patter",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.9648704033745773,
+      "crawledAt": "2026-11-01T20:24:25.667Z",
+      "id": "3pzq5s",
+      "entities": [],
+      "summary": " The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patter. Patter: A Guide to Six Advanced Architecturally Patter.",
+      "language": "en",
+      "processed_at": "2026-11-01T20:25:40.526Z"
+    },
     {
       "title": "I Built a Python Tool That Finds Dead Features Hiding Inside a Codebase",
       "url": "https://python.plainenglish.io/i-built-a-python-tool-that-finds-dead-features-hiding-inside-a-codebase-c069b0e1e1f5?source=rss----78073def27b8---4",
@@ -50146,281 +50220,13 @@
       "summary": "DeepSeek V4.1 Flash 1017 was released yesterday. I put up an abliterated model for both the base and abliterate version.",
       "language": "en",
       "processed_at": "2026-10-17T22:12:13.860Z"
-    },
-    {
-      "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-17T19:41:19.000Z",
-      "metaDescription": "submitted by    /u/Civil-Demand555  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.3159327162120328,
-      "crawledAt": "2026-10-18T04:08:32.889Z",
-      "id": "3jo8l7",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-10-18T04:09:27.284Z"
-    },
-    {
-      "title": "DeepSeek V4.1 Flash 1017: A “Minor” Update?",
-      "url": "https://www.youtube.com/shorts/BxZ6DvJnQz8",
-      "source": "Prompt Engineering",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-10-17T19:16:30.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.2715955815572882,
-      "crawledAt": "2026-10-17T22:09:47.129Z",
-      "id": "hg5zrp",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9362943172454834,
-          "index": 1,
-          "word": "Deep",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9868523478507996,
-          "index": 2,
-          "word": "##S",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.924450159072876,
-          "index": 3,
-          "word": "##eek",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Announcement or discussion about new AI model releases and updates.",
-      "language": "en",
-      "processed_at": "2026-10-17T22:12:50.774Z"
-    },
-    {
-      "title": "Older models for technical writing?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8i1h2/older_models_for_technical_writing/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-17T18:51:59.000Z",
-      "metaDescription": "The new models like Qwen3.8 27B and DeepSeek V4 Flash etc., all have this terrible, Claude-sounding writing style that I can't stand.\n Here's an example of what I'm talking about: \"A probe that asks w",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.5164778698742791,
-      "crawledAt": "2026-10-17T22:09:33.648Z",
-      "id": "tqpi05",
-      "entities": [],
-      "summary": " The new models like Qwen3.8 27B and DeepSeek V4 Flash all have this terrible, Claude-sounding writing style that I can't stand.",
-      "language": "en",
-      "processed_at": "2026-10-17T22:13:00.895Z"
-    },
-    {
-      "title": "Opencode breached, rotate keys to be safe.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-17T18:02:37.000Z",
-      "metaDescription": "Details are developing…\n    submitted by    /u/chemist_slime  \n [link]   [comments]",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.3090344587251203,
-      "crawledAt": "2026-10-17T22:09:30.279Z",
-      "id": "938vgu",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-10-17T22:13:09.812Z"
-    },
-    {
-      "title": "EMNLP main presentation",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-10-17T16:45:33.000Z",
-      "metaDescription": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other p",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.5049579821887374,
-      "crawledAt": "2026-10-18T04:08:33.635Z",
-      "id": "lr8min",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9966176152229309,
-          "index": 1,
-          "word": "E",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8738704323768616,
-          "index": 2,
-          "word": "##M",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.991428017616272,
-          "index": 3,
-          "word": "##NL",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.965745747089386,
-          "index": 4,
-          "word": "##P",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, so he cannot check his time, but he has seen other p. Hello everyone, I am present",
-      "language": "en",
-      "processed_at": "2026-10-18T04:09:44.940Z"
-    },
-    {
-      "title": "Stop Using Claude Like a Chatbot: 9 Hidden Tricks That Make It a Serious Productivity Tool in 2026",
-      "url": "https://ai.plainenglish.io/stop-using-claude-like-a-chatbot-9-hidden-tricks-that-make-it-a-serious-productivity-tool-in-2026-be33b1c1c3a3?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-17T15:25:56.000Z",
-      "metaDescription": "You keep pasting the same background paragraph into a fresh chat. The features that fix that have been sitting in Settings for months.\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.32563853739955256,
-      "crawledAt": "2026-10-17T18:21:49.271Z",
-      "id": "fxy5do",
-      "entities": [],
-      "summary": " You keep pasting the same background paragraph into a new chat. The features that fix that have been sitting in Settings for months are available.",
-      "language": "en",
-      "processed_at": "2026-10-17T18:23:00.356Z"
-    },
-    {
-      "title": "REA Lets Claude Reverse Engineer Almost Any App. Here’s How to Set It Up",
-      "url": "https://ai.plainenglish.io/rea-lets-claude-reverse-engineer-almost-any-app-heres-how-to-set-it-up-776daae142dc?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-17T15:11:40.000Z",
-      "metaDescription": "An open-source MCP server that lets Claude dig through binaries, Electron bundles and websites, and tells you exactly what it couldn’t…\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.38153140636444766,
-      "crawledAt": "2026-10-17T18:21:49.447Z",
-      "id": "5ej1ea",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9492512941360474,
-          "index": 5,
-          "word": "Claude",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9483063220977783,
-          "index": 6,
-          "word": "Rev",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " An open-source MCP server that lets Claude dig through binaries, Electron bundles and websites, and tells you exactly what it couldn’t…Continue reading on Artificial Intelligence in Plain English.",
-      "language": "en",
-      "processed_at": "2026-10-17T18:23:22.167Z"
-    },
-    {
-      "title": "Why AI Makes Things Up: A Complete Guide to LLM Hallucination",
-      "url": "https://pub.towardsai.net/why-ai-makes-things-up-a-complete-guide-to-llm-hallucination-39a5b2a838a6?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-10-17T15:01:01.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.8796270785562365,
-      "crawledAt": "2026-10-17T18:21:44.811Z",
-      "id": "1ur2o9",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9952719807624817,
-          "index": 11,
-          "word": "LL",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9884709715843201,
-          "index": 12,
-          "word": "##M",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9715538620948792,
-          "index": 13,
-          "word": "Hall",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9079247713088989,
-          "index": 14,
-          "word": "##uc",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9394071698188782,
-          "index": 15,
-          "word": "##ination",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-10-17T18:23:22.283Z"
     }
   ],
-  "processedAt": "2026-11-01T14:59:57.362Z",
+  "processedAt": "2026-11-01T20:26:02.867Z",
   "categories": [
-    "developer-tool",
     "infrastructure",
     "creative-ai",
+    "developer-tool",
     "ai-agents",
     "safety-ethics",
     "research-paper",
@@ -50430,9 +50236,9 @@
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 14,
-  "existingArticlesKept": 1540,
+  "newArticlesProcessed": 3,
+  "existingArticlesKept": 1527,
   "cleanupApplied": true,
-  "cleanedUpCount": 27,
+  "cleanedUpCount": 8,
   "rollingWindowDays": 15
 }
